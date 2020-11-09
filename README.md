@@ -16,4 +16,4 @@ Si vous utilisez `wsl`, vous devrez ensuite lancer toutes les commandes indiqué
 
 Une fois les pre-requis installés et ce dépôt copié sur votre disque, vous devriez pouvoir lancer la commande `bundle exec jekyll build` qui génèrera une copie du site dans le dossier `_site`.
 
-Utilisez la commande `bindle exec jekyll server` pour lancer une copie du site. En général le site pourra ensuite être consulté à l'adresse [](http://127.0.0.1:4000/srd/pf2/).
+Utilisez la commande `bindle exec jekyll serve` pour lancer une copie du site. En général le site pourra ensuite être consulté à l'adresse [](http://127.0.0.1:4000/srd/pf2/).
