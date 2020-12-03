@@ -1,0 +1,9 @@
+[submodule "_ext/trads"]
+	path = _ext/trads
+	url = https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr.git
+[submodule "_ext/module-fr"]
+	path = _ext/module-fr
+	url = https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2e-lang-fr
+[submodule "_ext/module-en"]
+	path = _ext/module-en
+	url = https://gitlab.com/hooking/foundry-vtt---pathfinder-2e.git
