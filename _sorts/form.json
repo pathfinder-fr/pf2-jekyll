@@ -1,0 +1,35 @@
+{
+  "name": "Sorts",
+  "properties": [
+    {
+      "name": "title",
+      "displayName": "Titre",
+      "description": "Nom du sort complet"
+    },
+    {
+      "name": "source",
+      "displayName": "Source",
+      "description": "Nom de l'ouvrage dont est issu le sort",
+      "type": "select",
+      "dataList": [
+        { "value": "Playtest Pathfinder" }
+      ]
+    },
+    {
+      "name": "tradition",
+      "displayName": "Tradition",
+      "type": "selectMultiple",
+      "dataList": [
+        {
+          "value": "arcanique",
+          "text": "Arcanique"
+        },
+        {
+          "value": "primaire",
+          "text": "Primaire"
+        }
+      ]
+    },
+
+  ]
+}
