@@ -51,6 +51,7 @@ foreach (var file in files)
         writer.WriteLine($"titleEn: {id.English}");
         writer.WriteLine($"id: {id.Id}");
         writer.WriteLine($"group: {id.Group}");
+        writer.WriteLine($"layout: action");
         writer.WriteLine("---");
         writer.WriteLine(id.FrenchDescription);
     }

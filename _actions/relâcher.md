@@ -5,5 +5,6 @@ title: Relâcher
 titleEn: Release
 id: wQYmDStjdjn0I26t
 group: actions
+layout: action
 ---
 <p>Vous Relâchez quelque chose que vous tenez dans une main ou dans vos deux mains. Cela peut signifier laisser tomber un objet, retirer une main de la poignée de votre arme pendant que l’autre la tient encore, relâcher une corde à laquelle est accroché un chandelier, ou accomplir une action comparable. À la différence des autres actions de manipulation, Relâcher ne déclenche pas de réactions qui peuvent être déclenchées par les actions possédant le trait manipulation (comme Attaque d’opportunité).</p><p>Si vous voulez vous tenir prêt à Relâcher quelque chose hors de votre tour, utilisez l’activité Préparer.</p>
