@@ -1,0 +1,7 @@
+﻿---
+title: Interagir
+titleEn: Interact
+id: pvQ5rY2zrtPI614F
+group: actions
+---
+<p>Vous utilisez une main ou plus pour manipuler un objet ou un élément de votre environnement. Vous pouvez vous saisir d’un objet non porté ou rangé, ouvrir une porte, ou être à l’origine d’un effet comparable. Vous devrez probablement faire un test de compétence afin de déterminer le succès de votre Interaction.</p>
