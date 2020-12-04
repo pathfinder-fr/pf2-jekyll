@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Saisir
 titleEn: Grapple
+type: action
 id: PMbdMWc2QroouFGD
 group: actions
 layout: action

@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Assaut d'abordage
 titleEn: Boarding Assault
+type: action
 id: vZltxwRNvF5khf9a
 group: actions
 layout: action

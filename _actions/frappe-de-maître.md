@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Frappe de maître
 titleEn: Master Strike
+type: free
 id: Rlp7ND33yYfxiEWi
 group: actions
 layout: action

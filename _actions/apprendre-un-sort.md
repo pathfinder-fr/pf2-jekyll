@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Apprendre un sort
 titleEn: Learn a Spell
+type: passive
 id: Q5iIYCFdqJFM31GW
 group: actions
 layout: action

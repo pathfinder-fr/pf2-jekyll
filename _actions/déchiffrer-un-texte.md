@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Déchiffrer un texte
 titleEn: Decipher Writing
+type: passive
 id: d9gbpiQjChYDYA2L
 group: actions
 layout: action

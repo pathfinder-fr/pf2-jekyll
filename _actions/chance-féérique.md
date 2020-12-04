@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Chance féérique
 titleEn: Fey's Fortune
+type: free
 id: TMBXArwICQRJdwT6
 group: actions
 layout: action

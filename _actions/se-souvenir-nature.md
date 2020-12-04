@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Se souvenir (Nature)
 titleEn: Recall Knowledge (Nature)
+type: action
 id: eT1jXYvz2YH70Ovp
 group: actions
 layout: action

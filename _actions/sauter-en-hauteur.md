@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Sauter en hauteur
 titleEn: High Jump
+type: action
 id: 2HJ4yuEFY1Cast4h
 group: actions
 layout: action

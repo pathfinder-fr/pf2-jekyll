@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Coup final assuré
 titleEn: Confident Finisher
+type: action
 id: K878asDgf1EF0B9S
 group: actions
 layout: action

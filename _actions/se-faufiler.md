@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Se faufiler
 titleEn: Squeeze
+type: passive
 id: kMcV8e5EZUxa6evt
 group: actions
 layout: action

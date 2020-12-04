@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Maintenir une activation
 titleEn: Sustain an Activation
+type: action
 id: XSGlLjI80LDCimAP
 group: actions
 layout: action

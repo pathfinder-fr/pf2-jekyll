@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Faire bonne impression
 titleEn: Make an Impression
+type: passive
 id: OX4fy22hQgUHDr0q
 group: actions
 layout: action

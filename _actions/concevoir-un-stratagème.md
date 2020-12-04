@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Concevoir un stratagème
 titleEn: Devise a Stratagem
+type: action
 id: m0f2B7G9eaaTmhFL
 group: actions
 layout: action

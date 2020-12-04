@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Question imparable
 titleEn: Pointed Question
+type: action
 id: xccOiNL2W1EtfUYl
 group: actions
 layout: action

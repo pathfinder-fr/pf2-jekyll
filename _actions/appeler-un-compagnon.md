@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Appeler un compagnon
 titleEn: Call Companion
+type: action
 id: 8kGpUUUSX1sB2OqQ
 group: actions
 layout: action

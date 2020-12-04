@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Gagner de l'argent
 titleEn: Earn Income
+type: passive
 id: QyzlsLrqM0EEwd7j
 group: actions
 layout: action

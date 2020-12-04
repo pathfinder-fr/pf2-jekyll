@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Échapper aux regards
 titleEn: Avoid Notice
+type: passive
 id: IE2nThCmoyhQA0Jn
 group: actions
 layout: action

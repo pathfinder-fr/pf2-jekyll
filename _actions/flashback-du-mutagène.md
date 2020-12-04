@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Flashback du mutagène
 titleEn: Mutagenic Flashback
+type: free
 id: 00LNVSCbwJ8pszwE
 group: actions
 layout: action

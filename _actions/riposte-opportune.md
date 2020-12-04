@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Riposte opportune
 titleEn: Opportune Riposte
+type: reaction
 id: EfjoIuDmtUn4yiow
 group: actions
 layout: action

@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Ramper
 titleEn: Crawl
+type: action
 id: Tj055UcNm6UEgtCg
 group: actions
 layout: action

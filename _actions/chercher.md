@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Chercher
 titleEn: Seek
+type: action
 id: BlAOM2X92SI6HMtJ
 group: actions
 layout: action

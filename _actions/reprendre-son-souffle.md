@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Reprendre son souffle
 titleEn: Take a Breather
+type: passive
 id: qc0VsZ0UesnurUUB
 group: actions
 layout: action

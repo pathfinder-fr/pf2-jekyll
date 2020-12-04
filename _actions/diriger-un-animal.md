@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Diriger un animal
 titleEn: Command an Animal
+type: action
 id: q9nbyIF0PEBqMtYe
 group: actions
 layout: action

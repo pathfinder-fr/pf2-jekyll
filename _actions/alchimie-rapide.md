@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Alchimie rapide
 titleEn: Quick Alchemy
+type: action
 id: yzNJgwzV9XqEhKc6
 group: actions
 layout: action

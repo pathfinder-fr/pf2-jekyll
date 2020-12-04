@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Crocheter une serrure
 titleEn: Pick a Lock
+type: action
 id: 2EE4aF4SZpYf0R6H
 group: actions
 layout: action

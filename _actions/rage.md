@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Rage
 titleEn: Rage
+type: action
 id: Ah5g9pDwWF9b9VW9
 group: actions
 layout: action

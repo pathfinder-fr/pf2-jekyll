@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Chasser une proie
 titleEn: Hunt Prey
+type: action
 id: JYi4MnsdFu618hPm
 group: actions
 layout: action

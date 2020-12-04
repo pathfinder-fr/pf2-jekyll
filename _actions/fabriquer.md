@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Fabriquer
 titleEn: Craft
+type: passive
 id: rmwa3OyhTZ2i2AHl
 group: actions
 layout: action

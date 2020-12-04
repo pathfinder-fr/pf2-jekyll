@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Lueur de rédemption
 titleEn: Glimpse of Redemption
+type: reaction
 id: tuZnRWHixLArvaIf
 group: actions
 layout: action

@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Détourner le regard
 titleEn: Avert Gaze
+type: action
 id: UWdRX1VelipCzrCg
 group: actions
 layout: action

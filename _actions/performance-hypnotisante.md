@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Performance hypnotisante
 titleEn: Mesmerizing Performance
+type: action
 id: CrUPaPlsxy2bswaT
 group: actions
 layout: action

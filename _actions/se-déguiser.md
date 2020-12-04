@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Se déguiser
 titleEn: Impersonate
+type: passive
 id: AJstokjdG6iDjVjE
 group: actions
 layout: action

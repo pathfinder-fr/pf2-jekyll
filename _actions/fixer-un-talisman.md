@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Fixer un talisman
 titleEn: Affix a Talisman
+type: passive
 id: UAaQk93a30nx0nYY
 group: actions
 layout: action

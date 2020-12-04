@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Maintenir un sort
 titleEn: Sustain a Spell
+type: action
 id: 3f5DMFu8fPiqHpRg
 group: actions
 layout: action

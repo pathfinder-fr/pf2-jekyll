@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Se souvenir (Artisanat)
 titleEn: Recall Knowledge (Crafting)
+type: action
 id: B0Eu3EfwIa9kyDEA
 group: actions
 layout: action

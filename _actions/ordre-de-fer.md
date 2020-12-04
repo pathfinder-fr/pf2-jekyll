@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Ordre de fer
 titleEn: Iron Command
+type: reaction
 id: M8RCbthRhB4bxO9t
 group: actions
 layout: action

@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Suivre l'expert
 titleEn: Follow the Expert
+type: passive
 id: tfa4Sh7wcxCEqL29
 group: actions
 layout: action

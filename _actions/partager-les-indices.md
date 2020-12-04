@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Partager les indices
 titleEn: Clue In
+type: reaction
 id: 25WDi1cVUrW92sUj
 group: actions
 layout: action

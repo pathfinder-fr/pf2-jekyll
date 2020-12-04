@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Faire diversion
 titleEn: Create a Diversion
+type: action
 id: GkmbTGfg8KcgynOA
 group: actions
 layout: action

@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Déluge de coups
 titleEn: Flurry of Blows
+type: action
 id: nbfNETdpee8CVM17
 group: actions
 layout: action

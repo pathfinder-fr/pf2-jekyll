@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Pousser
 titleEn: Shove
+type: action
 id: 7blmbDrQFNfdT731
 group: actions
 layout: action

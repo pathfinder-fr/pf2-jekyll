@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Arrêter une chute
 titleEn: Arrest a Fall
+type: reaction
 id: qm7xptMSozAinnPS
 group: actions
 layout: action

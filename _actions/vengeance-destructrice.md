@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Vengeance destructrice
 titleEn: Destructive Vengeance
+type: reaction
 id: r5Uth6yvCoE4tr9z
 group: actions
 layout: action

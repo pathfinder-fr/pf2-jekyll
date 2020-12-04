@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Dissimuler un objet
 titleEn: Conceal an Object
+type: action
 id: qVNVSmsgpKFGk9hV
 group: actions
 layout: action

@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Paroles encourageantes
 titleEn: Encouraging Words
+type: action
 id: e2ePMDa7ixbLRryj
 group: actions
 layout: action

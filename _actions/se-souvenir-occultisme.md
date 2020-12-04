@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Se souvenir (Occultisme)
 titleEn: Recall Knowledge (Occultism)
+type: action
 id: B2BpIZFHoF9Kjzpx
 group: actions
 layout: action

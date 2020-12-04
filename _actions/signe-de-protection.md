@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Signe de protection
 titleEn: Warding Sign
+type: reaction
 id: 7pdG8l9POMK76Lf2
 group: actions
 layout: action

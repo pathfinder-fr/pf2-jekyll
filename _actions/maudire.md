@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Maudire
 titleEn: Jinx
+type: action
 id: hFRHPBj6wjAayNtW
 group: actions
 layout: action

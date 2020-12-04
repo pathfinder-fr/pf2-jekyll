@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Refocaliser
 titleEn: Refocus
+type: passive
 id: OSefkMgojBLqmRDh
 group: actions
 layout: action

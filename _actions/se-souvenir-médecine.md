@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Se souvenir (Médecine)
 titleEn: Recall Knowledge (Medicine)
+type: action
 id: SeUolRoPzorFUAaI
 group: actions
 layout: action

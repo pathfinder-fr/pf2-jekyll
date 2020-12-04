@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Se cacher
 titleEn: Hide
+type: action
 id: XMcnh4cSI32tljXa
 group: actions
 layout: action

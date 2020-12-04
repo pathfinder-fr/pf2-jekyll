@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Sauter en longueur
 titleEn: Long Jump
+type: action
 id: JUvAvruz7yRQXfz2
 group: actions
 layout: action

@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Préparation rapide
 titleEn: Quick Tincture
+type: action
 id: QHFMeJGzFWj2QczA
 group: actions
 layout: action

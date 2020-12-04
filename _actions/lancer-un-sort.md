@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Lancer un sort
 titleEn: Cast a Spell
+type: passive
 id: aBQ8ajvEBByv45yz
 group: actions
 layout: action

@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Démoraliser
 titleEn: Demoralize
+type: action
 id: 2u915NdUyQan6uKF
 group: actions
 layout: action

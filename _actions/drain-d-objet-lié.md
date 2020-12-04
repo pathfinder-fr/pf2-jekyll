@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Drain d'objet lié
 titleEn: Drain Bonded Item
+type: free
 id: v82XtjAVN4ffgVVR
 group: actions
 layout: action

@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: S'échapper
 titleEn: Escape
+type: action
 id: SkZAQRkLLkmBQNB9
 group: actions
 layout: action

@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Aider
 titleEn: Aid
+type: reaction
 id: HCl3pzVefiv9ZKQW
 group: actions
 layout: action

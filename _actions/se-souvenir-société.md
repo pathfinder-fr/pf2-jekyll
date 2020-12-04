@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Se souvenir (Société)
 titleEn: Recall Knowledge (Society)
+type: action
 id: KUfLlXDWTcAWhl8l
 group: actions
 layout: action

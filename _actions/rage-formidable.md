@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Rage formidable
 titleEn: Mighty Rage
+type: free
 id: 74iat04PtfG8gn2Q
 group: actions
 layout: action

@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Lever un bouclier
 titleEn: Raise a Shield
+type: action
 id: xjGwis0uaC2305pm
 group: actions
 layout: action

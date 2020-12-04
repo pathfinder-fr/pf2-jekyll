@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Frappe incapacitante
 titleEn: Debilitating Strike
+type: free
 id: bp0Up04x3dzGK5bB
 group: actions
 layout: action

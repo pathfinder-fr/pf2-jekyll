@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Mise à feu !
 titleEn: Fire in the Hole
+type: reaction
 id: UEkGL7uAGYDPFNfK
 group: actions
 layout: action

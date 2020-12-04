@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Résister à la magie elfique
 titleEn: Resist Elf Magic
+type: reaction
 id: On5CQjX4euWqToly
 group: actions
 layout: action

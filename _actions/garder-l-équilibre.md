@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Garder l'équilibre
 titleEn: Balance
+type: action
 id: M76ycLAqHoAgbcej
 group: actions
 layout: action

@@ -38,6 +38,9 @@ foreach (var file in files)
         jsonDoc = JsonDocument.Parse(input);
     }
 
+    // chargement des infos d'après le fichier anglais
+    var actionType = jsonDoc.RootElement.GetProperty("data").GetProperty("actionType").GetProperty("value").GetString();
+
     // de là on peut générer un fichier destination
     var targetPath = $"../_actions/{frNameId}.md";
 
@@ -49,9 +52,11 @@ foreach (var file in files)
         writer.WriteLine("# Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction");
         writer.WriteLine($"title: {id.French}");
         writer.WriteLine($"titleEn: {id.English}");
+        writer.WriteLine($"type: {actionType}");
         writer.WriteLine($"id: {id.Id}");
         writer.WriteLine($"group: {id.Group}");
         writer.WriteLine($"layout: action");
+
         writer.WriteLine("---");
         writer.WriteLine(id.FrenchDescription);
     }

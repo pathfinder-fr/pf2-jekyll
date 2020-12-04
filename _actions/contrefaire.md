@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Contrefaire
 titleEn: Create Forgery
+type: passive
 id: ftG89SjTSa9DYDOD
 group: actions
 layout: action

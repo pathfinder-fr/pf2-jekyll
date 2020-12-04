@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Feinter
 titleEn: Feint
+type: action
 id: QNAVeNKtHA0EUw4X
 group: actions
 layout: action

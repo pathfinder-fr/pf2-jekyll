@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Pas libérateur
 titleEn: Liberating Step
+type: reaction
 id: IX1VlVCL5sFTptEE
 group: actions
 layout: action

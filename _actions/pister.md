@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Pister
 titleEn: Track
+type: passive
 id: EA5vuSgJfiHH7plD
 group: actions
 layout: action

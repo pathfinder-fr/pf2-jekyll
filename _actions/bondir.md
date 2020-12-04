@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Bondir
 titleEn: Leap
+type: action
 id: d5I6018Mci2SWokk
 group: actions
 layout: action

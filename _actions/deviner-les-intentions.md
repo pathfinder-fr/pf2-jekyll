@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Deviner les intentions
 titleEn: Sense Motive
+type: action
 id: 1xRFPTFtWtGJ9ELw
 group: actions
 layout: action

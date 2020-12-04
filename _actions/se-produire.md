@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Se produire
 titleEn: Perform
+type: action
 id: EEDElIyin4z60PXx
 group: actions
 layout: action

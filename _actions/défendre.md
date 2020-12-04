@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Défendre
 titleEn: Defend
+type: passive
 id: cYtYKa1gDEl7y2N0
 group: actions
 layout: action

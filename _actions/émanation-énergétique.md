@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Émanation énergétique
 titleEn: Energy Emanation
+type: action
 id: 7qjfYsLNTr17Aftf
 group: actions
 layout: action

@@ -3,6 +3,7 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Soigner les blessures
 titleEn: Treat Wounds
+type: passive
 id: 1kGNdIIhuglAjIp9
 group: actions
 layout: action
