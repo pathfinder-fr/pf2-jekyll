@@ -4,6 +4,7 @@
 title: Fouiller
 titleEn: Search
 type: passive
+typeFr: Passive
 id: TiNDYUGlMmxzxBYU
 group: actions
 layout: action

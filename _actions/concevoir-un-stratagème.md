@@ -4,6 +4,7 @@
 title: Concevoir un stratagème
 titleEn: Devise a Stratagem
 type: action
+typeFr: Action Unique
 id: m0f2B7G9eaaTmhFL
 group: actions
 layout: action

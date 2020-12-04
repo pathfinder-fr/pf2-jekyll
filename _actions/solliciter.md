@@ -4,6 +4,7 @@
 title: Solliciter
 titleEn: Request
 type: action
+typeFr: Action Unique
 id: DCb62iCBrJXy0Ik6
 group: actions
 layout: action

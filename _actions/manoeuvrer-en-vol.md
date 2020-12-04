@@ -4,6 +4,7 @@
 title: Manoeuvrer en vol
 titleEn: Maneuver in Flight
 type: action
+typeFr: Action Unique
 id: Qf1ylAbdVi1rkc8M
 group: actions
 layout: action

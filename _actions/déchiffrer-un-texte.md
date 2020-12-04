@@ -4,6 +4,7 @@
 title: Déchiffrer un texte
 titleEn: Decipher Writing
 type: passive
+typeFr: Passive
 id: d9gbpiQjChYDYA2L
 group: actions
 layout: action

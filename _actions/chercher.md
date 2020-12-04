@@ -4,6 +4,7 @@
 title: Chercher
 titleEn: Seek
 type: action
+typeFr: Action Unique
 id: BlAOM2X92SI6HMtJ
 group: actions
 layout: action

@@ -4,6 +4,7 @@
 title: Échapper aux regards
 titleEn: Avoid Notice
 type: passive
+typeFr: Passive
 id: IE2nThCmoyhQA0Jn
 group: actions
 layout: action

@@ -4,6 +4,7 @@
 title: Suivre une piste
 titleEn: Pursue a Lead
 type: passive
+typeFr: Passive
 id: xTK2zsWFyxSJvYbX
 group: actions
 layout: action

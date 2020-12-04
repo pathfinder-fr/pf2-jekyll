@@ -4,6 +4,7 @@
 title: Pas libérateur
 titleEn: Liberating Step
 type: reaction
+typeFr: Réaction
 id: IX1VlVCL5sFTptEE
 group: actions
 layout: action

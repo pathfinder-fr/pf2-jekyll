@@ -4,6 +4,7 @@
 title: Signaler
 titleEn: Point Out
 type: action
+typeFr: Action Unique
 id: sn2hIy1iIJX9Vpgj
 group: actions
 layout: action

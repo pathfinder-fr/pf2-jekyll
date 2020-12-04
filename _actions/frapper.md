@@ -4,6 +4,7 @@
 title: Frapper
 titleEn: Strike
 type: action
+typeFr: Action Unique
 id: VjxZFuUXrCU94MWR
 group: actions
 layout: action

@@ -4,6 +4,7 @@
 title: Absorber dans l'égide
 titleEn: Absorb into the Aegis
 type: reaction
+typeFr: Réaction
 id: S9PZFOVe7zhORkUc
 group: actions
 layout: action

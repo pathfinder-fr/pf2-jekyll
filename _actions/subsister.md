@@ -4,6 +4,7 @@
 title: Subsister
 titleEn: Subsist
 type: passive
+typeFr: Passive
 id: 49y9Ec4bDii8pcD3
 group: actions
 layout: action

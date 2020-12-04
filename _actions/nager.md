@@ -4,6 +4,7 @@
 title: Nager
 titleEn: Swim
 type: action
+typeFr: Action Unique
 id: c8TGiZ48ygoSPofx
 group: actions
 layout: action

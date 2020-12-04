@@ -4,6 +4,7 @@
 title: Repos long
 titleEn: Long Term Rest
 type: passive
+typeFr: Passive
 id: DXIZ4DHGxhZiWNWb
 group: actions
 layout: action

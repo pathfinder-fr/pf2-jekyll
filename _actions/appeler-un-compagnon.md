@@ -4,6 +4,7 @@
 title: Appeler un compagnon
 titleEn: Call Companion
 type: action
+typeFr: Action Unique
 id: 8kGpUUUSX1sB2OqQ
 group: actions
 layout: action

@@ -82,3 +82,15 @@ public string AsNameId(string name)
         .Replace(")", string.Empty)
         .ToLowerInvariant();
 }
+
+/// <summary>
+/// Passe la première lettre du nom indiqué en majusscules.
+/// </summary>
+public string FirstCharUpper(string name)
+{
+    if(name == null) return null;
+
+    if(name.Length < 2) return name.ToUpperInvariant();
+
+    return char.ToUpperInvariant(name[0]) + name.Substring(1);
+}

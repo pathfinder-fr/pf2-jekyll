@@ -4,6 +4,7 @@
 title: Se souvenir (Occultisme)
 titleEn: Recall Knowledge (Occultism)
 type: action
+typeFr: Action Unique
 id: B2BpIZFHoF9Kjzpx
 group: actions
 layout: action

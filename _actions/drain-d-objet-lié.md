@@ -4,6 +4,7 @@
 title: Drain d'objet lié
 titleEn: Drain Bonded Item
 type: free
+typeFr: Action Gratuite
 id: v82XtjAVN4ffgVVR
 group: actions
 layout: action

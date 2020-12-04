@@ -4,6 +4,7 @@
 title: Croc-en-jambe
 titleEn: Trip
 type: action
+typeFr: Action Unique
 id: ge56Lu1xXVFYUnLP
 group: actions
 layout: action

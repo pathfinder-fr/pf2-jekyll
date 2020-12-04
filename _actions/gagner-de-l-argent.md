@@ -4,6 +4,7 @@
 title: Gagner de l'argent
 titleEn: Earn Income
 type: passive
+typeFr: Passive
 id: QyzlsLrqM0EEwd7j
 group: actions
 layout: action

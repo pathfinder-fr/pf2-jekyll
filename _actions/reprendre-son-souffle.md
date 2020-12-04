@@ -4,6 +4,7 @@
 title: Reprendre son souffle
 titleEn: Take a Breather
 type: passive
+typeFr: Passive
 id: qc0VsZ0UesnurUUB
 group: actions
 layout: action

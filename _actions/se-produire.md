@@ -4,6 +4,7 @@
 title: Se produire
 titleEn: Perform
 type: action
+typeFr: Action Unique
 id: EEDElIyin4z60PXx
 group: actions
 layout: action

@@ -4,6 +4,7 @@
 title: Déplacement acrobatique
 titleEn: Tumble Through
 type: action
+typeFr: Action Unique
 id: 21WIfSu7Xd7uKqV8
 group: actions
 layout: action

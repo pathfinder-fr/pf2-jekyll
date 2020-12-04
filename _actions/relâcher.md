@@ -4,6 +4,7 @@
 title: Relâcher
 titleEn: Release
 type: free
+typeFr: Action Gratuite
 id: wQYmDStjdjn0I26t
 group: actions
 layout: action

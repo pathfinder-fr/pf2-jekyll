@@ -4,6 +4,7 @@
 title: Faire diversion
 titleEn: Create a Diversion
 type: action
+typeFr: Action Unique
 id: GkmbTGfg8KcgynOA
 group: actions
 layout: action

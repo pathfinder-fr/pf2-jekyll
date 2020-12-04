@@ -4,6 +4,7 @@
 title: Détection de la magie
 titleEn: Detect Magic
 type: passive
+typeFr: Passive
 id: Yb0C1uLzeHrVLl7a
 group: actions
 layout: action

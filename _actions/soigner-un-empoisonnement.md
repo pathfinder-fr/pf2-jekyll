@@ -4,6 +4,7 @@
 title: Soigner un empoisonnement
 titleEn: Treat Poison
 type: action
+typeFr: Action Unique
 id: KjoCEEmPGTeFE4hh
 group: actions
 layout: action

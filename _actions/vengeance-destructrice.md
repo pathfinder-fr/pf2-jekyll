@@ -4,6 +4,7 @@
 title: Vengeance destructrice
 titleEn: Destructive Vengeance
 type: reaction
+typeFr: Réaction
 id: r5Uth6yvCoE4tr9z
 group: actions
 layout: action

@@ -4,6 +4,7 @@
 title: Apprendre un sort
 titleEn: Learn a Spell
 type: passive
+typeFr: Passive
 id: Q5iIYCFdqJFM31GW
 group: actions
 layout: action

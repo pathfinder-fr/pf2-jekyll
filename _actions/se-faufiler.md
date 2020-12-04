@@ -4,6 +4,7 @@
 title: Se faufiler
 titleEn: Squeeze
 type: passive
+typeFr: Passive
 id: kMcV8e5EZUxa6evt
 group: actions
 layout: action

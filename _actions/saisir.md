@@ -4,6 +4,7 @@
 title: Saisir
 titleEn: Grapple
 type: action
+typeFr: Action Unique
 id: PMbdMWc2QroouFGD
 group: actions
 layout: action

@@ -4,6 +4,7 @@
 title: Être furtif
 titleEn: Sneak
 type: action
+typeFr: Action Unique
 id: VMozDqMMuK5kpoX4
 group: actions
 layout: action

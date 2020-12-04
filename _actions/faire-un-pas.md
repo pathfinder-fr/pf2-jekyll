@@ -4,6 +4,7 @@
 title: Faire un pas
 titleEn: Step
 type: action
+typeFr: Action Unique
 id: UHpkTuCtyaPqiCAB
 group: actions
 layout: action

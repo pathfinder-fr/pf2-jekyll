@@ -4,6 +4,7 @@
 title: Reconnaître
 titleEn: Scout
 type: passive
+typeFr: Passive
 id: kV3XM0YJeS2KCSOb
 group: actions
 layout: action

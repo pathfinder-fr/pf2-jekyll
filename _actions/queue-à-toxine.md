@@ -4,6 +4,7 @@
 title: Queue à toxine
 titleEn: Tail Toxin
 type: action
+typeFr: Action Unique
 id: ev8OHpBO3xq3Zt08
 group: actions
 layout: action

@@ -4,6 +4,7 @@
 title: Ramper
 titleEn: Crawl
 type: action
+typeFr: Action Unique
 id: Tj055UcNm6UEgtCg
 group: actions
 layout: action

@@ -4,6 +4,7 @@
 title: Marcher rapidement
 titleEn: Stride
 type: action
+typeFr: Action Unique
 id: Bcxarzksqt9ezrs6
 group: actions
 layout: action

@@ -4,6 +4,7 @@
 title: Bouclier égoïste
 titleEn: Selfish Shield
 type: reaction
+typeFr: Réaction
 id: enQieRrITuEQZxx2
 group: actions
 layout: action

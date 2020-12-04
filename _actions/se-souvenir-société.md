@@ -4,6 +4,7 @@
 title: Se souvenir (Société)
 titleEn: Recall Knowledge (Society)
 type: action
+typeFr: Action Unique
 id: KUfLlXDWTcAWhl8l
 group: actions
 layout: action

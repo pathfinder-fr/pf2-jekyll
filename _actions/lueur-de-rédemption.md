@@ -4,6 +4,7 @@
 title: Lueur de rédemption
 titleEn: Glimpse of Redemption
 type: reaction
+typeFr: Réaction
 id: tuZnRWHixLArvaIf
 group: actions
 layout: action

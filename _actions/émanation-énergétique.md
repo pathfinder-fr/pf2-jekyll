@@ -4,6 +4,7 @@
 title: Émanation énergétique
 titleEn: Energy Emanation
 type: action
+typeFr: Action Unique
 id: 7qjfYsLNTr17Aftf
 group: actions
 layout: action

@@ -4,6 +4,7 @@
 title: Assaut d'abordage
 titleEn: Boarding Assault
 type: action
+typeFr: Action Unique
 id: vZltxwRNvF5khf9a
 group: actions
 layout: action

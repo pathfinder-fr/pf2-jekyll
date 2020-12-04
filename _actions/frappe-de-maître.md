@@ -4,6 +4,7 @@
 title: Frappe de maître
 titleEn: Master Strike
 type: free
+typeFr: Action Gratuite
 id: Rlp7ND33yYfxiEWi
 group: actions
 layout: action

@@ -4,6 +4,7 @@
 title: Se souvenir (Connaissance)
 titleEn: Recall Knowledge (Lore)
 type: action
+typeFr: Action Unique
 id: 1OagaWtBpVXExToo
 group: actions
 layout: action

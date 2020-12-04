@@ -4,6 +4,7 @@
 title: Se mettre en selle
 titleEn: Mount
 type: action
+typeFr: Action Unique
 id: PM5jvValFkbFH3TV
 group: actions
 layout: action

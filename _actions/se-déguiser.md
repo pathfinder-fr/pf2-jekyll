@@ -4,6 +4,7 @@
 title: Se déguiser
 titleEn: Impersonate
 type: passive
+typeFr: Passive
 id: AJstokjdG6iDjVjE
 group: actions
 layout: action

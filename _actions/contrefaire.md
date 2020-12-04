@@ -4,6 +4,7 @@
 title: Contrefaire
 titleEn: Create Forgery
 type: passive
+typeFr: Passive
 id: ftG89SjTSa9DYDOD
 group: actions
 layout: action

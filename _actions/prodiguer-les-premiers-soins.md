@@ -4,6 +4,7 @@
 title: Prodiguer les premiers soins
 titleEn: Administer First Aid
 type: action
+typeFr: Action Unique
 id: MHLuKy4nQO2Z4Am1
 group: actions
 layout: action

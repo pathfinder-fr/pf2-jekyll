@@ -4,6 +4,7 @@
 title: Contraindre
 titleEn: Coerce
 type: passive
+typeFr: Passive
 id: tHCqgwjtQtzNqVvd
 group: actions
 layout: action

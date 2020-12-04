@@ -4,6 +4,7 @@
 title: Pousser
 titleEn: Shove
 type: action
+typeFr: Action Unique
 id: 7blmbDrQFNfdT731
 group: actions
 layout: action

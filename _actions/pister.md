@@ -4,6 +4,7 @@
 title: Pister
 titleEn: Track
 type: passive
+typeFr: Passive
 id: EA5vuSgJfiHH7plD
 group: actions
 layout: action

@@ -4,6 +4,7 @@
 title: Mise à feu !
 titleEn: Fire in the Hole
 type: reaction
+typeFr: Réaction
 id: UEkGL7uAGYDPFNfK
 group: actions
 layout: action

@@ -4,6 +4,7 @@
 title: Aider
 titleEn: Aid
 type: reaction
+typeFr: Réaction
 id: HCl3pzVefiv9ZKQW
 group: actions
 layout: action

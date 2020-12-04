@@ -4,6 +4,7 @@
 title: Diriger un animal
 titleEn: Command an Animal
 type: action
+typeFr: Action Unique
 id: q9nbyIF0PEBqMtYe
 group: actions
 layout: action

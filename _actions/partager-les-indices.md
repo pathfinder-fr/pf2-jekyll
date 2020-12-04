@@ -4,6 +4,7 @@
 title: Partager les indices
 titleEn: Clue In
 type: reaction
+typeFr: Réaction
 id: 25WDi1cVUrW92sUj
 group: actions
 layout: action

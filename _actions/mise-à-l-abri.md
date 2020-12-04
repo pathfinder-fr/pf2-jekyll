@@ -4,6 +4,7 @@
 title: Mise à l'abri
 titleEn: Take Cover
 type: action
+typeFr: Action Unique
 id: ust1jJSCZQUhBZIz
 group: actions
 layout: action

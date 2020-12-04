@@ -4,6 +4,7 @@
 title: Crocheter une serrure
 titleEn: Pick a Lock
 type: action
+typeFr: Action Unique
 id: 2EE4aF4SZpYf0R6H
 group: actions
 layout: action

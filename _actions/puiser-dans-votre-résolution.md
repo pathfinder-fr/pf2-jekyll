@@ -4,6 +4,7 @@
 title: Puiser dans votre résolution
 titleEn: Steel your Resolve
 type: action
+typeFr: Action Unique
 id: D2PNfIw7U6Ks0VY4
 group: actions
 layout: action

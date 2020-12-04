@@ -4,6 +4,7 @@
 title: Appel du sang ancien
 titleEn: Call on Ancient Blood
 type: reaction
+typeFr: Réaction
 id: 8w6esW689NNbbq3i
 group: actions
 layout: action

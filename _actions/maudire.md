@@ -4,6 +4,7 @@
 title: Maudire
 titleEn: Jinx
 type: action
+typeFr: Action Unique
 id: hFRHPBj6wjAayNtW
 group: actions
 layout: action

@@ -4,6 +4,7 @@
 title: Arrêter une chute
 titleEn: Arrest a Fall
 type: reaction
+typeFr: Réaction
 id: qm7xptMSozAinnPS
 group: actions
 layout: action

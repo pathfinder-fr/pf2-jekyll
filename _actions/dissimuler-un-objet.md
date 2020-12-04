@@ -4,6 +4,7 @@
 title: Dissimuler un objet
 titleEn: Conceal an Object
 type: action
+typeFr: Action Unique
 id: qVNVSmsgpKFGk9hV
 group: actions
 layout: action

@@ -4,6 +4,7 @@
 title: Se relever
 titleEn: Stand
 type: action
+typeFr: Action Unique
 id: OdIUybJ3ddfL7wzj
 group: actions
 layout: action

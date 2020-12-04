@@ -4,6 +4,7 @@
 title: Identifier la magie
 titleEn: Identify Magic
 type: passive
+typeFr: Passive
 id: eReSHVEPCsdkSL4G
 group: actions
 layout: action

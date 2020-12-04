@@ -4,6 +4,7 @@
 title: Riposte opportune
 titleEn: Opportune Riposte
 type: reaction
+typeFr: Réaction
 id: EfjoIuDmtUn4yiow
 group: actions
 layout: action

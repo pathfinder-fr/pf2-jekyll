@@ -4,6 +4,7 @@
 title: Voler
 titleEn: Steal
 type: action
+typeFr: Action Unique
 id: RDXXE7wMrSPCLv5k
 group: actions
 layout: action

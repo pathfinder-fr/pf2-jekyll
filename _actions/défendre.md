@@ -4,6 +4,7 @@
 title: Défendre
 titleEn: Defend
 type: passive
+typeFr: Passive
 id: cYtYKa1gDEl7y2N0
 group: actions
 layout: action

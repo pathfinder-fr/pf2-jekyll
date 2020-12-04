@@ -4,6 +4,7 @@
 title: Recueillir des informations
 titleEn: Gather Information
 type: passive
+typeFr: Passive
 id: plBGdZhqq5JBl1D8
 group: actions
 layout: action

@@ -4,6 +4,7 @@
 title: Dissimuler des traces
 titleEn: Cover Tracks
 type: passive
+typeFr: Passive
 id: SB7cMECVtE06kByk
 group: actions
 layout: action

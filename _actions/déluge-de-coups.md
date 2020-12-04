@@ -4,6 +4,7 @@
 title: Déluge de coups
 titleEn: Flurry of Blows
 type: action
+typeFr: Action Unique
 id: nbfNETdpee8CVM17
 group: actions
 layout: action

@@ -4,6 +4,7 @@
 title: Sauter en hauteur
 titleEn: High Jump
 type: action
+typeFr: Action Unique
 id: 2HJ4yuEFY1Cast4h
 group: actions
 layout: action

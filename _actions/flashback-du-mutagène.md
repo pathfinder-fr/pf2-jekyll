@@ -4,6 +4,7 @@
 title: Flashback du mutagène
 titleEn: Mutagenic Flashback
 type: free
+typeFr: Action Gratuite
 id: 00LNVSCbwJ8pszwE
 group: actions
 layout: action

@@ -4,6 +4,7 @@
 title: S'orienter
 titleEn: Sense Direction
 type: passive
+typeFr: Passive
 id: fJImDBQfqfjKJOhk
 group: actions
 layout: action

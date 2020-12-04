@@ -4,6 +4,7 @@
 title: Se souvenir (Religion)
 titleEn: Recall Knowledge (Religion)
 type: action
+typeFr: Action Unique
 id: LZgjpWd0pL3vK9Q1
 group: actions
 layout: action

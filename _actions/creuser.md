@@ -4,6 +4,7 @@
 title: Creuser
 titleEn: Burrow
 type: action
+typeFr: Action Unique
 id: H6v1VgowHaKHnVlG
 group: actions
 layout: action

@@ -4,6 +4,7 @@
 title: Chance féérique
 titleEn: Fey's Fortune
 type: free
+typeFr: Action Gratuite
 id: TMBXArwICQRJdwT6
 group: actions
 layout: action

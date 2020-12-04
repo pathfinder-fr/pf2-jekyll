@@ -4,6 +4,7 @@
 title: Fixer un talisman
 titleEn: Affix a Talisman
 type: passive
+typeFr: Passive
 id: UAaQk93a30nx0nYY
 group: actions
 layout: action

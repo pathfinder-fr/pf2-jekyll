@@ -4,6 +4,7 @@
 title: Identifier l'alchimie
 titleEn: Identify Alchemy
 type: passive
+typeFr: Passive
 id: Q4kdWVOf2ztIBFg1
 group: actions
 layout: action

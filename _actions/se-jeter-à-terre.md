@@ -4,6 +4,7 @@
 title: Se jeter à terre
 titleEn: Drop Prone
 type: action
+typeFr: Action Unique
 id: HYNhdaPtF1QmQbR3
 group: actions
 layout: action

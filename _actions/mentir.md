@@ -4,6 +4,7 @@
 title: Mentir
 titleEn: Lie
 type: passive
+typeFr: Passive
 id: ewwCglB7XOPLUz72
 group: actions
 layout: action

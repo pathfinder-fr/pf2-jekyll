@@ -4,6 +4,7 @@
 title: Ouvrir de force
 titleEn: Force Open
 type: action
+typeFr: Action Unique
 id: SjmKHgI7a5Z9JzBx
 group: actions
 layout: action

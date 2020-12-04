@@ -4,6 +4,7 @@
 title: Rage formidable
 titleEn: Mighty Rage
 type: free
+typeFr: Action Gratuite
 id: 74iat04PtfG8gn2Q
 group: actions
 layout: action

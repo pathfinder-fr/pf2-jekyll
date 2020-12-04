@@ -4,6 +4,7 @@
 title: Férocité déchaînée
 titleEn: Rampaging Ferocity
 type: free
+typeFr: Action Gratuite
 id: FkfWKq9jhhPzKAbb
 group: actions
 layout: action

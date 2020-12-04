@@ -4,6 +4,7 @@
 title: Deviner les intentions
 titleEn: Sense Motive
 type: action
+typeFr: Action Unique
 id: 1xRFPTFtWtGJ9ELw
 group: actions
 layout: action

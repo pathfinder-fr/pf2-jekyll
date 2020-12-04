@@ -4,6 +4,7 @@
 title: Préparer
 titleEn: Ready
 type: action
+typeFr: Action Unique
 id: dLgAMt3TbkmLkUqE
 group: actions
 layout: action

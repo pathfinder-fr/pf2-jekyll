@@ -4,6 +4,7 @@
 title: Désamorcer un dispositif
 titleEn: Disable Device
 type: action
+typeFr: Action Unique
 id: cYdz2grcOcRt4jk6
 group: actions
 layout: action

@@ -4,6 +4,7 @@
 title: Lever un bouclier
 titleEn: Raise a Shield
 type: action
+typeFr: Action Unique
 id: xjGwis0uaC2305pm
 group: actions
 layout: action

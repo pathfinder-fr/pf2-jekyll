@@ -4,6 +4,7 @@
 title: Réapprentissage
 titleEn: Retraining
 type: passive
+typeFr: Passive
 id: 24PSsn1SKpUwYA1X
 group: actions
 layout: action

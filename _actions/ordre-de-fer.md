@@ -4,6 +4,7 @@
 title: Ordre de fer
 titleEn: Iron Command
 type: reaction
+typeFr: Réaction
 id: M8RCbthRhB4bxO9t
 group: actions
 layout: action

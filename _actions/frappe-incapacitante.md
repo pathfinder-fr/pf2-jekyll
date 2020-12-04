@@ -4,6 +4,7 @@
 title: Frappe incapacitante
 titleEn: Debilitating Strike
 type: free
+typeFr: Action Gratuite
 id: bp0Up04x3dzGK5bB
 group: actions
 layout: action

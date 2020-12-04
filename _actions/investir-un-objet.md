@@ -4,6 +4,7 @@
 title: Investir un objet
 titleEn: Invest an Item
 type: passive
+typeFr: Passive
 id: lvqPQDdWT2DDO0k2
 group: actions
 layout: action

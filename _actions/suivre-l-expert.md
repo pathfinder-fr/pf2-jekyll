@@ -4,6 +4,7 @@
 title: Suivre l'expert
 titleEn: Follow the Expert
 type: passive
+typeFr: Passive
 id: tfa4Sh7wcxCEqL29
 group: actions
 layout: action

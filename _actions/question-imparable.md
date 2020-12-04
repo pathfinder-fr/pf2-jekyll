@@ -4,6 +4,7 @@
 title: Question imparable
 titleEn: Pointed Question
 type: action
+typeFr: Action Unique
 id: xccOiNL2W1EtfUYl
 group: actions
 layout: action

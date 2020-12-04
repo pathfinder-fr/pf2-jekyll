@@ -4,6 +4,7 @@
 title: Escamoter un objet
 titleEn: Palm an Object
 type: action
+typeFr: Action Unique
 id: ijZ0DDFpMkWqaShd
 group: actions
 layout: action

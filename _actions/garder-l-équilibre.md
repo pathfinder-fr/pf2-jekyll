@@ -4,6 +4,7 @@
 title: Garder l'équilibre
 titleEn: Balance
 type: action
+typeFr: Action Unique
 id: M76ycLAqHoAgbcej
 group: actions
 layout: action

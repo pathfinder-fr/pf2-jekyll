@@ -4,6 +4,7 @@
 title: Préparation rapide
 titleEn: Quick Tincture
 type: action
+typeFr: Action Unique
 id: QHFMeJGzFWj2QczA
 group: actions
 layout: action

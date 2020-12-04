@@ -4,6 +4,7 @@
 title: Révoquer
 titleEn: Dismiss
 type: action
+typeFr: Action Unique
 id: AjLSHZSWQ90exdLo
 group: actions
 layout: action

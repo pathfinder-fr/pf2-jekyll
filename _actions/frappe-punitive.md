@@ -4,6 +4,7 @@
 title: Frappe punitive
 titleEn: Retributive Strike
 type: reaction
+typeFr: Réaction
 id: EAP98XaChJEbgKcK
 group: actions
 layout: action

@@ -4,6 +4,7 @@
 title: Soigner les blessures
 titleEn: Treat Wounds
 type: passive
+typeFr: Passive
 id: 1kGNdIIhuglAjIp9
 group: actions
 layout: action

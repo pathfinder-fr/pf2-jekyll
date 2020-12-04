@@ -4,6 +4,7 @@
 title: Emprunter un sort arcanique
 titleEn: Borrow an Arcane Spell
 type: passive
+typeFr: Passive
 id: OizxuPb44g3eHPFh
 group: actions
 layout: action

@@ -4,6 +4,7 @@
 title: Se cacher
 titleEn: Hide
 type: action
+typeFr: Action Unique
 id: XMcnh4cSI32tljXa
 group: actions
 layout: action

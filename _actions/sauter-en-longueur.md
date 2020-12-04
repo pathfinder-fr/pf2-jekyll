@@ -4,6 +4,7 @@
 title: Sauter en longueur
 titleEn: Long Jump
 type: action
+typeFr: Action Unique
 id: JUvAvruz7yRQXfz2
 group: actions
 layout: action

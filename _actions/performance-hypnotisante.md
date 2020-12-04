@@ -4,6 +4,7 @@
 title: Performance hypnotisante
 titleEn: Mesmerizing Performance
 type: action
+typeFr: Action Unique
 id: CrUPaPlsxy2bswaT
 group: actions
 layout: action

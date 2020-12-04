@@ -4,6 +4,7 @@
 title: Enquêter
 titleEn: Investigate
 type: passive
+typeFr: Passive
 id: EwgTZBWsc8qKaViP
 group: actions
 layout: action

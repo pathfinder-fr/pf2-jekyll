@@ -4,6 +4,7 @@
 title: Coup final assuré
 titleEn: Confident Finisher
 type: action
+typeFr: Action Unique
 id: K878asDgf1EF0B9S
 group: actions
 layout: action

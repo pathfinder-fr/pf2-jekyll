@@ -4,6 +4,7 @@
 title: Approche menaçante
 titleEn: Threatening Approach
 type: action
+typeFr: Action Unique
 id: W4M8L9WepGLamlHs
 group: actions
 layout: action

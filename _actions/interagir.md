@@ -4,6 +4,7 @@
 title: Interagir
 titleEn: Interact
 type: action
+typeFr: Action Unique
 id: pvQ5rY2zrtPI614F
 group: actions
 layout: action

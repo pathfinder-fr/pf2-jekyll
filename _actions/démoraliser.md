@@ -4,6 +4,7 @@
 title: Démoraliser
 titleEn: Demoralize
 type: action
+typeFr: Action Unique
 id: 2u915NdUyQan6uKF
 group: actions
 layout: action

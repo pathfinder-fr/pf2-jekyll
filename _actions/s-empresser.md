@@ -4,6 +4,7 @@
 title: S'empresser
 titleEn: Hustle
 type: passive
+typeFr: Passive
 id: JuqmIAnkL9hVGai8
 group: actions
 layout: action

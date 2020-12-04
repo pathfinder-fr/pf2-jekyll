@@ -4,6 +4,7 @@
 title: Escalader
 titleEn: Climb
 type: action
+typeFr: Action Unique
 id: pprgrYQ1QnIDGZiy
 group: actions
 layout: action

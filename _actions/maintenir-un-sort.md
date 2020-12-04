@@ -4,6 +4,7 @@
 title: Maintenir un sort
 titleEn: Sustain a Spell
 type: action
+typeFr: Action Unique
 id: 3f5DMFu8fPiqHpRg
 group: actions
 layout: action

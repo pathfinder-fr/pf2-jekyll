@@ -4,6 +4,7 @@
 title: Se raccrocher in extremis
 titleEn: Grab an Edge
 type: reaction
+typeFr: Réaction
 id: 3yoajuKjwHZ9ApUY
 group: actions
 layout: action

@@ -4,6 +4,7 @@
 title: Refocaliser
 titleEn: Refocus
 type: passive
+typeFr: Passive
 id: OSefkMgojBLqmRDh
 group: actions
 layout: action

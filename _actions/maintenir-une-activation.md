@@ -4,6 +4,7 @@
 title: Maintenir une activation
 titleEn: Sustain an Activation
 type: action
+typeFr: Action Unique
 id: XSGlLjI80LDCimAP
 group: actions
 layout: action

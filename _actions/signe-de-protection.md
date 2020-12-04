@@ -4,6 +4,7 @@
 title: Signe de protection
 titleEn: Warding Sign
 type: reaction
+typeFr: Réaction
 id: 7pdG8l9POMK76Lf2
 group: actions
 layout: action

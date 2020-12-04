@@ -4,6 +4,7 @@
 title: Détourner le regard
 titleEn: Avert Gaze
 type: action
+typeFr: Action Unique
 id: UWdRX1VelipCzrCg
 group: actions
 layout: action

@@ -4,6 +4,7 @@
 title: Rallier
 titleEn: Rally
 type: action
+typeFr: Action Unique
 id: xJEkXFJgEfEida27
 group: actions
 layout: action

@@ -4,6 +4,7 @@
 title: Se souvenir (Nature)
 titleEn: Recall Knowledge (Nature)
 type: action
+typeFr: Action Unique
 id: eT1jXYvz2YH70Ovp
 group: actions
 layout: action

@@ -4,6 +4,7 @@
 title: Coup final de base
 titleEn: Basic Finisher
 type: action
+typeFr: Action Unique
 id: dCuvfq3r2K9wXY9g
 group: actions
 layout: action

@@ -4,6 +4,7 @@
 title: Résister à la magie elfique
 titleEn: Resist Elf Magic
 type: reaction
+typeFr: Réaction
 id: On5CQjX4euWqToly
 group: actions
 layout: action

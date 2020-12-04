@@ -4,6 +4,7 @@
 title: Se souvenir (Arcanes)
 titleEn: Recall Knowledge (Arcana)
 type: action
+typeFr: Action Unique
 id: KygTSeDvsFoSO6HW
 group: actions
 layout: action

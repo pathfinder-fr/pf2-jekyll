@@ -4,6 +4,7 @@
 title: Réparer
 titleEn: Repair
 type: passive
+typeFr: Passive
 id: bT3skovyLUtP22ME
 group: actions
 layout: action

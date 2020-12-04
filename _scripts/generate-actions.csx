@@ -5,6 +5,19 @@ using static System.Console;
 
 var files = Directory.GetFiles("../_ext/trads/data/actions", "*.htm");
 
+// chargement du glossaire anglais et fr
+JsonDocument enJsonDoc;
+using (var input = File.OpenRead("../_ext/module-en/static/lang/en.json"))
+{
+    enJsonDoc = JsonDocument.Parse(input);
+}
+
+JsonDocument frJsonDoc;
+using (var input = File.OpenRead("../_ext/module-fr/fr.json"))
+{
+    frJsonDoc = JsonDocument.Parse(input);
+}
+
 WriteLine($"Examen de {files.Length} fichiers...");
 foreach (var file in files)
 {
@@ -41,6 +54,13 @@ foreach (var file in files)
     // chargement des infos d'après le fichier anglais
     var actionType = jsonDoc.RootElement.GetProperty("data").GetProperty("actionType").GetProperty("value").GetString();
 
+    // on détermine le nom de l'entrée du glossaire pour avoir le texte FR
+    // pour le type d'action, on recherche ActionType + type d'action du json anglais
+    var itemName = "ActionType" + FirstCharUpper(actionType);
+    
+    // à partir de ce nom ActionType... on recherche la traduction française dans le glossaire
+    var actionTypeLang = frJsonDoc.RootElement.GetProperty("PF2E").GetProperty(itemName).GetString();
+
     // de là on peut générer un fichier destination
     var targetPath = $"../_actions/{frNameId}.md";
 
@@ -53,6 +73,7 @@ foreach (var file in files)
         writer.WriteLine($"title: {id.French}");
         writer.WriteLine($"titleEn: {id.English}");
         writer.WriteLine($"type: {actionType}");
+        writer.WriteLine($"typeFr: {actionTypeLang}");
         writer.WriteLine($"id: {id.Id}");
         writer.WriteLine($"group: {id.Group}");
         writer.WriteLine($"layout: action");

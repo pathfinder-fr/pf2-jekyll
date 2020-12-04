@@ -4,6 +4,7 @@
 title: S'échapper
 titleEn: Escape
 type: action
+typeFr: Action Unique
 id: SkZAQRkLLkmBQNB9
 group: actions
 layout: action

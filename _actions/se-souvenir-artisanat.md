@@ -4,6 +4,7 @@
 title: Se souvenir (Artisanat)
 titleEn: Recall Knowledge (Crafting)
 type: action
+typeFr: Action Unique
 id: B0Eu3EfwIa9kyDEA
 group: actions
 layout: action

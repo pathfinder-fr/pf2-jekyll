@@ -4,6 +4,7 @@
 title: Soigner une maladie
 titleEn: Treat Disease
 type: passive
+typeFr: Passive
 id: TC7OcDa7JlWbqMaN
 group: actions
 layout: action

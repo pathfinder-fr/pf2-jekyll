@@ -4,6 +4,7 @@
 title: Désarmer
 titleEn: Disarm
 type: action
+typeFr: Action Unique
 id: Dt6B1slsBy8ipJu9
 group: actions
 layout: action

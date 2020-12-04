@@ -4,6 +4,7 @@
 title: Retarder
 titleEn: Delay
 type: free
+typeFr: Action Gratuite
 id: A72nHGUtNXgY5Ey9
 group: actions
 layout: action

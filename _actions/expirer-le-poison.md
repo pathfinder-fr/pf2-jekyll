@@ -4,6 +4,7 @@
 title: Expirer le poison
 titleEn: Exhale Poison
 type: action
+typeFr: Action Unique
 id: GAoUxmcKx1vW3vEB
 group: actions
 layout: action

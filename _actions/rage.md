@@ -4,6 +4,7 @@
 title: Rage
 titleEn: Rage
 type: action
+typeFr: Action Unique
 id: Ah5g9pDwWF9b9VW9
 group: actions
 layout: action

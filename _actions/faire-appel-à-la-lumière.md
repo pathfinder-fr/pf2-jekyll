@@ -4,6 +4,7 @@
 title: Faire appel à la lumière
 titleEn: Call Upon the Brightness
 type: reaction
+typeFr: Réaction
 id: mk6rzaAzsBBRGJnh
 group: actions
 layout: action

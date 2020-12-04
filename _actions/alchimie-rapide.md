@@ -4,6 +4,7 @@
 title: Alchimie rapide
 titleEn: Quick Alchemy
 type: action
+typeFr: Action Unique
 id: yzNJgwzV9XqEhKc6
 group: actions
 layout: action

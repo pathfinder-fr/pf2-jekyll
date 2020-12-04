@@ -4,6 +4,7 @@
 title: Chasser une proie
 titleEn: Hunt Prey
 type: action
+typeFr: Action Unique
 id: JYi4MnsdFu618hPm
 group: actions
 layout: action

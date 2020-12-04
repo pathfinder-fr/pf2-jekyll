@@ -4,6 +4,7 @@
 title: Feinter
 titleEn: Feint
 type: action
+typeFr: Action Unique
 id: QNAVeNKtHA0EUw4X
 group: actions
 layout: action

@@ -4,6 +4,7 @@
 title: Faire bonne impression
 titleEn: Make an Impression
 type: passive
+typeFr: Passive
 id: OX4fy22hQgUHDr0q
 group: actions
 layout: action

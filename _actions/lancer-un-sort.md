@@ -4,6 +4,7 @@
 title: Lancer un sort
 titleEn: Cast a Spell
 type: passive
+typeFr: Passive
 id: aBQ8ajvEBByv45yz
 group: actions
 layout: action

@@ -4,6 +4,7 @@
 title: Fabriquer
 titleEn: Craft
 type: passive
+typeFr: Passive
 id: rmwa3OyhTZ2i2AHl
 group: actions
 layout: action

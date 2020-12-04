@@ -4,6 +4,7 @@
 title: Paroles encourageantes
 titleEn: Encouraging Words
 type: action
+typeFr: Action Unique
 id: e2ePMDa7ixbLRryj
 group: actions
 layout: action

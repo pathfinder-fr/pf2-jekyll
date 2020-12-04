@@ -4,6 +4,7 @@
 title: Répéter un sort
 titleEn: Repeat a Spell
 type: passive
+typeFr: Passive
 id: OQaFzDtVEOMWizJJ
 group: actions
 layout: action

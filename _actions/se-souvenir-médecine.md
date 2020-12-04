@@ -4,6 +4,7 @@
 title: Se souvenir (Médecine)
 titleEn: Recall Knowledge (Medicine)
 type: action
+typeFr: Action Unique
 id: SeUolRoPzorFUAaI
 group: actions
 layout: action
