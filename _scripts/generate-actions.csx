@@ -42,7 +42,7 @@ foreach (var file in files)
     var targetPath = $"../_actions/{frNameId}.md";
 
     Directory.CreateDirectory($"../_actions/");
-    using (var writer = new StreamWriter(targetPath, false, Encoding.UTF8))
+    using (var writer = new StreamWriter(targetPath))
     {
         writer.WriteLine("---");
         writer.WriteLine("# ATTENTION : Ne modifiez pas ce fichier");

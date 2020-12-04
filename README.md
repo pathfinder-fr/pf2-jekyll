@@ -41,16 +41,32 @@ Plusieurs logiciels et composants sont requis pour pouvoir générer le site sur
 
 ### Pré-requis
 
-*Linux* ou *Sous-système Windows pour Linux* (WSL 1 ou 2) : les guides d'installations sont fournis dans la [documentation jekyll](https://jekyllrb.com/docs/installation/).
+*Linux* ou *Sous-système Windows pour Linux* (WSL) : les guides d'installations sont fournis dans la [documentation jekyll](https://jekyllrb.com/docs/installation/).
 
-Si vous utilisez le sous-système windows pour linux `wsl`, vous devrez ensuite lancer toutes les commandes indiquées ici depuis un invite de commande sous linux.
+#### WSL Sous Windows
+
+Activez WSL : Depuis le menu démarrer lancez `Activer ou désactiver des fonctionnalités Windows` puis cochez la case `Sous-système Windows pour Linux`.
+Vous devrez certainement redémarrer votre poste.
+
+Ensuite depuis le Windows Store, recherchez et installez "Ubuntu 20.04 LTS".
+Une fois Ubuntu installé, lancez le depuis le menu démarrer et préparez votre environnement linux en saisissant un mot de passe qui sera nécessaire pour faire entre autre les mises à jour.
+
+Une fois Ubuntu lancé, suivez le guide d'installation [Jekyll pour Ubuntu](https://jekyllrb.com/docs/installation/ubuntu/).
+
+Pour toutes les commandes qui seront ensuite indiquées, vous devrez les lancer depuis votre environnement Ubuntu.
 
 Notez bien que sous linux, vos disques sont accessibles via le dossier `/mnt/c` pour le lecteur `c`. Exemple: si vous avez cloné le projet dans votre dossier `D:\Projets\pf2-jekyll`, le dossier linux correspondant sera `/mnt/d/Projets/pf2-jekyll`.
 
-Notez aussi que vous pouvez utiliser VS Code avec l'extension [Shell launcher](https://marketplace.visualstudio.com/items?itemName=Tyriar.shell-launcher) pour utiliser directement le shell windows et WSL.
+Notez aussi que vous pouvez utiliser VS Code avec l'extension [Shell launcher](https://marketplace.visualstudio.com/items?itemName=Tyriar.shell-launcher) pour utiliser directement le shell windows et WSL depuis VS Code.
 
-### Génération
+#### Linux
 
-Une fois les pre-requis installés et ce dépôt copié sur votre disque, vous devriez pouvoir lancer la commande `bundle exec jekyll build` qui génèrera une copie du site dans le dossier `_site`.
+(TODO)
+
+### Génération du site
+
+Avant de générer le site pour la première fois, vous devrez lancer la commande `bundle install` depuis le dossier du projet pour installer tous les composants nécessaires.
+
+Une fois les pre-requis installés, vous pouvez lancer la commande `bundle exec jekyll build` qui génèrera une copie du site dans le dossier `_site`.
 
 Utilisez la commande `bundle exec jekyll serve` pour lancer une copie du site. En général le site pourra ensuite être consulté à l'adresse [](http://127.0.0.1:4000/srd/pf2/).
