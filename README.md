@@ -35,7 +35,7 @@ Si vous avez déjà installé cet outil et souhaitez vérifier si il existe une 
 
 Une fois tous les outils en place, vous pouvez utiliser la commande `dotnet script _scripts/generate-actions.csx` par exemple pour générer toutes les pages des actions d'après les dernières traductions.
 
-## Génération du site
+## Génération du site en local
 
 Plusieurs logiciels et composants sont requis pour pouvoir générer le site sur votre ordinateur.
 
@@ -43,7 +43,11 @@ Plusieurs logiciels et composants sont requis pour pouvoir générer le site sur
 
 *Linux* ou *Sous-système Windows pour Linux* (WSL 1 ou 2) : les guides d'installations sont fournis dans la [documentation jekyll](https://jekyllrb.com/docs/installation/).
 
-Si vous utilisez `wsl`, vous devrez ensuite lancer toutes les commandes indiquées ici depuis un invite de commande sous linux.
+Si vous utilisez le sous-système windows pour linux `wsl`, vous devrez ensuite lancer toutes les commandes indiquées ici depuis un invite de commande sous linux.
+
+Notez bien que sous linux, vos disques sont accessibles via le dossier `/mnt/c` pour le lecteur `c`. Exemple: si vous avez cloné le projet dans votre dossier `D:\Projets\pf2-jekyll`, le dossier linux correspondant sera `/mnt/d/Projets/pf2-jekyll`.
+
+Notez aussi que vous pouvez utiliser VS Code avec l'extension [Shell launcher](https://marketplace.visualstudio.com/items?itemName=Tyriar.shell-launcher) pour utiliser directement le shell windows et WSL.
 
 ### Génération
 
