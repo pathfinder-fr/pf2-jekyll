@@ -1,4 +1,6 @@
 ﻿---
+# ATTENTION : Ne modifiez pas ce fichier
+# Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Appel du sang ancien
 titleEn: Call on Ancient Blood
 id: 8w6esW689NNbbq3i

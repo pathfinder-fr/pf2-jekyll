@@ -1,4 +1,6 @@
 ﻿---
+# ATTENTION : Ne modifiez pas ce fichier
+# Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Détection de la magie
 titleEn: Detect Magic
 id: Yb0C1uLzeHrVLl7a

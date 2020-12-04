@@ -1,4 +1,6 @@
 ﻿---
+# ATTENTION : Ne modifiez pas ce fichier
+# Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Maintenir un sort
 titleEn: Sustain a Spell
 id: 3f5DMFu8fPiqHpRg

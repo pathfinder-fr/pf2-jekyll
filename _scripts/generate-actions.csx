@@ -45,6 +45,8 @@ foreach (var file in files)
     using (var writer = new StreamWriter(targetPath, false, Encoding.UTF8))
     {
         writer.WriteLine("---");
+        writer.WriteLine("# ATTENTION : Ne modifiez pas ce fichier");
+        writer.WriteLine("# Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction");
         writer.WriteLine($"title: {id.French}");
         writer.WriteLine($"titleEn: {id.English}");
         writer.WriteLine($"id: {id.Id}");

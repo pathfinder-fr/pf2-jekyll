@@ -1,4 +1,6 @@
 ﻿---
+# ATTENTION : Ne modifiez pas ce fichier
+# Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Emprunter un sort arcanique
 titleEn: Borrow an Arcane Spell
 id: OizxuPb44g3eHPFh
