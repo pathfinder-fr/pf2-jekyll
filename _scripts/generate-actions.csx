@@ -13,7 +13,7 @@ foreach (var file in files)
 
     if (string.IsNullOrEmpty(id.French))
     {
-        WriteLine($"L'action {id.English} n'a pas été traduite en français et n'est donc pas disponible");
+        WriteLine($"L'action {id.English} n'a pas été traduite en français et n'est donc pas disponible (ID {id.Id})");
         continue;
     }
 
@@ -27,7 +27,7 @@ foreach (var file in files)
     var path = $"../_ext/module-en/packs/data/actions.db/{enNameId}.json";
     if (!File.Exists(path))
     {
-        WriteLine($"Impossible de trouver le fichier d'action {enNameId} correspondant à {id.English}");
+        WriteLine($"Impossible de trouver le fichier d'action {enNameId} correspondant à {id.English} (ID {id.Id})");
         continue;
     }
 
