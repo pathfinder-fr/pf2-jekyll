@@ -11,8 +11,8 @@ urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/pack
 group: actions
 layout: action
 ---
-**Déclencheur** Un ennemi situé à votre portée obtient un échec critique lors d’une @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe} contre vous.
+**Déclencheur** Un ennemi situé à votre portée obtient un échec critique lors d’une [Frappe](/_actions/frapper.md) contre vous.
 
-Vous profitez de l’ouverture provoquée par l’échec de votre ennemi. Vous pouvez soit porter une Frappe de corps à corps contre l’ennemi déclencheur ou tenter de le @Compendium[pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{Désarmer} de l’arme qu’il a utilisée pour sa Frappe.
+Vous profitez de l’ouverture provoquée par l’échec de votre ennemi. Vous pouvez soit porter une Frappe de corps à corps contre l’ennemi déclencheur ou tenter de le [Désarmer](/_actions/désarmer.md) de l’arme qu’il a utilisée pour sa Frappe.
 
 

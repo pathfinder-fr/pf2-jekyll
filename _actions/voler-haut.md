@@ -13,6 +13,6 @@ layout: action
 ---
 **Fréquence** une fois par jour
 
-Être un tengu permet d'être libéré des préoccupations du monde du dessous. Vous obtenez une paire d'ailes magiques ou étendez celles que vous possédez déjà. Pendant 5 minutes, vous obtenez une Vitesse de <a class="entity-link" draggable="true" data-pack="pf2e.actionspf2e" data-id="cS9nfDRGD83bNU1p">Vol</a> égale à votre Vitesse au sol ou 6 m, celle qui est la plus élevée.
+Être un tengu permet d'être libéré des préoccupations du monde du dessous. Vous obtenez une paire d'ailes magiques ou étendez celles que vous possédez déjà. Pendant 5 minutes, vous obtenez une Vitesse de [Vol](/_actions/voler.md) égale à votre Vitesse au sol ou 6 m, celle qui est la plus élevée.
 
 

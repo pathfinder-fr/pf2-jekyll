@@ -11,6 +11,6 @@ urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/pack
 group: actions
 layout: action
 ---
-Vous vous laissez tomber <a class="entity-link" draggable="true" data-pack="pf2e.conditionitems" data-id="j91X7x0XSomq8d60">À terre</a>.
+Vous vous laissez tomber [À terre](/_condition-items/à-terre.md).
 
 

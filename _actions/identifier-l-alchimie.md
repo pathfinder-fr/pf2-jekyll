@@ -11,7 +11,7 @@ urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/pack
 group: actions
 layout: action
 ---
-**Conditions** Vous avez des <a class="entity-link" draggable="true" data-pack="pf2e.equipment-srd" data-id="4ftXXUCBHcf4b0MH">outils d'alchimiste</a>.
+**Conditions** Vous avez des [outils d'alchimiste](/_equipment/outils-d-alchimiste.md).
 
 Vous pouvez identifier la nature d’un objet alchimique en l’analysant pendant dix minutes avec vos outils d’alchimiste. Si votre tentative est interrompue, vous devez la reprendre depuis le début.
 

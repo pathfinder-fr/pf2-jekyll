@@ -11,7 +11,7 @@ urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/pack
 group: actions
 layout: action
 ---
-**Conditions** Vous vous êtes trouvé dans la zone où se trouvait un poison inhalé au cours de la dernière minute ; <a class="entity-link" draggable="true" data-pack="pf2e.feats-srd" data-id="8PMxl8o5YXET58Pn">Poumon d'acier</a>.
+**Conditions** Vous vous êtes trouvé dans la zone où se trouvait un poison inhalé au cours de la dernière minute ; [Poumon d'acier](/_feats/poumon-d-acier.md).
 
 **Fréquence** une fois par heure
 

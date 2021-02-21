@@ -11,6 +11,6 @@ urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/pack
 group: actions
 layout: action
 ---
-Vous @Compendium[pf2e.actionspf2e.Bcxarzksqt9ezrs6]{Marchez rapidement} deux fois. La durée du @Compendium[pf2e.equipment-srd.GS4YvQieBS11JNYR]{Mutagène cœur de drake} s'achève.
+Vous [Marchez rapidement](/_actions/marcher-rapidement.md) deux fois. La durée du [Mutagène cœur de drake](/_equipment/mutagène-de-cœur-de-drake-inférieur.md) s'achève.
 
 

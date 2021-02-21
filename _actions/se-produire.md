@@ -11,7 +11,8 @@ urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/pack
 group: actions
 layout: action
 ---
-Quand vous donnez une courte représentation (une chanson, une danse rapide ou quelques histoires drôles), vous utilisez l’action Se produire. Cette action est particulièrement utile quand vous voulez prouver votre talent ou impressionner rapidement quelqu’un. Ce genre de représentations a rarement un impact en tant que tel mais elles peuvent influencer le DD de tests de Diplomatie ultérieurs vis‑à‑vis des observateurs, ou même changer leur attitude si le MJ le permet.<br>
+Quand vous donnez une courte représentation (une chanson, une danse rapide ou quelques histoires drôles), vous utilisez l’action Se produire. Cette action est particulièrement utile quand vous voulez prouver votre talent ou impressionner rapidement quelqu’un. Ce genre de représentations a rarement un impact en tant que tel mais elles peuvent influencer le DD de tests de Diplomatie ultérieurs vis‑à‑vis des observateurs, ou même changer leur attitude si le MJ le permet.
+
 
 **Succès critique** Votre représentation impressionne les gens qui y assistent et ils parleront probablement autour d’eux de votre talent.
 

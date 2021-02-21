@@ -7,12 +7,10 @@ public static string GetScriptFolder([CallerFilePath] string path = null) => Pat
 
 Environment.CurrentDirectory = GetScriptFolder();
 
-
+/// <summary>Contient les données de traduction française d'une entrée du compendium anglais.</summary>
 public record TradDataEntry(string Id, string Group, string French, string English, string FrenchDescription, string EnglishDescription, string Status, string OldStatus);
 
-/// <summary>
-/// Lit un fichier de traduction FR et exporte les données de l'entête et les descriptions dans une classe TradDataEntry.
-/// </summary>
+/// <summary>Lit un fichier de traduction FR et exporte les données de l'entête et les descriptions dans une classe TradDataEntry.</summary>
 public TradDataEntry ReadTradDataEntry(string file)
 {
     // data/backgrounds/0EIhRniun8jfdPeN.htm => 0EIhRniun8jfdPeN
@@ -71,29 +69,163 @@ public TradDataEntry ReadTradDataEntry(string file)
     return new TradDataEntry(id, group, frName, enName, frDesc, enDesc, status, oldStatus);
 }
 
-/// <summary>
-/// Transforme un nom d'élément (action, sort, objet) en un nom unique standard, pouvant être utilisé pour un nom de fichier.
-/// </summary>
-public string AsNameId(string name)
+/// <summary>Transforme un nom d'élément (action, sort, objet) en un nom unique standard, pouvant être utilisé pour un nom de fichier.</summary>
+public static string AsNameId(string name)
 {
     if (name == null) return null;
 
     return name
         .Replace(' ', '-')
         .Replace('\'', '-')
+        .Replace('’', '\'')
         .Replace("(", string.Empty)
         .Replace(")", string.Empty)
         .ToLowerInvariant();
 }
 
-/// <summary>
-/// Passe la première lettre du nom indiqué en majusscules.
-/// </summary>
-public string FirstCharUpper(string name)
+/// <summary>Passe la première lettre du nom indiqué en majusscules.</summary>
+public static string FirstCharUpper(string name)
 {
-    if(name == null) return null;
-
-    if(name.Length < 2) return name.ToUpperInvariant();
-
+    if (name == null) return null;
+    if (name.Length < 2) return name.ToUpperInvariant();
     return char.ToUpperInvariant(name[0]) + name.Substring(1);
+}
+
+/// <summary>Renvoie le nom du dossier du projet de traduction contenant les fichiers pour le groupe de données indiqué.</summary>
+public static string AsTradFolderName(this DataGroup @this)
+{
+    switch (@this)
+    {
+        case DataGroup.Ancestry_Features: return "ancestryfeatures";
+        case DataGroup.Bestiary_Ability: return "bestiary-ability-glossary-srd";
+        case DataGroup.Class_Features: return "classfeatures";
+        case DataGroup.Condition_Items: return "conditionitems";
+        case DataGroup.Conditions: return "conditionspf2e";
+        case DataGroup.GameMaster_Guide: return "gmg-srd";
+        case DataGroup.Bestiary: return "pathfinder-bestiary";
+        case DataGroup.Bestiary_2: return "pathfinder-bestiary-2";
+        case DataGroup.Pathfinder_Society_Boons: return "pathfinder-society-boons";
+        default: return @this.ToString().ToLowerInvariant().Replace("_", "-");
+    }
+}
+
+public static DataGroup FromTradFolderName(string tradFolderName)
+{
+    switch (tradFolderName)
+    {
+        case "ancestryfeatures": return DataGroup.Ancestry_Features;
+        case "bestiary-ability-glossary-srd": return DataGroup.Bestiary_Ability;
+        case "classfeatures": return DataGroup.Class_Features;
+        case "conditionitems": return DataGroup.Condition_Items;
+        case "conditionspf2e": return DataGroup.Conditions;
+        case "gmg-srd": return DataGroup.GameMaster_Guide;
+        case "pathfinder-bestiary": return DataGroup.Bestiary;
+        case "pathfinder-bestiary-2": return DataGroup.Bestiary_2;
+        case "pathfinder-society-boons": return DataGroup.Pathfinder_Society_Boons;
+        default: return Enum.Parse<DataGroup>(tradFolderName.Replace("-", "_"), true);
+    }
+}
+
+public static string AsDataFolderName(this DataGroup @this) => "_" + @this.ToString().ToLowerInvariant().Replace("_", "-");
+
+public enum DataGroup
+{
+    Actions,
+    Ancestries,
+    Ancestry_Features,
+    Archetypes,
+    Backgrounds,
+    Bestiary_Ability,
+    Boons_And_Curses,
+    Classes,
+    Class_Features,
+    Condition_Items,
+    Conditions,
+    Equipment,
+    Familiar_Abilities,
+    Feats,
+    GameMaster_Guide,
+    Hazards,
+    Bestiary_2,
+    Bestiary,
+    Pathfinder_Society_Boons,
+    Spell_Effects,
+    Spells
+}
+
+public record StatusEntry(string French, string English);
+
+public static class Ids
+{
+    private static Dictionary<string, Dictionary<string, StatusEntry>> entries;
+
+    public static async Task EnsureIds()
+    {
+        if (entries != null)
+        {
+            return;
+        }
+
+        using (var jsonFile = File.OpenRead("../_data/ids.json"))
+        {
+            entries = await System.Text.Json.JsonSerializer.DeserializeAsync<Dictionary<string, Dictionary<string, StatusEntry>>>(jsonFile);
+        }
+    }
+
+    public static string ResolveFrenchNameId(DataGroup group, string id)
+    {
+        if (entries == null) throw new InvalidOperationException("Vous devez appeller Ids.EnsureIds() avant de pouvoir utiliser le dictionnaire des Ids");
+
+        var groupId = group.AsTradFolderName();
+
+        if (!entries.TryGetValue(groupId, out var groupEntries))
+        {
+            throw new ArgumentOutOfRangeException(nameof(group), group, $"Il n'existe pas d'entrées pour le groupe {group} (clé {groupId})");
+        }
+
+        if (!groupEntries.TryGetValue(id, out var status))
+        {
+            throw new ArgumentOutOfRangeException(nameof(group), group, $"Il n'existe pas d'entrées avec l'id {id} pour le groupe {group} (clé {groupId})");
+        }
+
+        return AsNameId(status.French);
+    }
+}
+
+public static string ReplaceCompendiumMatch(Match match)
+{
+    string link;
+    if (match.Groups.ContainsKey("link"))
+    {
+        // format @Compendium[pf2e.actionspf2e.Bcxarzksqt9ezrs6]{Marchez rapidement}    
+        link = match.Groups["link"].Value;
+    }
+    else
+    {
+        // format <a class="entity-link" draggable="true" data-pack="pf2e.equipment-srd" data-id="4ftXXUCBHcf4b0MH"><i class="fas fa-suitcase"></i>outils alchimiques</a>
+        var pack = match.Groups["pack"].Value;
+        var dataId = match.Groups["id"].Value;
+        link = pack + "." + dataId;
+    }
+
+    var text = match.Groups["text"].Value;
+
+    var linkParts = link.Split('.');
+    var groupName = linkParts[1]; // actionspf2e
+
+    switch (groupName)
+    {
+        case "actionspf2e": groupName = "actions"; break;
+        case "equipment-srd": groupName = "equipment"; break;
+        case "feats-srd": groupName = "feats"; break;
+        case "spells-srd": groupName = "spells"; break;
+    }
+
+    var group = FromTradFolderName(groupName); // DataGroup.Actions
+    var groupFolder = group.AsDataFolderName(); // _actions
+
+    var id = linkParts[2]; // Bcxarzksqt9ezrs6
+    var frName = Ids.ResolveFrenchNameId(group, id);
+
+    return $"[{text}](/{groupFolder}/{frName}.md)";
 }

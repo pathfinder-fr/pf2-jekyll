@@ -11,7 +11,8 @@ urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/pack
 group: actions
 layout: action
 ---
-**Fréquence** une fois par jour<br>**Conditions** Vous n'avez pas encore agi à votre tour.
+**Fréquence** une fois par jour
+**Conditions** Vous n'avez pas encore agi à votre tour.
 
 Vous dépensez la puissance contenue dans votre objet lié, ce qui vous permet de lancer, sans dépenser d’emplacement, un sort que vous avez préparé pour la journée et déjà lancé. Vous devez tout de même Lancer le sort et remplir ses autres conditions.  
 

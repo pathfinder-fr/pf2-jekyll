@@ -11,7 +11,8 @@ urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/pack
 group: actions
 layout: action
 ---
-**Déclencheur** Vous chutez.<br>**Conditions** Vous avez une Vitesse de vol.
+**Déclencheur** Vous chutez.
+**Conditions** Vous avez une Vitesse de vol.
 
 Vous faites un test d’Acrobaties pour ralentir votre chute. Le DD est généralement de 15, mais il peut être plus élevé en cas de turbulences ou d’autres circonstances particulières.
 

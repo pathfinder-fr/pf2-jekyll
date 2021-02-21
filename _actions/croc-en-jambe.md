@@ -15,7 +15,7 @@ layout: action
 
 Vous tentez de faire tomber un adversaire. Effectuez un test d’Athlétisme contre le DD de Réflexes de la cible.
 
-**Succès critique** La cible tombe <a class="entity-link" draggable="true" data-pack="pf2e.conditionitems" data-id="j91X7x0XSomq8d60">À terre</a> et subit <a class="inline-roll roll" title="bludgeoning" data-mode="roll" data-flavor="bludgeoning" data-formula="1d6">1d6</a> dégâts contondants.
+**Succès critique** La cible tombe [À terre](/_condition-items/à-terre.md) et subit 1d6 dégâts contondants.
 
 **Succès** La cible tombe À terre.
 

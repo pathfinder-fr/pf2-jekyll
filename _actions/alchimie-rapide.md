@@ -13,7 +13,7 @@ layout: action
 ---
 **Coût** 1 lot de réactifs imprégnés
 
-**Conditions** Vous avez des <a class="entity-link" draggable="true" data-pack="pf2e.equipment-srd" data-id="4ftXXUCBHcf4b0MH"><i class="fas fa-suitcase"></i>outils alchimiques</a>, la formule de l'objet alchimique que vous créez et une main libre.
+**Conditions** Vous avez des [outils alchimiques](/_equipment/outils-d-alchimiste.md), la formule de l'objet alchimique que vous créez et une main libre.
 
 Vous préparez rapidement un objet alchimique périssable que vous pouvez utiliser sur‑le‑champ.
 

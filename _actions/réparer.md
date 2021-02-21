@@ -11,7 +11,7 @@ urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/pack
 group: actions
 layout: action
 ---
-**Conditions** Vous avez un @Compendium[pf2e.equipment-srd.vLGDUFrg4yGzpTQX]{kit de répération}
+**Conditions** Vous avez un [kit de répération](/_equipment/kit-de-réparation.md)
 
 Vous passez dix minutes à tenter de réparer un objet endommagé, en le plaçant sur une surface stable et en utilisant le kit de réparation avec vos deux mains. Le MJ détermine le DD, sachant que le DD pour Réparer un objet donné est généralement similaire à celui pour le Fabriquer. Vous ne pouvez pas Réparer un objet détruit.
 
@@ -19,6 +19,6 @@ Vous passez dix minutes à tenter de réparer un objet endommagé, en le plaçan
 
 **Succès** L’objet réparé récupère 5 points de vie, et 5 points de vie supplémentaires par rang de maîtrise que vous avez en Artisanat (pour un total de 10 PV si vous êtes qualifié, 15 PV si vous êtes un expert, 20 PV si vous êtes un maître ou 25 PV si vous êtes légendaire).
 
-**Échec critique** Vous infligez <a class="inline-roll roll" title="2d6" data-mode="roll" data-flavor="" data-formula="2d6">2d6</a> dégâts à l’objet. Appliquez la Solidité de l’objet à ces dégâts.
+**Échec critique** Vous infligez 2d6 dégâts à l’objet. Appliquez la Solidité de l’objet à ces dégâts.
 
 

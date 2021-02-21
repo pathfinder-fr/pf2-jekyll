@@ -15,6 +15,6 @@ layout: action
 
 **Conditions** Vous maniez une arme perforante ou tranchante.
 
-Vous appliquez le venin sécrété par votre queue sur une arme perforante ou tranchante. Si votre prochaine @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe} avec cette arme touche et inflige des dégâts avant la fin de votre prochain tour, vous infligez des @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{dégâts de poison persistants} égaux à votre niveau sur la cible.
+Vous appliquez le venin sécrété par votre queue sur une arme perforante ou tranchante. Si votre prochaine [Frappe](/_actions/frapper.md) avec cette arme touche et inflige des dégâts avant la fin de votre prochain tour, vous infligez des [dégâts de poison persistants](/_condition-items/dégâts-persistants.md) égaux à votre niveau sur la cible.
 
 

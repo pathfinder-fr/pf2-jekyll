@@ -13,6 +13,6 @@ layout: action
 ---
 **Fréquence** une fois toutes les 10 minutes
 
-Vous observez et évaluez votre environnement très rapidement. Vous <a class="entity-link" draggable="true" data-pack="pf2e.actionspf2e" data-id="KygTSeDvsFoSO6HW">Vous souvenez</a>, <a class="entity-link" draggable="true" data-pack="pf2e.actionspf2e" data-id="BlAOM2X92SI6HMtJ">Fouillez</a> ou <a class="entity-link" draggable="true" data-pack="pf2e.actionspf2e" data-id="1xRFPTFtWtGJ9ELw">Deviner les intentions</a>.
+Vous observez et évaluez votre environnement très rapidement. Vous [Vous souvenez](/_actions/se-souvenir-arcanes.md), [Fouillez](/_actions/chercher.md) ou [Deviner les intentions](/_actions/deviner-les-intentions.md).
 
 

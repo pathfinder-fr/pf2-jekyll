@@ -13,12 +13,14 @@ layout: action
 ---
 **Prérequis** qualifié en Diplomatie, en Intimidation ou en Représentation
 
-Vous passez 1 minute à encourager votre allée. Bien que cette action possède typiquement les traits auditif et linguistique, si vous utilisez la compétence Représentation, le MJ ajuste les traits de cette action pour la faire correspondre aux traits du type de représentation que vous utilisez.<br><br>Faites un test de compétence conter un DD15. Le MJ pourrait ajuster ce DD  en fonction des circonstances, comme essayer de Rallier un allié qui vient juste de subir une défaite humiliante.
+Vous passez 1 minute à encourager votre allée. Bien que cette action possède typiquement les traits auditif et linguistique, si vous utilisez la compétence Représentation, le MJ ajuste les traits de cette action pour la faire correspondre aux traits du type de représentation que vous utilisez.
+
+Faites un test de compétence conter un DD15. Le MJ pourrait ajuster ce DD  en fonction des circonstances, comme essayer de Rallier un allié qui vient juste de subir une défaite humiliante.
 
 **Succès critique** L'allié peut dépenser 1 Point de Résolution pour regagner tous ses points d'Endurance.
 
 **Succès** Vous pouvez continuer à encourager votre allié pendant un total de 10 minutes. Si vous le faites, il peut dépenser 1 Point de Résolution pour regagner tous ses Points d'Endurance.
 
-**Échec critique** L'allié subit <a class="inline-roll roll" title="mental" data-mode="roll" data-flavor="mental" data-formula="1d8">1d8</a> dégâts mentaux, mais cela ne peut réduire que les Points d'Endurance, jamais les Points de Vie.
+**Échec critique** L'allié subit 1d8 dégâts mentaux, mais cela ne peut réduire que les Points d'Endurance, jamais les Points de Vie.
 
 
