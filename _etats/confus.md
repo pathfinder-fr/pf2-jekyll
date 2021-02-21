@@ -4,9 +4,10 @@
 title: Confus
 titleEn: Confused
 id: yblD8fOR1J8rDwEQ
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/yblD8fOR1J8rDwEQ.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/confused.json
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/conditionitems/yblD8fOR1J8rDwEQ.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/conditionitems.db/confused.json
 group: conditionitems
+layout: etats
 ---
 Vous êtes déconcerté et vous attaquez à l’aveuglette. Vous êtes [pris au dépourvu](pris-au-dépourvu.md) et ne considérez plus personne comme votre allié (ce qui n’empêche pas nécessairement ces créatures de vous considérer comme leur allié) et vous ne pouvez pas utiliser les actions Retarder et Préparer ni utiliser de réactions.  
   

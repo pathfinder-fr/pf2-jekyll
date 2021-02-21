@@ -4,9 +4,10 @@
 title: Blessé
 titleEn: Wounded
 id: Yl48xTdMh3aeQYL2
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/Yl48xTdMh3aeQYL2.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/wounded.json
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/conditionitems/Yl48xTdMh3aeQYL2.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/conditionitems.db/wounded.json
 group: conditionitems
+layout: etats
 ---
 Vous avez été gravement blessé. Si vous perdez l’état [Mourant](mourant.md) et que vous n’êtes pas encore dans l’état blessé, vous devenez blessé 1. Si vous êtes déjà dans l’état blessé quand vous perdez l’état Mourant, l’intensité de votre état blessé augmente de 1. Si vous gagnez l’état Mourant alors que vous êtes blessé, vous ajoutez alors à l’intensité de votre état Mourant celle de votre état blessé.  
   

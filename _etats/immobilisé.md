@@ -4,9 +4,10 @@
 title: Immobilisé
 titleEn: Immobilized
 id: eIcWbB5o3pP6OIMe
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/eIcWbB5o3pP6OIMe.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/immobilized.json
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/conditionitems/eIcWbB5o3pP6OIMe.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/conditionitems.db/immobilized.json
 group: conditionitems
+layout: etats
 ---
 Vous ne pouvez entreprendre aucune action dotée du trait déplacement. Si vous êtes immobilisé par quelque chose qui vous maintient en place et qu’une force extérieure tente de vous faire quitter votre espace, cette force doit réussir un test contre le DD de l’effet ou la défense adaptée (généralement le DD de Vigueur) du monstre qui vous maintient en place.
 

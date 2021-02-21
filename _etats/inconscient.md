@@ -4,9 +4,10 @@
 title: Inconscient
 titleEn: Unconscious
 id: fBnFDH2MTzgFijKf
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/fBnFDH2MTzgFijKf.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/unconscious.json
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/conditionitems/fBnFDH2MTzgFijKf.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/conditionitems.db/unconscious.json
 group: conditionitems
+layout: etats
 ---
 Vous dormez ou avez été assommé. Vous ne pouvez pas faire d’action. Vous subissez un malus de −4 à votre CA, à votre Perception et à vos jets de Réflexes et vous vous trouvez dans les états [aveugle](aveuglé.md) et [pris au dépourvu](pris-au-dépourvu.md). Quand vous gagnez cet état, vous tombez [à terre](à-terre.md) et lâchez les objets que vous tenez en main, sauf si l’effet précise le contraire ou que le MJ détermine que vous êtes dans une situation qui ne s’y prête pas. Si vous êtes inconscient parce que vous êtes [mourant](mourant.md), vous ne pouvez pas vous réveiller tant que vous êtes réduit à 0 point de vie. Si vous regagnez 1 point de vie ou plus grâce à des soins, vous perdez les états [mourant](mourant.md) et inconscient et vous pouvez agir normalement lors de votre prochain tour. Si vous êtes inconscient et avez 0 point de vie mais n’êtes pas [mourant](mourant.md), vous regagnez naturellement 1 point de vie et vous éveillez au bout d’un certain temps. Le MJ détermine alors combien de temps vous êtes inconscient : un intervalle allant de 10 min à plusieurs heures. Si vous recevez des soins pendant cet intervalle de temps, vous perdez l’état inconscient et pouvez agir normalement lors de votre prochain tour.  
   

@@ -4,9 +4,10 @@
 title: Mourant
 titleEn: Dying
 id: yZRUzMqrMmfLu0V1
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/yZRUzMqrMmfLu0V1.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/dying.json
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/conditionitems/yZRUzMqrMmfLu0V1.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/conditionitems.db/dying.json
 group: conditionitems
+layout: etats
 ---
 Vous vous videz de votre sang ou vous trouvez aux portes de la mort pour une autre raison. Tant que vous êtes dans cet état, vous êtes [Inconscient](inconscient.md). L’état Mourant est toujours associé à une intensité et, si celle-ci atteint mourant 4, vous mourez. Si vous êtes Mourant, vous devez faire un test de récupération au début de chacun de vos tours afin de déterminer si votre état s’améliore ou empire. L’intensité de votre état Mourant augmente de 1 si vous subissez des dégâts pendant que vous êtes Mourant ou de 2 si vous subissez des dégâts infligés par un coup critique ou que vous obtenez un échec critique à votre jet de sauvegarde.
 

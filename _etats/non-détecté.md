@@ -4,9 +4,10 @@
 title: Non détecté
 titleEn: Undetected
 id: VRSef5y1LmL2Hkjf
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/VRSef5y1LmL2Hkjf.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/undetected.json
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/conditionitems/VRSef5y1LmL2Hkjf.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/conditionitems.db/undetected.json
 group: conditionitems
+layout: etats
 ---
 Quand vous êtes non détecté par une créature, celle-ci ne peut pas vous voir du tout, elle n’a aucune idée de l’espace que vous occupez et elle ne peut pas vous prendre pour cible. Vous pouvez cependant toujours être affecté par les pouvoirs qui ciblent une zone. Quand vous êtes non détecté par une créature, celle-ci se trouve [Prise au dépourvu](pris-au-dépourvu.md) face à vous.
 

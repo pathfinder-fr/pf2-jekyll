@@ -4,9 +4,10 @@
 title: Étourdi
 titleEn: Stunned
 id: dfCMdR4wnpbYNTix
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/dfCMdR4wnpbYNTix.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/stunned.json
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/conditionitems/dfCMdR4wnpbYNTix.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/conditionitems.db/stunned.json
 group: conditionitems
+layout: etats
 ---
 Vous êtes hébété. Vous ne pouvez pas agir tant que vous êtes étourdi. L’état étourdi est toujours accompagné d’une intensité qui indique la quantité d’actions que vous perdez, parfois pendant plusieurs tours, du fait de cet état. À chaque fois que vous regagnez des actions (au début de votre tour, par exemple), vous réduisez la quantité d’actions regagnées de l’intensité de votre état étourdi, puis réduisez l’intensité de votre état par le nombre d’actions que vous avez perdues. Par exemple, si vous êtes étourdi 4, vous perdez vos 3 actions au début de votre tour et vous devenez alors étourdi 1. Lors de votre prochain tour, vous perdrez une action supplémentaire, puis vous pourrez utiliser vos 2 actions restantes normalement. L’état étourdi peut également être accompagné d’une durée à la place d’une intensité, comme « étourdi pendant 1 min ». Dans ce cas-là, vous perdez toutes vos actions pour la durée indiquée.  
   

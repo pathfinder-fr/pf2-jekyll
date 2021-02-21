@@ -4,9 +4,10 @@
 title: Paralysé
 titleEn: Paralyzed
 id: 6uEgoh53GbXuHpTF
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/6uEgoh53GbXuHpTF.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/paralyzed.json
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/conditionitems/6uEgoh53GbXuHpTF.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/conditionitems.db/paralyzed.json
 group: conditionitems
+layout: etats
 ---
 Votre corps est figé sur place. Vous êtes [pris au dépourvu](pris-au-dépourvu.md) et ne pouvez pas agir, sauf pour [Vous souvenir](../actions/se-souvenir-connaissance.md) de quelque chose et entreprendre des actions qui font seulement appel à votre esprit (ces actions sont déterminées par le MJ). Vos sens fonctionnent toujours, mais votre perception est limitée aux zones que vous pouvez percevoir sans bouger votre corps, vous n’êtes donc pas capable de [Chercher](../actions/chercher.md).
 

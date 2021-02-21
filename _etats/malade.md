@@ -4,9 +4,10 @@
 title: Malade
 titleEn: Sickened
 id: fesd1n5eVhpCSS18
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/fesd1n5eVhpCSS18.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/sickened.json
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/conditionitems/fesd1n5eVhpCSS18.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/conditionitems.db/sickened.json
 group: conditionitems
+layout: etats
 ---
 Vous vous sentez malade. L’état malade est toujours accompagné d’une intensité. Vous subissez un malus de statut égal à cette valeur à tous vos tests et DD. Quand vous êtes malade, vous ne pouvez pas volontairement ingérer quelque chose, y compris des élixirs et des potions.
 
