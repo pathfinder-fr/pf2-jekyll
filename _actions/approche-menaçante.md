@@ -9,4 +9,6 @@ id: W4M8L9WepGLamlHs
 group: actions
 layout: action
 ---
-<p>Vous Marchez rapidement jusqu'à être adjacent à une créature et tentez de la <a class="entity-link" draggable="true" data-pack="pf2e.actionspf2e" data-id="2u915NdUyQan6uKF">Démoraliser</a>. Si vous réussissez, la créature est <a class="entity-link" draggable="true" data-pack="pf2e.conditionitems" data-id="TBSHQspnbcqxsmjL">Effrayée</a> 2 au lieu d’Effrayée 1.</p>
+Vous Marchez rapidement jusqu'à être adjacent à une créature et tentez de la <a class="entity-link" draggable="true" data-pack="pf2e.actionspf2e" data-id="2u915NdUyQan6uKF">Démoraliser</a>. Si vous réussissez, la créature est <a class="entity-link" draggable="true" data-pack="pf2e.conditionitems" data-id="TBSHQspnbcqxsmjL">Effrayée</a> 2 au lieu d’Effrayée 1.
+
+

@@ -20,6 +20,35 @@ Pour vérifier si vous avez des données modifiez, tapez la commande `git status
 
 Si vous avez des changements, utilisez successivement la commande `git add .` pour inclure toutes les modifications, suivie de `git commit -m "message"` (où message sera remplacé par un commentaire sur vos changements), et enfin suivi de `git push` pour envoyer les données au serveur. Avant d'envoyer vos données, faites toujours un `git pull` pour être sur d'avoir votre dossier à jour.
 
+## Transformation FoundryVTT -> markdown
+
+Le projet est branché sur 3 autres projets sous forme de submodules git:
+
+**Module Pathfinder Anglais.** (dossier `_ext/module-en`).  
+Module Foundry VTT pathfinder 2 officiel en anglais : [https://gitlab.com/hooking/foundry-vtt---pathfinder-2e]().
+
+Il contient toutes les pages en anglais concernant des données.
+Les données qui nous intéressent se trouvent dans le dossier `packs/data`, puis dans chaque dossier correspondant au type de données (ex: les actions se trouvent dans le dossier `action.db`).
+Chaque donnée est stockée dans un fichier .json.
+
+**Traduction FR.** (dossier `_ext/trads`).  
+Traductions du module anglais en français : [https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr]()
+
+Il contient toutes les données de traduction des fichiers du module anglais.
+Les fichiers qui nous intéressent se trouvent dans le dossier `data`, puis dans le dossier correspondant au type de données.
+
+Chaque donnée est stockée dans un fichier .htm nommé d'après son id anglais.
+
+Note : l'id unique est généré dans le module anglais, dans une propriété `_id` au début du fichier json.
+
+**Module Pathfinder Français.** (dossier `_ext/module-fr`).  
+Module Foundry VTT FR : [https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2e-lang-fr]().
+
+Module directement utilisable pour Foundry.
+Il contient les données nécessaires pour traduire le module officiel anglais en français.
+
+Note : toutes les données du projet de traduction ne sont pas forcément utilisées dans le module fr.
+
 ## Génération du contenu
 
 Pour générer le contenu des pages, vous allez devoir exécuter les scripts qui se trouvent dans le dossier `_scripts`.
@@ -70,5 +99,3 @@ Avant de générer le site pour la première fois, vous devrez lancer la command
 Une fois les pre-requis installés, vous pouvez lancer la commande `bundle exec jekyll build` qui génèrera une copie du site dans le dossier `_site`.
 
 Utilisez la commande `bundle exec jekyll serve` pour lancer une copie du site. En général le site pourra ensuite être consulté à l'adresse [](http://127.0.0.1:4000/srd/pf2/).
-
-## Transformation FoundryVTT -> markdown

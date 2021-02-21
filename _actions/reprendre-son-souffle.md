@@ -9,4 +9,10 @@ id: qc0VsZ0UesnurUUB
 group: actions
 layout: action
 ---
-<p><strong>Coût</strong> 1 Point de résolution</p><hr><p>Vous vous reposez pendant 10 minutes et récupérez votre endurance. Après avoir terminé cette activité, vous regagnez tous vos points d'Endurance.</p>
+**Coût** 1 Point de résolution
+
+----
+
+Vous vous reposez pendant 10 minutes et récupérez votre endurance. Après avoir terminé cette activité, vous regagnez tous vos points d'Endurance.
+
+

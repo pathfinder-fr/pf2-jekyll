@@ -9,4 +9,6 @@ id: cYtYKa1gDEl7y2N0
 group: actions
 layout: action
 ---
-<p>Vous vous déplacez de la moitié de votre vitesse de voyage avec votre bouclier levé. Si un combat éclate, vous profitez des avantages de @Compendium[pf2e.actionspf2e.xjGwis0uaC2305pm]{Lever un bouclier} avant le début de votre premier tour.</p>
+Vous vous déplacez de la moitié de votre vitesse de voyage avec votre bouclier levé. Si un combat éclate, vous profitez des avantages de @Compendium[pf2e.actionspf2e.xjGwis0uaC2305pm]{Lever un bouclier} avant le début de votre premier tour.
+
+

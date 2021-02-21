@@ -9,4 +9,14 @@ id: OX4fy22hQgUHDr0q
 group: actions
 layout: action
 ---
-<p>Lors d’une conversation d’une minute au moins pendant laquelle vous faites des propositions charismatiques, des flatteries et montrez votre bonne volonté, vous cherchez à faire bonne impression à quelqu’un pour que son attitude vous soit temporairement favorable. À la fin de la conversation, faites un test de Diplomatie contre le DD de Volonté d’une cible, modifié par les éventuelles circonstances que le MJ juge appropriées. Les bonnes impressions (ou les mauvaises en cas d’échec critique) durent uniquement le temps de l’interaction sociale en cours, à moins que le MJ n’en décide autrement.</p><hr><p><strong>Succès critique</strong> L’attitude de la cible à votre encontre s’améliore de deux catégories.</p><p><strong>Succès</strong> L’attitude de la cible à votre encontre s’améliore d’une catégorie.</p><p><strong>Échec critique</strong> L’attitude de la cible à votre encontre se détériore d’une catégorie.</p>
+Lors d’une conversation d’une minute au moins pendant laquelle vous faites des propositions charismatiques, des flatteries et montrez votre bonne volonté, vous cherchez à faire bonne impression à quelqu’un pour que son attitude vous soit temporairement favorable. À la fin de la conversation, faites un test de Diplomatie contre le DD de Volonté d’une cible, modifié par les éventuelles circonstances que le MJ juge appropriées. Les bonnes impressions (ou les mauvaises en cas d’échec critique) durent uniquement le temps de l’interaction sociale en cours, à moins que le MJ n’en décide autrement.
+
+----
+
+**Succès critique** L’attitude de la cible à votre encontre s’améliore de deux catégories.
+
+**Succès** L’attitude de la cible à votre encontre s’améliore d’une catégorie.
+
+**Échec critique** L’attitude de la cible à votre encontre se détériore d’une catégorie.
+
+

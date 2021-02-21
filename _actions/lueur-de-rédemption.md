@@ -9,4 +9,12 @@ id: tuZnRWHixLArvaIf
 group: actions
 layout: action
 ---
-<p><strong>Déclencheur</strong> Un ennemi inflige des dégâts à votre allié et les deux sont à 4,50 m ou moins de vous.</p><hr><p>L’ennemi vacille sous le poids de ses péchés alors que des visions de rédemption défilent dans sa tête. Il doit choisir l’une des options suivantes :&nbsp;&nbsp;</p><ul><li>Les dégâts déclencheurs ne blessent par votre allié.</li><li>L’allié gagne une résistance à tous les dégâts contre les dégâts déclencheurs égale à 2 + votre niveau. Après application de l’effet infligeant des dégâts, l’ennemi devient <a class="entity-link" draggable="true" data-pack="pf2e.conditionitems" data-id="MIRkyAjyBeXivMa7">Affaibli</a> 2 jusqu’à la fin de son prochain tour.</li></ul>
+**Déclencheur** Un ennemi inflige des dégâts à votre allié et les deux sont à 4,50 m ou moins de vous.
+
+----
+
+L’ennemi vacille sous le poids de ses péchés alors que des visions de rédemption défilent dans sa tête. Il doit choisir l’une des options suivantes :  
+
+- Les dégâts déclencheurs ne blessent par votre allié.
+- L’allié gagne une résistance à tous les dégâts contre les dégâts déclencheurs égale à 2 + votre niveau. Après application de l’effet infligeant des dégâts, l’ennemi devient <a class="entity-link" draggable="true" data-pack="pf2e.conditionitems" data-id="MIRkyAjyBeXivMa7">Affaibli</a> 2 jusqu’à la fin de son prochain tour.
+

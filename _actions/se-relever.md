@@ -9,4 +9,6 @@ id: OdIUybJ3ddfL7wzj
 group: actions
 layout: action
 ---
-<p>Vous étiez <a class="entity-link" draggable="true" data-pack="pf2e.conditionitems" data-id="j91X7x0XSomq8d60">À terre</a> et vous Vous relevez.</p>
+Vous étiez <a class="entity-link" draggable="true" data-pack="pf2e.conditionitems" data-id="j91X7x0XSomq8d60">À terre</a> et vous Vous relevez.
+
+

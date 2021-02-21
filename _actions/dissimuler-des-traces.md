@@ -9,4 +9,8 @@ id: SB7cMECVtE06kByk
 group: actions
 layout: action
 ---
-<p>Vous dissimulez vos traces en vous déplaçant à la moitié de votre Vitesse de voyage. Il n’est pas nécessaire de faire un test de Survie pour dissimuler vos traces mais quiconque vous piste doit réussir un test de Survie contre votre DD de Survie s’il est supérieur au DD normal pour <a class="entity-link" draggable="true" data-pack="pf2e.actionspf2e" data-id="EA5vuSgJfiHH7plD">Pister</a>.</p><p>Vous pouvez, dans certains cas, Dissimuler des traces au cours d’une rencontre. Le cas échéant, Dissimuler des traces est une action unique sans le trait exploration.</p>
+Vous dissimulez vos traces en vous déplaçant à la moitié de votre Vitesse de voyage. Il n’est pas nécessaire de faire un test de Survie pour dissimuler vos traces mais quiconque vous piste doit réussir un test de Survie contre votre DD de Survie s’il est supérieur au DD normal pour <a class="entity-link" draggable="true" data-pack="pf2e.actionspf2e" data-id="EA5vuSgJfiHH7plD">Pister</a>.
+
+Vous pouvez, dans certains cas, Dissimuler des traces au cours d’une rencontre. Le cas échéant, Dissimuler des traces est une action unique sans le trait exploration.
+
+

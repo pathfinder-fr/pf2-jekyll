@@ -9,4 +9,16 @@ id: xccOiNL2W1EtfUYl
 group: actions
 layout: action
 ---
-<p>Vous posez une question qui charme ou provoque efficacement quelqu’un. Posez une question à une créature qui n’est pas l'un de vos alliés, que vous pouvez voir et avec laquelle vous conversez. Effectuez un test de Diplomatie contre le DD de Volonté de la créature. La créature est ensuite temporairement immunisée pendant 1 heure.</p><hr><p><strong>Succès critique</strong> La cible doit répondre directement à votre question. Elle n’est pas contrainte de dire la vérité mais vous gagnez un bonus de circonstances de +4 à votre test de Perception si la créature tente de vous <a class="entity-link" draggable="true" data-pack="pf2e.actionspf2e" data-id="ewwCglB7XOPLUz72"><i class="fas fa-suitcase"></i>Mentir</a>.</p><p><strong>Succès</strong> Comme une réussite critique, mais le bonus de circonstances est de +2.</p><p><strong>Échec</strong> La cible peut refuser de vous répondre, comme c’est le cas normalement.</p><p><strong>Échec critique</strong> La cible peut refuser de vous répondre et son attitude envers vous diminue d’un cran parce que l’attention que vous lui portez la vexe.</p>
+Vous posez une question qui charme ou provoque efficacement quelqu’un. Posez une question à une créature qui n’est pas l'un de vos alliés, que vous pouvez voir et avec laquelle vous conversez. Effectuez un test de Diplomatie contre le DD de Volonté de la créature. La créature est ensuite temporairement immunisée pendant 1 heure.
+
+----
+
+**Succès critique** La cible doit répondre directement à votre question. Elle n’est pas contrainte de dire la vérité mais vous gagnez un bonus de circonstances de +4 à votre test de Perception si la créature tente de vous <a class="entity-link" draggable="true" data-pack="pf2e.actionspf2e" data-id="ewwCglB7XOPLUz72"><i class="fas fa-suitcase"></i>Mentir</a>.
+
+**Succès** Comme une réussite critique, mais le bonus de circonstances est de +2.
+
+**Échec** La cible peut refuser de vous répondre, comme c’est le cas normalement.
+
+**Échec critique** La cible peut refuser de vous répondre et son attitude envers vous diminue d’un cran parce que l’attention que vous lui portez la vexe.
+
+

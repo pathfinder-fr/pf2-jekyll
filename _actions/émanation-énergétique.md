@@ -9,4 +9,10 @@ id: 7qjfYsLNTr17Aftf
 group: actions
 layout: action
 ---
-<p><strong>Fréquence</strong> une fois par jour</p><hr><p>De l'énergie jaillit de votre corps. Vous infligez <a class="inline-roll roll" title="1d6" data-mode="roll" data-flavor="" data-formula="1d6">1d6</a> dégâts d'un type au choix à toutes les créatures adjacentes (vous pouvez effectuer un jet de Réflexes basique en utilisant votre DD de classe ou votre DD de sorts, parmi le plus élevé). Au niveau 3, et tous les deux niveaux suivants, ces dégâts sont augmentés de <a class="inline-roll roll" title="1d6" data-mode="roll" data-flavor="" data-formula="1d6">1d6</a>.</p>
+**Fréquence** une fois par jour
+
+----
+
+De l'énergie jaillit de votre corps. Vous infligez <a class="inline-roll roll" title="1d6" data-mode="roll" data-flavor="" data-formula="1d6">1d6</a> dégâts d'un type au choix à toutes les créatures adjacentes (vous pouvez effectuer un jet de Réflexes basique en utilisant votre DD de classe ou votre DD de sorts, parmi le plus élevé). Au niveau 3, et tous les deux niveaux suivants, ces dégâts sont augmentés de <a class="inline-roll roll" title="1d6" data-mode="roll" data-flavor="" data-formula="1d6">1d6</a>.
+
+

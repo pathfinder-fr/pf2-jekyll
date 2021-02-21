@@ -9,4 +9,10 @@ id: jftNJjBNxp2cleoi
 group: actions
 layout: action
 ---
-<p><strong>Fréquence</strong> une fois toutes les 10 minutes</p><hr><p>Vous observez et évaluez votre environnement très rapidement. Vous <a class="entity-link" draggable="true" data-pack="pf2e.actionspf2e" data-id="KygTSeDvsFoSO6HW">Vous souvenez</a>, <a class="entity-link" draggable="true" data-pack="pf2e.actionspf2e" data-id="BlAOM2X92SI6HMtJ">Fouillez</a> ou <a class="entity-link" draggable="true" data-pack="pf2e.actionspf2e" data-id="1xRFPTFtWtGJ9ELw">Deviner les intentions</a>.</p>
+**Fréquence** une fois toutes les 10 minutes
+
+----
+
+Vous observez et évaluez votre environnement très rapidement. Vous <a class="entity-link" draggable="true" data-pack="pf2e.actionspf2e" data-id="KygTSeDvsFoSO6HW">Vous souvenez</a>, <a class="entity-link" draggable="true" data-pack="pf2e.actionspf2e" data-id="BlAOM2X92SI6HMtJ">Fouillez</a> ou <a class="entity-link" draggable="true" data-pack="pf2e.actionspf2e" data-id="1xRFPTFtWtGJ9ELw">Deviner les intentions</a>.
+
+

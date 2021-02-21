@@ -9,4 +9,23 @@ id: EEDElIyin4z60PXx
 group: actions
 layout: action
 ---
-<p>Quand vous donnez une courte représentation (une chanson, une danse rapide ou quelques histoires drôles), vous utilisez l’action Se produire. Cette action est particulièrement utile quand vous voulez prouver votre talent ou impressionner rapidement quelqu’un. Ce genre de représentations a rarement un impact en tant que tel mais elles peuvent influencer le DD de tests de Diplomatie ultérieurs vis‑à‑vis des observateurs, ou même changer leur attitude si le MJ le permet.<br></p><hr /><p><strong>Succès critique</strong> Votre représentation impressionne les gens qui y assistent et ils parleront probablement autour d’eux de votre talent.</p><p><strong>Succès</strong> Vous faites vos preuves et les personnes présentes apprécient la qualité de votre représentation.</p><p><strong>Échec</strong> Votre représentation n'a pas l'effet escompté.</p><p><strong>Échec critique</strong> Vous ne parvenez à démontrer que votre incompétence.</p><h2 class="title">Représentation : exemples de tâches</h2><ul><li><strong>Inexpérimenté</strong> public de roturiers</li><li><strong>Qualifié</strong> public d'artisans</li><li><strong>Expert</strong> public de marchands ou de nobles mineurs</li><li><strong>Maître</strong> public de nobles importants ou de membres mineurs de la famille royale</li><li><strong>Légendaire</strong> public de membres majeurs de la famille royale ou d'entités d'outre-monde</li></ul>
+Quand vous donnez une courte représentation (une chanson, une danse rapide ou quelques histoires drôles), vous utilisez l’action Se produire. Cette action est particulièrement utile quand vous voulez prouver votre talent ou impressionner rapidement quelqu’un. Ce genre de représentations a rarement un impact en tant que tel mais elles peuvent influencer le DD de tests de Diplomatie ultérieurs vis‑à‑vis des observateurs, ou même changer leur attitude si le MJ le permet.<br>
+
+----
+
+**Succès critique** Votre représentation impressionne les gens qui y assistent et ils parleront probablement autour d’eux de votre talent.
+
+**Succès** Vous faites vos preuves et les personnes présentes apprécient la qualité de votre représentation.
+
+**Échec** Votre représentation n'a pas l'effet escompté.
+
+**Échec critique** Vous ne parvenez à démontrer que votre incompétence.
+
+## Représentation : exemples de tâches
+
+- **Inexpérimenté** public de roturiers
+- **Qualifié** public d'artisans
+- **Expert** public de marchands ou de nobles mineurs
+- **Maître** public de nobles importants ou de membres mineurs de la famille royale
+- **Légendaire** public de membres majeurs de la famille royale ou d'entités d'outre-monde
+

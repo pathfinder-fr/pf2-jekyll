@@ -9,4 +9,6 @@ id: HYNhdaPtF1QmQbR3
 group: actions
 layout: action
 ---
-<p>Vous vous laissez tomber <a class="entity-link" draggable="true" data-pack="pf2e.conditionitems" data-id="j91X7x0XSomq8d60">À terre</a>.</p>
+Vous vous laissez tomber <a class="entity-link" draggable="true" data-pack="pf2e.conditionitems" data-id="j91X7x0XSomq8d60">À terre</a>.
+
+

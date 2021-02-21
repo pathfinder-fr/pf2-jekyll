@@ -10,6 +10,9 @@ Environment.CurrentDirectory = GetScriptFolder();
 
 public record TradDataEntry(string Id, string Group, string French, string English, string FrenchDescription, string EnglishDescription, string Status, string OldStatus);
 
+/// <summary>
+/// Lit un fichier de traduction FR et exporte les données de l'entête et les descriptions dans une classe TradDataEntry.
+/// </summary>
 public TradDataEntry ReadTradDataEntry(string file)
 {
     // data/backgrounds/0EIhRniun8jfdPeN.htm => 0EIhRniun8jfdPeN

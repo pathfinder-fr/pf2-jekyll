@@ -9,4 +9,27 @@ id: pprgrYQ1QnIDGZiy
 group: actions
 layout: action
 ---
-<p><strong>Conditions</strong> Vos deux mains sont libres.</p><hr><p>Vous montez, descendez ou parcourez une déclivité. Vous devez effectuer un test d’Athlétisme, sauf si l’action est particulièrement facile. Le MJ détermine le DD en fonction de la nature de la déclivité et des circonstances environnementales. Vous êtes <a class="entity-link" draggable="true" data-pack="pf2e.conditionitems" data-id="AJh5ex99aV6VTggg">pris au dépourvu</a>, sauf si vous avez une Vitesse d’escalade.</p><hr><p><strong>Succès critique</strong> Vous montez, parcourez ou descendez la déclivité sans problème. La distance parcourue est égale à 1,50 m plus 1,50 m par tranche de 6 m de votre Vitesse au sol (ce qui donne un total de 3 m pour la plupart des PJ).</p><p><strong>Succès</strong> Vous montez, parcourez ou descendez la déclivité sans problème. La distance parcourue est égale à 1,50 m par tranche de 6 m de votre Vitesse au sol (ce qui donne un total de 1,50 m pour la plupart des PJ, avec un minimum de 1,50 m si votre Vitesse est inférieure à 6 m).</p><p><strong>Échec critique</strong> Vous chutez. Si vous avez commencé votre escalade sur un sol stable, vous tombez <a class="entity-link" draggable="true" data-pack="pf2e.conditionitems" data-id="j91X7x0XSomq8d60">à terre</a>.</p><hr><h2><strong>Escalader : exemples de tâches</h2><ul><li><p><strong>Inexpérimenté</strong> échelle, pente abrupte, arbre aux branches basses</li><li><strong>Qualifié</strong> gréement, corde, arbre typique</li><li><strong>Expert</strong> mur avec des petites prises pour les pieds et les mains</li><li><strong>Maître</strong> plafond avec des prises pour les pieds et les mains, mur de roche</li><li><strong>Légendaire</strong> surface lisse</li></ul>
+**Conditions** Vos deux mains sont libres.
+
+----
+
+Vous montez, descendez ou parcourez une déclivité. Vous devez effectuer un test d’Athlétisme, sauf si l’action est particulièrement facile. Le MJ détermine le DD en fonction de la nature de la déclivité et des circonstances environnementales. Vous êtes <a class="entity-link" draggable="true" data-pack="pf2e.conditionitems" data-id="AJh5ex99aV6VTggg">pris au dépourvu</a>, sauf si vous avez une Vitesse d’escalade.
+
+----
+
+**Succès critique** Vous montez, parcourez ou descendez la déclivité sans problème. La distance parcourue est égale à 1,50 m plus 1,50 m par tranche de 6 m de votre Vitesse au sol (ce qui donne un total de 3 m pour la plupart des PJ).
+
+**Succès** Vous montez, parcourez ou descendez la déclivité sans problème. La distance parcourue est égale à 1,50 m par tranche de 6 m de votre Vitesse au sol (ce qui donne un total de 1,50 m pour la plupart des PJ, avec un minimum de 1,50 m si votre Vitesse est inférieure à 6 m).
+
+**Échec critique** Vous chutez. Si vous avez commencé votre escalade sur un sol stable, vous tombez <a class="entity-link" draggable="true" data-pack="pf2e.conditionitems" data-id="j91X7x0XSomq8d60">à terre</a>.
+
+----
+
+<h2>**Escalader : exemples de tâches
+
+- **Inexpérimenté** échelle, pente abrupte, arbre aux branches basses
+- **Qualifié** gréement, corde, arbre typique
+- **Expert** mur avec des petites prises pour les pieds et les mains
+- **Maître** plafond avec des prises pour les pieds et les mains, mur de roche
+- **Légendaire** surface lisse
+

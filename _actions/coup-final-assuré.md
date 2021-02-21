@@ -9,4 +9,10 @@ id: K878asDgf1EF0B9S
 group: actions
 layout: action
 ---
-<p>Vous portez une attaque incroyablement élégante qui transperce les défenses de votre ennemi. Effectuez une <a class="entity-link" draggable="true" data-pack="pf2e.actionspf2e" data-id="VjxZFuUXrCU94MWR">Frappe</a> à l’aide d’une arme ou d’une attaque à mains nues qui permet d’appliquer vos dégâts de frappe précise, avec l’effet suivant en cas d’échec.&nbsp;</p><hr><p><strong>Échec</strong> Vous infligez la moitié de vos dégâts de <a class="entity-link" draggable="true" data-pack="pf2e.classfeatures" data-id="RQH6vigvhmiYKKjg"> Frappe précise</a> à la cible. Le type de ces dégâts est le même que celui de l’arme ou de l’attaque sans arme utilisée pour la Frappe.</p>
+Vous portez une attaque incroyablement élégante qui transperce les défenses de votre ennemi. Effectuez une <a class="entity-link" draggable="true" data-pack="pf2e.actionspf2e" data-id="VjxZFuUXrCU94MWR">Frappe</a> à l’aide d’une arme ou d’une attaque à mains nues qui permet d’appliquer vos dégâts de frappe précise, avec l’effet suivant en cas d’échec. 
+
+----
+
+**Échec** Vous infligez la moitié de vos dégâts de <a class="entity-link" draggable="true" data-pack="pf2e.classfeatures" data-id="RQH6vigvhmiYKKjg"> Frappe précise</a> à la cible. Le type de ces dégâts est le même que celui de l’arme ou de l’attaque sans arme utilisée pour la Frappe.
+
+

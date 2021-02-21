@@ -9,4 +9,6 @@ id: 8kGpUUUSX1sB2OqQ
 group: actions
 layout: action
 ---
-<p>Vous passez 1 minute à appeler un compagnon animal différent, changeant de compagnon actif pour un autre de vos compagnons animaux de votre choix.</p>
+Vous passez 1 minute à appeler un compagnon animal différent, changeant de compagnon actif pour un autre de vos compagnons animaux de votre choix.
+
+
