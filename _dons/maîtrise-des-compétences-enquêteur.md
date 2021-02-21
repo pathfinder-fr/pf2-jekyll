@@ -1,0 +1,16 @@
+---
+# ATTENTION : Ne modifiez pas ce fichier
+# Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
+title: Maîtrise des compétences (Enquêteur)
+titleEn: Skill Mastery (Investigator)
+id: v4O6eDiSOkzQZHmT
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/v4O6eDiSOkzQZHmT.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/skill-mastery-investigator.json
+group: feats
+layout: dons
+---
+Augmentez le rang de maîtrise de l’une de vos compétences d’expert à maître et le rang d'une autre de vos compétences de qualifié à expert. Vous gagnez un don de compétence associé à l’une des compétences que vous avez choisies.
+
+**Spécial** Vous pouvez sélectionner ce don jusqu’à cinq fois.
+
+
