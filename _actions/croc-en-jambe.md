@@ -15,7 +15,7 @@ layout: action
 
 Vous tentez de faire tomber un adversaire. Effectuez un test d’Athlétisme contre le DD de Réflexes de la cible.
 
-**Succès critique** La cible tombe [À terre](/_condition-items/à-terre.md) et subit 1d6 dégâts contondants.
+**Succès critique** La cible tombe [À terre](../condition-items/à-terre.md) et subit 1d6 dégâts contondants.
 
 **Succès** La cible tombe À terre.
 

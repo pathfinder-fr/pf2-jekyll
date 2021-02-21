@@ -11,6 +11,6 @@ urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/pack
 group: actions
 layout: action
 ---
-Vous vous déplacez de la moitié de votre vitesse de voyage avec votre bouclier levé. Si un combat éclate, vous profitez des avantages de [Lever un bouclier](/_actions/lever-un-bouclier.md) avant le début de votre premier tour.
+Vous vous déplacez de la moitié de votre vitesse de voyage avec votre bouclier levé. Si un combat éclate, vous profitez des avantages de [Lever un bouclier](lever-un-bouclier.md) avant le début de votre premier tour.
 
 

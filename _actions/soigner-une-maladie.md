@@ -11,7 +11,7 @@ urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/pack
 group: actions
 layout: action
 ---
-**Conditions** Vous maniez ou transportez des [instruments de guérisseur](/_equipment/outils-de-guérisseur.md)] 
+**Conditions** Vous maniez ou transportez des [instruments de guérisseur](../equipment/outils-de-guérisseur.md)] 
 
 Vous passez au moins huit heures à prendre soin d’une créature malade. Faites un test de Médecine contre le DD de la maladie. Après avoir tenté de soigner une créature malade, vous ne pouvez pas faire d’autres tentatives tant que la créature n’a pas encore fait son prochain jet de sauvegarde contre la maladie.
 

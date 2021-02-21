@@ -11,6 +11,6 @@ urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/pack
 group: actions
 layout: action
 ---
-Vous [Marchez rapidement](/_actions/marcher-rapidement.md) deux fois. La durée du [Mutagène cœur de drake](/_equipment/mutagène-de-cœur-de-drake-inférieur.md) s'achève.
+Vous [Marchez rapidement](marcher-rapidement.md) deux fois. La durée du [Mutagène cœur de drake](../equipment/mutagène-de-cœur-de-drake-inférieur.md) s'achève.
 
 

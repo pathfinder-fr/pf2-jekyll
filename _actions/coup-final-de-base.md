@@ -11,6 +11,6 @@ urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/pack
 group: actions
 layout: action
 ---
-Vous exécutez une attaque gracieuse et mortelle. Faites une [Frappe](/_actions/frapper.md) ; si vous touchez et que votre arme permet une [Frappe précise](/_class-features/frappe-précise.md), vous infligez le totalité des dégâts du d6 de Frappe précise.
+Vous exécutez une attaque gracieuse et mortelle. Faites une [Frappe](frapper.md) ; si vous touchez et que votre arme permet une [Frappe précise](../class-features/frappe-précise.md), vous infligez le totalité des dégâts du d6 de Frappe précise.
 
 

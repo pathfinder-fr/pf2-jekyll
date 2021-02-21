@@ -16,5 +16,5 @@ layout: action
 La créature reçoit l’un des handicaps suivants, qui dure jusqu’à la fin de votre prochain tour.
 
 - **Handicap** La cible reçoit un malus de statut de -3 m à ses Vitesses.
-- **Handicap** La cible devient [Affaiblie](/_condition-items/affaibli.md) 1.
+- **Handicap** La cible devient [Affaiblie](../condition-items/affaibli.md) 1.
 

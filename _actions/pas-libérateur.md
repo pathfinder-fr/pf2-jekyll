@@ -11,8 +11,8 @@ urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/pack
 group: actions
 layout: action
 ---
-**Déclencheur** Un ennemi inflige des dégâts, [Empoigne](/_condition-items/agrippé/empoigné.md) ou [Saisit](/_actions/saisir.md) votre allié et les deux sont à 4,50 m ou moins de vous.
+**Déclencheur** Un ennemi inflige des dégâts, [Empoigne](../condition-items/agrippé/empoigné.md) ou [Saisit](saisir.md) votre allié et les deux sont à 4,50 m ou moins de vous.
 
-Vous libérez un allié de ce qui l’[entrave](/_condition-items/entravé.md). Si le déclencheur est un allié qui subit des dégâts, il gagne une résistance à tous les dégâts contre les dégâts déclencheurs égale à 2 + votre niveau. L’allié peut tenter de se libérer des effets qui l’empoignent, l’entravent, l’[Immobilisent](/_condition-items/immobilisé.md) ou le [Paralysent](/_condition-items/paralysé.md). Soit il effectue un nouveau jet de sauvegarde contre un tel effet s’il autorise un jet de sauvegarde, soit il tente de [S’échapper](/_actions/s-échapper.md) de l’un de ces effets par une action gratuite. S’il peut se déplacer, il peut Faire un pas par une action gratuite, même s’il n’a pas eu besoin de s’échapper.
+Vous libérez un allié de ce qui l’[entrave](../condition-items/entravé.md). Si le déclencheur est un allié qui subit des dégâts, il gagne une résistance à tous les dégâts contre les dégâts déclencheurs égale à 2 + votre niveau. L’allié peut tenter de se libérer des effets qui l’empoignent, l’entravent, l’[Immobilisent](../condition-items/immobilisé.md) ou le [Paralysent](../condition-items/paralysé.md). Soit il effectue un nouveau jet de sauvegarde contre un tel effet s’il autorise un jet de sauvegarde, soit il tente de [S’échapper](s-échapper.md) de l’un de ces effets par une action gratuite. S’il peut se déplacer, il peut Faire un pas par une action gratuite, même s’il n’a pas eu besoin de s’échapper.
 
 

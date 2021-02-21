@@ -17,7 +17,7 @@ Vous pouvez maudire une autre créature la rendant maladroite. Cette malédictio
 
 **Succès** la cible n'est pas affectée est est immunisée de manière temporaire pendant 24 h.
 
-**Échec** la cible est [Maladroite](/_conditions/maladroit.md) 1 pendant 1 minute.
+**Échec** la cible est [Maladroite](../conditions/maladroit.md) 1 pendant 1 minute.
 
 **Échec critique** La cible est Maladroite 2 pendant 1 minute.
 

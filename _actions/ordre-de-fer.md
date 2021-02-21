@@ -15,8 +15,8 @@ layout: action
 
 Vous remettez l'impertinent ennemi qui a osé vous blesser à sa place. Vous ordonnez à l'ennemi de se prosterner devant vous en signe de soumission. S'il ose refuser, il doit en payer le prix dans la douleur et l'angoisse. L'ennemi doit choisir une des deux options suivantes.
 
-- L'ennemi s'agenouille, se mettant [À terre](/_conditions/à-terre.md) par une action libre.
+- L'ennemi s'agenouille, se mettant [À terre](../conditions/à-terre.md) par une action libre.
 - L'ennemi refuse et vous lui infligez 1d6 dégâts mentaux. Ces dégâts passent à 2d6 au niveau 5, 3d6 au niveau 9, 4d6 au niveau 12, 5d6 au niveau 16 et 6d6 au niveau 19.
-de plus, vos [Frappes](/_actions/frapper.md) contre la créatue déclencheuse inflige 1 dégât supplémentaire jusqu'à la fin de votre prochain tour. Vous choisissez de quel type de dégât il s'agit entre mal et négatif à chaque fois que vous utilisez cette réaction. Ces dégâts supplémentaires passent à 2 au niveau 9 et 3 au niveau 16.
+de plus, vos [Frappes](frapper.md) contre la créatue déclencheuse inflige 1 dégât supplémentaire jusqu'à la fin de votre prochain tour. Vous choisissez de quel type de dégât il s'agit entre mal et négatif à chaque fois que vous utilisez cette réaction. Ces dégâts supplémentaires passent à 2 au niveau 9 et 3 au niveau 16.
 
 

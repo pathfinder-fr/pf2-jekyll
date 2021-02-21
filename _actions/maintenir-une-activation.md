@@ -11,7 +11,7 @@ urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/pack
 group: actions
 layout: action
 ---
-**Conditions** Vous avez au moins une activation d’objet magique que vous pouvez maintenir et vous n’êtes pas [fatigué](/_condition-items/fatigué.md)
+**Conditions** Vous avez au moins une activation d’objet magique que vous pouvez maintenir et vous n’êtes pas [fatigué](../condition-items/fatigué.md)
 
 Choisissez une activation d’objet magique avec une durée maintenue que vous avez actuellement active. La durée de cette activation se prolonge jusqu’à la fin de votre prochain tour. Certaines activations ont un effet légèrement différent ou étendu si vous les maintenez.
 

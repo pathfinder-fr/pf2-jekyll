@@ -17,6 +17,6 @@ layout: action
 
 **Déclencheur** Vous êtes attaqué par un ennemi
 
-La magie qui est en vous se manifeste comme une réaction naturelle à une menace. Vous obtenez les effets d'e '[Image miroir](/_spells/image-miroir.md) mais avec deux images au lieu de trois. La tradition de cette action est la même que la tradition des option de votre ascendance gnome.
+La magie qui est en vous se manifeste comme une réaction naturelle à une menace. Vous obtenez les effets d'e '[Image miroir](../spells/image-miroir.md) mais avec deux images au lieu de trois. La tradition de cette action est la même que la tradition des option de votre ascendance gnome.
 
 

@@ -11,7 +11,7 @@ urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/pack
 group: actions
 layout: action
 ---
-Vous pouvez fabriquer un objet avec des matières premières. Vous devez avoir le don de compétence [Artisanat alchimique](/_feats/artisanat-alchimique.md) pour créer des objets alchimiques, le don de compétence [Artisanat magique](/_feats/artisanat-magique.md) pour créer des objets magiques et le don [Fabrication de pièges](/_feats/fabrication-de-pièges-artisanaux.md) pour créer des pièges.
+Vous pouvez fabriquer un objet avec des matières premières. Vous devez avoir le don de compétence [Artisanat alchimique](../feats/artisanat-alchimique.md) pour créer des objets alchimiques, le don de compétence [Artisanat magique](../feats/artisanat-magique.md) pour créer des objets magiques et le don [Fabrication de pièges](../feats/fabrication-de-pièges-artisanaux.md) pour créer des pièges.
 
 Pour fabriquer un objet, vous devez satisfaire aux conditions suivantes :
 

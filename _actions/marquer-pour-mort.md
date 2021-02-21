@@ -13,7 +13,7 @@ layout: action
 ---
 **Conditions** Vous pouvez voir et entendre la créature que vous avez l'intention de marquer
 
-Vous désignez une unique créature comme votre marque. Cela dure jusqu'à ce que la créature marquée meure ou que vous utilisez Marquer pour mort de nouveau. Vous obtenez un bonus de circonstante de +2 aux tests de Perception pour [Chercher](/_actions/chercher.md) votre marque et aux tests de Duperie pour [Feinter](/_actions/feinter.md) contre votre créature marquée.
+Vous désignez une unique créature comme votre marque. Cela dure jusqu'à ce que la créature marquée meure ou que vous utilisez Marquer pour mort de nouveau. Vous obtenez un bonus de circonstante de +2 aux tests de Perception pour [Chercher](chercher.md) votre marque et aux tests de Duperie pour [Feinter](feinter.md) contre votre créature marquée.
 
 Vos armes et attaques à mains nues avec les traits agile et finesse obtiennent les traits d'arme traître et mortel d6 lorsque vous attaquez votre créature marquée.
 

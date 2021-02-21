@@ -11,7 +11,7 @@ urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/pack
 group: actions
 layout: action
 ---
-**Conditions** Vous avez des [outils de voleur](/_equipment/outils-de-voleur.md)
+**Conditions** Vous avez des [outils de voleur](../equipment/outils-de-voleur.md)
 
 Déverrouiller une serrure sans sa clef est très similaire au Désamorçage d’un dispositif mais le DD du test est déterminé par la complexité et la structure de la serrure que vous tentez de crocheter (les serrures et leur DD sont décrits à leurs descriptions). Les serrures de qualité supérieure peuvent nécessiter plusieurs succès pour parvenir à les déverrouiller car sinon, même un cambrioleur sans talent pourrait facilement ouvrir toutes les serrures en répétant ses tests jusqu’à obtenir un 20 naturel. Si vous ne disposez pas d’outils appropriés, le MJ peut vous autoriser à utiliser des outils improvisés, considérés comme des outils de mauvaise qualité, en fonction des spécificités de chaque serrure.
 
@@ -20,6 +20,6 @@ Déverrouiller une serrure sans sa clef est très similaire au Désamorçage d�
 
 **Succès** Vous déverrouillez la serrure ou vous obtenez un succès pour réussir à ouvrir une serrure complexe.
 
-**Échec critique** Vous cassez vos outils. Les Réparer nécessite l’utilisation de la compétence Artisanat pour [Réparer](/_actions/réparer.md) ou leur remplacement.
+**Échec critique** Vous cassez vos outils. Les Réparer nécessite l’utilisation de la compétence Artisanat pour [Réparer](réparer.md) ou leur remplacement.
 
 

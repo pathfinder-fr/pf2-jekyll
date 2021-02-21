@@ -13,6 +13,6 @@ layout: action
 ---
 Vous lancez un sort à répétition en vous déplaçant à mi‑vitesse. Typiquement, ce sort est un tour de magie dont vous voulez bénéficier si un combat éclate. Vous devez obligatoirement pouvoir le lancer en 2 actions ou moins. Afin d’éviter de subir les effets de la fatigue suite à cette incantation répétée, vous aurez probablement recours à cette activité seulement si quelque chose sortant de l’ordinaire se produit.
 
-Vous pouvez à la place utiliser cette activité pour continuer à [Maintenir un sort](/_actions/maintenir-un-sort.md) ou [Maintenir une activation](/_actions/maintenir-une-activation.md) avec une durée maintenue. La plupart de ces effets de sorts ou d’objets peuvent être maintenus pendant 10 min. Les descriptifs de certains s’accompagnent cependant d’une précision différente sur la durée pendant laquelle ils peuvent être maintenus.
+Vous pouvez à la place utiliser cette activité pour continuer à [Maintenir un sort](maintenir-un-sort.md) ou [Maintenir une activation](maintenir-une-activation.md) avec une durée maintenue. La plupart de ces effets de sorts ou d’objets peuvent être maintenus pendant 10 min. Les descriptifs de certains s’accompagnent cependant d’une précision différente sur la durée pendant laquelle ils peuvent être maintenus.
 
 

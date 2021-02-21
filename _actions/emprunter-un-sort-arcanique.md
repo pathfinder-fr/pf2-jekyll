@@ -11,7 +11,7 @@ urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/pack
 group: actions
 layout: action
 ---
-Si vous êtes un incantateur arcanique qui prépare ses sorts écrits dans un grimoire, vous pouvez essayer de préparer un sort inscrit dans le grimoire de quelqu’un d’autre. Le MJ fixe le DD du test en fonction du niveau du sort et de sa rareté ; c’est généralement un peu plus simple que d’[Apprendre le sort](/_actions/apprendre-un-sort.md).
+Si vous êtes un incantateur arcanique qui prépare ses sorts écrits dans un grimoire, vous pouvez essayer de préparer un sort inscrit dans le grimoire de quelqu’un d’autre. Le MJ fixe le DD du test en fonction du niveau du sort et de sa rareté ; c’est généralement un peu plus simple que d’[Apprendre le sort](apprendre-un-sort.md).
 **Succès** Vous préparez le sort emprunté lors de votre préparation normale des sorts.
 
 **Échec**  Vous ne parvenez pas à préparer le sort mais l’emplacement de sort reste disponible pour en préparer un autre. Vous ne pouvez pas tenter de préparer ce sort jusqu’à votre prochaine préparation des sorts.

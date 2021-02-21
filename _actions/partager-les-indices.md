@@ -15,6 +15,6 @@ layout: action
 
 **déclencheur** Une autre créature tente un test lié pour enquêter sur une piste que vous êtes en train de Suivre.
 
-Vous partagez des informations avec la créature déclencheuse. Elle gagne un bonus de circonstance à son test égal à votre bonus de circonstance pour les tests relatifs au sujet de la piste que vous [Suivez](/_actions/suivre-une-piste.md). Le MJ peut ajouter d’autres traits à cette réaction en fonction de la situation (comme auditif et linguistique si vous partagez ces informations de manière orale).
+Vous partagez des informations avec la créature déclencheuse. Elle gagne un bonus de circonstance à son test égal à votre bonus de circonstance pour les tests relatifs au sujet de la piste que vous [Suivez](suivre-une-piste.md). Le MJ peut ajouter d’autres traits à cette réaction en fonction de la situation (comme auditif et linguistique si vous partagez ces informations de manière orale).
 
 

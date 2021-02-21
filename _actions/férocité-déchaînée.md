@@ -11,10 +11,10 @@ urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/pack
 group: actions
 layout: action
 ---
-**Prérequis** [Férocité orque](/_feats/férocité-orque.md)
+**Prérequis** [Férocité orque](../feats/férocité-orque.md)
 
-**Déclencheur** Vous utilisez [Férocité orque](/_feats/férocité-orque.md).
+**Déclencheur** Vous utilisez [Férocité orque](../feats/férocité-orque.md).
 
-Vous vous déchaînez même as lorsque vous repoussez la mort. Faites une unique [Frappe](/_actions/frapper.md) au corps-à-corps. Si cette Frappe amène votre adversaire à 0 Points de vie, cette activation de Férocité orque n'est pas décomptée de sa fréquence.
+Vous vous déchaînez même as lorsque vous repoussez la mort. Faites une unique [Frappe](frapper.md) au corps-à-corps. Si cette Frappe amène votre adversaire à 0 Points de vie, cette activation de Férocité orque n'est pas décomptée de sa fréquence.
 
 

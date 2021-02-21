@@ -13,6 +13,6 @@ layout: action
 ---
 **Fréquence** une fois toutes les 10 minutes
 
-Vous observez et évaluez votre environnement très rapidement. Vous [Vous souvenez](/_actions/se-souvenir-arcanes.md), [Fouillez](/_actions/chercher.md) ou [Deviner les intentions](/_actions/deviner-les-intentions.md).
+Vous observez et évaluez votre environnement très rapidement. Vous [Vous souvenez](se-souvenir-arcanes.md), [Fouillez](chercher.md) ou [Deviner les intentions](deviner-les-intentions.md).
 
 

@@ -11,6 +11,6 @@ urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/pack
 group: actions
 layout: action
 ---
-Vous Marchez rapidement jusqu'à être adjacent à une créature et tentez de la [Démoraliser](/_actions/démoraliser.md). Si vous réussissez, la créature est [Effrayée](/_condition-items/effrayé.md) 2 au lieu d’Effrayée 1.
+Vous Marchez rapidement jusqu'à être adjacent à une créature et tentez de la [Démoraliser](démoraliser.md). Si vous réussissez, la créature est [Effrayée](../condition-items/effrayé.md) 2 au lieu d’Effrayée 1.
 
 

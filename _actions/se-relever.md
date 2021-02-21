@@ -11,6 +11,6 @@ urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/pack
 group: actions
 layout: action
 ---
-Vous étiez [À terre](/_condition-items/à-terre.md) et vous Vous relevez.
+Vous étiez [À terre](../condition-items/à-terre.md) et vous Vous relevez.
 
 

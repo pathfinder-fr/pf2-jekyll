@@ -13,6 +13,6 @@ layout: action
 ---
 <span>**Conditions** Vous êtes à terre et votre Vitesse est d'au moins 3 mètres.</span>
 
-Vous vous déplacez de 1,50 mètres en rampant, en restant [À terre](/_condition-items/à-terre.md).
+Vous vous déplacez de 1,50 mètres en rampant, en restant [À terre](../condition-items/à-terre.md).
 
 

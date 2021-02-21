@@ -13,7 +13,7 @@ layout: action
 ---
 Vous posez une question qui charme ou provoque efficacement quelqu’un. Posez une question à une créature qui n’est pas l'un de vos alliés, que vous pouvez voir et avec laquelle vous conversez. Effectuez un test de Diplomatie contre le DD de Volonté de la créature. La créature est ensuite temporairement immunisée pendant 1 heure.
 
-**Succès critique** La cible doit répondre directement à votre question. Elle n’est pas contrainte de dire la vérité mais vous gagnez un bonus de circonstances de +4 à votre test de Perception si la créature tente de vous [Mentir](/_actions/mentir.md).
+**Succès critique** La cible doit répondre directement à votre question. Elle n’est pas contrainte de dire la vérité mais vous gagnez un bonus de circonstances de +4 à votre test de Perception si la créature tente de vous [Mentir](mentir.md).
 
 **Succès** Comme une réussite critique, mais le bonus de circonstances est de +2.
 

@@ -15,10 +15,10 @@ Vous Marchez rapidement, puis vous Bondissez à l’horizontale et effectuez un 
 
 Si vous ne prenez pas un élan d’au moins 3 m avec l’action Marcher rapidement, ou si vous tentez de sauter dans une direction différente de celle de votre Marche rapide, vous ratez automatiquement votre test. Le MJ peut augmenter ou diminuer ce DD en fonction des situations.
 
-**Succès** La distance horizontale maximale de votre [Bond](/_actions/bondir.md) est égale à la distance voulue.
+**Succès** La distance horizontale maximale de votre [Bond](bondir.md) est égale à la distance voulue.
 
 **Échec** Vous bondissez normalement.
 
-**Échec critique** Vous bondissez normalement, puis tombez [À terre](/_condition-items/à-terre.md).
+**Échec critique** Vous bondissez normalement, puis tombez [À terre](../condition-items/à-terre.md).
 
 

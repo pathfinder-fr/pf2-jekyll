@@ -13,11 +13,11 @@ layout: action
 ---
 **Prérequis** Dévouement Dompteur d'animaux
 
-**Conditions** Le compagnon animal a réussi sa dernière action [Se produire](/_actions/se-produire.md). Le compagnon animal continue sa représentation pour attirer l'attention d'une cible unique dans un rayon de 9 mètres qui a été témoin de la représentation du compagnon. La cible doit effectuer un jet de Volonté.
+**Conditions** Le compagnon animal a réussi sa dernière action [Se produire](se-produire.md). Le compagnon animal continue sa représentation pour attirer l'attention d'une cible unique dans un rayon de 9 mètres qui a été témoin de la représentation du compagnon. La cible doit effectuer un jet de Volonté.
 
 **Succès** La cible n'est pas affectée et est temporairement immunisée pendant 1 heure.
 
-**Échec** La cible est [Fascinée](/_condition-items/fasciné.md) par la représentation du compagnon jusqu'à ce qu'il effectue sa prochaine action et est ensuite temporairement immunisée pendant 1 heure.
+**Échec** La cible est [Fascinée](../condition-items/fasciné.md) par la représentation du compagnon jusqu'à ce qu'il effectue sa prochaine action et est ensuite temporairement immunisée pendant 1 heure.
 
 **Échec critique** La cible est Fascinée par la représentation du compagnon durant 1 round. Tant que la cible reste Fascinée, elle ne peut utiliser de réactions.
 
