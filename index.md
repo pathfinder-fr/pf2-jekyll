@@ -9,7 +9,7 @@ title: Bienvenue
 	<tr><th>Nom</th><th>Nom anglais</th></tr>
 	{% for item in site.actions %}
 	  <tr>
-	  	<td><a href="/srd/pf2{{ item.url }}">{{item.title}}</a></td>
+	  	<td><a href="{{ item.url | relative_url }}">{{item.title}}</a></td>
 	  	<td>{{item.titleEn}}</td>
 	  </tr>
 	{%- endfor -%}
