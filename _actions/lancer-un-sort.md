@@ -4,9 +4,10 @@
 title: Lancer un sort
 titleEn: Cast a Spell
 id: aBQ8ajvEBByv45yz
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/aBQ8ajvEBByv45yz.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/cast-a-spell.json
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/aBQ8ajvEBByv45yz.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/cast-a-spell.json
 group: actions
+layout: actions
 type: passive
 typeFr: Passive
 ---

@@ -4,9 +4,10 @@
 title: Solliciter
 titleEn: Request
 id: DCb62iCBrJXy0Ik6
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/DCb62iCBrJXy0Ik6.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/request.json
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/DCb62iCBrJXy0Ik6.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/request.json
 group: actions
+layout: actions
 type: action
 typeFr: Action Unique
 ---

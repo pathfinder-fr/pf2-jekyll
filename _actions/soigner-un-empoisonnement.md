@@ -4,9 +4,10 @@
 title: Soigner un empoisonnement
 titleEn: Treat Poison
 id: KjoCEEmPGTeFE4hh
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/KjoCEEmPGTeFE4hh.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/treat-poison.json
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/KjoCEEmPGTeFE4hh.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/treat-poison.json
 group: actions
+layout: actions
 type: action
 typeFr: Action Unique
 ---

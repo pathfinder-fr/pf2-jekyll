@@ -4,9 +4,10 @@
 title: Subsister
 titleEn: Subsist
 id: 49y9Ec4bDii8pcD3
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/49y9Ec4bDii8pcD3.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/subsist.json
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/49y9Ec4bDii8pcD3.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/subsist.json
 group: actions
+layout: actions
 type: passive
 typeFr: Passive
 ---
@@ -16,7 +17,7 @@ Vous tentez d’obtenir de la nourriture et un abri pour vous et potentiellement
 
 **Succès** Vous trouvez de la nourriture et un abri simple qui vous protège contre les éléments afin de bénéficier du strict minimum en matière de subsistance.
 
-**Échec** Vous êtes exposé aux éléments et n’obtenez pas assez de nourriture. Vous êtes [Fatigué](../condition-items/fatigué.md) tant que vous n’obtenez pas suffisamment de nourriture et un abri convenable.
+**Échec** Vous êtes exposé aux éléments et n’obtenez pas assez de nourriture. Vous êtes [Fatigué](../etats/fatigué.md) tant que vous n’obtenez pas suffisamment de nourriture et un abri convenable.
 
 **Échec critique** Vous rencontrez des problèmes, vous mangez quelque chose qui ne passe pas ou votre situation se détériore d’une façon ou d’une autre. Vous subissez un malus de circonstances de −2 aux tests pour Subsister pendant une semaine. Vous ne trouvez aucune nourriture ; si vous n’en avez pas en réserve, vous risquez de mourir de faim ou de soif si vous continuez à rater vos tests pour Subsister.
 

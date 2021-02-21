@@ -4,9 +4,10 @@
 title: Voler
 titleEn: Steal
 id: RDXXE7wMrSPCLv5k
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/RDXXE7wMrSPCLv5k.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/steal.json
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/RDXXE7wMrSPCLv5k.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/steal.json
 group: actions
+layout: actions
 type: action
 typeFr: Action Unique
 ---

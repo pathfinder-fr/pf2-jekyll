@@ -4,9 +4,10 @@
 title: Feinter
 titleEn: Feint
 id: QNAVeNKtHA0EUw4X
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/QNAVeNKtHA0EUw4X.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/feint.json
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/QNAVeNKtHA0EUw4X.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/feint.json
 group: actions
+layout: actions
 type: action
 typeFr: Action Unique
 ---
@@ -14,7 +15,7 @@ typeFr: Action Unique
 
 À l’aide d’un moulinet trompeur, vous faites en sorte qu’un adversaire ne puisse pas voir venir votre véritable attaque. Effectuez un test de Duperie contre le DD de Perception de cet adversaire.
 
-**Succès critique** Les tentatives de défense de votre ennemi sont complètement inefficaces. La cible est [Prise au dépourvu](../condition-items/pris-au-dépourvu.md) contre les attaques au corps à corps que vous portez contre elle jusqu’à la fin de votre prochain tour.
+**Succès critique** Les tentatives de défense de votre ennemi sont complètement inefficaces. La cible est [Prise au dépourvu](../etats/pris-au-dépourvu.md) contre les attaques au corps à corps que vous portez contre elle jusqu’à la fin de votre prochain tour.
 
 **Succès** Vous feintez votre adversaire, mais pour un court instant seulement. La cible est Prise au dépourvu contre la prochaine attaque au corps à corps que vous portez contre elle avant la fin de votre tour actuel.
 

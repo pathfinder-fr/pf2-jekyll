@@ -4,9 +4,10 @@
 title: Marquer pour mort
 titleEn: Mark for Death
 id: orjJjLdm4XNAcFi8
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/orjJjLdm4XNAcFi8.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/mark-for-death.json
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/orjJjLdm4XNAcFi8.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/mark-for-death.json
 group: actions
+layout: actions
 type: action
 typeFr: Action Unique
 ---

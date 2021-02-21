@@ -4,9 +4,10 @@
 title: Manœuvrer en vol
 titleEn: Maneuver in Flight
 id: Qf1ylAbdVi1rkc8M
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/Qf1ylAbdVi1rkc8M.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/maneuver-in-flight.json
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/Qf1ylAbdVi1rkc8M.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/maneuver-in-flight.json
 group: actions
+layout: actions
 type: action
 typeFr: Action Unique
 ---

@@ -4,9 +4,10 @@
 title: Partager les indices
 titleEn: Clue In
 id: 25WDi1cVUrW92sUj
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/25WDi1cVUrW92sUj.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/clue-in.json
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/25WDi1cVUrW92sUj.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/clue-in.json
 group: actions
+layout: actions
 type: reaction
 typeFr: Réaction
 ---

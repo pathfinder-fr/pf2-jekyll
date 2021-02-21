@@ -4,9 +4,10 @@
 title: Enquêter
 titleEn: Investigate
 id: EwgTZBWsc8qKaViP
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/EwgTZBWsc8qKaViP.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/investigate.json
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/EwgTZBWsc8qKaViP.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/investigate.json
 group: actions
+layout: actions
 type: passive
 typeFr: Passive
 ---

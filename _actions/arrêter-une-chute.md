@@ -4,9 +4,10 @@
 title: Arrêter une chute
 titleEn: Arrest a Fall
 id: qm7xptMSozAinnPS
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/qm7xptMSozAinnPS.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/arrest-a-fall.json
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/qm7xptMSozAinnPS.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/arrest-a-fall.json
 group: actions
+layout: actions
 type: reaction
 typeFr: Réaction
 ---

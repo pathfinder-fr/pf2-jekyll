@@ -4,9 +4,10 @@
 title: Saisir
 titleEn: Grapple
 id: PMbdMWc2QroouFGD
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/PMbdMWc2QroouFGD.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/grapple.json
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/PMbdMWc2QroouFGD.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/grapple.json
 group: actions
+layout: actions
 type: action
 typeFr: Action Unique
 ---

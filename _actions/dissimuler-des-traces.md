@@ -4,9 +4,10 @@
 title: Dissimuler des traces
 titleEn: Cover Tracks
 id: SB7cMECVtE06kByk
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/SB7cMECVtE06kByk.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/cover-tracks.json
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/SB7cMECVtE06kByk.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/cover-tracks.json
 group: actions
+layout: actions
 type: passive
 typeFr: Passive
 ---

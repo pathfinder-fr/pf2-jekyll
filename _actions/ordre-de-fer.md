@@ -4,9 +4,10 @@
 title: Ordre de fer
 titleEn: Iron Command
 id: M8RCbthRhB4bxO9t
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/M8RCbthRhB4bxO9t.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/iron-command.json
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/M8RCbthRhB4bxO9t.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/iron-command.json
 group: actions
+layout: actions
 type: reaction
 typeFr: Réaction
 ---

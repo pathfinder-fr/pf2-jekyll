@@ -4,9 +4,10 @@
 title: Désamorcer un dispositif
 titleEn: Disable Device
 id: cYdz2grcOcRt4jk6
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/cYdz2grcOcRt4jk6.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/disable-device.json
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/cYdz2grcOcRt4jk6.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/disable-device.json
 group: actions
+layout: actions
 type: action
 typeFr: Action Unique
 ---

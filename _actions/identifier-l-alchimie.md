@@ -4,9 +4,10 @@
 title: Identifier l'alchimie
 titleEn: Identify Alchemy
 id: Q4kdWVOf2ztIBFg1
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/Q4kdWVOf2ztIBFg1.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/identify-alchemy.json
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/Q4kdWVOf2ztIBFg1.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/identify-alchemy.json
 group: actions
+layout: actions
 type: passive
 typeFr: Passive
 ---

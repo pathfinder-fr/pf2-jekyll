@@ -4,9 +4,10 @@
 title: Riposte opportune
 titleEn: Opportune Riposte
 id: EfjoIuDmtUn4yiow
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/EfjoIuDmtUn4yiow.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/opportune-riposte.json
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/EfjoIuDmtUn4yiow.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/opportune-riposte.json
 group: actions
+layout: actions
 type: reaction
 typeFr: Réaction
 ---

@@ -4,9 +4,10 @@
 title: Se souvenir (Arcanes)
 titleEn: Recall Knowledge (Arcana)
 id: KygTSeDvsFoSO6HW
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/KygTSeDvsFoSO6HW.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/recall-knowledge-arcana.json
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/KygTSeDvsFoSO6HW.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/recall-knowledge-arcana.json
 group: actions
+layout: actions
 type: action
 typeFr: Action Unique
 ---

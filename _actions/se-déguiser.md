@@ -4,9 +4,10 @@
 title: Se déguiser
 titleEn: Impersonate
 id: AJstokjdG6iDjVjE
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/AJstokjdG6iDjVjE.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/impersonate.json
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/AJstokjdG6iDjVjE.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/impersonate.json
 group: actions
+layout: actions
 type: passive
 typeFr: Passive
 ---

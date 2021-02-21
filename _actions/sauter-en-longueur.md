@@ -4,9 +4,10 @@
 title: Sauter en longueur
 titleEn: Long Jump
 id: JUvAvruz7yRQXfz2
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/JUvAvruz7yRQXfz2.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/long-jump.json
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/JUvAvruz7yRQXfz2.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/long-jump.json
 group: actions
+layout: actions
 type: action
 typeFr: Action Unique
 ---
@@ -18,6 +19,6 @@ Si vous ne prenez pas un élan d’au moins 3 m avec l’action Marcher rapideme
 
 **Échec** Vous bondissez normalement.
 
-**Échec critique** Vous bondissez normalement, puis tombez [À terre](../condition-items/à-terre.md).
+**Échec critique** Vous bondissez normalement, puis tombez [À terre](../etats/à-terre.md).
 
 

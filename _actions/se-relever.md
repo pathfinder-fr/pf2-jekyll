@@ -4,12 +4,13 @@
 title: Se relever
 titleEn: Stand
 id: OdIUybJ3ddfL7wzj
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/OdIUybJ3ddfL7wzj.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/stand.json
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/OdIUybJ3ddfL7wzj.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/stand.json
 group: actions
+layout: actions
 type: action
 typeFr: Action Unique
 ---
-Vous étiez [À terre](../condition-items/à-terre.md) et vous Vous relevez.
+Vous étiez [À terre](../etats/à-terre.md) et vous Vous relevez.
 
 

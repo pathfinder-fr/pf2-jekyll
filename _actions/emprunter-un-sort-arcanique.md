@@ -4,9 +4,10 @@
 title: Emprunter un sort arcanique
 titleEn: Borrow an Arcane Spell
 id: OizxuPb44g3eHPFh
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/OizxuPb44g3eHPFh.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/borrow-an-arcane-spell.json
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/OizxuPb44g3eHPFh.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/borrow-an-arcane-spell.json
 group: actions
+layout: actions
 type: passive
 typeFr: Passive
 ---

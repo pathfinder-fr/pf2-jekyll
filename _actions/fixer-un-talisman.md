@@ -4,9 +4,10 @@
 title: Fixer un talisman
 titleEn: Affix a Talisman
 id: UAaQk93a30nx0nYY
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/UAaQk93a30nx0nYY.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/affix-a-talisman.json
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/UAaQk93a30nx0nYY.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/affix-a-talisman.json
 group: actions
+layout: actions
 type: passive
 typeFr: Passive
 ---

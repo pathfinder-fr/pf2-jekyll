@@ -4,9 +4,10 @@
 title: Préparer
 titleEn: Ready
 id: dLgAMt3TbkmLkUqE
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/dLgAMt3TbkmLkUqE.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/ready.json
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/dLgAMt3TbkmLkUqE.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/ready.json
 group: actions
+layout: actions
 type: action
 typeFr: Action Unique
 ---

@@ -4,9 +4,10 @@
 title: Signaler
 titleEn: Point Out
 id: sn2hIy1iIJX9Vpgj
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/sn2hIy1iIJX9Vpgj.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/point-out.json
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/sn2hIy1iIJX9Vpgj.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/point-out.json
 group: actions
+layout: actions
 type: action
 typeFr: Action Unique
 ---

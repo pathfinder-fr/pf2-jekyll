@@ -4,9 +4,10 @@
 title: Vengeance destructrice
 titleEn: Destructive Vengeance
 id: r5Uth6yvCoE4tr9z
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/r5Uth6yvCoE4tr9z.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/destructive-vengeance.json
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/r5Uth6yvCoE4tr9z.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/destructive-vengeance.json
 group: actions
+layout: actions
 type: reaction
 typeFr: Réaction
 ---

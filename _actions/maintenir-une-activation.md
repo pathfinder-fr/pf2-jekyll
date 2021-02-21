@@ -4,13 +4,14 @@
 title: Maintenir une activation
 titleEn: Sustain an Activation
 id: XSGlLjI80LDCimAP
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/XSGlLjI80LDCimAP.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/sustain-an-activation.json
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/XSGlLjI80LDCimAP.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/sustain-an-activation.json
 group: actions
+layout: actions
 type: action
 typeFr: Action Unique
 ---
-**Conditions** Vous avez au moins une activation d’objet magique que vous pouvez maintenir et vous n’êtes pas [fatigué](../condition-items/fatigué.md)
+**Conditions** Vous avez au moins une activation d’objet magique que vous pouvez maintenir et vous n’êtes pas [fatigué](../etats/fatigué.md)
 
 Choisissez une activation d’objet magique avec une durée maintenue que vous avez actuellement active. La durée de cette activation se prolonge jusqu’à la fin de votre prochain tour. Certaines activations ont un effet légèrement différent ou étendu si vous les maintenez.
 

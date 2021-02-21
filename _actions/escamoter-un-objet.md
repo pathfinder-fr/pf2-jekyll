@@ -4,9 +4,10 @@
 title: Escamoter un objet
 titleEn: Palm an Object
 id: ijZ0DDFpMkWqaShd
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/ijZ0DDFpMkWqaShd.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/palm-an-object.json
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/ijZ0DDFpMkWqaShd.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/palm-an-object.json
 group: actions
+layout: actions
 type: action
 typeFr: Action Unique
 ---

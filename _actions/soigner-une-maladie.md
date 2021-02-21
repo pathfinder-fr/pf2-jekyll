@@ -4,9 +4,10 @@
 title: Soigner une maladie
 titleEn: Treat Disease
 id: TC7OcDa7JlWbqMaN
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/TC7OcDa7JlWbqMaN.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/treat-disease.json
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/TC7OcDa7JlWbqMaN.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/treat-disease.json
 group: actions
+layout: actions
 type: passive
 typeFr: Passive
 ---

@@ -4,9 +4,10 @@
 title: Fabriquer
 titleEn: Craft
 id: rmwa3OyhTZ2i2AHl
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/rmwa3OyhTZ2i2AHl.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/craft.json
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/rmwa3OyhTZ2i2AHl.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/craft.json
 group: actions
+layout: actions
 type: passive
 typeFr: Passive
 ---

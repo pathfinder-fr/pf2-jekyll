@@ -4,9 +4,10 @@
 title: Coup final assuré
 titleEn: Confident Finisher
 id: K878asDgf1EF0B9S
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/K878asDgf1EF0B9S.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/confident-finisher.json
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/K878asDgf1EF0B9S.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/confident-finisher.json
 group: actions
+layout: actions
 type: action
 typeFr: Action Unique
 ---

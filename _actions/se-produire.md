@@ -4,9 +4,10 @@
 title: Se produire
 titleEn: Perform
 id: EEDElIyin4z60PXx
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/EEDElIyin4z60PXx.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/perform.json
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/EEDElIyin4z60PXx.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/perform.json
 group: actions
+layout: actions
 type: action
 typeFr: Action Unique
 ---

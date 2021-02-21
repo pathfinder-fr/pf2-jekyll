@@ -4,9 +4,10 @@
 title: Férocité déchaînée
 titleEn: Rampaging Ferocity
 id: FkfWKq9jhhPzKAbb
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/FkfWKq9jhhPzKAbb.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/rampaging-ferocity.json
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/FkfWKq9jhhPzKAbb.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/rampaging-ferocity.json
 group: actions
+layout: actions
 type: free
 typeFr: Action Gratuite
 ---

@@ -4,9 +4,10 @@
 title: Coup final de base
 titleEn: Basic Finisher
 id: dCuvfq3r2K9wXY9g
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/dCuvfq3r2K9wXY9g.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/basic-finisher.json
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/dCuvfq3r2K9wXY9g.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/basic-finisher.json
 group: actions
+layout: actions
 type: action
 typeFr: Action Unique
 ---

@@ -4,9 +4,10 @@
 title: Aider
 titleEn: Aid
 id: HCl3pzVefiv9ZKQW
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/HCl3pzVefiv9ZKQW.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/aid.json
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/HCl3pzVefiv9ZKQW.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/aid.json
 group: actions
+layout: actions
 type: reaction
 typeFr: Réaction
 ---

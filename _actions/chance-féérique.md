@@ -4,9 +4,10 @@
 title: Chance féérique
 titleEn: Fey's Fortune
 id: TMBXArwICQRJdwT6
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/TMBXArwICQRJdwT6.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/fey-s-fortune.json
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/TMBXArwICQRJdwT6.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/fey-s-fortune.json
 group: actions
+layout: actions
 type: free
 typeFr: Action Gratuite
 ---

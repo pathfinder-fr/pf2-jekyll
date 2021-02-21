@@ -4,9 +4,10 @@
 title: Obscurcissement instinctif
 titleEn: Instinctive Obfuscation
 id: rSpCV0leurp2Bg2d
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/rSpCV0leurp2Bg2d.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/instinctive-obfuscation.json
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/rSpCV0leurp2Bg2d.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/instinctive-obfuscation.json
 group: actions
+layout: actions
 type: reaction
 typeFr: Réaction
 ---

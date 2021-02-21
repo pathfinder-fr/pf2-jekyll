@@ -4,9 +4,10 @@
 title: Fouiller
 titleEn: Search
 id: TiNDYUGlMmxzxBYU
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/TiNDYUGlMmxzxBYU.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/search.json
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/TiNDYUGlMmxzxBYU.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/search.json
 group: actions
+layout: actions
 type: passive
 typeFr: Passive
 ---

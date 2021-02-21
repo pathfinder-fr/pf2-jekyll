@@ -4,9 +4,10 @@
 title: Deviner les intentions
 titleEn: Sense Motive
 id: 1xRFPTFtWtGJ9ELw
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/1xRFPTFtWtGJ9ELw.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/sense-motive.json
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/1xRFPTFtWtGJ9ELw.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/sense-motive.json
 group: actions
+layout: actions
 type: action
 typeFr: Action Unique
 ---

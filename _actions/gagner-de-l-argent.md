@@ -4,9 +4,10 @@
 title: Gagner de l'argent
 titleEn: Earn Income
 id: QyzlsLrqM0EEwd7j
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/QyzlsLrqM0EEwd7j.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/earn-income.json
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/QyzlsLrqM0EEwd7j.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/earn-income.json
 group: actions
+layout: actions
 type: passive
 typeFr: Passive
 ---
