@@ -22,7 +22,7 @@ public delegate void ParseActionMethod(JsonDocument jsonDoc, JsonDocument frJson
 /// - on utilise le glossaire français pour traduire certaines infos (type d'action)
 /// </remarks>
 /// <param name="tradFolderName">Nom du dossier contenant les fichiers dans le projet de traduction. ex: feats.</param>
-/// <param name="colDir">Nom de la collection sous jekyll, préfixée par un _. ex: _dons.</param>
+/// <param name="colDir">Nom de la collection sous jekyll, préfixée par un _. ex: _dons. Doit être une des valeurs renvoyées par <see cref="AsDataFolderName" />.</param>
 /// <param name="group">Groupe de données parmi les différentes valeurs de <see cref="DataGroup" />.</param>
 /// <param name="misc">Méthode complémentaire à invoquer pour chaque fichier pour ajouter des entête front matter dans le fichier généré.</param>
 async static Task GenerateFiles(string tradFolderName, string colDir, DataGroup group, string enFolderName, ParseActionMethod misc = null)
@@ -175,6 +175,8 @@ public static string AsNameId(string name)
         .Replace(' ', '-')
         .Replace('\'', '-')
         .Replace('’', '\'')
+        .Replace('/', '-')
+        .Replace('\\', '-')
         .Replace("(", string.Empty)
         .Replace(")", string.Empty)
         .ToLowerInvariant();
@@ -304,14 +306,15 @@ public static DataGroup? FromTradFolderName(string tradFolderName)
     }
 }
 
+/// <summary>Pour un groupe de données, renvoie le nom du dossier de données où les fichiers doivent être écrits (sans le _).</summary>
 public static string AsDataFolderName(this DataGroup @this)
 {
     switch (@this)
     {
         case DataGroup.Feats: return "dons";
+        case DataGroup.Condition_Items: return "etats";
         default: return @this.ToString().ToLowerInvariant().Replace("_", "-");
     }
-
 }
 
 public enum DataGroup
