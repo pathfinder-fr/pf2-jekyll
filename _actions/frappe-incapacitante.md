@@ -9,4 +9,4 @@ id: bp0Up04x3dzGK5bB
 group: actions
 layout: action
 ---
-<p><strong>Déclencheur</strong> Vous réussissez une Frappe contre une créature prise au dépourvu et lui infligez des dégâts.</p><hr><p>La créature reçoit l’un des handicaps suivants, qui dure jusqu’à la fin de votre prochain tour.</p><p><strong>Handicap</strong> La cible reçoit un malus de statut de -3 mètres à ses Vitesses.</p><p><strong>Handicap</strong> La cible devient @Compendium[pf2e.conditionspf2e.MIRkyAjyBeXivMa7]{Affaiblie} 1.</p>
+<p><strong>Déclencheur</strong> Vous réussissez une Frappe contre une créature prise au dépourvu et lui infligez des dégâts.</p><hr /><p>La créature reçoit l’un des handicaps suivants, qui dure jusqu’à la fin de votre prochain tour.</p><ul><li><strong>Handicap</strong> La cible reçoit un malus de statut de -3 m à ses Vitesses.</li><li><strong>Handicap</strong> La cible devient @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaiblie} 1.</li></ul>

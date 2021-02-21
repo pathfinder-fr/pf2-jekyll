@@ -9,4 +9,4 @@ id: v82XtjAVN4ffgVVR
 group: actions
 layout: action
 ---
-<p><span><strong>Fréquence</strong> une fois par jour<br><strong>Conditions</strong> Vous n'avez pas encore agi à votre tour.</span></p><hr><p>Vous dépensez la puissance contenue dans votre objet lié, ce qui vous permet de lancer, sans dépenser d’emplacement, un sort que vous avez préparé pour la journée et déjà lancé. Vous devez tout de même Lancer le sort et remplir ses autres conditions.&nbsp;&nbsp;</p>
+<p><strong>Fréquence</strong> une fois par jour<br><strong>Conditions</strong> Vous n'avez pas encore agi à votre tour.</p><hr><p>Vous dépensez la puissance contenue dans votre objet lié, ce qui vous permet de lancer, sans dépenser d’emplacement, un sort que vous avez préparé pour la journée et déjà lancé. Vous devez tout de même Lancer le sort et remplir ses autres conditions.&nbsp;&nbsp;</p>

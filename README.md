@@ -70,3 +70,5 @@ Avant de générer le site pour la première fois, vous devrez lancer la command
 Une fois les pre-requis installés, vous pouvez lancer la commande `bundle exec jekyll build` qui génèrera une copie du site dans le dossier `_site`.
 
 Utilisez la commande `bundle exec jekyll serve` pour lancer une copie du site. En général le site pourra ensuite être consulté à l'adresse [](http://127.0.0.1:4000/srd/pf2/).
+
+## Transformation FoundryVTT -> markdown

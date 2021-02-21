@@ -9,4 +9,4 @@ id: D2PNfIw7U6Ks0VY4
 group: actions
 layout: action
 ---
-<p><strong>Coût</strong>: 1 Point de Résolution</p><hr><p>Vous regagnez des Points d'Endurance égaux à la moitié de votre maximum.</p>
+<p><strong>Coût</strong> 1 Point de Résolution</p><hr /><p>Vous regagnez des Points d'Endurance égaux à la moitié de votre maximum.</p>

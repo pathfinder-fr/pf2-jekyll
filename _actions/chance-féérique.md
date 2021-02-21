@@ -9,4 +9,4 @@ id: TMBXArwICQRJdwT6
 group: actions
 layout: action
 ---
-<p><strong>Fréquence</strong> une fois par jour</p><p><strong>Déclencheur</strong> Vous faites un test de compétence et n'avez pas encore lancé les dés</p><p><strong>Effet</strong> Lancez deux fois le test de compétence et conservez le meilleur.</p>
+<p><strong>Fréquence</strong> une fois par jour</p><p><strong>Déclencheur</strong> Vous faites un test de compétence et n'avez pas encore lancé les dés</p><hr><p><strong>Effet</strong> Lancez deux fois le test de compétence et conservez le meilleur.</p>

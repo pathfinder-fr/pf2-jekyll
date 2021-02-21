@@ -9,4 +9,4 @@ id: UAaQk93a30nx0nYY
 group: actions
 layout: action
 ---
-<p><strong>Conditions</strong> Vous devez utiliser un kit de réparation (page 290)</p><hr><p>Vous passez 10 min à fixer le talisman sur un objet installé sur une surface stable, en utilisant le kit de réparation avec vos deux mains. Vous pouvez utiliser cette activité pour retirer le talisman. Si plusieurs talismans sont fixés sur le même objet, ils se suppriment mutuellement et aucun ne peut s’activer.</p>
+<p><strong>Conditions</strong> Vous devez utiliser un <a class="entity-link" draggable="true" data-pack="pf2e.equipment-srd" data-id="vLGDUFrg4yGzpTQX">Kit de réparation</a></p><hr><p>Vous passez 10 minutes à fixer le talisman sur un objet installé sur une surface stable, en utilisant le kit de réparation avec vos deux mains. Vous pouvez utiliser cette activité pour retirer le talisman. Si plusieurs talismans sont fixés sur le même objet, ils se suppriment mutuellement et aucun ne peut s’activer.</p>

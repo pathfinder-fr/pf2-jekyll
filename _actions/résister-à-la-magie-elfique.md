@@ -9,4 +9,4 @@ id: On5CQjX4euWqToly
 group: actions
 layout: action
 ---
-<p><span id="ctl00_MainContent_DetailedOutput"><strong>Déclencheur</strong> Vous effectuez un jet de sauvegarde, qui n'a pas encore été lancé, contre un effet magique.</span></p><hr><p>Votre résistance ancestrale à la Magie vous protège. Vous gagnez un bonus de circonstance de +1 au jet de sauvegarde déclencheur. Si l’effet déclencheur est de nature arcanique, vous gagnez un bonus de +2 à la place.&nbsp;</p>
+<p><strong>Déclencheur</strong> Vous effectuez un jet de sauvegarde, qui n'a pas encore été lancé, contre un effet magique.</p><hr><p>Votre résistance ancestrale à la Magie vous protège. Vous gagnez un bonus de circonstance de +1 au jet de sauvegarde déclencheur. Si l’effet déclencheur est de nature arcanique, vous gagnez un bonus de +2 à la place.</p>

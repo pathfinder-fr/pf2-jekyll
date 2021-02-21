@@ -9,4 +9,4 @@ id: ev8OHpBO3xq3Zt08
 group: actions
 layout: action
 ---
-<p><strong>Fréquence </strong>une fois par jour</p><p><strong>Conditions </strong>Vous maniez une arme perforante ou tranchante.</p><hr><p>Vous appliquez le venin sécrété par votre queue sur une arme perforante ou tranchante. Si votre prochaine @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe} avec cette arme touche et inflige des dégâts avant la fin de votre prochain tour, vous infligez des dégâts de poison persistants égaux à votre niveau sur la cible.</p>
+<p><strong>Fréquence</strong> une fois par jour</p><p><strong>Conditions</strong> Vous maniez une arme perforante ou tranchante.</p><hr /><p>Vous appliquez le venin sécrété par votre queue sur une arme perforante ou tranchante. Si votre prochaine @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe} avec cette arme touche et inflige des dégâts avant la fin de votre prochain tour, vous infligez des @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{dégâts de poison persistants} égaux à votre niveau sur la cible.</p>

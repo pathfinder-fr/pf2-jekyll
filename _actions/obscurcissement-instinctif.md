@@ -1,0 +1,12 @@
+---
+# ATTENTION : Ne modifiez pas ce fichier
+# Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
+title: Obscurcissement instinctif
+titleEn: Instinctive Obfuscation
+type: reaction
+typeFr: Réaction
+id: rSpCV0leurp2Bg2d
+group: actions
+layout: action
+---
+<p><strong>Prérequis</strong> Au moins un sort inné arcanique ou occulte obtenu par un héritage de gnome ou un don d'ancètre gnome</p><p><strong>Fréquence</strong> Une fois par jour</p><p><strong>Déclencheur</strong> Vous êtes attaqué par un ennemi</p><hr><p>La magie qui est en vous se manifeste comme une réaction naturelle à une menace. Vous obtenez les effets d'e '<a class="entity-link" draggable="true" data-pack="pf2e.spells-srd" data-id="j8vIoIEWElvpwkcI">Image miroir</a> mais avec deux images au lieu de trois. La tradition de cette action est la même que la tradition des option de votre ascendance gnome.</p>

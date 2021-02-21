@@ -9,4 +9,4 @@ id: W4M8L9WepGLamlHs
 group: actions
 layout: action
 ---
-<p><span>Vous @Compendium[pf2e.actionspf2e.Bcxarzksqt9ezrs6]{Marchez rapidement} jusqu'à être adjacent à une créature et tentez de la @Compendium[pf2e.actionspf2e.2u915NdUyQan6uKF]{Démoraliser}. Si vous réussissez, la créature est @Compendium[pf2e.conditionspf2e.TBSHQspnbcqxsmjL]{Effrayée} 2 au lieu d’Effrayée 1.&nbsp;</span></p>
+<p>Vous Marchez rapidement jusqu'à être adjacent à une créature et tentez de la <a class="entity-link" draggable="true" data-pack="pf2e.actionspf2e" data-id="2u915NdUyQan6uKF">Démoraliser</a>. Si vous réussissez, la créature est <a class="entity-link" draggable="true" data-pack="pf2e.conditionitems" data-id="TBSHQspnbcqxsmjL">Effrayée</a> 2 au lieu d’Effrayée 1.</p>

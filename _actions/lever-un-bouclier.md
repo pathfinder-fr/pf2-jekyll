@@ -9,4 +9,4 @@ id: xjGwis0uaC2305pm
 group: actions
 layout: action
 ---
-<p><span><strong>Conditions</strong> Vous maniez un bouclier.</span></p><hr><p>Vous levez votre bouclier pour vous protéger. Quand vous avez Levé un bouclier, vous ajoutez le bonus de circonstances indiqué dans son profil à votre CA. Votre bouclier reste levé jusqu’au début de votre prochain tour.&nbsp;</p>
+<p><strong>Conditions</strong> Vous maniez un bouclier.</p><hr><p>Vous levez votre bouclier pour vous protéger. Quand vous avez Levé un bouclier, vous ajoutez le bonus de circonstances indiqué dans son profil à votre CA. Votre bouclier reste levé jusqu’au début de votre prochain tour.</p>
