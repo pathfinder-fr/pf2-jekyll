@@ -98,10 +98,17 @@ public static string CleanupDescription(string description)
     description = Regex.Replace(description, @"</p>", Environment.NewLine);
 
     // sauts de ligne <br>
-    description = Regex.Replace(description, @"<br/?>", Environment.NewLine);
+    description = Regex.Replace(description, @"<br( ?/)?>", "  " + Environment.NewLine);
 
     // icones fontawesome
     description = Regex.Replace(description, @"<i class=""fas fa-suitcase""></i>", "");
+
+    // span inutiles
+    description = Regex.Replace(description, @"<span id=""ctl00_MainContent_DetailedOutput"">", "");
+    description = Regex.Replace(description, @"<span style=""float: right;"">", " ");
+    description = Regex.Replace(description, @"</span>", "");
+    
+    //<span id="ctl00_MainContent_DetailedOutput">
 
     // séparateurs <hr>
     description = Regex.Replace(description, @"<hr( /)?>(\r\n)?", string.Empty);
@@ -113,12 +120,16 @@ public static string CleanupDescription(string description)
     description = Regex.Replace(description, @"&nbsp;", " ");
 
     // listes <ul> / <li>
-    description = Regex.Replace(description, @"</?ul>(\r\n)?", string.Empty);
+    description = Regex.Replace(description, @"</li></ul>(\r\n)?", Environment.NewLine);
+    description = Regex.Replace(description, @"</li>", string.Empty);
+    description = Regex.Replace(description, @"</?ul>(\r\n)?", Environment.NewLine);
     description = Regex.Replace(description, @"<li>", "- ");
     description = Regex.Replace(description, @"</li>", string.Empty);
 
     // titres <h1>, <h2>, etc.
+    description = Regex.Replace(description, @"<h1 class=""title"">", "# ");
     description = Regex.Replace(description, @"<h2 class=""title"">", "## ");
+    description = Regex.Replace(description, @"<h3 class=""title"">", "### ");
     description = Regex.Replace(description, @"</h\d>", Environment.NewLine);
 
     // liens compendium
@@ -131,6 +142,9 @@ public static string CleanupDescription(string description)
     // liens de jet de dé
     // <a class="inline-roll roll" title="1d6" data-mode="roll" data-flavor="" data-formula="1d6">d6</a>
     description = Regex.Replace(description, @"<a class=""inline-roll roll"" title=""[^""]*"" data-mode=""roll"" data-flavor=""[^""]*"" data-formula=""[\dd+\-]+"">([\dd+\-]+)</a>", "$1");
+
+    // liens externes
+    description = Regex.Replace(description, @"<a (?:style=""text-decoration: underline;"" )?href=""([^""]+)"">([^<]+)</a>", @"<a href=""$1"">$2</a>");
 
     return description;
 }
@@ -153,7 +167,7 @@ public static string AsTradFolderName(this DataGroup @this)
     }
 }
 
-public static DataGroup FromTradFolderName(string tradFolderName)
+public static DataGroup? FromTradFolderName(string tradFolderName)
 {
     switch (tradFolderName)
     {
@@ -166,7 +180,12 @@ public static DataGroup FromTradFolderName(string tradFolderName)
         case "pathfinder-bestiary": return DataGroup.Bestiary;
         case "pathfinder-bestiary-2": return DataGroup.Bestiary_2;
         case "pathfinder-society-boons": return DataGroup.Pathfinder_Society_Boons;
-        default: return Enum.Parse<DataGroup>(tradFolderName.Replace("-", "_"), true);
+        default:
+            if (!Enum.TryParse<DataGroup>(tradFolderName.Replace("-", "_"), true, out var result))
+            {
+                return null;
+            }
+            return result;
     }
 }
 
@@ -268,10 +287,16 @@ public static string ReplaceCompendiumMatch(Match match)
     }
 
     var group = FromTradFolderName(groupName); // DataGroup.Actions
-    var groupFolder = group.AsDataFolderName(); // _actions
+    if (group == null)
+    {
+        WriteLine($"[WARNING] Impossible de trouver le groupe de données {linkParts[1]} pour le lien {link}");
+        return text;
+    }
+
+    var groupFolder = group.Value.AsDataFolderName(); // _actions
 
     var id = linkParts[2]; // Bcxarzksqt9ezrs6
-    var frName = Ids.ResolveFrenchNameId(group, id);
+    var frName = Ids.ResolveFrenchNameId(group.Value, id);
 
     if (CurrentGroup == group)
     {

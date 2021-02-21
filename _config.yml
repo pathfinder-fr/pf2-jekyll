@@ -38,6 +38,9 @@ collections:
   actions:
     output: true
     category: ['action']
+  classes:
+    output: true
+    category: ['classe']
 
 
 # Exclude from processing.

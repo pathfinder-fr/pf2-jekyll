@@ -19,6 +19,11 @@ using (var input = File.OpenRead("../_ext/module-fr/fr.json"))
     frJsonDoc = JsonDocument.Parse(input);
 }
 
+// chargement mapping ids
+await Ids.EnsureIds();
+
+CurrentGroup = DataGroup.Classes;
+
 // on s'assure que le dossier des actions existe déjà
 Directory.CreateDirectory($"../_classes/");
 
@@ -56,33 +61,10 @@ foreach (var file in files)
     }
 
     // on va adapter la description française au markdown
-    // par des opérations successives sur description
-    var description = trad.FrenchDescription;
-
-    // paragraphes <p>
-    description = Regex.Replace(description, @"<p>", string.Empty);
-    description = Regex.Replace(description, @"</p>", Environment.NewLine + Environment.NewLine);
-
-    // séparateurs <hr>
-    description = Regex.Replace(description, @"<hr( /)?>", "----" + Environment.NewLine + Environment.NewLine);
-
-    // gras <strong>
-    description = Regex.Replace(description, @"</?strong>", "**");
-
-    // espaces insécables &nbsp;
-    description = Regex.Replace(description, @"&nbsp;", " ");
-
-    // listes <ul> / <li>
-    description = Regex.Replace(description, @"</?ul>", "");
-    description = Regex.Replace(description, @"<li>", "- ");
-    description = Regex.Replace(description, @"</li>", Environment.NewLine);
-
-    // titres <h1>, <h2>, etc.
-    description = Regex.Replace(description, @"<h2 class=""title"">", "## ");
-    description = Regex.Replace(description, @"</h\d>", Environment.NewLine + Environment.NewLine);
+    var description = CleanupDescription(trad.FrenchDescription);
 
     // ensuite on peut générer le fichier markdown final
-    var targetPath = $"../_actions/{frNameId}.md";
+    var targetPath = $"../_classes/{frNameId}.md";
     using (var writer = new StreamWriter(targetPath))
     {
         writer.WriteLine("---");
@@ -91,8 +73,10 @@ foreach (var file in files)
         writer.WriteLine($"title: {trad.French}");
         writer.WriteLine($"titleEn: {trad.English}");
         writer.WriteLine($"id: {trad.Id}");
+        writer.WriteLine($"urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/{trad.Id}.htm");
+        writer.WriteLine($"urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/{enName}.json");
         writer.WriteLine($"group: {trad.Group}");
-        writer.WriteLine($"layout: action");
+        writer.WriteLine($"layout: classe");
 
         writer.WriteLine("---");
         writer.WriteLine(description);
