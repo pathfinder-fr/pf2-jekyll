@@ -183,6 +183,7 @@ public static string AsNameId(string name)
         .Replace("(", string.Empty)
         .Replace(")", string.Empty)
         .Replace("!", string.Empty)
+        .TrimEnd('-')        
         .ToLowerInvariant();
 }
 

@@ -17,7 +17,7 @@ Cela crée un piège sur une case occupée par le piège ou adjacente à l'objet
 
 Le piège possède la réaction suivante que vous pouvez également déclencher à l'aide d'une seule action tant que vous êtes dans les 9 mètres du piège. Le piège conserve son potentiel jusqu'à ce qu'il soit déclenché, que l'objet inanimé quitte son espace ou que vous fassiez vos prochains préparatifs quotidiens selon ce qui se produit en premier.
 
-**[Mise à feu !](../actions/mise-à-feu-.md) **[reaction]
+**[Mise à feu !](../actions/mise-à-feu.md) **[reaction]
 
 **Déclencheur** Une créature se déplace dans la case du piège ;
 
