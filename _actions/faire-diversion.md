@@ -3,13 +3,12 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Faire diversion
 titleEn: Create a Diversion
+id: GkmbTGfg8KcgynOA
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/GkmbTGfg8KcgynOA.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/create-a-diversion.json
+group: actions
 type: action
 typeFr: Action Unique
-id: GkmbTGfg8KcgynOA
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/GkmbTGfg8KcgynOA.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/create-a-diversion.json
-group: actions
-layout: action
 ---
 À l’aide d’un geste, d’un tour de passe‑passe ou de quelques mots destinés à détourner l’attention, vous pouvez faire diversion pour attirer l’attention de créatures ailleurs. Si vous utilisez un geste ou un tourde passe‑passe, cette action obtient le trait manipulation. Si vous prononcez quelques mots destinés à détourner l’attention, elle obtient les traits audible et linguistique.
 

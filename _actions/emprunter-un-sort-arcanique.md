@@ -3,13 +3,12 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Emprunter un sort arcanique
 titleEn: Borrow an Arcane Spell
+id: OizxuPb44g3eHPFh
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/OizxuPb44g3eHPFh.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/borrow-an-arcane-spell.json
+group: actions
 type: passive
 typeFr: Passive
-id: OizxuPb44g3eHPFh
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/OizxuPb44g3eHPFh.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/borrow-an-arcane-spell.json
-group: actions
-layout: action
 ---
 Si vous êtes un incantateur arcanique qui prépare ses sorts écrits dans un grimoire, vous pouvez essayer de préparer un sort inscrit dans le grimoire de quelqu’un d’autre. Le MJ fixe le DD du test en fonction du niveau du sort et de sa rareté ; c’est généralement un peu plus simple que d’[Apprendre le sort](apprendre-un-sort.md).
 **Succès** Vous préparez le sort emprunté lors de votre préparation normale des sorts.

@@ -3,13 +3,12 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Refocaliser
 titleEn: Refocus
+id: OSefkMgojBLqmRDh
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/OSefkMgojBLqmRDh.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/refocus.json
+group: actions
 type: passive
 typeFr: Passive
-id: OSefkMgojBLqmRDh
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/OSefkMgojBLqmRDh.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/refocus.json
-group: actions
-layout: action
 ---
 **Conditions**  Vous disposez d’une réserve de focalisation et vous avez dépensé au moins 1 point de focalisation depuis la dernière fois que vous avez récupéré vos points de focalisation.
 

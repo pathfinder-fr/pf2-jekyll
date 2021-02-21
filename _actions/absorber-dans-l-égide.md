@@ -3,13 +3,12 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Absorber dans l'égide
 titleEn: Absorb into the Aegis
+id: S9PZFOVe7zhORkUc
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/S9PZFOVe7zhORkUc.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/absorb-into-the-aegis.json
+group: actions
 type: reaction
 typeFr: Réaction
-id: S9PZFOVe7zhORkUc
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/S9PZFOVe7zhORkUc.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/absorb-into-the-aegis.json
-group: actions
-layout: action
 ---
 **Déclencheur** Un ennemi lance un sort qui vous prend pour cible ou un allié situé à 4,5 m de vous
 

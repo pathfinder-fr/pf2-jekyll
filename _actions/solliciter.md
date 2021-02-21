@@ -3,13 +3,12 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Solliciter
 titleEn: Request
+id: DCb62iCBrJXy0Ik6
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/DCb62iCBrJXy0Ik6.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/request.json
+group: actions
 type: action
 typeFr: Action Unique
-id: DCb62iCBrJXy0Ik6
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/DCb62iCBrJXy0Ik6.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/request.json
-group: actions
-layout: action
 ---
 Vous pouvez solliciter une créature amicale ou serviable envers vous. Vous devez formuler votre sollicitation de manière à ce que la cible accepte, étant donné son attitude actuelle à votre encontre. Le MJ détermine le DD en fonction de la difficulté de la sollicitation. Certaines sollicitations sont douteuses ou impossibles, et un PNJ, aussi serviable soit‑il, ne les acceptera jamais.
 

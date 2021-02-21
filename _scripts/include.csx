@@ -7,11 +7,108 @@ public static string GetScriptFolder([CallerFilePath] string path = null) => Pat
 
 Environment.CurrentDirectory = GetScriptFolder();
 
+public delegate void ParseActionMethod(JsonDocument jsonDoc, JsonDocument frJsonDoc, StreamWriter writer);
+
+/// <summary>
+/// Génère les pages pour le fichiers demandés.
+/// </summary>
+/// <remarks>
+/// Le script fonctionne ainsi :
+///
+/// pour chaque page .htm du dossier actions du projet trads :
+///
+/// - on lit les données de traduction du projet trads
+/// - on charge le fichier anglais pour récupérer des données utiles qui ne sont pas présentes dans le fichier de traduction (type d'action)
+/// - on utilise le glossaire français pour traduire certaines infos (type d'action)
+/// </remarks>
+/// <param name="tradFolderName">Nom du dossier contenant les fichiers dans le projet de traduction. ex: feats.</param>
+/// <param name="colDir">Nom de la collection sous jekyll, préfixée par un _. ex: _dons.</param>
+/// <param name="group">Groupe de données parmi les différentes valeurs de <see cref="DataGroup" />.</param>
+/// <param name="misc">Méthode complémentaire à invoquer pour chaque fichier pour ajouter des entête front matter dans le fichier généré.</param>
+async static Task GenerateFiles(string tradFolderName, string colDir, DataGroup group, string enFolderName, ParseActionMethod misc = null)
+{
+    CurrentGroup = group;
+
+    var files = Directory.GetFiles($"../_ext/trads/data/{tradFolderName}", "*.htm");
+
+    // glossaire anglais
+    // JsonDocument enJsonDoc;
+    // using (var input = File.OpenRead("../_ext/module-en/static/lang/en.json"))
+    // {
+    //     enJsonDoc = JsonDocument.Parse(input);
+    // }
+
+    // glossaire fr
+    JsonDocument frJsonDoc;
+    using (var input = File.OpenRead("../_ext/module-fr/fr.json"))
+    {
+        frJsonDoc = JsonDocument.Parse(input);
+    }
+
+    // chargement mapping ids
+    await Ids.EnsureIds();
+
+    // on s'assure que le dossier existe déjà
+    Directory.CreateDirectory($"../{colDir}/");
+
+    WriteLine($"Examen de {files.Length} fichiers...");
+    foreach (var file in files)
+    {
+        // chargement données traduction et correspondance id <=> nom
+        var trad = ReadTradDataEntry(file);
+
+        if (string.IsNullOrEmpty(trad.French))
+        {
+            WriteLine($"La donnée {trad.English} n'a pas été traduite en français et n'est donc pas disponible (ID {trad.Id})");
+            continue;
+        }
+
+        // on détermine le nom du fichier en anglais contenant les données
+        var enName = AsNameId(trad.English);
+
+        // on génère le nom unique en français qui sera utilisé comme nom de fichier final
+        var frNameId = AsNameId(trad.French);
+
+        // chemin du fichier complet contenant les données en anglais
+        var path = $"../_ext/module-en/packs/data/{enFolderName}/{enName}.json";
+        if (!File.Exists(path))
+        {
+            WriteLine($"Impossible de trouver le fichier {enName} correspondant à {trad.English} (ID {trad.Id})");
+            continue;
+        }
+
+        // chargement document json des données en anglais
+        JsonDocument jsonDoc;
+        using (var input = File.OpenRead(path))
+        {
+            jsonDoc = JsonDocument.Parse(input);
+        }
+
+        // on va adapter la description française au markdown
+        var description = CleanupDescription(trad.FrenchDescription);
+
+        // ensuite on peut générer le fichier markdown final
+        var targetPath = $"../{colDir}/{frNameId}.md";
+        using (var writer = new StreamWriter(targetPath))
+        {
+            WriteFileHeader(writer, trad, enName);
+
+            if (misc != null)
+            {
+                misc(jsonDoc, frJsonDoc, writer);
+            }
+
+            writer.WriteLine("---");
+            writer.WriteLine(description);
+        }
+    }
+}
+
 /// <summary>Contient les données de traduction française d'une entrée du compendium anglais.</summary>
 public record TradDataEntry(string Id, string Group, string French, string English, string FrenchDescription, string EnglishDescription, string Status, string OldStatus);
 
 /// <summary>Lit un fichier de traduction FR et exporte les données de l'entête et les descriptions dans une classe TradDataEntry.</summary>
-public TradDataEntry ReadTradDataEntry(string file)
+public static TradDataEntry ReadTradDataEntry(string file)
 {
     // data/backgrounds/0EIhRniun8jfdPeN.htm => 0EIhRniun8jfdPeN
     var match = Regex.Match(file, @"(\w{16})\.htm");
@@ -150,7 +247,7 @@ public static string CleanupDescription(string description)
 }
 
 /// <summary>Ecrit la partie commune à tous les scripts générant un fichier.</summary>
-public static void WriteFileHeader(StreamWriter writer, TradDataEntry trad, string enName, string layout)
+public static void WriteFileHeader(StreamWriter writer, TradDataEntry trad, string enName, string layout = null)
 {
     writer.WriteLine("---");
     writer.WriteLine("# ATTENTION : Ne modifiez pas ce fichier");
@@ -161,7 +258,10 @@ public static void WriteFileHeader(StreamWriter writer, TradDataEntry trad, stri
     writer.WriteLine($"urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/{trad.Id}.htm");
     writer.WriteLine($"urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/{enName}.json");
     writer.WriteLine($"group: {trad.Group}");
-    writer.WriteLine($"layout: {layout}");
+    if (layout != null)
+    {
+        writer.WriteLine($"layout: {layout}");
+    }
 }
 
 /// <summary>Renvoie le nom du dossier du projet de traduction contenant les fichiers pour le groupe de données indiqué.</summary>
@@ -204,7 +304,15 @@ public static DataGroup? FromTradFolderName(string tradFolderName)
     }
 }
 
-public static string AsDataFolderName(this DataGroup @this) => @this.ToString().ToLowerInvariant().Replace("_", "-");
+public static string AsDataFolderName(this DataGroup @this)
+{
+    switch (@this)
+    {
+        case DataGroup.Feats: return "dons";
+        default: return @this.ToString().ToLowerInvariant().Replace("_", "-");
+    }
+
+}
 
 public enum DataGroup
 {

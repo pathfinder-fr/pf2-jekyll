@@ -3,16 +3,15 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Déchiffrer un texte
 titleEn: Decipher Writing
+id: d9gbpiQjChYDYA2L
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/d9gbpiQjChYDYA2L.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/decipher-writing.json
+group: actions
 type: passive
 typeFr: Passive
-id: d9gbpiQjChYDYA2L
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/d9gbpiQjChYDYA2L.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/decipher-writing.json
-group: actions
-layout: action
 ---
 Vous tentez de déchiffrer un manuscrit ou une œuvre littéraire com‑
-plexe abordant un sujet obscur. Il faut généralement y consacrer une minute par page de texte mais la tâche peut parfois s’avérer plus longue (le plus souvent une heure par page pour déchiffrer un code secret ou un écrit similaire). Le texte doit être rédigé dans une langue que vous savez lire, mais le MJ peut vous autoriser à tenter de déchiffrer un texte écrit dans une langue inconnue en utilisant Société à la place.
+plexe abordant un sujet obscur. Il faut généralement y consacrer une minute par page de texte mais la tâche peut parfois s’avérer plus longue (le plus souvent une heure par page pour déchiffrer un code secret ou un écrit similaire). Le texte doit être rédigé dans une langue que vous savez lire, mais le MJ peut vous autoriser à tenter de déchiffrer un texte écrit dans une langue inconnue en utilisant Société à la place.  
 Le MJ détermine le DD en prenant en compte l’état du document et la complexité du texte. Il peut vous demander de faire un test pour un texte court ou un test pour chaque section d’un texte plus long.
 
 **Succès critique** Vous comprenez le véritable sens du texte.
@@ -25,8 +24,10 @@ Le MJ détermine le DD en prenant en compte l’état du document et la complexi
 
 ## Déchiffrer un texte : exemples de tâches
 
+
 - **Qualifié** traité décrivant les notions de base d'une philosophie
 - **Expert** code complexe de type code secret
 - **Maître** code de maître-espion ou notes de recherche élaborées
 - **Légendaire** texte ésotérique sur les plans écrits en métaphores par un ancien céleste
+
 

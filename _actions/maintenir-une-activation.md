@@ -3,13 +3,12 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Maintenir une activation
 titleEn: Sustain an Activation
+id: XSGlLjI80LDCimAP
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/XSGlLjI80LDCimAP.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/sustain-an-activation.json
+group: actions
 type: action
 typeFr: Action Unique
-id: XSGlLjI80LDCimAP
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/XSGlLjI80LDCimAP.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/sustain-an-activation.json
-group: actions
-layout: action
 ---
 **Conditions** Vous avez au moins une activation d’objet magique que vous pouvez maintenir et vous n’êtes pas [fatigué](../condition-items/fatigué.md)
 

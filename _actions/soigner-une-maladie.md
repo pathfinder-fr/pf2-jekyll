@@ -3,13 +3,12 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Soigner une maladie
 titleEn: Treat Disease
+id: TC7OcDa7JlWbqMaN
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/TC7OcDa7JlWbqMaN.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/treat-disease.json
+group: actions
 type: passive
 typeFr: Passive
-id: TC7OcDa7JlWbqMaN
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/TC7OcDa7JlWbqMaN.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/treat-disease.json
-group: actions
-layout: action
 ---
 **Conditions** Vous maniez ou transportez des [instruments de guérisseur](../equipment/outils-de-guérisseur.md)] 
 

@@ -3,13 +3,12 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Subsister
 titleEn: Subsist
+id: 49y9Ec4bDii8pcD3
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/49y9Ec4bDii8pcD3.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/subsist.json
+group: actions
 type: passive
 typeFr: Passive
-id: 49y9Ec4bDii8pcD3
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/49y9Ec4bDii8pcD3.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/subsist.json
-group: actions
-layout: action
 ---
 Vous tentez d’obtenir de la nourriture et un abri pour vous et potentiellement aussi pour d’autres, selon un niveau de vie décrit en page 294. Le MJ détermine le DD en fonction de la nature de l’endroit où vous tentez de Subsister. Un rang de maîtrise minimum peut être nécessaire pour Subsister dans des environnements particulièrement étranges. Au contraire de la plupart des activités d’intermède, vous pouvez Subsister après huit heures ou moins d’exploration mais vous subissez dans ce cas un malus de −5.
 
@@ -23,9 +22,11 @@ Vous tentez d’obtenir de la nourriture et un abri pour vous et potentiellement
 
 ## Subsister : exemples de tâches
 
+
 - **Inexpérimenté** forêt luxuriante par temps calme ou grande cité où les ressources abondent
 - **Qualifié** village ou flanc de coteau typique
 - **Expert** hameau isolé ou montagnes typiques
 - **Maître** cité assiégée ou désert typique
 - **Légendaire** cité de morts-vivants ou désolation stérile
+
 

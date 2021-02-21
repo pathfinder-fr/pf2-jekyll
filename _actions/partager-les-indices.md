@@ -3,13 +3,12 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Partager les indices
 titleEn: Clue In
+id: 25WDi1cVUrW92sUj
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/25WDi1cVUrW92sUj.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/clue-in.json
+group: actions
 type: reaction
 typeFr: Réaction
-id: 25WDi1cVUrW92sUj
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/25WDi1cVUrW92sUj.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/clue-in.json
-group: actions
-layout: action
 ---
 **Fréquence** une fois toutes les 10 minutes
 

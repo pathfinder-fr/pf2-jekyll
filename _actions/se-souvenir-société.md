@@ -3,13 +3,12 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Se souvenir (Société)
 titleEn: Recall Knowledge (Society)
+id: KUfLlXDWTcAWhl8l
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/KUfLlXDWTcAWhl8l.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/recall-knowledge-society.json
+group: actions
 type: action
 typeFr: Action Unique
-id: KUfLlXDWTcAWhl8l
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/KUfLlXDWTcAWhl8l.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/recall-knowledge-society.json
-group: actions
-layout: action
 ---
 Vous effectuez un test de compétence pour tenter de vous rappeler une information à propos d’un sujet correspondant à une compétence. Le MJ détermine le DD de ces tests et la compétence applicable.
 
@@ -31,9 +30,11 @@ Le MJ peut vous autoriser à faire des tests pour Se souvenir en utilisant d’a
 
 Ces exemples utilisent Société et Religion.
 
+
 - **Inexpérimenté** le nom d'un souverain, d'un noble prépondérant ou d'une divinité majeure
 - **Qualifié** la ligne de succession d'une famille noble majeure, les principaux préceptes d'une divinité majeure
 - **Expert** la généalogie d'un noble mineur, les enseignements d'un ancien prêtre
 - **Maître** la hiérarchie au sein de la cour d'un génie noble, les temples extraplanaires majeurs d'une divinité
 - **Légendaire** l'existence d'un héritier d'une famille noble depuis longtemps disparue, les préceptes secrets d'une religion
+
 

@@ -3,13 +3,12 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Pas libérateur
 titleEn: Liberating Step
+id: IX1VlVCL5sFTptEE
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/IX1VlVCL5sFTptEE.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/liberating-step.json
+group: actions
 type: reaction
 typeFr: Réaction
-id: IX1VlVCL5sFTptEE
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/IX1VlVCL5sFTptEE.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/liberating-step.json
-group: actions
-layout: action
 ---
 **Déclencheur** Un ennemi inflige des dégâts, [Empoigne](../condition-items/agrippé/empoigné.md) ou [Saisit](saisir.md) votre allié et les deux sont à 4,50 m ou moins de vous.
 

@@ -3,13 +3,12 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Contraindre
 titleEn: Coerce
+id: tHCqgwjtQtzNqVvd
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/tHCqgwjtQtzNqVvd.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/coerce.json
+group: actions
 type: passive
 typeFr: Passive
-id: tHCqgwjtQtzNqVvd
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/tHCqgwjtQtzNqVvd.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/coerce.json
-group: actions
-layout: action
 ---
 À l’aide de menaces voilées ou manifestes, vous tentez d’intimider une créature pour la forcer à obéir à vos ordres. Vous devez interagir pendant au moins une minute avec une créature qui peut vous voir ou vous sentir et que vous‑même pouvez voir. À la fin de l’interaction, faites un test d’Intimidation contre le DD de Volonté de la cible, modifié par les éventuelles circonstances que le MJ juge appropriées.
 

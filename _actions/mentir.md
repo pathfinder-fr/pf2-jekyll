@@ -3,13 +3,12 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Mentir
 titleEn: Lie
+id: ewwCglB7XOPLUz72
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/ewwCglB7XOPLUz72.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/lie.json
+group: actions
 type: passive
 typeFr: Passive
-id: ewwCglB7XOPLUz72
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/ewwCglB7XOPLUz72.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/lie.json
-group: actions
-layout: action
 ---
 Vous tentez de tromper quelqu’un en lui mentant. Ceci demande un round au moins ou plus longtemps si le mensonge est élaboré. Vous faites un unique test de Duperie et comparez le résultat au DD de Perception de chaque créature que vous tentez de tromper. Le MJ peut leur conférer un bonus de circonstances en fonction de la situation et de la nature du mensonge que vous élaborez. Des mensonges compliqués ou à peine croyables sont bien plus difficiles à croire que des mensonges plus simples et plus crédibles, et certains sont si énormes que personne ne peut tout simplement y croire.
 

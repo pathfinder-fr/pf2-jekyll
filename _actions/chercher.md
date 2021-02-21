@@ -3,13 +3,12 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Chercher
 titleEn: Seek
+id: BlAOM2X92SI6HMtJ
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/BlAOM2X92SI6HMtJ.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/seek.json
+group: actions
 type: action
 typeFr: Action Unique
-id: BlAOM2X92SI6HMtJ
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/BlAOM2X92SI6HMtJ.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/seek.json
-group: actions
-layout: action
 ---
 Vous scrutez une zone à la recherche de créatures ou d’objets. Si vous cherchez des créatures, choisissez une zone à scruter. Si la précision est de mise, le MJ peut vous demander de choisir un cône de 9 m ou une explosion de 4,50 m qui se trouve dans votre champ de vision. Vous pouvez subir un malus si la zone que vous désignez se trouve éloignée. 
 

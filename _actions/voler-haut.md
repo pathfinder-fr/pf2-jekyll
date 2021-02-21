@@ -3,13 +3,12 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Voler haut
 titleEn: Soaring Flight
+id: mVscmsZWWcVACdU5
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/mVscmsZWWcVACdU5.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/soaring-flight.json
+group: actions
 type: action
 typeFr: Action Unique
-id: mVscmsZWWcVACdU5
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/mVscmsZWWcVACdU5.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/soaring-flight.json
-group: actions
-layout: action
 ---
 **Fréquence** une fois par jour
 

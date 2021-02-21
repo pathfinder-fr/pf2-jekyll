@@ -3,13 +3,12 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Se raccrocher in extremis
 titleEn: Grab an Edge
+id: 3yoajuKjwHZ9ApUY
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/3yoajuKjwHZ9ApUY.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/grab-an-edge.json
+group: actions
 type: reaction
 typeFr: Réaction
-id: 3yoajuKjwHZ9ApUY
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/3yoajuKjwHZ9ApUY.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/grab-an-edge.json
-group: actions
-layout: action
 ---
 **Déclencheur** Vous chutez depuis un rebord ou une prise ou passez à côté de l'un de ces éléments lors de votre chute.
 

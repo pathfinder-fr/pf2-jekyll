@@ -3,13 +3,12 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Être furtif
 titleEn: Sneak
+id: VMozDqMMuK5kpoX4
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/VMozDqMMuK5kpoX4.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/sneak.json
+group: actions
 type: action
 typeFr: Action Unique
-id: VMozDqMMuK5kpoX4
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/VMozDqMMuK5kpoX4.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/sneak.json
-group: actions
-layout: action
 ---
 Vous pouvez tenter de vous déplacer vers un autre endroit tout en devenant ou en restant [non détecté](../condition-items/non-détecté.md). Marcher rapidement jusqu’à la moitié de votre Vitesse (vous pouvez Être furtif en Creusant, en Escaladant, en Volant ou en Nageant au lieu de Marcher rapidement si vous avez le type de déplacement correspondant ; vous devez vous déplacer à la moitié de votre Vitesse).
 

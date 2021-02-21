@@ -3,13 +3,12 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Crocheter une serrure
 titleEn: Pick a Lock
+id: 2EE4aF4SZpYf0R6H
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/2EE4aF4SZpYf0R6H.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/pick-a-lock.json
+group: actions
 type: action
 typeFr: Action Unique
-id: 2EE4aF4SZpYf0R6H
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/2EE4aF4SZpYf0R6H.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/pick-a-lock.json
-group: actions
-layout: action
 ---
 **Conditions** Vous avez des [outils de voleur](../equipment/outils-de-voleur.md)
 

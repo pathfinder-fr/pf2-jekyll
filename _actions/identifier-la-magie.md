@@ -3,13 +3,12 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Identifier la magie
 titleEn: Identify Magic
+id: eReSHVEPCsdkSL4G
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/eReSHVEPCsdkSL4G.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/identify-magic.json
+group: actions
 type: passive
 typeFr: Passive
-id: eReSHVEPCsdkSL4G
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/eReSHVEPCsdkSL4G.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/identify-magic.json
-group: actions
-layout: action
 ---
 Une fois que vous savez qu’un objet, un site ou un effet en cours est magique, vous pouvez passer dix minutes à tenter d’identifier ses spécificités. Si votre tentative est interrompue, vous devez la reprendre depuis le début. Le MJ fixe le DD de votre test. Les sujets maudits ou ésotériques imposent généralement des DD plus élevés ou peuvent même rendre impossibles leur identification par le biais de cette seule activité. Un sort intensifié n’augmente pas le DD pour l’identifier.
 

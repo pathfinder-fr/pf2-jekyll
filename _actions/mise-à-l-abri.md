@@ -3,13 +3,12 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Mise à l'abri
 titleEn: Take Cover
+id: ust1jJSCZQUhBZIz
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/ust1jJSCZQUhBZIz.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/take-cover.json
+group: actions
 type: action
 typeFr: Action Unique
-id: ust1jJSCZQUhBZIz
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/ust1jJSCZQUhBZIz.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/take-cover.json
-group: actions
-layout: action
 ---
 **Conditions** Vous bénéficiez d’un abri, vous trouvez près d’une caractéristique de votre environnement derrière laquelle vous abriter, ou êtes [À terre](../condition-items/à-terre.md).
 

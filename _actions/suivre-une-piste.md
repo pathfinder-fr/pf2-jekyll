@@ -3,13 +3,12 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Suivre une piste
 titleEn: Pursue a Lead
+id: xTK2zsWFyxSJvYbX
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/xTK2zsWFyxSJvYbX.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/pursue-a-lead.json
+group: actions
 type: passive
 typeFr: Passive
-id: xTK2zsWFyxSJvYbX
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/xTK2zsWFyxSJvYbX.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/pursue-a-lead.json
-group: actions
-layout: action
 ---
 **Fréquence** une fois toutes les 10 minutes
 

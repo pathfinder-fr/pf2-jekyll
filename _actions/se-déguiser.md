@@ -3,13 +3,12 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Se déguiser
 titleEn: Impersonate
+id: AJstokjdG6iDjVjE
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/AJstokjdG6iDjVjE.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/impersonate.json
+group: actions
 type: passive
 typeFr: Passive
-id: AJstokjdG6iDjVjE
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/AJstokjdG6iDjVjE.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/impersonate.json
-group: actions
-layout: action
 ---
 Vous vous confectionnez un déguisement pour vous faire passer pour quelqu’un ou quelque chose d’autre. La confection d’un déguisement convaincant prend dix minutes et nécessite un [kit de déguisement](../equipment/kit-de-déguisement.md), mais un déguisement plus simple confectionné au pied levé peut faire l’affaire si vous ne voulez pas vous faire passer pour quelqu’un en particulier, à l’appréciation du MJ.
 

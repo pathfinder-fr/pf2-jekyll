@@ -3,13 +3,12 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Signe de protection
 titleEn: Warding Sign
+id: 7pdG8l9POMK76Lf2
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/7pdG8l9POMK76Lf2.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/warding-sign.json
+group: actions
 type: reaction
 typeFr: Réaction
-id: 7pdG8l9POMK76Lf2
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/7pdG8l9POMK76Lf2.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/warding-sign.json
-group: actions
-layout: action
 ---
 **Fréquence** une fois par minute
 

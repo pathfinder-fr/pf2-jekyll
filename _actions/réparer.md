@@ -3,13 +3,12 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Réparer
 titleEn: Repair
+id: bT3skovyLUtP22ME
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/bT3skovyLUtP22ME.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/repair.json
+group: actions
 type: passive
 typeFr: Passive
-id: bT3skovyLUtP22ME
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/bT3skovyLUtP22ME.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/repair.json
-group: actions
-layout: action
 ---
 **Conditions** Vous avez un [kit de répération](../equipment/kit-de-réparation.md)
 

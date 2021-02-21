@@ -3,13 +3,12 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Contrefaire
 titleEn: Create Forgery
+id: ftG89SjTSa9DYDOD
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/ftG89SjTSa9DYDOD.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/create-forgery.json
+group: actions
 type: passive
 typeFr: Passive
-id: ftG89SjTSa9DYDOD
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/ftG89SjTSa9DYDOD.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/create-forgery.json
-group: actions
-layout: action
 ---
 Vous contrefaites un document, le plus souvent en une journée ou une semaine. Vous devez disposer du matériel d’écriture approprié pour créer une contrefaçon. Quand vous Contrefaites, le MJ fait un test secret de Société DD 20. Si vous réussissez, la qualité de la contrefaçon est suffisamment bonne pour que des observateurs passifs ne remarquent rien. Seuls les individus qui examinent attentivement le document et font un test de Perception ou de Société contre votre DD de Société peuvent remarquer quelque chose.
 

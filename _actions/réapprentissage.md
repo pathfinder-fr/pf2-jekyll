@@ -3,13 +3,12 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Réapprentissage
 titleEn: Retraining
+id: 24PSsn1SKpUwYA1X
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/24PSsn1SKpUwYA1X.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/retraining.json
+group: actions
 type: passive
 typeFr: Passive
-id: 24PSsn1SKpUwYA1X
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/24PSsn1SKpUwYA1X.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/retraining.json
-group: actions
-layout: action
 ---
 Le réapprentissage vous permet de modifier certains des choix que vous avez faits lors de la création de votre personnage, ce qui est fort utile si vous voulez lui faire prendre une nouvelle voie ou changer certains choix qui ne répondent pas à vos attentes. Vous pouvez réapprendre des dons, des compétences et certaines capacités de classes. Vous ne pouvez pas réapprendre votre ascendance, votre héritage, votre historique, votre classe, ou vos valeurs de caractéristique. Vous ne pouvez pas faire d’autres activités d’intermède pendant que vous êtes en réapprentissage.
 

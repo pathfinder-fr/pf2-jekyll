@@ -3,13 +3,12 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Lancer un sort
 titleEn: Cast a Spell
+id: aBQ8ajvEBByv45yz
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/aBQ8ajvEBByv45yz.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/cast-a-spell.json
+group: actions
 type: passive
 typeFr: Passive
-id: aBQ8ajvEBByv45yz
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/aBQ8ajvEBByv45yz.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/cast-a-spell.json
-group: actions
-layout: action
 ---
 Vous lancez un sort que vous avez préparé ou qui figure dans votre répertoire. Lancer un sort est une activité spéciale qui demande un nombre d’actions variable en fonction du sort. Ce nombre figure dans le bloc de statistiques de chaque sort. L’effet du sort se produit dès que les actions d’incantation sont accomplies.
 
@@ -19,10 +18,12 @@ Certains sorts se lancent par réaction ou par une action gratuite. Dans ce cas,
 
 **Composant de sort** Chaque entrée de sort précise la liste des composants nécessaires pour le lancer après l’icône ou le texte d’action : "[trois-actions] matériel, somatique, verbal." Les composants de sort, décrits en détail plus loin, ajoutent des traits et des conditions à l’activité Lancer un sort. Si vous êtes dans l’incapacité de fournir les composants, vous ne parvenez pas à Lancer le sort.
 
+
 - Matériel (manipulation)
 - Somatique (manipulation)
 - Verbal (concentration)
 - Focaliseur (manipulation)
+
 **Sorts interrompus et perdus** Certains sorts et pouvoirs permettent d’interrompre un sort, qui est alors perdu et n’a aucun effet. Quand vous perdez un sort, vous avez déjà dépensé son emplacement de sort, son coût et ses actions et déjà utilisé l’activité Lancer un sort. Si un sort est interrompu lors de l’action [Maintenir un sort](maintenir-un-sort.md), alors ce sort se termine de suite. Vous pouvez consulter les règles complètes concernant les actions d’interruption.
 
 

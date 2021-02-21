@@ -3,13 +3,12 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Appel du sang ancien
 titleEn: Call on Ancient Blood
+id: 8w6esW689NNbbq3i
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/8w6esW689NNbbq3i.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/call-on-ancient-blood.json
+group: actions
 type: reaction
 typeFr: Réaction
-id: 8w6esW689NNbbq3i
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/8w6esW689NNbbq3i.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/call-on-ancient-blood.json
-group: actions
-layout: action
 ---
 **Déclencheur** Vous devez faire un jet de sauvegarde contre un effet magique, mais vous n’avez pas encore lancé le dé.
 

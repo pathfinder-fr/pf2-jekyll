@@ -3,13 +3,12 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Alchimie rapide
 titleEn: Quick Alchemy
+id: yzNJgwzV9XqEhKc6
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/yzNJgwzV9XqEhKc6.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/quick-alchemy.json
+group: actions
 type: action
 typeFr: Action Unique
-id: yzNJgwzV9XqEhKc6
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/yzNJgwzV9XqEhKc6.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/quick-alchemy.json
-group: actions
-layout: action
 ---
 **Coût** 1 lot de réactifs imprégnés
 

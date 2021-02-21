@@ -3,13 +3,12 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Question imparable
 titleEn: Pointed Question
+id: xccOiNL2W1EtfUYl
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/xccOiNL2W1EtfUYl.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/pointed-question.json
+group: actions
 type: action
 typeFr: Action Unique
-id: xccOiNL2W1EtfUYl
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/xccOiNL2W1EtfUYl.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/pointed-question.json
-group: actions
-layout: action
 ---
 Vous posez une question qui charme ou provoque efficacement quelqu’un. Posez une question à une créature qui n’est pas l'un de vos alliés, que vous pouvez voir et avec laquelle vous conversez. Effectuez un test de Diplomatie contre le DD de Volonté de la créature. La créature est ensuite temporairement immunisée pendant 1 heure.
 

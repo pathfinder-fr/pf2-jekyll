@@ -3,13 +3,12 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Marquer pour mort
 titleEn: Mark for Death
+id: orjJjLdm4XNAcFi8
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/orjJjLdm4XNAcFi8.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/mark-for-death.json
+group: actions
 type: action
 typeFr: Action Unique
-id: orjJjLdm4XNAcFi8
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/orjJjLdm4XNAcFi8.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/mark-for-death.json
-group: actions
-layout: action
 ---
 **Conditions** Vous pouvez voir et entendre la créature que vous avez l'intention de marquer
 

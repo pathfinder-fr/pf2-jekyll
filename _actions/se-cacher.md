@@ -3,13 +3,12 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Se cacher
 titleEn: Hide
+id: XMcnh4cSI32tljXa
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/XMcnh4cSI32tljXa.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/hide.json
+group: actions
 type: action
 typeFr: Action Unique
-id: XMcnh4cSI32tljXa
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/XMcnh4cSI32tljXa.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/hide.json
-group: actions
-layout: action
 ---
 Vous vous réfugiez derrière un abri normal ou important ou vous vous enfoncez dans un élément qui offre un camouflage pour être [Caché](../condition-items/caché.md) et non plus [Observé](../condition-items/observé.md). Le MJ effectue votre test de Discrétion en secret et compare le résultat au DD de Perception de chaque créature qui vous observe mais vis‑à‑vis desquelles vous bénéficiez d’un abri normal ou important, ou êtes masqué. Votre test bénéficie du bonus de circonstances que vous confère un abri normal ou important.
 

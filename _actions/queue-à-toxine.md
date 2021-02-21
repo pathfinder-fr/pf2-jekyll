@@ -3,13 +3,12 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Queue à toxine
 titleEn: Tail Toxin
+id: ev8OHpBO3xq3Zt08
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/ev8OHpBO3xq3Zt08.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/tail-toxin.json
+group: actions
 type: action
 typeFr: Action Unique
-id: ev8OHpBO3xq3Zt08
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/ev8OHpBO3xq3Zt08.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/tail-toxin.json
-group: actions
-layout: action
 ---
 **Fréquence** une fois par jour
 

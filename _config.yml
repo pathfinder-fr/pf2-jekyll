@@ -38,6 +38,11 @@ collections:
   actions:
     output: true
     category: ['action']
+    layout: action
+  dons:
+    output: true
+    category: ['don']
+    layout: don
 
 
 # Exclude from processing.

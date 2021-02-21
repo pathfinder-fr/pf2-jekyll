@@ -3,13 +3,12 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Soigner les blessures
 titleEn: Treat Wounds
+id: 1kGNdIIhuglAjIp9
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/1kGNdIIhuglAjIp9.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/treat-wounds.json
+group: actions
 type: passive
 typeFr: Passive
-id: 1kGNdIIhuglAjIp9
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/1kGNdIIhuglAjIp9.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/treat-wounds.json
-group: actions
-layout: action
 ---
 **Conditions **Vous maniez ou transportez des [outils de guérisseur](../equipment/outils-de-guérisseur.md)
 

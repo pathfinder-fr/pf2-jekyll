@@ -3,13 +3,12 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Vengeance destructrice
 titleEn: Destructive Vengeance
+id: r5Uth6yvCoE4tr9z
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/r5Uth6yvCoE4tr9z.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/destructive-vengeance.json
+group: actions
 type: reaction
 typeFr: Réaction
-id: r5Uth6yvCoE4tr9z
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/r5Uth6yvCoE4tr9z.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/destructive-vengeance.json
-group: actions
-layout: action
 ---
 **déclencheur **Un enemy dans les 4,5 m vous fait subir des dégâts.
 

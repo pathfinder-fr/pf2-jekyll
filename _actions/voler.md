@@ -3,13 +3,12 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Voler
 titleEn: Steal
+id: RDXXE7wMrSPCLv5k
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/RDXXE7wMrSPCLv5k.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/steal.json
+group: actions
 type: action
 typeFr: Action Unique
-id: RDXXE7wMrSPCLv5k
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/RDXXE7wMrSPCLv5k.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/steal.json
-group: actions
-layout: action
 ---
 Vous tentez de vous emparez d’un objet que porte une autre créature sans vous faire repérer. Généralement, vous ne pouvez Voler qu’un objet dont l’Encombrement est négligeable et vous ratez automatiquement si la créature qui porte l’objet est en combat ou sur ses gardes.
 

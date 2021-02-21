@@ -3,13 +3,12 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Se faufiler
 titleEn: Squeeze
+id: kMcV8e5EZUxa6evt
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/kMcV8e5EZUxa6evt.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/squeeze.json
+group: actions
 type: passive
 typeFr: Passive
-id: kMcV8e5EZUxa6evt
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/kMcV8e5EZUxa6evt.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/squeeze.json
-group: actions
-layout: action
 ---
 Vous vous contorsionnez pour vous faufiler dans un espace si étroit que vous pouvez à peine le traverser. Cette action concerne les espaces exceptionnellement étroits ; nombre d’espaces étroits sont considérés comme du terrain difficile que vous pouvez traverser plus rapidement et sans avoir à effectuer de test. 
 
@@ -21,6 +20,8 @@ Vous vous contorsionnez pour vous faufiler dans un espace si étroit que vous po
 
 ## Se faufiler : exemples de tâches
 
+
 - **Qualifié** un espace tout juste assez large pour y passer vos épaules
 - **Maître** un espace tout juste assez large pour y passer votre tête
+
 

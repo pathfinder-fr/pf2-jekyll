@@ -3,13 +3,12 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Gagner de l'argent
 titleEn: Earn Income
+id: QyzlsLrqM0EEwd7j
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/QyzlsLrqM0EEwd7j.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/earn-income.json
+group: actions
 type: passive
 typeFr: Passive
-id: QyzlsLrqM0EEwd7j
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/QyzlsLrqM0EEwd7j.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/earn-income.json
-group: actions
-layout: action
 ---
 Vous pouvez utiliser une compétence — le plus souvent Artisanat, Connaissance ou Représentation — pour gagner de l’argent lors des intermèdes. Vous devez être qualifié dans la compétence utilisée pour effectuer cette action. L’installation de l’activité demande du temps et vos recettes dépendent de votre rang de maîtrise et de la rentabilité des occasions de travail que vous pouvez saisir. Étant donné que ce processus exige du temps et nécessite de prendre des notes en dehors des sessions consacrées aux aventures, il ne sera pas joué dans toutes les campagnes.
 
@@ -25,7 +24,7 @@ Dans certains cas, le MJ peut vous autoriser à utiliser une compétence différ
 
 ## Gagner de l'argent
 
-<span class="trait" title="Une activité qui demande au moins un jour et s'accomplit uniquement lors d'un intermède porte le trait intermède.">Intermède</a></span>
+<span class="trait" title="Une activité qui demande au moins un jour et s'accomplit uniquement lors d'un intermède porte le trait intermède.">Intermède</a>
 
 Vous utilisez l’une de vos compétences pour gagner de l’argent lors des intermèdes. Le MJ assigne un niveau de tâche qui représente le travail disponible le plus rentable. Vous pouvez chercher des tâches d’un niveau inférieur et le MJ détermine si vous parvenez à en trouver. Parfois, vous pouvez tenter de trouver un travail plus rentable que les offres initiales mais cela prend du temps et nécessite l’utilisation de la compétence Diplomatie pour Recueillir des informations et faire quelques recherches ou mondanités.
 
@@ -38,17 +37,17 @@ Vous pouvez continuer à travailler sur la tâche lors des jours suivants sans a
 <table style="height: 408px;" border="1">
 <tbody>
 <tr style="height: 17px;">
-<td style="width: 87px; height: 17px;"><span id="ctl00_MainContent_DetailedOutput">**Niveau de la tâche**</span></td>
-<td style="width: 68px; height: 17px;"><span id="ctl00_MainContent_DetailedOutput">**Échec**</span></td>
-<td style="width: 46px; height: 17px;"><span id="ctl00_MainContent_DetailedOutput">**Qualifié**</span></td>
-<td style="width: 41px; height: 17px;"><span id="ctl00_MainContent_DetailedOutput">**Expert**</span></td>
-<td style="width: 43px; height: 17px;"><span id="ctl00_MainContent_DetailedOutput">**Maître**</span></td>
-<td style="width: 64px; height: 17px;"><span id="ctl00_MainContent_DetailedOutput">**Légendaire**</span></td>
+<td style="width: 87px; height: 17px;">**Niveau de la tâche**</td>
+<td style="width: 68px; height: 17px;">**Échec**</td>
+<td style="width: 46px; height: 17px;">**Qualifié**</td>
+<td style="width: 41px; height: 17px;">**Expert**</td>
+<td style="width: 43px; height: 17px;">**Maître**</td>
+<td style="width: 64px; height: 17px;">**Légendaire**</td>
 </tr>
 <tr style="height: 17px;">
 <td style="width: 87px; height: 17px; text-align: center;">0</td>
 <td style="width: 68px; height: 17px; text-align: center;">1 pc</td>
-<td style="width: 46px; height: 17px; text-align: center;"><span id="ctl00_MainContent_DetailedOutput">5 pc</span></td>
+<td style="width: 46px; height: 17px; text-align: center;">5 pc</td>
 <td style="width: 41px; height: 17px; text-align: center;">5 pc</td>
 <td style="width: 43px; height: 17px; text-align: center;">5 pc</td>
 <td style="width: 64px; height: 17px; text-align: center;">5 pc</td>
@@ -56,170 +55,170 @@ Vous pouvez continuer à travailler sur la tâche lors des jours suivants sans a
 <tr style="height: 17px;">
 <td style="width: 87px; height: 17px; text-align: center;">1</td>
 <td style="width: 68px; height: 17px; text-align: center;">2 pc</td>
-<td style="width: 46px; height: 17px; text-align: center;"><span id="ctl00_MainContent_DetailedOutput">2 pa</span></td>
-<td style="width: 41px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 pa&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">2 pa</span></td>
-<td style="width: 43px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 pa&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">2 pa</span></td>
-<td style="width: 64px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 pa&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">2 pa</span></td>
+<td style="width: 46px; height: 17px; text-align: center;">2 pa</td>
+<td style="width: 41px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 pa&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">2 pa</td>
+<td style="width: 43px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 pa&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">2 pa</td>
+<td style="width: 64px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 pa&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">2 pa</td>
 </tr>
 <tr style="height: 17px;">
 <td style="width: 87px; height: 17px; text-align: center;">2</td>
 <td style="width: 68px; height: 17px; text-align: center;">4 pc</td>
 <td style="width: 46px; height: 17px; text-align: center;">3 pa</td>
-<td style="width: 41px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;3 pa&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">3 pa</span></td>
-<td style="width: 43px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;3 pa&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">3 pa</span></td>
-<td style="width: 64px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;3 pa&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">3 pa</span></td>
+<td style="width: 41px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;3 pa&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">3 pa</td>
+<td style="width: 43px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;3 pa&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">3 pa</td>
+<td style="width: 64px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;3 pa&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">3 pa</td>
 </tr>
 <tr style="height: 17px;">
 <td style="width: 87px; height: 17px; text-align: center;">3</td>
 <td style="width: 68px; height: 17px; text-align: center;">8 pc</td>
 <td style="width: 46px; height: 17px; text-align: center;">5 pa</td>
-<td style="width: 41px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;5 pa&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">5 pa</span></td>
-<td style="width: 43px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;5 pa&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">5 pa</span></td>
-<td style="width: 64px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;5 pa&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">5 pa</span></td>
+<td style="width: 41px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;5 pa&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">5 pa</td>
+<td style="width: 43px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;5 pa&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">5 pa</td>
+<td style="width: 64px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;5 pa&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">5 pa</td>
 </tr>
 <tr style="height: 17px;">
 <td style="width: 87px; height: 17px; text-align: center;">4</td>
 <td style="width: 68px; height: 17px; text-align: center;">1 pa</td>
 <td style="width: 46px; height: 17px; text-align: center;">7 pa</td>
-<td style="width: 41px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;8 pa&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">8 pa</span></td>
-<td style="width: 43px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;8 pa&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">8 pa</span></td>
-<td style="width: 64px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;8 pa&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">8 pa</span></td>
+<td style="width: 41px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;8 pa&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">8 pa</td>
+<td style="width: 43px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;8 pa&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">8 pa</td>
+<td style="width: 64px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;8 pa&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">8 pa</td>
 </tr>
 <tr style="height: 17px;">
 <td style="width: 87px; height: 17px; text-align: center;">5</td>
 <td style="width: 68px; height: 17px; text-align: center;">2 pa</td>
 <td style="width: 46px; height: 17px; text-align: center;">9 pa</td>
-<td style="width: 41px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">1 po</span></td>
-<td style="width: 43px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">1 po</span></td>
-<td style="width: 64px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">1 po</span></td>
+<td style="width: 41px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">1 po</td>
+<td style="width: 43px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">1 po</td>
+<td style="width: 64px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;1 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">1 po</td>
 </tr>
 <tr style="height: 17px;">
 <td style="width: 87px; height: 17px; text-align: center;">6</td>
 <td style="width: 68px; height: 17px; text-align: center;">3 pa</td>
 <td style="width: 46px; height: 17px; text-align: center;">1 po, 5 pa</td>
-<td style="width: 41px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">2 po</span></td>
-<td style="width: 43px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">2 po</span></td>
-<td style="width: 64px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">2 po</span></td>
+<td style="width: 41px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">2 po</td>
+<td style="width: 43px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">2 po</td>
+<td style="width: 64px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">2 po</td>
 </tr>
 <tr style="height: 17px;">
 <td style="width: 87px; height: 17px; text-align: center;">7</td>
 <td style="width: 68px; height: 17px; text-align: center;">4 pa</td>
 <td style="width: 46px; height: 17px; text-align: center;">2 po</td>
-<td style="width: 41px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 po, 5 pa&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">2 po, 5 pa</span></td>
-<td style="width: 43px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 po, 5 pa&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">2 po, 5 pa</span></td>
-<td style="width: 64px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 po, 5 pa&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">2 po, 5 pa</span></td>
+<td style="width: 41px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 po, 5 pa&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">2 po, 5 pa</td>
+<td style="width: 43px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 po, 5 pa&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">2 po, 5 pa</td>
+<td style="width: 64px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;2 po, 5 pa&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">2 po, 5 pa</td>
 </tr>
 <tr style="height: 17px;">
 <td style="width: 87px; height: 17px; text-align: center;">8</td>
 <td style="width: 68px; height: 17px; text-align: center;">5 pa</td>
 <td style="width: 46px; height: 17px; text-align: center;">2 po, 5 pa</td>
-<td style="width: 41px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;3 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">3 po</span></td>
-<td style="width: 43px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;3 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">3 po</span></td>
-<td style="width: 64px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;3 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">3 po</span></td>
+<td style="width: 41px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;3 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">3 po</td>
+<td style="width: 43px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;3 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">3 po</td>
+<td style="width: 64px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;3 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">3 po</td>
 </tr>
 <tr style="height: 17px;">
 <td style="width: 87px; height: 17px; text-align: center;">9</td>
 <td style="width: 68px; height: 17px; text-align: center;">6 pa</td>
 <td style="width: 46px; height: 17px; text-align: center;">3 po</td>
-<td style="width: 41px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;4 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">4 po</span></td>
-<td style="width: 43px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;4 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">4 po</span></td>
-<td style="width: 64px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;4 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">4 po</span></td>
+<td style="width: 41px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;4 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">4 po</td>
+<td style="width: 43px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;4 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">4 po</td>
+<td style="width: 64px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;4 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">4 po</td>
 </tr>
 <tr style="height: 17px;">
 <td style="width: 87px; height: 17px; text-align: center;">10</td>
 <td style="width: 68px; height: 17px; text-align: center;">7 pa</td>
 <td style="width: 46px; height: 17px; text-align: center;">4 po</td>
-<td style="width: 41px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;5 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">5 po</span></td>
-<td style="width: 43px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;6 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">6 po</span></td>
-<td style="width: 64px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;6 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">6 po</span></td>
+<td style="width: 41px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;5 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">5 po</td>
+<td style="width: 43px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;6 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">6 po</td>
+<td style="width: 64px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;6 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">6 po</td>
 </tr>
 <tr style="height: 17px;">
 <td style="width: 87px; height: 17px; text-align: center;">11</td>
 <td style="width: 68px; height: 17px; text-align: center;">8 pa</td>
 <td style="width: 46px; height: 17px; text-align: center;">5 po</td>
-<td style="width: 41px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;6 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">6 po</span></td>
-<td style="width: 43px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;8 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">8 po</span></td>
-<td style="width: 64px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;8 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">8 po</span></td>
+<td style="width: 41px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;6 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">6 po</td>
+<td style="width: 43px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;8 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">8 po</td>
+<td style="width: 64px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;8 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">8 po</td>
 </tr>
 <tr style="height: 17px;">
 <td style="width: 87px; height: 17px; text-align: center;">12</td>
 <td style="width: 68px; height: 17px; text-align: center;">9 pa</td>
 <td style="width: 46px; height: 17px; text-align: center;">6 po</td>
-<td style="width: 41px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;8 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">8 po</span></td>
-<td style="width: 43px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;10 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">10 po</span></td>
-<td style="width: 64px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;10 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">10 po</span></td>
+<td style="width: 41px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;8 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">8 po</td>
+<td style="width: 43px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;10 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">10 po</td>
+<td style="width: 64px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;10 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">10 po</td>
 </tr>
 <tr style="height: 17px;">
 <td style="width: 87px; height: 17px; text-align: center;">13</td>
 <td style="width: 68px; height: 17px; text-align: center;">1 po</td>
 <td style="width: 46px; height: 17px; text-align: center;">7 po</td>
-<td style="width: 41px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;10 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">10 po</span></td>
-<td style="width: 43px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;15 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">15 po</span></td>
-<td style="width: 64px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;15 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">15 po</span></td>
+<td style="width: 41px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;10 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">10 po</td>
+<td style="width: 43px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;15 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">15 po</td>
+<td style="width: 64px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;15 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">15 po</td>
 </tr>
 <tr style="height: 17px;">
 <td style="width: 87px; height: 17px; text-align: center;">14</td>
 <td style="width: 68px; height: 17px; text-align: center;">1 po, 5 pa</td>
 <td style="width: 46px; height: 17px; text-align: center;">8 po</td>
-<td style="width: 41px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;15 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">15 po</span></td>
-<td style="width: 43px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;20 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">20 po</span></td>
-<td style="width: 64px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;20 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">20 po</span></td>
+<td style="width: 41px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;15 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">15 po</td>
+<td style="width: 43px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;20 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">20 po</td>
+<td style="width: 64px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;20 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">20 po</td>
 </tr>
 <tr style="height: 17px;">
 <td style="width: 87px; height: 17px; text-align: center;">15</td>
 <td style="width: 68px; height: 17px; text-align: center;">2 po</td>
 <td style="width: 46px; height: 17px; text-align: center;">10 po</td>
-<td style="width: 41px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;20 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">20 po</span></td>
-<td style="width: 43px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;28 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">28 po</span></td>
-<td style="width: 64px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;28 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">28 po</span></td>
+<td style="width: 41px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;20 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">20 po</td>
+<td style="width: 43px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;28 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">28 po</td>
+<td style="width: 64px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;28 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">28 po</td>
 </tr>
 <tr style="height: 17px;">
 <td style="width: 87px; height: 17px; text-align: center;">16</td>
 <td style="width: 68px; height: 17px; text-align: center;">2 po, 5 pa</td>
 <td style="width: 46px; height: 17px; text-align: center;">13 po</td>
-<td style="width: 41px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;25 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">25 po</span></td>
-<td style="width: 43px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;36 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">36 po</span></td>
-<td style="width: 64px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;40 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">40 po</span></td>
+<td style="width: 41px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;25 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">25 po</td>
+<td style="width: 43px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;36 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">36 po</td>
+<td style="width: 64px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;40 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">40 po</td>
 </tr>
 <tr style="height: 17px;">
 <td style="width: 87px; height: 17px; text-align: center;">17</td>
 <td style="width: 68px; height: 17px; text-align: center;">3 po</td>
 <td style="width: 46px; height: 17px; text-align: center;">15 po</td>
-<td style="width: 41px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;30 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">30 po</span></td>
-<td style="width: 43px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;45 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">45 po</span></td>
-<td style="width: 64px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;55 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">55 po</span></td>
+<td style="width: 41px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;30 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">30 po</td>
+<td style="width: 43px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;45 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">45 po</td>
+<td style="width: 64px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;55 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">55 po</td>
 </tr>
 <tr style="height: 17px;">
 <td style="width: 87px; height: 17px; text-align: center;">18</td>
 <td style="width: 68px; height: 17px; text-align: center;">4 po</td>
 <td style="width: 46px; height: 17px; text-align: center;">20 po</td>
-<td style="width: 41px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;45 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">45 po</span></td>
-<td style="width: 43px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;70 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">70 po</span></td>
-<td style="width: 64px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;90 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">90 po</span></td>
+<td style="width: 41px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;45 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">45 po</td>
+<td style="width: 43px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;70 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">70 po</td>
+<td style="width: 64px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;90 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">90 po</td>
 </tr>
 <tr style="height: 17px;">
 <td style="width: 87px; height: 17px; text-align: center;">19</td>
 <td style="width: 68px; height: 17px; text-align: center;">6 po</td>
 <td style="width: 46px; height: 17px; text-align: center;">30 po</td>
-<td style="width: 41px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;60 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">60 po</span></td>
-<td style="width: 43px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;100 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">100 po</span></td>
-<td style="width: 64px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;130 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">130 po</span></td>
+<td style="width: 41px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;60 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">60 po</td>
+<td style="width: 43px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;100 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">100 po</td>
+<td style="width: 64px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;130 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">130 po</td>
 </tr>
 <tr style="height: 17px;">
 <td style="width: 87px; height: 17px; text-align: center;">20</td>
 <td style="width: 68px; height: 17px; text-align: center;">8 po</td>
 <td style="width: 46px; height: 17px; text-align: center;">40 po</td>
-<td style="width: 41px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;75 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">75 po</span></td>
-<td style="width: 43px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;150 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">150 po</span></td>
-<td style="width: 64px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;200 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">200 po</span></td>
+<td style="width: 41px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;75 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">75 po</td>
+<td style="width: 43px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;150 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">150 po</td>
+<td style="width: 64px; height: 17px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;200 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">200 po</td>
 </tr>
 <tr style="height: 34px;">
-<td style="width: 87px; height: 34px; text-align: center;"><span id="ctl00_MainContent_DetailedOutput">20 (critical success)</span></td>
+<td style="width: 87px; height: 34px; text-align: center;">20 (critical success)</td>
 <td style="width: 68px; height: 34px;"> </td>
 <td style="width: 46px; height: 34px; text-align: center;">50 po</td>
-<td style="width: 41px; height: 34px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;90 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">90 po</span></td>
-<td style="width: 43px; height: 34px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;175 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">175 po</span></td>
-<td style="width: 64px; height: 34px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;300 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">300 po</span></td>
+<td style="width: 41px; height: 34px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;90 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">90 po</td>
+<td style="width: 43px; height: 34px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;175 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">175 po</td>
+<td style="width: 64px; height: 34px; text-align: center;"><span style="font-size: 10pt; font-family: Arial;" data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;300 po&quot;}" data-sheets-userformat="{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}">300 po</td>
 </tr>
 </tbody>
 </table>
@@ -233,14 +232,16 @@ Vous pouvez continuer à travailler sur la tâche lors des jours suivants sans a
 
  
 
-<h3 class="title">Gagner de l'argent : exemples de tâches
+### Gagner de l'argent : exemples de tâches
 
 Ces exemples utilisent Connaissance des alcools pour travailler dans un bar ou Connaissance juridique pour accomplir un travail de juriste.
+
 
 - **Qualifié** tenir le bar, accomplir des recherches juridiques
 - **Expert** établir la carte des boissons, présenter des cas mineurs au tribunal
 - **Maître** gérer une grande brasserie, présenter des cas importants au tribunal
 - **Légendaire** gérer une franchise de fabrication de bière internationale, présenter un cas au tribunal des Enfers
+
 ## Fabriquer des produits destinés à la vente - Artisanat
 
 En utilisant Artisanat, vous pouvez travailler à la production d’objets ordinaires destinés à la vente. On peut généralement trouver facilement un travail consistant à fabriquer des objets simples dont le niveau est inférieur de 1 ou 2 par rapport à celui de la communauté dans laquelle vous vous trouvez. Les tâches de niveau supérieur représentent des commandes spéciales pour lesquelles vous devez Fabriquer un objet spécifique en effectuant l’activité d’intermède Fabriquer, puis le vendre au bon prix à un client. Ces opportunités ne sont pas nombreuses et peuvent imposer des conditions spéciales ou générer de graves conséquences si vous décevez un client important.

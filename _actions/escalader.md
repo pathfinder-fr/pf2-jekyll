@@ -3,13 +3,12 @@
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Escalader
 titleEn: Climb
+id: pprgrYQ1QnIDGZiy
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/pprgrYQ1QnIDGZiy.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/climb.json
+group: actions
 type: action
 typeFr: Action Unique
-id: pprgrYQ1QnIDGZiy
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/pprgrYQ1QnIDGZiy.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/climb.json
-group: actions
-layout: action
 ---
 **Conditions** Vos deux mains sont libres.
 
@@ -23,9 +22,11 @@ Vous montez, descendez ou parcourez une déclivité. Vous devez effectuer un tes
 
 <h2>**Escalader : exemples de tâches
 
+
 - **Inexpérimenté** échelle, pente abrupte, arbre aux branches basses
 - **Qualifié** gréement, corde, arbre typique
 - **Expert** mur avec des petites prises pour les pieds et les mains
 - **Maître** plafond avec des prises pour les pieds et les mains, mur de roche
 - **Légendaire** surface lisse
+
 
