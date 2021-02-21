@@ -41,6 +41,9 @@ collections:
   etats:
     output: true
     category: ['état préjudiciable']
+  dons:
+    output: true
+    category: ['don']
 
 
 # Exclude from processing.

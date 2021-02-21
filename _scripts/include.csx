@@ -73,7 +73,7 @@ async static Task GenerateFiles(string tradFolderName, string colDir, DataGroup 
         var path = $"../_ext/module-en/packs/data/{enFolderName}/{enName}.json";
         if (!File.Exists(path))
         {
-            WriteLine($"Impossible de trouver le fichier {enName} correspondant à {trad.English} (ID {trad.Id})");
+            WriteLine($"Impossible de trouver le fichier d'origine {enName} correspondant à {trad.English} (ID {trad.Id})");
             continue;
         }
 
@@ -182,6 +182,7 @@ public static string AsNameId(string name)
         .Replace('\\', '-')
         .Replace("(", string.Empty)
         .Replace(")", string.Empty)
+        .Replace("!", string.Empty)
         .ToLowerInvariant();
 }
 
@@ -425,7 +426,16 @@ public static string ReplaceCompendiumMatch(Match match)
     var groupFolder = group.Value.AsDataFolderName(); // _actions
 
     var id = linkParts[2]; // Bcxarzksqt9ezrs6
-    var frName = Ids.ResolveFrenchNameId(group.Value, id);
+    string frName;
+    try
+    {
+        frName = Ids.ResolveFrenchNameId(group.Value, id);
+    }
+    catch (Exception)
+    {
+        WriteLine($"[WARNING] Impossible de trouver le nom français pour le lien {link} pointant vers la page {id} (groupe {group.Value})");
+        return text;
+    }
 
     if (CurrentGroup == group)
     {
