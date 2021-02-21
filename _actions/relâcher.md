@@ -6,6 +6,8 @@ titleEn: Release
 type: free
 typeFr: Action Gratuite
 id: wQYmDStjdjn0I26t
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/wQYmDStjdjn0I26t.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/release.json
 group: actions
 layout: action
 ---

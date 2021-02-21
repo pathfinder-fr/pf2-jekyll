@@ -6,6 +6,8 @@ titleEn: Leap
 type: action
 typeFr: Action Unique
 id: d5I6018Mci2SWokk
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/d5I6018Mci2SWokk.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/leap.json
 group: actions
 layout: action
 ---

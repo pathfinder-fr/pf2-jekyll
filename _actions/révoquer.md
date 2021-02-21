@@ -6,6 +6,8 @@ titleEn: Dismiss
 type: action
 typeFr: Action Unique
 id: AjLSHZSWQ90exdLo
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/AjLSHZSWQ90exdLo.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/dismiss.json
 group: actions
 layout: action
 ---

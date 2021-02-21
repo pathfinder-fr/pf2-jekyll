@@ -6,18 +6,16 @@ titleEn: Disable Device
 type: action
 typeFr: Action Unique
 id: cYdz2grcOcRt4jk6
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/cYdz2grcOcRt4jk6.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/disable-device.json
 group: actions
 layout: action
 ---
 **Conditions** Vous devez utilisez des @Compendium[pf2e.equipment-srd.zvLyCVD8g2PdHJAc]{outils de voleur} quand vous tentez de désamorcer certains dispositifs.
 
-----
-
 Cette action vous permet de désamorcer un piège ou un autre dispositif complexe. Souvent, un dispositif nécessite de nombreux succès avant de réussir à le désamorcer, en fonction de sa structure et de sa complexité. C’est le MJ qui détermine si des outils de voleur peuvent être utiles et même parfois nécessaires pour Désamorcer un dispositif, et il faut parfois un rang de maîtrise plus élevé en Vol pour désamorcer certains dispositifs.
 
 Le résultat de votre test de Vol détermine les progrès de votre tentative.
-
-----
 
 **Succès critique** Vous désamorcez le dispositif ou vous obtenez deux succès pour réussir à désamorcer un dispositif complexe. Vous ne laissez aucune trace de votre manipulation et vous pouvez réarmer le dispositif ultérieurement si un tel réarmement est possible.
 

@@ -4,7 +4,7 @@ using System.IO;
 using System.Text.Json;
 using System.Text.RegularExpressions;
 
-public record StatusEntry(string Group, string French, string English, string FrenchDescription, string EnglishDescription, string Status, string OldStatus);
+public record StatusEntry(string Group, string French, string English, string Status, string OldStatus/* on ne stocke plus les trads FR et EN , string FrenchDescription, string EnglishDescription */);
 
 Dictionary<string, Dictionary<string, StatusEntry>> data = new();
 var files = Directory.GetFiles("../_ext/trads/data", "*.htm", new EnumerationOptions { RecurseSubdirectories = true });
@@ -69,7 +69,7 @@ foreach (var file in files)
         data[group] = new Dictionary<string, StatusEntry>();
     }
 
-    data[group].Add(id, new StatusEntry(group, frName, enName, frDesc, enDesc, status, oldStatus));
+    data[group].Add(id, new StatusEntry(group, frName, enName, status, oldStatus));
 }
 
 Directory.CreateDirectory("../_data");

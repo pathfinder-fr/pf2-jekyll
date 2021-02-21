@@ -6,16 +6,14 @@ titleEn: Disarm
 type: action
 typeFr: Action Unique
 id: Dt6B1slsBy8ipJu9
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/Dt6B1slsBy8ipJu9.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/disarm.json
 group: actions
 layout: action
 ---
 **Conditions** L'une de vos mains au moins est libre. La cible ne peut pas être de plus d'une catégorie de taille de plus que vous.
 
-----
-
 Vous tentez d’obliger un adversaire à lâcher un objet qu’il tient. Effectuez un test d’<pf2-action action='disarm' glyph='A'>Athlétisme</pf2-action> contre le DD de Réflexes de l’adversaire.
-
-----
 
 **Succès critique** Votre adversaire lâche l’objet qu’il tient. Cet objet tombe par terre dans l’espace qu’occupe l’adversaire.
 

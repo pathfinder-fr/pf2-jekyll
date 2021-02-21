@@ -6,12 +6,12 @@ titleEn: Pursue a Lead
 type: passive
 typeFr: Passive
 id: xTK2zsWFyxSJvYbX
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/xTK2zsWFyxSJvYbX.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/pursue-a-lead.json
 group: actions
 layout: action
 ---
 **Fréquence** une fois toutes les 10 minutes
-
-----
 
 Vous passez 1 minute à examiner les détails d’un indice potentiel en désignant le sujet lié à cet indice comme la cible de votre enquête en cours. Ce sujet est généralement une créature spécifique, un objet ou un emplacement assez précis (comme une salle ou un corridor) mais le MJ pourrait accepter d'autres sujets pour votre enquête. Vous n’avez pas besoin de connaître l’identité, la raison d’être ou la nature du sujet, mais devez être au courant de son existence. Par exemple, trouver des empreintes suffit à lancer une enquête sur la créature qui les a laissées et voir un croquis rapide d’un objet ou d’un emplacement peut suffire à ouvrir une enquête sur le sujet.
 

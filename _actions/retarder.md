@@ -6,12 +6,12 @@ titleEn: Delay
 type: free
 typeFr: Action Gratuite
 id: A72nHGUtNXgY5Ey9
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/A72nHGUtNXgY5Ey9.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/delay.json
 group: actions
 layout: action
 ---
 **Déclencheur** Votre tour commence
-
-----
 
 Vous attendez le bon moment pour agir. Le reste de votre tour ne s’est pas encore déroulé. À la place, vous vous retirez de l’ordre d’initiative. Vous pouvez reprendre une place dans l’ordre d’initiative par une action gratuite déclenchée par la fin du tour d’une autre créature. Cette nouvelle place devient votre place permanente dans l’ordre d’initiative. Vous ne pouvez pas utiliser de réaction avant de reprendre une place dans l’ordre d’initiative. Si vous Retardez un round entier sans reprendre une place dans l’ordre d’initiative, les actions du tour Retardé sont perdues, votre place dans l’ordre d’initiative ne change pas et votre prochain tour se déroule donc à votre place originale dans cet ordre.
 

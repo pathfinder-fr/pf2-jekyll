@@ -60,11 +60,11 @@ public TradDataEntry ReadTradDataEntry(string file)
 
         if (isEnDesc)
         {
-            enDesc += line;
+            enDesc += line + Environment.NewLine;
         }
         else if (isFrDesc)
         {
-            frDesc += line;
+            frDesc += line + Environment.NewLine;
         }
     }
 

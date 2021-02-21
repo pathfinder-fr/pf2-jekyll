@@ -6,12 +6,12 @@ titleEn: Rage
 type: action
 typeFr: Action Unique
 id: Ah5g9pDwWF9b9VW9
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/Ah5g9pDwWF9b9VW9.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/rage.json
 group: actions
 layout: action
 ---
 **Conditions** Vous n'êtes pas déjà dans l'état @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigué} ou enragé.
-
-----
 
 Vous faites appel à votre fureur intérieure et entrez en rage. Vous gagnez une quantité de points de vie temporaires égale à votre niveau plus votre modificateur de Constitution. Cette fureur dure 1 min, jusqu’à ce que vous soyez à court d’ennemis que vous pouvez percevoir, ou jusqu’à ce que vous soyiez @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{Inconscient}. Vous ne pouvez pas quitter volontairement l’état de rage.
 

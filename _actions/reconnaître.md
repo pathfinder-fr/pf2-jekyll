@@ -6,6 +6,8 @@ titleEn: Scout
 type: passive
 typeFr: Passive
 id: kV3XM0YJeS2KCSOb
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/kV3XM0YJeS2KCSOb.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/scout.json
 group: actions
 layout: action
 ---

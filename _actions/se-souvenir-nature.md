@@ -6,6 +6,8 @@ titleEn: Recall Knowledge (Nature)
 type: action
 typeFr: Action Unique
 id: eT1jXYvz2YH70Ovp
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/eT1jXYvz2YH70Ovp.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/recall-knowledge-nature.json
 group: actions
 layout: action
 ---
@@ -17,15 +19,11 @@ Les compétences suivantes peuvent être utilisées pour Se souvenir et obtenir 
 
 Le MJ peut vous autoriser à faire des tests pour Se souvenir en utilisant d’autres compétences. Par exemple, vous pourriez évaluer le talent d’un acrobate en utilisant Acrobaties. Si vous utilisez une compétence physique (comme dans cet exemple), il est fort probable que le MJ vous demande d’appliquer une valeur de caractéristique mentale — le plus souvent l’Intelligence — au lieu de la valeur de caractéristique physique normalement associée à la compétence.
 
-----
-
 **Succès critique** Vous vous souvenez avec précision de l'information nécessaire et obtenez des informations ou du contexte supplémentaires.
 
 **Succès** Vous vous souvenez avec précision de l'information nécessaire ou obtenez un indice utile sur votre situation actuelle.
 
 **Échec critique** Vous vous souvenez d'une information inexacte ou obtenez un indice faux ou trompeur.
-
-----
 
 ## Se souvenir : exemple de tâches
 

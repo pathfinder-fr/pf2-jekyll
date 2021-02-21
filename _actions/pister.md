@@ -6,14 +6,14 @@ titleEn: Track
 type: passive
 typeFr: Passive
 id: EA5vuSgJfiHH7plD
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/EA5vuSgJfiHH7plD.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/track.json
 group: actions
 layout: action
 ---
 Vous suivez des traces en vous déplaçant à la moitié de votre Vitesse de voyage. Suite à un test réussi de Pister, vous pouvez continuer à suivre des traces à la moitié de votre Vitesse sans effectuer de tests supplémentaires pendant un maximum d’une heure. Vous pouvez, dans certains cas, Pister au cours d’une rencontre. Le cas échéant, Pister est une action unique sans le trait exploration mais vous devez faire des tests plus souvent car vous vous trouvez dans une situation tendue. Le MJ détermine la fréquence de ces tests.
 
 Vous faites un test de Survie quand vous commencez à Pister, une fois par heure quand vous suivez des traces et à chaque fois qu’une chose change les traces de manière significative. Le MJ détermine le DD de ces tests en fonction de la fraîcheur des traces, du climat et du type de sol.
-
-----
 
 **Succès** Vous trouvez les traces ou continuez à suivre celles que vous avez déjà trouvées.
 

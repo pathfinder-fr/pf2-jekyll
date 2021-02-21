@@ -6,12 +6,12 @@ titleEn: Eldritch Shot
 type: action
 typeFr: Action Unique
 id: DS9sDOWkXrz2xmHi
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/DS9sDOWkXrz2xmHi.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/eldritch-shot.json
 group: actions
 layout: action
 ---
 **Conditions** Vous maniez un arc
-
-----
 
 Vous @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancez un sort} qui nécessite 1 ou 2 actions pour être lancé et qui nécessite un jet d'attaque de sort. Les effetsdu sort ne se produise pas immédiatement mais sont imprégnés dans l'arc que vous maniez.
 

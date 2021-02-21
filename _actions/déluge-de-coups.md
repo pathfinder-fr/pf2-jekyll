@@ -6,6 +6,8 @@ titleEn: Flurry of Blows
 type: action
 typeFr: Action Unique
 id: nbfNETdpee8CVM17
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/nbfNETdpee8CVM17.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/flurry-of-blows.json
 group: actions
 layout: action
 ---

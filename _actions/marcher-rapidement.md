@@ -6,6 +6,8 @@ titleEn: Stride
 type: action
 typeFr: Action Unique
 id: Bcxarzksqt9ezrs6
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/Bcxarzksqt9ezrs6.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/stride.json
 group: actions
 layout: action
 ---

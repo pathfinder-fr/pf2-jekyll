@@ -6,6 +6,8 @@ titleEn: Threatening Approach
 type: action
 typeFr: Action Unique
 id: W4M8L9WepGLamlHs
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/W4M8L9WepGLamlHs.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/threatening-approach.json
 group: actions
 layout: action
 ---

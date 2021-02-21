@@ -6,12 +6,12 @@ titleEn: Refocus
 type: passive
 typeFr: Passive
 id: OSefkMgojBLqmRDh
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/OSefkMgojBLqmRDh.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/refocus.json
 group: actions
 layout: action
 ---
 **Conditions**  Vous disposez d’une réserve de focalisation et vous avez dépensé au moins 1 point de focalisation depuis la dernière fois que vous avez récupéré vos points de focalisation.
-
-----
 
 Vous passez 10 min à accomplir des actes permettant de restaurer votre connexion magique, ce qui rend 1 point de focalisation à votre réserve. Ces actes sont décrits avec la classe ou le pouvoir qui vous a donné vos sorts focalisés. Ils se recoupent souvent avec d’autres tâches liées à l’origine de vos sorts focalisés. Par exemple, un prêtre qui reçoit ses sorts focalisés de la part d’une divinité bonne peut généralement utiliser Refocaliser pendant qu’il soigne les plaies de ses alliés tandis qu’un magicien de l’école de l’illusion pourrait se Refocaliser en tentant d’<a class="entity-link" draggable="true" data-pack="pf2e.actionspf2e" data-id="eReSHVEPCsdkSL4G">Identifier de la magie</a> issue de l’école de l’illusion
 

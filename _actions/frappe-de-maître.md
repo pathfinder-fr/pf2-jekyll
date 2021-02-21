@@ -6,16 +6,14 @@ titleEn: Master Strike
 type: free
 typeFr: Action Gratuite
 id: Rlp7ND33yYfxiEWi
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/Rlp7ND33yYfxiEWi.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/master-strike.json
 group: actions
 layout: action
 ---
 **Déclencheur** Vous réussissez une Frappe contre une créature <a class="entity-link" draggable="true" data-pack="pf2e.conditionitems" data-id="AJh5ex99aV6VTggg">Prise au dépourvu</a> et lui infligez des dégâts.
 
-----
-
 La cible fait un jet de Vigueur contre votre DD de classe. Elle devient temporairement immunisée à votre Frappe de maître pour 1 journée.
-
-----
 
 **Succès critique** La cible n'est pas affectée.<br>**Succès** La cible est <a class="entity-link" draggable="true" data-pack="pf2e.conditionitems" data-id="MIRkyAjyBeXivMa7">Affaiblie</a> 2 jusqu'à la fin de votre prochain tour.
 

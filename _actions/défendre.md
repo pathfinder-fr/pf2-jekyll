@@ -6,6 +6,8 @@ titleEn: Defend
 type: passive
 typeFr: Passive
 id: cYtYKa1gDEl7y2N0
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/cYtYKa1gDEl7y2N0.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/defend.json
 group: actions
 layout: action
 ---

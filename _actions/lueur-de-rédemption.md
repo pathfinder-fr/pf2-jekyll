@@ -6,12 +6,12 @@ titleEn: Glimpse of Redemption
 type: reaction
 typeFr: Réaction
 id: tuZnRWHixLArvaIf
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/tuZnRWHixLArvaIf.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/glimpse-of-redemption.json
 group: actions
 layout: action
 ---
 **Déclencheur** Un ennemi inflige des dégâts à votre allié et les deux sont à 4,50 m ou moins de vous.
-
-----
 
 L’ennemi vacille sous le poids de ses péchés alors que des visions de rédemption défilent dans sa tête. Il doit choisir l’une des options suivantes :  
 

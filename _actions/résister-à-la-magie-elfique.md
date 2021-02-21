@@ -6,12 +6,12 @@ titleEn: Resist Elf Magic
 type: reaction
 typeFr: Réaction
 id: On5CQjX4euWqToly
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/On5CQjX4euWqToly.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/resist-elf-magic.json
 group: actions
 layout: action
 ---
 **Déclencheur** Vous effectuez un jet de sauvegarde, qui n'a pas encore été lancé, contre un effet magique.
-
-----
 
 Votre résistance ancestrale à la Magie vous protège. Vous gagnez un bonus de circonstance de +1 au jet de sauvegarde déclencheur. Si l’effet déclencheur est de nature arcanique, vous gagnez un bonus de +2 à la place.
 

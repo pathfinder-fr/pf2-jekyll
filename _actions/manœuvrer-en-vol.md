@@ -6,16 +6,14 @@ titleEn: Maneuver in Flight
 type: action
 typeFr: Action Unique
 id: Qf1ylAbdVi1rkc8M
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/Qf1ylAbdVi1rkc8M.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/maneuver-in-flight.json
 group: actions
 layout: action
 ---
 **Conditions** Vous avez une Vitesse de vol.
 
-----
-
 Vous tentez une manœuvre difficile en volant. Effectuez un test d’Acrobaties. Le MJ détermine quelles manœuvres sont possibles mais elles vous permettent rarement de vous déplacer plus loin que votre Vitesse de vol.
-
-----
 
 **Succès** Vous réussissez la manœuvre.
 

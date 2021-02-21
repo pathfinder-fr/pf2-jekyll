@@ -6,12 +6,12 @@ titleEn: Iron Command
 type: reaction
 typeFr: Réaction
 id: M8RCbthRhB4bxO9t
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/M8RCbthRhB4bxO9t.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/iron-command.json
 group: actions
 layout: action
 ---
 **Déclencheur** Un ennemi dans les 4,5 m vous inflige des dégâts.
-
-----
 
 Vous remettez l'impertinent ennemi qui a osé vous blesser à sa place. Vous ordonnez à l'ennemi de se prosterner devant vous en signe de soumission. S'il ose refuser, il doit en payer le prix dans la douleur et l'angoisse. L'ennemi doit choisir une des deux options suivantes.
 

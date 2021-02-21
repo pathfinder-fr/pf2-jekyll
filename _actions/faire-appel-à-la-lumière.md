@@ -6,12 +6,12 @@ titleEn: Call Upon the Brightness
 type: reaction
 typeFr: Réaction
 id: mk6rzaAzsBBRGJnh
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/mk6rzaAzsBBRGJnh.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/call-upon-the-brightness.json
 group: actions
 layout: action
 ---
 **Déclencheur **Vous faites un jet d'attaque, un test de compétence ou un jet de sauvegarde en accomplissant le plan d'action de votre incantation du sort <a class="entity-link" draggable="true" data-pack="pf2e.spells-srd" data-id="41TZEjhO6D1nWw2X">Augure<:a>, mais vous n'avez pas encore lancé le dé.
-
-----
 
 Vous obtenez un bonus de statut de +1 au jet déclencheur un de +2 si le résultat de l'augure était “malheur” mais que vous avez néanmoins persisté.
 

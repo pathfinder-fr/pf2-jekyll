@@ -6,16 +6,14 @@ titleEn: Feint
 type: action
 typeFr: Action Unique
 id: QNAVeNKtHA0EUw4X
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/QNAVeNKtHA0EUw4X.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/feint.json
 group: actions
 layout: action
 ---
 **Conditions** Vous êtes à portée d'allonge au corps à corps de l'adversaire que vous tentez de Feinter.
 
-----
-
 À l’aide d’un moulinet trompeur, vous faites en sorte qu’un adversaire ne puisse pas voir venir votre véritable attaque. Effectuez un test de Duperie contre le DD de Perception de cet adversaire.
-
-----
 
 **Succès critique** Les tentatives de défense de votre ennemi sont complètement inefficaces. La cible est <a class="entity-link" draggable="true" data-pack="pf2e.conditionitems" data-id="AJh5ex99aV6VTggg">Prise au dépourvu</a> contre les attaques au corps à corps que vous portez contre elle jusqu’à la fin de votre prochain tour.
 

@@ -6,15 +6,14 @@ titleEn: Treat Poison
 type: action
 typeFr: Action Unique
 id: KjoCEEmPGTeFE4hh
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/KjoCEEmPGTeFE4hh.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/treat-poison.json
 group: actions
 layout: action
 ---
 **Conditions** Vous avez des @Compendium[pf2e.equipment-srd.s1vB3HdXjMigYAnY]{instruments de guérisseur}
 
-----
-
-Vous soignez un patient empoisonné pour stopper la propagation du poison. Faites un test de Médecine contre le DD du poison. Après avoir tenté de soigner une créature empoisonnée, vous ne pouvez pas faire d’autres tentatives tant que la créature n’a pas encore fait son prochain jet de sauvegarde contre le poison.----
-
+Vous soignez un patient empoisonné pour stopper la propagation du poison. Faites un test de Médecine contre le DD du poison. Après avoir tenté de soigner une créature empoisonnée, vous ne pouvez pas faire d’autres tentatives tant que la créature n’a pas encore fait son prochain jet de sauvegarde contre le poison.
 **Succès critique** Vous conférez à la créature un bonus de circonstances de +4 à son prochain jet de sauvegarde contre le poison.
 
 **Succès** Vous conférez à la créature un bonus de circonstances de +2 à son prochain jet de sauvegarde contre le poison.

@@ -6,6 +6,8 @@ titleEn: Command an Animal
 type: action
 typeFr: Action Unique
 id: q9nbyIF0PEBqMtYe
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/q9nbyIF0PEBqMtYe.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/command-an-animal.json
 group: actions
 layout: action
 ---
@@ -14,8 +16,6 @@ Vous donnez un ordre à un animal. Faites un test de Nature contre le DD de Volo
 Vous ratez automatiquement si l’animal est hostile ou inamical envers vous. Si l’animal est serviable envers vous, augmentez d’un cran votre degré de succès. Il est plus facile de Diriger un animal avec un don comme @Compendium[pf2e.feats-srd.Rq5wkA8DtsmbzoGV]{Chevaucher}.
 
 La plupart des animaux savent accomplir les actions basiques Bondir, Chercher, Marcher rapidement, Frapper et Se relever. Si un animal sait accomplir une activité, telle que Galoper pour un cheval, vous pouvez Diriger un animal pour qu’il l’accomplisse mais vous devez faire autant d’actions Diriger un animal que le nombre d’actions de l’activité. Vous pouvez également consacrer plusieurs actions pour Diriger un animal afin d’accomplir ce même nombre d’actions basiques lors du prochain tour de l’animal. Par exemple, vous pouvez consacrer trois actions pour Diriger un animal afin qu’il Marche rapidement trois fois ou qu’il Marche rapidement deux fois puis Frappe.
-
-----
 
 **Succès** L'animal obéit à vos ordres lors de son prochain tour.
 

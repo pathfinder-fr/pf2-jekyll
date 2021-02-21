@@ -6,6 +6,8 @@ titleEn: Investigate
 type: passive
 typeFr: Passive
 id: EwgTZBWsc8qKaViP
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/EwgTZBWsc8qKaViP.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/investigate.json
 group: actions
 layout: action
 ---

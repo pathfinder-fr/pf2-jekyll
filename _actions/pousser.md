@@ -6,16 +6,14 @@ titleEn: Shove
 type: action
 typeFr: Action Unique
 id: 7blmbDrQFNfdT731
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/7blmbDrQFNfdT731.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/shove.json
 group: actions
 layout: action
 ---
 **Conditions** L'une de vos mains au moins est libre. La cible ne peut pas être de plus d'une catégorie de taille de plus que vous.
 
-----
-
 Vous repoussez un adversaire loin de vous. Effectuez un test d’<pf2-action action='shove' glyph='A'>Athlétisme</pf2-action> contre le DD de Vigueur de votre adversaire.
-
-----
 
 **Succès critique** Vous repoussez votre adversaire d'un maximum de 3 m. Vous pouvez Marcher rapidement après ça, mais votre déplacement doit être aussi long et doit se faire dans la même direction.
 

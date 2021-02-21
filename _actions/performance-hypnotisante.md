@@ -6,14 +6,14 @@ titleEn: Mesmerizing Performance
 type: action
 typeFr: Action Unique
 id: CrUPaPlsxy2bswaT
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/CrUPaPlsxy2bswaT.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/mesmerizing-performance.json
 group: actions
 layout: action
 ---
 **Prérequis** Dévouement Dompteur d'animaux
 
 **Conditions** Le compagnon animal a réussi sa dernière action @Compendium[pf2e.actionspf2e.EEDElIyin4z60PXx]{Se produire}. Le compagnon animal continue sa représentation pour attirer l'attention d'une cible unique dans un rayon de 9 mètres qui a été témoin de la représentation du compagnon. La cible doit effectuer un jet de Volonté.
-
-----
 
 **Succès** La cible n'est pas affectée et est temporairement immunisée pendant 1 heure.
 

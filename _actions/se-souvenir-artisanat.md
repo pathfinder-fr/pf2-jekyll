@@ -6,6 +6,8 @@ titleEn: Recall Knowledge (Crafting)
 type: action
 typeFr: Action Unique
 id: B0Eu3EfwIa9kyDEA
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/B0Eu3EfwIa9kyDEA.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/recall-knowledge-crafting.json
 group: actions
 layout: action
 ---
@@ -22,8 +24,6 @@ Le MJ peut vous autoriser à faire des tests pour Se souvenir en utilisant d’a
 **Succès** Vous vous souvenez avec précision de l'information nécessaire ou obtenez un indice utile sur votre situation actuelle.
 
 **Échec critique** Vous vous souvenez d'une information inexacte ou obtenez un indice faux ou trompeur.
-
-----
 
 ## Se souvenir : exemple de tâches
 

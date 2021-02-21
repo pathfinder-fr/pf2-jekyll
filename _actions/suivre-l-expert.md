@@ -6,6 +6,8 @@ titleEn: Follow the Expert
 type: passive
 typeFr: Passive
 id: tfa4Sh7wcxCEqL29
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/tfa4Sh7wcxCEqL29.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/follow-the-expert.json
 group: actions
 layout: action
 ---

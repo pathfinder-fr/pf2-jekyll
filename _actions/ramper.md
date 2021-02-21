@@ -6,12 +6,12 @@ titleEn: Crawl
 type: action
 typeFr: Action Unique
 id: Tj055UcNm6UEgtCg
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/Tj055UcNm6UEgtCg.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/crawl.json
 group: actions
 layout: action
 ---
 <span>**Conditions** Vous êtes à terre et votre Vitesse est d'au moins 3 mètres.</span>
-
-----
 
 Vous vous déplacez de 1,50 mètres en rampant, en restant <a class="entity-link" draggable="true" data-pack="pf2e.conditionitems" data-id="j91X7x0XSomq8d60">À terre</a>.
 

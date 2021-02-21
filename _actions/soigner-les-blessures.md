@@ -6,12 +6,12 @@ titleEn: Treat Wounds
 type: passive
 typeFr: Passive
 id: 1kGNdIIhuglAjIp9
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/1kGNdIIhuglAjIp9.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/treat-wounds.json
 group: actions
 layout: action
 ---
 **Conditions **Vous maniez ou transportez des @Compendium[pf2e.equipment-srd.s1vB3HdXjMigYAnY]{outils de guérisseur}
-
-----
 
 Vous passez dix minutes à soigner les blessures d’une créature vivante (vous pouvez soigner vos propres blessures si vous le souhaitez). La cible est ensuite temporairement immunisée aux actions Soigner les blessures pendant une heure mais cette durée comprend le temps du soin (un patient peut donc être soigné une fois par heure et non une fois toutes les soixante‑dix minutes).
 
@@ -20,8 +20,6 @@ Le DD du test de Médecine est le plus souvent de 15 mais le MJ peut le modifier
 Si vous réussissez votre test, vous pouvez continuer de soigner la cible pour lui prodiguer des soins supplémentaires. Si vous les soignez pendant un total d’une heure, doublez les points de vie récupérés.
 
 Le résultat de votre test de Médecine détermine le nombre de points de vie que la cible récupère.
-
-----
 
 **Succès critique** La cible récupère [[/r 4d8]] points de vie et son état  @Compendium[pf2e.conditionitems.Yl48xTdMh3aeQYL2]{Blessé} disparaît.
 

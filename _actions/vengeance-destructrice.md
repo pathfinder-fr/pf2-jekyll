@@ -6,12 +6,12 @@ titleEn: Destructive Vengeance
 type: reaction
 typeFr: Réaction
 id: r5Uth6yvCoE4tr9z
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/r5Uth6yvCoE4tr9z.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/destructive-vengeance.json
 group: actions
 layout: action
 ---
 **déclencheur **Un enemy dans les 4,5 m vous fait subir des dégâts.
-
-----
 
 Le sang appelle le sang lorsque vous menez votre ennemi à son anéantissement. Vous augmentez le montant des dégpâts que vous subissez de <a class="inline-roll roll" title="1d6" data-mode="roll" data-flavor="" data-formula="1d6">1d6</a> et vous infliger <a class="inline-roll roll" title="1d6" data-mode="roll" data-flavor="" data-formula="1d6">1d6</a> dégâts à l'énnemi déclencheur, en choisissant entre mal ou négatif avant de les infliger à chaque fois que vous utilisez cette réaction. De plus, jusqu'à la fin de votre prochain tour, vos <a class="entity-link" draggable="true" data-pack="pf2e.actionspf2e" data-id="VjxZFuUXrCU94MWR">Frappes</a> contre la créature déclencheuse infligent 2 dégâts supplémentaires du type que vous avez choisi.
 

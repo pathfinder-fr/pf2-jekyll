@@ -49,7 +49,7 @@ Il contient les données nécessaires pour traduire le module officiel anglais e
 
 Note : toutes les données du projet de traduction ne sont pas forcément utilisées dans le module fr.
 
-## Génération du contenu
+## Génération du contenu automatique
 
 Pour générer le contenu des pages, vous allez devoir exécuter les scripts qui se trouvent dans le dossier `_scripts`.
 

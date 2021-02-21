@@ -6,12 +6,12 @@ titleEn: Request
 type: action
 typeFr: Action Unique
 id: DCb62iCBrJXy0Ik6
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/DCb62iCBrJXy0Ik6.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/request.json
 group: actions
 layout: action
 ---
 Vous pouvez solliciter une créature amicale ou serviable envers vous. Vous devez formuler votre sollicitation de manière à ce que la cible accepte, étant donné son attitude actuelle à votre encontre. Le MJ détermine le DD en fonction de la difficulté de la sollicitation. Certaines sollicitations sont douteuses ou impossibles, et un PNJ, aussi serviable soit‑il, ne les acceptera jamais.
-
-----
 
 **Succès critique** La cible répond favorablement et sans réserve à votre sollicitation.
 

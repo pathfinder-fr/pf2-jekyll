@@ -6,12 +6,12 @@ titleEn: Take a Breather
 type: passive
 typeFr: Passive
 id: qc0VsZ0UesnurUUB
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/qc0VsZ0UesnurUUB.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/take-a-breather.json
 group: actions
 layout: action
 ---
 **Coût** 1 Point de résolution
-
-----
 
 Vous vous reposez pendant 10 minutes et récupérez votre endurance. Après avoir terminé cette activité, vous regagnez tous vos points d'Endurance.
 

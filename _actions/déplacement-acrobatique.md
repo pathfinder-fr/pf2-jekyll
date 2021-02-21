@@ -6,12 +6,12 @@ titleEn: Tumble Through
 type: action
 typeFr: Action Unique
 id: 21WIfSu7Xd7uKqV8
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/21WIfSu7Xd7uKqV8.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/tumble-through.json
 group: actions
 layout: action
 ---
 Vous Marchez rapidement d’une distance égale à votre Vitesse. Pendant ce déplacement, vous pouvez tenter de traverser l’espace occupé par un ennemi. Effectuez un test d’<pf2-action action='tumbleThrough' glyph='A'>Acrobaties</pf2-action> contre le DD de Réflexes de l’ennemi dès que vous tentez d’entrer dans l’espace qu’il occupe. Vous pouvez faire un Déplacement acrobatique en effectuant les actions @Compendium[pf2e.actionspf2e.cS9nfDRGD83bNU1p]{Voler}, @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Escalader}, @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Nager} ou une autre action au lieu de Marcher rapidement en fonction de votre environnement .
-
-----
 
 **Succès** Vous traversez l’espace occupé par l’ennemi, en considérant les cases dans son espace comme un terrain difficile (chaque déplacement de 1,50 m compte comme un déplacement de 3 m). Si vous n’avez pas assez de Vitesse pour traverser complètement l’espace qu’il occupe, vous appliquez l’effet de l’échec.
 

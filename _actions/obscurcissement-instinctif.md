@@ -6,6 +6,8 @@ titleEn: Instinctive Obfuscation
 type: reaction
 typeFr: Réaction
 id: rSpCV0leurp2Bg2d
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/rSpCV0leurp2Bg2d.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/instinctive-obfuscation.json
 group: actions
 layout: action
 ---
@@ -14,8 +16,6 @@ layout: action
 **Fréquence** Une fois par jour
 
 **Déclencheur** Vous êtes attaqué par un ennemi
-
-----
 
 La magie qui est en vous se manifeste comme une réaction naturelle à une menace. Vous obtenez les effets d'e '<a class="entity-link" draggable="true" data-pack="pf2e.spells-srd" data-id="j8vIoIEWElvpwkcI">Image miroir</a> mais avec deux images au lieu de trois. La tradition de cette action est la même que la tradition des option de votre ascendance gnome.
 

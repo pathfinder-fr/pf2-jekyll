@@ -6,6 +6,8 @@ titleEn: Hunt Prey
 type: action
 typeFr: Action Unique
 id: JYi4MnsdFu618hPm
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/JYi4MnsdFu618hPm.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/hunt-prey.json
 group: actions
 layout: action
 ---

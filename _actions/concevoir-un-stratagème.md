@@ -6,12 +6,12 @@ titleEn: Devise a Stratagem
 type: action
 typeFr: Action Unique
 id: m0f2B7G9eaaTmhFL
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/m0f2B7G9eaaTmhFL.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/devise-a-stratagem.json
 group: actions
 layout: action
 ---
 **Fréquence **une fois par round
-
-----
 
 Vous évaluez les faiblesses d'un ennemi en combat et les utilisez pour formuler un plan d'attaque contre votre ennemi. Choisissez une créature que vous pouvez voir et lancez un d20. Si vous <a class="entity-link" draggable="true" data-pack="pf2e.actionspf2e" data-id="VjxZFuUXrCU94MWR">Frappez</a> la créature choisie plus tard durant ce round, vous devez utiliser le résultat du tirage que vous avez obtenu lorsque vous avez Conçu votre Stratagème en tant que jet pour votre Frappe plutôt que de lancer les dés. Vous n'opérez cette substitution que pour la seule première Frappe que vous portez contre la créature ce round, pas aux attaques subséquentes.
 

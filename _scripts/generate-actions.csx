@@ -9,6 +9,9 @@
 // - on lit les données de traduction du projet trads
 // - on charge le fichier anglais pour récupérer des données utiles qui ne sont pas présentes dans le fichier de traduction (type d'action)
 // - on utilise le glossaire français pour traduire certaines infos (type d'action)
+//
+// en : https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/tree/master/packs/data/actions.db
+// fr : https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/tree/master/data/actions
 
 using System.Text.Json;
 using System.Text.RegularExpressions;
@@ -82,10 +85,10 @@ foreach (var file in files)
 
     // paragraphes <p>
     description = Regex.Replace(description, @"<p>", string.Empty);
-    description = Regex.Replace(description, @"</p>", Environment.NewLine + Environment.NewLine);
+    description = Regex.Replace(description, @"</p>", Environment.NewLine);
 
     // séparateurs <hr>
-    description = Regex.Replace(description, @"<hr( /)?>", "----" + Environment.NewLine + Environment.NewLine);
+    description = Regex.Replace(description, @"<hr( /)?>(\r\n)?", string.Empty);
 
     // gras <strong>
     description = Regex.Replace(description, @"</?strong>", "**");
@@ -94,13 +97,13 @@ foreach (var file in files)
     description = Regex.Replace(description, @"&nbsp;", " ");
 
     // listes <ul> / <li>
-    description = Regex.Replace(description, @"</?ul>", "");
+    description = Regex.Replace(description, @"</?ul>(\r\n)?", string.Empty);
     description = Regex.Replace(description, @"<li>", "- ");
-    description = Regex.Replace(description, @"</li>", Environment.NewLine);
+    description = Regex.Replace(description, @"</li>", string.Empty);
 
     // titres <h1>, <h2>, etc.
     description = Regex.Replace(description, @"<h2 class=""title"">", "## ");
-    description = Regex.Replace(description, @"</h\d>", Environment.NewLine + Environment.NewLine);
+    description = Regex.Replace(description, @"</h\d>", Environment.NewLine);
 
     // ensuite on peut générer le fichier markdown final
     var targetPath = $"../_actions/{frNameId}.md";
@@ -112,8 +115,10 @@ foreach (var file in files)
         writer.WriteLine($"title: {trad.French}");
         writer.WriteLine($"titleEn: {trad.English}");
         writer.WriteLine($"type: {actionType}");
-        writer.WriteLine($"typeFr: {actionTypeLang}");
+        writer.WriteLine($"typeFr: {actionTypeLang}");        
         writer.WriteLine($"id: {trad.Id}");
+        writer.WriteLine($"urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/{trad.Id}.htm");
+        writer.WriteLine($"urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/{enName}.json");
         writer.WriteLine($"group: {trad.Group}");
         writer.WriteLine($"layout: action");
 

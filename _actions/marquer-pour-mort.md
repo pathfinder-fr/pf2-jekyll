@@ -6,12 +6,12 @@ titleEn: Mark for Death
 type: action
 typeFr: Action Unique
 id: orjJjLdm4XNAcFi8
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/orjJjLdm4XNAcFi8.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/mark-for-death.json
 group: actions
 layout: action
 ---
 **Conditions** Vous pouvez voir et entendre la créature que vous avez l'intention de marquer
-
-----
 
 Vous désignez une unique créature comme votre marque. Cela dure jusqu'à ce que la créature marquée meure ou que vous utilisez Marquer pour mort de nouveau. Vous obtenez un bonus de circonstante de +2 aux tests de Perception pour <a class="entity-link" draggable="true" data-pack="pf2e.actionspf2e" data-id="BlAOM2X92SI6HMtJ">Chercher</a> votre marque et aux tests de Duperie pour <a class="entity-link" draggable="true" data-pack="pf2e.actionspf2e" data-id="QNAVeNKtHA0EUw4X">Feinter</a> contre votre créature marquée.
 

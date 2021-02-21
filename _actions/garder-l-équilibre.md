@@ -6,16 +6,14 @@ titleEn: Balance
 type: action
 typeFr: Action Unique
 id: M76ycLAqHoAgbcej
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/M76ycLAqHoAgbcej.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/balance.json
 group: actions
 layout: action
 ---
 **Conditions** Vous êtes dans une case contenant une surface étroite, un sol inégal ou un autre élément similaire.
 
-----
-
 Vous vous déplacez sur une surface étroite ou sur un sol inégal en effectuant un test d’Acrobaties contre son DD pour Garder l’équilibre. Vous êtes pris au dépourvu lorsque vous êtes sur une surface étroite ou un sol inégal.
-
-----
 
 **Succès critique** Vous vous déplacez d’une distance maximale égale à votre Vitesse.
 

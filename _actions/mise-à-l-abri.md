@@ -6,12 +6,12 @@ titleEn: Take Cover
 type: action
 typeFr: Action Unique
 id: ust1jJSCZQUhBZIz
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/ust1jJSCZQUhBZIz.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/take-cover.json
 group: actions
 layout: action
 ---
 **Conditions** Vous bénéficiez d’un abri, vous trouvez près d’une caractéristique de votre environnement derrière laquelle vous abriter, ou êtes <a class="entity-link" draggable="true" data-pack="pf2e.conditionitems" data-id="j91X7x0XSomq8d60">À terre</a>.
-
-----
 
 Vous vous plaquez contre un mur ou vous jetez derrière un obstacle pour mieux vous mettre à l’abri (page 476). Si vous bénéficiez déjà d’un abri standard, vous gagnez à la place un abri important qui vous confère un bonus de +4 à la CA, à vos jets de réflexes contre les zones d’effet, et vos tests de Discrétion pour <a class="entity-link" draggable="true" data-pack="pf2e.actionspf2e" data-id="XMcnh4cSI32tljXa">Vous cacher</a>, <a class="entity-link" draggable="true" data-pack="pf2e.actionspf2e" data-id="VMozDqMMuK5kpoX4">Être furtif</a> ou éviter de vous faire détecter de manière générale. Vous bénéficiez sinon des avantages liés à un abri standard (un bonus de circonstances de +2). Ces avantages perdurent jusqu’à ce que vous quittiez votre emplacement actuel, utilisiez une action d’attaque, vous trouviez dans l’état <a class="entity-link" draggable="true" data-pack="pf2e.conditionitems" data-id="fBnFDH2MTzgFijKf">inconscient</a> ou mettiez fin à cet effet par une action gratuite.
 

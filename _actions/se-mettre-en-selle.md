@@ -6,12 +6,12 @@ titleEn: Mount
 type: action
 typeFr: Action Unique
 id: PM5jvValFkbFH3TV
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/PM5jvValFkbFH3TV.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/mount.json
 group: actions
 layout: action
 ---
 **Conditions** Vous vous trouvez sur une case adjacente à une créature qui fait au moins une catégorie de taille de plus que la vôtre et qui accepte d’être votre monture.
-
-----
 
 Vous enfourchez la créature et la chevauchez. Si vous êtes déjà en selle, vous pouvez à la place utiliser cette action pour descendre de selle et mettre pied à terre dans un espace adjacent à votre monture.
 

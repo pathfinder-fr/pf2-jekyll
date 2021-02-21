@@ -6,14 +6,14 @@ titleEn: Swim
 type: action
 typeFr: Action Unique
 id: c8TGiZ48ygoSPofx
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/c8TGiZ48ygoSPofx.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/swim.json
 group: actions
 layout: action
 ---
 Vous vous déplacez dans l’eau. Dans des eaux calmes, vous réussissez la plupart du temps l’action sans avoir à faire de test. Si vous respirez de l’air et que vous êtes immergé dans l’eau, vous devez retenir votre souffle chaque round. Si vous ne parvenez pas à retenir votre souffle, vous commencez à vous noyer. Si l’eau dans laquelle vous nagez est agitée ou dangereuse d’une façon ou d’une autre, il se peut que vous ayez à faire un test d’Athlétisme pour Nager.
 
 Si vous terminez votre tour dans l’eau et que vous n’avez pas réussi une action Nager lors de ce tour, vous coulez de 3 m ou vous êtes emporté par le courant, au choix du MJ. Toutefois, si votre dernière action lors de votre tour consistait à entrer dans l’eau, vous ne coulez pas et n’êtes pas emporté par le courant lors de ce tour.
-
-----
 
 **Succès critique** Vous vous déplacez de 3 m dans l’eau, plus 1,50 m par tranche de 6 m de votre Vitesse au sol (ce qui donne un total de 4,50 m pour la plupart des PJ).
 
