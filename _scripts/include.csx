@@ -91,7 +91,10 @@ async static Task GenerateFiles(string tradFolderName, string colDir, DataGroup 
         var targetPath = $"../{colDir}/{frNameId}.md";
         using (var writer = new StreamWriter(targetPath))
         {
-            WriteFileHeader(writer, trad, enName);
+            // on suppose que le layout est le nom de la collection sans le _
+            var layout = colDir.Substring(1);
+
+            WriteFileHeader(writer, trad, tradFolderName, enFolderName, enName, layout);
 
             if (misc != null)
             {
@@ -249,7 +252,7 @@ public static string CleanupDescription(string description)
 }
 
 /// <summary>Ecrit la partie commune à tous les scripts générant un fichier.</summary>
-public static void WriteFileHeader(StreamWriter writer, TradDataEntry trad, string enName, string layout = null)
+public static void WriteFileHeader(StreamWriter writer, TradDataEntry trad, string tradFolderName, string enFolderName, string enName, string layout)
 {
     writer.WriteLine("---");
     writer.WriteLine("# ATTENTION : Ne modifiez pas ce fichier");
@@ -257,8 +260,8 @@ public static void WriteFileHeader(StreamWriter writer, TradDataEntry trad, stri
     writer.WriteLine($"title: {trad.French}");
     writer.WriteLine($"titleEn: {trad.English}");
     writer.WriteLine($"id: {trad.Id}");
-    writer.WriteLine($"urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/{trad.Id}.htm");
-    writer.WriteLine($"urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/{enName}.json");
+    writer.WriteLine($"urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/{tradFolderName}/{trad.Id}.htm");
+    writer.WriteLine($"urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/{enFolderName}/{enName}.json");
     writer.WriteLine($"group: {trad.Group}");
     if (layout != null)
     {

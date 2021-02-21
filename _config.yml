@@ -38,11 +38,9 @@ collections:
   actions:
     output: true
     category: ['action']
-    layout: action
   etats:
     output: true
     category: ['état préjudiciable']
-    layout: état
 
 
 # Exclude from processing.
