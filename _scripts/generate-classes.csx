@@ -67,17 +67,7 @@ foreach (var file in files)
     var targetPath = $"../_classes/{frNameId}.md";
     using (var writer = new StreamWriter(targetPath))
     {
-        writer.WriteLine("---");
-        writer.WriteLine("# ATTENTION : Ne modifiez pas ce fichier");
-        writer.WriteLine("# Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction");
-        writer.WriteLine($"title: {trad.French}");
-        writer.WriteLine($"titleEn: {trad.English}");
-        writer.WriteLine($"id: {trad.Id}");
-        writer.WriteLine($"urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/{trad.Id}.htm");
-        writer.WriteLine($"urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/{enName}.json");
-        writer.WriteLine($"group: {trad.Group}");
-        writer.WriteLine($"layout: classe");
-
+        WriteFileHeader(writer, trad, enName, "classe");
         writer.WriteLine("---");
         writer.WriteLine(description);
     }

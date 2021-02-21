@@ -107,7 +107,7 @@ public static string CleanupDescription(string description)
     description = Regex.Replace(description, @"<span id=""ctl00_MainContent_DetailedOutput"">", "");
     description = Regex.Replace(description, @"<span style=""float: right;"">", " ");
     description = Regex.Replace(description, @"</span>", "");
-    
+
     //<span id="ctl00_MainContent_DetailedOutput">
 
     // séparateurs <hr>
@@ -147,6 +147,21 @@ public static string CleanupDescription(string description)
     description = Regex.Replace(description, @"<a (?:style=""text-decoration: underline;"" )?href=""([^""]+)"">([^<]+)</a>", @"<a href=""$1"">$2</a>");
 
     return description;
+}
+
+/// <summary>Ecrit la partie commune à tous les scripts générant un fichier.</summary>
+public static void WriteFileHeader(StreamWriter writer, TradDataEntry trad, string enName, string layout)
+{
+    writer.WriteLine("---");
+    writer.WriteLine("# ATTENTION : Ne modifiez pas ce fichier");
+    writer.WriteLine("# Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction");
+    writer.WriteLine($"title: {trad.French}");
+    writer.WriteLine($"titleEn: {trad.English}");
+    writer.WriteLine($"id: {trad.Id}");
+    writer.WriteLine($"urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/classes/{trad.Id}.htm");
+    writer.WriteLine($"urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/classes.db/{enName}.json");
+    writer.WriteLine($"group: {trad.Group}");
+    writer.WriteLine($"layout: {layout}");
 }
 
 /// <summary>Renvoie le nom du dossier du projet de traduction contenant les fichiers pour le groupe de données indiqué.</summary>

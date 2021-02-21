@@ -91,18 +91,10 @@ foreach (var file in files)
     var targetPath = $"../_actions/{frNameId}.md";
     using (var writer = new StreamWriter(targetPath))
     {
-        writer.WriteLine("---");
-        writer.WriteLine("# ATTENTION : Ne modifiez pas ce fichier");
-        writer.WriteLine("# Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction");
-        writer.WriteLine($"title: {trad.French}");
-        writer.WriteLine($"titleEn: {trad.English}");
+        WriteFileHeader(writer, trad, enName, "action");
+
         writer.WriteLine($"type: {actionType}");
         writer.WriteLine($"typeFr: {actionTypeLang}");
-        writer.WriteLine($"id: {trad.Id}");
-        writer.WriteLine($"urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/{trad.Id}.htm");
-        writer.WriteLine($"urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/{enName}.json");
-        writer.WriteLine($"group: {trad.Group}");
-        writer.WriteLine($"layout: action");
 
         writer.WriteLine("---");
         writer.WriteLine(description);
