@@ -25,14 +25,14 @@ Si vous avez des changements, utilisez successivement la commande `git add .` po
 Le projet est branché sur 3 autres projets sous forme de submodules git:
 
 **Module Pathfinder Anglais.** (dossier `_ext/module-en`).  
-Module Foundry VTT pathfinder 2 officiel en anglais : [https://gitlab.com/hooking/foundry-vtt---pathfinder-2e]().
+Module Foundry VTT pathfinder 2 officiel en anglais : [https://gitlab.com/hooking/foundry-vtt---pathfinder-2e](https://gitlab.com/hooking/foundry-vtt---pathfinder-2e).
 
 Il contient toutes les pages en anglais concernant des données.
 Les données qui nous intéressent se trouvent dans le dossier `packs/data`, puis dans chaque dossier correspondant au type de données (ex: les actions se trouvent dans le dossier `action.db`).
 Chaque donnée est stockée dans un fichier .json.
 
 **Traduction FR.** (dossier `_ext/trads`).  
-Traductions du module anglais en français : [https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr]()
+Traductions du module anglais en français : [https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr](https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr)
 
 Il contient toutes les données de traduction des fichiers du module anglais.
 Les fichiers qui nous intéressent se trouvent dans le dossier `data`, puis dans le dossier correspondant au type de données.
@@ -42,7 +42,7 @@ Chaque donnée est stockée dans un fichier .htm nommé d'après son id anglais.
 Note : l'id unique est généré dans le module anglais, dans une propriété `_id` au début du fichier json.
 
 **Module Pathfinder Français.** (dossier `_ext/module-fr`).  
-Module Foundry VTT FR : [https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2e-lang-fr]().
+Module Foundry VTT FR : [https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2e-lang-fr](https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2e-lang-fr).
 
 Module directement utilisable pour Foundry.
 Il contient les données nécessaires pour traduire le module officiel anglais en français.
