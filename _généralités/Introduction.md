@@ -1,5 +1,5 @@
 ---
-title: introduction
+title: Introduction
 ---
 
 Pathfinder est un jeu de rôle (JDR) fantastique sur table : vous vous rassemblez avec des amis pour conter l’histoire de vaillants héros et de fourbes scélérats dans un monde rempli de créatures terrifiantes et de trésors époustouflants. Plus important encore, Pathfinder est un jeu où les choix de votre personnage déterminent le cours de l’histoire.  
