@@ -1,3 +1,7 @@
+---
+title: introduction
+---
+
 Pathfinder est un jeu de rôle (JDR) fantastique sur table : vous vous rassemblez avec des amis pour conter l’histoire de vaillants héros et de fourbes scélérats dans un monde rempli de créatures terrifiantes et de trésors époustouflants. Plus important encore, Pathfinder est un jeu où les choix de votre personnage déterminent le cours de l’histoire.  
 Ces aventures se déroulent à l’âge des prédictions perdues, dans un monde fantastique et périlleux où se côtoient d’anciens empires, des cités-états tentaculaires et d’innombrables tombes, donjons et antres de monstres regorgeant de richesses. Les aventures d’un personnage de Pathfinder peuvent le conduire dans des ruines englouties oubliées, des cryptes gothiques hantées ou des académies de magie au cœur d’une ville de la jungle. Un monde d’aventures infinies vous attend !
 
@@ -31,7 +35,8 @@ Pathfinder est un jeu destiné à tous, peu importe l’âge, le sexe, la race, 
 Vous aurez besoin de quelques éléments en plus de ce livre pour jouer à Pathfinder :
 
 **La feuille de personnage** Chaque joueur a besoin d’une feuille de personnage pour créer son personnage et noter ce 
-qui lui arrive en cours de partie. Vous trouverez une telle feuille en ligne sous forme de PDF gratuit.  
+qui lui arrive en cours de partie. Vous trouverez une telle feuille en ligne sous forme de PDF gratuit.
+
 **Les dés** Les joueurs et le MJ auront besoin d’au moins un set de dés polyédriques, bien que les participants aiment 
 amener le leur. Les dés à six faces sont courants, mais tous les autres s’achètent dans les boutiques spécialisées ou en ligne.  
 Pathfinder demande un set de dés polyédriques. Chacun possède un nombre de faces différent (quatre, six, huit et plus). Quand nous mentionnons ces dés dans le jeu, ils se présentent sous la forme « d » suivi du nombre de faces du dé. 
