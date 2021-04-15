@@ -19,19 +19,19 @@ Dans les pages suivantes, vous trouverez des icônes spéciales symbolisant les 
 ![une action](/images/1action.png)
 ![deux actions](/images/2actions.png)
 ![trois actions](/images/3actions.png)
-![action libre](/images/actionlibre.png)
+![action libre](/images/actiongratuite.png)
 ![réaction](/images/réaction.png)
 
 
-## ![action](/1action.png) Action unique
+## ![action](/images/1action.png) Action unique
 Les actions uniques utilisent ce symbole : ![action](/images/1action.png).
 C’est le type d’action le plus simple et le plus répandu. Lors d’une rencontre, vous pouvez utiliser trois actions uniques à votre tour, dans l’ordre que vous voulez.
 
-## ![réaction](/réaction.png) Réaction
+## ![réaction](/images/réaction.png) Réaction
 Les réactions utilisent ce symbole : ![réaction](/images/réaction.png). 
 Ces actions s’utilisent même quand ce n’est pas votre tour. Vous n’avez droit qu’à une réaction par round de rencontre et pouvez l’utiliser seulement lorsque son déclencheur se produit. Souvent, il s’agit de l’action d’une autre créature.
 
-## ![action libre](/actionlibre.png) Action gratuite
+## ![action libre](/images/actiongratuite.png) Action gratuite
 Les actions gratuites utilisent ce symbole : ![action libre](/images/actionlibre.png). 
 Une action gratuite ne vous demande pas de dépenser l’une de vos trois actions uniques ni votre réaction. Elle peut avoir un déclencheur, comme la réaction. Dans ce cas, vous pouvez l’utiliser comme une réaction, même si ce n’est pas votre tour. Cependant, vous ne pouvez utiliser qu’une seule action gratuite par déclencheur, donc si plusieurs actions gratuites se déclenchent avec le même, vous devez choisir celle à utiliser. Si une action gratuite n’a pas de déclencheur, elle fonctionne comme une action unique, mais ne dépense aucune de vos actions du tour.
 
@@ -52,11 +52,19 @@ Le format habituel d’un bloc de statistiques apparaît plus loin. Si une entr�
 de règle ne montre donc pas systématiquement toutes les entrées présentes dans l’exemple. Les actions, les réactions et les actions gratuites ont toutes l’icône leur correspondant à côté de leur nom, afin d’indiquer leur type. Une activité susceptible de s’accomplir en un seul tour possède un symbole indiquant le nombre d’actions nécessaires pour l’accomplir. Une activité qui demande plus de temps omet ces icônes. Si un personnage doit atteindre un certain niveau avant d’avoir accès à un pouvoir, ce niveau est indiqué à droite du nom du bloc de statistiques. Les règles sont souvent associées à des traits (qui figurent dans le glossaire et l’index).  
 Les sorts, les objets alchimiques et les objets magiques utilisent un format similaire, mais contiennent des éléments uniques.
 
-NOM DE L’ACTION OU DU DON 1 NIVEAU  
-TRAITS  
-**Prérequis** La valeur de caractéristique, les dons, les rangs de maîtrise et autres prérequis indispensables avant d’avoir accès à cet élément de règle figurent ici. Les dons ont aussi un niveau prérequis qui se trouve au‑dessus.  
-**Fréquence** Voici le nombre de fois maximum où vous pouvez vous servir du pouvoir dans une période donnée.  
-**Déclencheur** Les réactions et quelques actions gratuites ont un déclencheur qui doit se produire avant de pouvoir les utiliser.  
-**Conditions** Parfois, vous devez posséder quelque chose ou vous trouver dans des circonstances particulières pour utiliser un pouvoir. Dans ce cas, c’est indiqué ici.  
-Cette section décrit les effets ou les avantages de l’élément de règle. Si cet élément est une action, elle explique ses effets ou les jets à effectuer pour déterminer ses effets. Si c’est un don qui modifie une action ou donne un effet constant, l’avantage qu’il confère est détaillé ici.  
-**Spécial** Toute particularité de l’élément de règle se trouve ici. Généralement, cette section figure dans les dons que vous pouvez choisir à plusieurs reprises et explique ce qui se passe le cas échéant.
+{: .block .action1 }
+> {: .no_toc}
+> ### Nom de l'action ou du don **Niveau**
+> 
+> {: .traits}
+> Traits
+> 
+> **Prérequis** La valeur de caractéristique, les dons, les rangs de maîtrise et autres prérequis indispensables avant d’avoir accès à cet élément de règle figurent ici. Les dons ont aussi un niveau prérequis qui se trouve au‑dessus.  
+> **Fréquence** Voici le nombre de fois maximum où vous pouvez vous servir du pouvoir dans une période donnée.  
+> **Déclencheur** Les réactions et quelques actions gratuites ont un déclencheur qui doit se produire avant de pouvoir les utiliser.  
+> **Conditions** Parfois, vous devez posséder quelque chose ou vous trouver dans des circonstances particulières pour utiliser un pouvoir. Dans ce cas, c’est indiqué ici.  
+>
+> ---
+>
+> Cette section décrit les effets ou les avantages de l’élément de règle. Si cet élément est une action, elle explique ses effets ou les jets à effectuer pour déterminer ses effets. Si c’est un don qui modifie une action ou donne un effet constant, l’avantage qu’il confère est détaillé ici.  
+> **Spécial** Toute particularité de l’élément de règle se trouve ici. Généralement, cette section figure dans les dons que vous pouvez choisir à plusieurs reprises et explique ce qui se passe le cas échéant.
