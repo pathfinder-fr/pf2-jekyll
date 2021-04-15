@@ -1,5 +1,5 @@
 ---
-Title: Présentation des éléments de règles
+Title: Présentation des éléments de règle
 ---
 Dans les pages suivantes, vous verrez un système de présentation qui pourra vous sembler inhabituel au premier abord. Les éléments de règles sont mis en évidence par des majuscules ou de l’italique, afin qu’ils se repèrent plus facilement dans les textes.
 
