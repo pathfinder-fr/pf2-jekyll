@@ -41,3 +41,22 @@ Les activités sont des tâches spéciales qui s’accomplissent en dépensant u
 Les activités demandant deux actions s’accompagnent de ce symbole : ![deux actions](/images/2actions.png). Celles qui en demandent trois s’accompagnent de celui-ci : ![trois actions](/images/3actions.png). Quelques activités spéciales, comme les sorts instantanés, s’accomplissent avec une action gratuite ou une réaction.
 
 Toutes les tâches qui prennent plus qu’un tour sont des activités. Si une activité est faite pour servir lors de l’exploration, elle porte le trait exploration. Une activité qui demande au moins un jour et s’accomplit uniquement lors d’un intermède porte le trait intermède.
+
+## La lecture des règles
+Ces pages contiennent des centaines d’éléments de règle qui permettent aux personnages de réagir de manière innovante et intéressante face aux situations de jeu.  
+Tous les personnages peuvent utiliser les actions basiques du jeu, mais un individu dispose souvent de règles spéciales qui lui permettent de faire des choses impossibles pour les autres. La plupart de ces options sont des dons obtenus lors de la création de personnage ou en gagnant des niveaux.  
+Quels que soient les mécanismes de jeu associés, les éléments de règle figurent toujours sous forme de blocs de statistiques
+qui résument les règles nécessaires pour donner vie au monstre, au personnage, à l’objet ou autre pendant la partie. Si besoin, le bloc de statistiques s’accompagne d’une explication. Par exemple, la section sur l’ascendance, présente les règles des ascendances du jeu : le format sous lequel elles sont données est l'objet d'explications propres.  
+
+Le format habituel d’un bloc de statistiques apparaît plus loin. Si une entrée ne s’applique pas, elle est omise, un élément
+de règle ne montre donc pas systématiquement toutes les entrées présentes dans l’exemple. Les actions, les réactions et les actions gratuites ont toutes l’icône leur correspondant à côté de leur nom, afin d’indiquer leur type. Une activité susceptible de s’accomplir en un seul tour possède un symbole indiquant le nombre d’actions nécessaires pour l’accomplir. Une activité qui demande plus de temps omet ces icônes. Si un personnage doit atteindre un certain niveau avant d’avoir accès à un pouvoir, ce niveau est indiqué à droite du nom du bloc de statistiques. Les règles sont souvent associées à des traits (qui figurent dans le glossaire et l’index).  
+Les sorts, les objets alchimiques et les objets magiques utilisent un format similaire, mais contiennent des éléments uniques.
+
+NOM DE L’ACTION OU DU DON 1 NIVEAU  
+TRAITS  
+**Prérequis** La valeur de caractéristique, les dons, les rangs de maîtrise et autres prérequis indispensables avant d’avoir accès à cet élément de règle figurent ici. Les dons ont aussi un niveau prérequis qui se trouve au‑dessus.  
+**Fréquence** Voici le nombre de fois maximum où vous pouvez vous servir du pouvoir dans une période donnée.  
+**Déclencheur** Les réactions et quelques actions gratuites ont un déclencheur qui doit se produire avant de pouvoir les utiliser.  
+**Conditions** Parfois, vous devez posséder quelque chose ou vous trouver dans des circonstances particulières pour utiliser un pouvoir. Dans ce cas, c’est indiqué ici.  
+Cette section décrit les effets ou les avantages de l’élément de règle. Si cet élément est une action, elle explique ses effets ou les jets à effectuer pour déterminer ses effets. Si c’est un don qui modifie une action ou donne un effet constant, l’avantage qu’il confère est détaillé ici.  
+**Spécial** Toute particularité de l’élément de règle se trouve ici. Généralement, cette section figure dans les dons que vous pouvez choisir à plusieurs reprises et explique ce qui se passe le cas échéant.
