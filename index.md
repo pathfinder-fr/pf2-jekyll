@@ -2,7 +2,7 @@
 title: Bienvenue
 ---
 # Généralités
-- [Introduction](généralités/bases-du-jeu.md)
+- [Introduction](g%C3%A9n%C3%A9ralit%C3%A9s/Bases-du-jeu.md)
 
 
 ## Rubriques
