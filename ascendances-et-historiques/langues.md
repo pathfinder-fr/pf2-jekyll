@@ -1,9 +1,10 @@
 ---
 Title: langues
 ---
-<em>Les peuples de la région de la mer Intérieure parlent des dizaines de langues, auxquelles il faut ajouter des centaines de dialectes et de variantes régionales. Si un personnage peut généralement s’en sortir en parlant le taldorien, aussi appelé le commun, il lui sera vital de connaître d’autres langues dans certaines régions. La capacité de parler des langues régionales peut en effet être fort utile dans le cadre de négociations, de l’espionnage, ou simplement du commerce. Les langues vous permettent également de donner une place à votre personnage dans le monde et de donner du sens à vos autres choix le concernant.</em>
+Les peuples de la région de la mer Intérieure parlent des dizaines de langues, auxquelles il faut ajouter des centaines de dialectes et de variantes régionales. Si un personnage peut généralement s’en sortir en parlant le taldorien, aussi appelé le commun, il lui sera vital de connaître d’autres langues dans certaines régions. La capacité de parler des langues régionales peut en effet être fort utile dans le cadre de négociations, de l’espionnage, ou simplement du commerce. Les langues vous permettent également de donner une place à votre personnage dans le monde et de donner du sens à vos autres choix le concernant.
+---
 
-L’entrée correspondant à votre ascendance vous indique quelles langues vous connaissez au niveau 1. Cela signifie généralement que vous pouvez parler et lire dans ces langues. Si votre modificateur d’Intelligence est positif, cela signifie que vous pouvez parler une quantité de langues supplémentaires égale à votre modificateur d’Intelligence. Vous pouvez choisir ces langues parmi la liste qui vous est présentée dans l’entrée correspondant à votre ascendance et parmi les langues disponibles en fonction de votre région ou votre ethnie. Si vous voulez choisir une langue qui ne se trouve pas sur ces listes, vous pouvez en demander l’autorisation au MJ. Si votre valeur d’Intelligence change ultérieurement, ajustez la quantité de langues que vous parlez en fonction de cette nouvelle valeur.
+L’entrée correspondant à votre ascendance vous indique quelles langues vous connaissez au niveau 1. Cela signifie généralement que vous pouvez parler et lire dans ces langues. Si votre **modificateur d’Intelligence** est positif, cela signifie que vous pouvez parler une quantité de langues supplémentaires égale à votre modificateur d’Intelligence. Vous pouvez choisir ces langues parmi la liste qui vous est présentée dans l’entrée correspondant à votre ascendance et parmi les langues disponibles en fonction de votre région ou votre ethnie. Si vous voulez choisir une langue qui ne se trouve pas sur ces listes, vous pouvez en demander l’autorisation au MJ. Si votre valeur d’Intelligence change ultérieurement, ajustez la quantité de langues que vous parlez en fonction de cette nouvelle valeur.
 
 Les langues présentées ici sont regroupées en fonction de leur usage dans la région de la mer Intérieure. Une langue courante est régulièrement utilisée dans la plupart des endroits, même par des individus dont il ne s’agit pas de la langue maternelle. 
 
@@ -47,3 +48,11 @@ Votre personnage pourra toujours apprendre de nouvelles langues au cours de sa c
 | Langue | Locuteurs |
 |:-------|:----------|
 | Druidique | Druides
+
+## Les langues régionales
+Les langues régionales varient en fonction du monde dans lequel se déroulent vos parties. Vous trouverez dans le chapitre sur L’âge des prédictions perdues une liste des langues régionales du monde de Pathfinder et des régions où elles sont parlées. Ces langues sont peu courantes.
+
+La majorité des personnages apprennent à parler le commun. Il s’agit de la langue la plus utilisée dans la région où la campagne se déroule. Dans la région de la mer Intérieure de Golarion, par exemple, cette langue commune est le taldorien. Les personnages qui parlent le commun peuvent ainsi se trouver face à une barrière linguistique s’ils se rendent dans une région qui parle un commun différent. 
+
+## La langue des signes et la lecture sur les lèvres
+La section consacrée aux langues des personnages présente une liste de langues qu’ils peuvent utiliser pour s’exprimer oralement. Vous pouvez cependant connaître la version signée d’une langue ou avoir appris à lire sur les lèvres. Vous pouvez apprendre ces formes de communication en choisissant les **dons de compétences** *Langue des signes* et *Lire sur les lèvres*. Si vous créez un personnage qui est sourd, malentendant ou incapable de parler, demandez à votre MJ s’il lui semble cohérent que votre personnage connaisse la langue des signes ou sache lire sur les lèvres. Si c’est le cas, votre MJ vous permettra probablement de bénéficier gratuitement de l’un de ces dons (même si vous ne possédez pas les prérequis) afin de conserver une cohérence avec le concept de votre personnage.
