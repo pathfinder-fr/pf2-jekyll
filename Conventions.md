@@ -30,3 +30,4 @@ Format d'un tableau
 |:-------|:-----:|:------|:-----:|
 | 1 | -5 |  14–15 | +2
 
+La place des `:` sur la seconde ligne permet de définir l'alignement : à gauche (:-), au centre (:-:) et à droite (-:)
