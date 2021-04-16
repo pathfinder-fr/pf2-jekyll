@@ -1,7 +1,9 @@
 ---
 title: Bienvenue
 ---
-# Bienvenue
+# Généralités
+- [Introduction](généralités/bases-du-jeu.html)
+
 
 ## Rubriques
 
