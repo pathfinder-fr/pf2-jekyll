@@ -56,7 +56,7 @@ Une fois que vous avez finalisé vos valeurs de caractéristique, utilisez-les p
 #### TABLEAU : LES MODIFICATEURS DE CARACTÉRISTIQUES
 {: .table .table-sm}
 | Valeurs de caractéristique | Modificateur | Valeurs de caractéristique | Modificateur |
-|:--------------------------|:------------:|:--------------------------|:------------:|
+|:--------------------------|:------------:|:--------------------------:|:------------:|
 | 1 | -5 |  14–15 | +2
 | 2 ou 3 | -4 | 16–17 | +3
 | 4 ou 5 | -3 | 18–19 | +4
