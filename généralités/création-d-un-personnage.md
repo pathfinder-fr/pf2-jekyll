@@ -56,7 +56,7 @@ Une fois que vous avez finalisé vos valeurs de caractéristique, utilisez-les p
 #### TABLEAU : LES MODIFICATEURS DE CARACTÉRISTIQUES
 {: .table .table-sm}
 | Valeurs de caractéristique | Modificateur | Valeurs de caractéristique | Modificateur |
-|:--------------------------|:------------:|:--------------------------:|:------------:|
+|:-------------------------:|:------------:|:--------------------------:|:------------:|
 | 1 | -5 |  14–15 | +2
 | 2 ou 3 | -4 | 16–17 | +3
 | 4 ou 5 | -3 | 18–19 | +4
@@ -143,7 +143,7 @@ Si vous jouez un **champion**, sa **divinité** et sa **cause** doivent autorise
 #### TABLEAU : LES NEUF ALIGNEMENTS
 {: .table .table-sm}
 |     | Bon | Neutre | Mauvais |
-|:----|:---:|:-------|:-------:|
+|:----|:---:|:------:|:-------:|
 | Loyal | Loyal Bon (LB) | Loyal Neutre (LN) | Loyal Mauvais (LM)
 | Neutre | Neutre Bon (NB) | Strict Neutre (N) | Neutre Mauvais (NM)
 | Chaotique |Chaotique Bon (CB) | Chaotique Neutre (CN) | Chaotique Mauvais (CM)
