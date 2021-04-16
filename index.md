@@ -10,6 +10,14 @@ title: Bienvenue
   - [Création d'un personnage](generalites/creation-d-un-personnage.md)
   - [Gagner un niveau](generalites/gagner-un-niveau.md)
 
+# Ascendances et historiques
+- [Ascendances et historiques](ascendances-et-historiques/ascendances-et-historiques.md)
+  - [Ascendances](ascendances-et-historiques/ascendances.md)
+    - [Liste des ascendances](ascendances/index.html)
+  - [Historiques](ascendances-et-historiques/historiques.md)
+    - [Liste des historiques](historiques/index.html)
+  - [Langues](ascendances-et-historiques/langues.md)
+
 ## Rubriques
 
 - [Liste des actions](actions/index.html)
