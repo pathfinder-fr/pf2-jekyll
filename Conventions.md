@@ -22,8 +22,11 @@ Supprimer la numérotation de chaque tableau Tableau 1-1 : bidule devient Tablea
 Format d'un tableau
 ```
 | Valeur | Modif | Valeur | Modif |
-|:-------|:-----:|:------:|:-----:|
+|:-------|:-----:|:------|:-----:|
 | 1 | -5 |  14–15 | +2
 
 ```
+| Valeur | Modif | Valeur | Modif |
+|:-------|:-----:|:------|:-----:|
+| 1 | -5 |  14–15 | +2
 
