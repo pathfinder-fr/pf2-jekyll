@@ -9,53 +9,53 @@ La plupart des compétences ont des entrées décrivant un succès et un échec,
 ### TABLEAU DES COMPÉTENCES, CARACTÉRISTIQUES ESSENTIELLES ET ACTIONS
 | Compétence | Caractéristique essentielle | Actions inexpérimentées | Actions qualifiées |
 |:-----------|:---------------------------:|:------------------------|:-------------------|
-| Acrobaties |  Dextérité | Déplacement acrobatique 1 | Manœuvrer en vol 1
-|    |   | Garder l’équilibre 1 | Se faufilerE
-| Arcanes | Intelligence | Se souvenirG 1 | Apprendre un sortE,G
+| Acrobaties |  Dextérité | Déplacement acrobatique {s:1a} | Manœuvrer en vol {s:1a}
+|    |   | Garder l’équilibre {s:1a} | Se faufilerE
+| Arcanes | Intelligence | Se souvenirG {s:1a} | Apprendre un sortE,G
 | | | | Déchiffrer un texteE,G
 | | | | Emprunter un sort arcaniqueE
 | | | | Identifier la magieE,G
 | Artisanat | Intelligence | RéparerE | FabriquerI
-| | | Se souvenirG 1 | Gagner de l’argentI,G
+| | | Se souvenirG {s:1a} | Gagner de l’argentI,G
 | | | | Identifier l’alchimieE
-| Athlétisme | Force | Croc-en-jambe 1 | Désarmer 1
-| | | Escalader 1
-| | | Forcer l’ouverture 1
-| | | Nager 1
-| | | Pousser 1
-| | | Saisir 1
-| | | Sauter en hauteur 2
-| | | Sauter en longueur 2
-| Connaissance | Intelligence | Se souvenirG 1 | Gagner de l’argentI,G
+| Athlétisme | Force | Croc-en-jambe {s:1a} | Désarmer {s:1a}
+| | | Escalader {s:1a}
+| | | Forcer l’ouverture {s:1a}
+| | | Nager {s:1a}
+| | | Pousser {s:1a}
+| | | Saisir {s:1a}
+| | | Sauter en hauteur {s:2a}
+| | | Sauter en longueur {s:2a}
+| Connaissance | Intelligence | Se souvenirG {s:1a} | Gagner de l’argentI,G
 | Diplomatie | Charisme | Faire bonne impressionE
 | | | Recueillir des informationsE
-| | | Solliciter 1
-| Discrétion | Dextérité | Dissimuler un objet 1
-| | | Être furtif 1
-| | | Se cacher 1
-| Duperie | Charisme | Faire diversion 1 | Feinter 1
+| | | Solliciter {s:1a}
+| Discrétion | Dextérité | Dissimuler un objet {s:1a}
+| | | Être furtif {s:1a}
+| | | Se cacher {s:1a}
+| Duperie | Charisme | Faire diversion {s:1a} | Feinter {s:1a}
 | | | Mentir
 | | | Se déguiserE
 | Intimidation | Charisme | ContraindreE
-| | | Démoraliser 1
-| Médecine | Sagesse | Prodiguer les premiers soins 2 | Soigner les blessuresE
-| | | Se souvenirG 1 | Soigner un empoisonnement 1
+| | | Démoraliser {s:1a}
+| Médecine | Sagesse | Prodiguer les premiers soins {s:2a} | Soigner les blessuresE
+| | | Se souvenirG {s:1a} | Soigner un empoisonnement {s:1a}
 | | | | Soigner une maladieI
-| Nature | Sagesse | Diriger un animal 1 | Apprendre un sortE,G
-| | | Se souvenirG 1 | Identifier la magieE,G
-| Occultisme | Intelligence | Se souvenirG 1 | Apprendre un sortE,G
+| Nature | Sagesse | Diriger un animal {s:1a} | Apprendre un sortE,G
+| | | Se souvenirG {s:1a} | Identifier la magieE,G
+| Occultisme | Intelligence | Se souvenirG {s:1a} | Apprendre un sortE,G
 | | | | Déchiffrer un texteE,G
 | | | | Identifier la magieE,G
-| Religion | Sagesse | Se souvenirG 1 | Apprendre un sortE,G
+| Religion | Sagesse | Se souvenirG {s:1a} | Apprendre un sortE,G
 | | | | Déchiffrer un texteE,G
 | | | | Identifier la magieE,G
-| Représentation |  Charisme |  Se produire 1 |  Gagner de l’argentI,G
-| Société | Intelligence | Se souvenirG 1 | ContrefaireI
+| Représentation |  Charisme |  Se produire {s:1a} |  Gagner de l’argentI,G
+| Société | Intelligence | Se souvenirG {s:1a} | ContrefaireI
 | | | SubsisterI,G | Déchiffrer un texteE,G
 | Survie | Sagesse | S’orienterE | Dissimuler des tracesE
 | | | SubsisterI,G | PisterE
-| Vol | Dextérité | Escamoter un objet 1 | Crocheter une serrure 2
-| | | Voler 1 | Désamorcer un dispositif 2
+| Vol | Dextérité | Escamoter un objet {s:1a} | Crocheter une serrure {s:2a}
+| | | Voler {s:1a} | Désamorcer un dispositif {s:2a}
 
 I Cette action de compétence ne peut s’utiliser qu’en période d’intermède.
 E Cette action de compétence est utilisée en exploration.
