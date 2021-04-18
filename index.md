@@ -13,7 +13,7 @@ title: Bienvenue
 # Les ascendances et les historiques
 - [Ascendances et historiques](ascendances-et-historiques/ascendances-et-historiques.md)
   - les [ascendances](ascendances-et-historiques/ascendances.md)
-    - [Liste des ascendances](ascendances/index.html) *voir s'il est possible de générer automatiquement les pages des ascendances à partir du compendium des ascendances de Foundry*
+    - [Liste des ascendances](ascendances/liste-des-ascendances) *voir s'il est possible de générer automatiquement les pages des ascendances à partir du compendium des ascendances de Foundry*
   - les [Historiques](ascendances-et-historiques/historiques.md)
     - [Liste des historiques](historiques/index.html) *contient une liste des historiques à générer à partir du compendium des historiques de Foundry (deux propositions de présentation assez simple : un tableau avec le nom en français et le nom en anglais avec un lien vers chaque historique) ou une page sur deux colonnes avec le nom en vf (entre parenthèses le nom en vo en petit) suivi de la description en vf*
   - les [Langues](ascendances-et-historiques/langues.md) *j'ai fait un tableau repris du LdB mais il faudra sans doute raffiner pour ajouter les langues extraites des différents bestiaires qui sont présentes dans le fichier de support fr de foundry mais pas dans les compendiums (https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2e-lang-fr/-/blob/master/fr.json) avec un ctrl F pour trouver les language*
