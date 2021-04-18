@@ -22,6 +22,7 @@ title: Bienvenue
 - les [classes](classes/classes.md)
 - [lire les rubriques consacrées aux classes](classes/lire-les-classes.md)
 - [compagnons animaux](classes/compagnons-animaux)
+  - [types de compagnons animaux](Classes/types-de-compagnons-animaux.md)
 
 ## Rubriques
 
