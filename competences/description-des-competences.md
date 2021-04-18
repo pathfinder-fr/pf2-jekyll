@@ -57,6 +57,6 @@ La plupart des compétences ont des entrées décrivant un succès et un échec,
 | Vol | Dextérité | Escamoter un objet {s:1a} | Crocheter une serrure {s:2a}
 | | | Voler {s:1a} | Désamorcer un dispositif {s:2a}
 
-I Cette action de compétence ne peut s’utiliser qu’en période d’intermède.
-E Cette action de compétence est utilisée en exploration.
+I Cette action de compétence ne peut s’utiliser qu’en période d’intermède.  
+E Cette action de compétence est utilisée en exploration.  
 G C’est une action de compétence générale
