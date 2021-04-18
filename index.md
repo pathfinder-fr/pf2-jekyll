@@ -43,6 +43,15 @@ title: Bienvenue
     - [Athlétisme](competences/athlétisme.md)
     - [Connaissance](competences/connaissance.md)
     - [Diplomatie](competences/diplomatie.md)
+    - [Discrétion](competences/discretion.md)
+    - [Duperie](competences/duperie.md)
+    - [Intimidation](competences/intimidation.md)
+    - [Médecine](competences/medecine.md)
+    - [Nature](competences/nature.md)
+    - [Occultisme](competences/occultisme.md)
+    - [Religion](competences/religion.md)
+    - [Représentation](competences/representation.md)
+
 
 ## Rubriques
 - [Liste des actions](actions/index.html)
