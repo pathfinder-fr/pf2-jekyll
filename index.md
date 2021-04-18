@@ -32,6 +32,18 @@ title: Bienvenue
   - les archétypes multiclasse *(idéalement, il faudrait générer la page à partir de fonction de tri du json des fichiers du compendium des archétypes en triant les archétypes multiclasse dont le nom est celui d'une classe de base comme alchimiste, barde,, druide) et la page de chaque archétype devrait pouvoir être ensuite générée*
   - les archétypes de classe *(Idéalement, il faudrait générer la page à partir de fonction de tri du json des fichiers du compendium des archétypes en retirant de la liste à afficher les archétypes multiclasse et générer chaque page de la même manière que pour les archétypes multiclasse)*
 
+# Les compétences
+- les [compétences](competences/competences.md)
+  - Les [tests et DD de compétence](competences/tests-et-DD-de-competence.md)
+  - Les [actions de compétences générales](competences/actions-de-competences-generales.md)
+  - [Description des compétences](competences/description-de-competences.md)
+    - [Acrobaties](competences/acrobaties.md)
+    - [Arcanes](competences/acrobaties.md)
+    - [Artisanat](competences/artisanat.md)
+    - [Athlétisme](competences/athlétisme.md)
+    - [Connaissance](competences/connaissance.md)
+    - [Diplomatie](competences/diplomatie.md)
+
 ## Rubriques
 - [Liste des actions](actions/index.html)
 - [Liste des dons](dons/index.html)
