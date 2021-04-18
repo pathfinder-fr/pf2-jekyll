@@ -31,3 +31,7 @@ Quand vous donnez une courte représentation (une chanson, une danse rapide ou q
 **Expert** public de marchands ou de nobles mineurs  
 **Maître** public de nobles importants ou de membres mineurs de la famille royale  
 **Légendaire** public de membres majeurs de la famille royale ou d’entités d’outre-monde
+
+## Action de Représentation qualifiée
+Vous devez être qualifié en Représentation pour l’utiliser afin de Gagner de l’argent.
+- Gagner de l’argent en donnant une représentation
