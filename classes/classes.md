@@ -11,3 +11,15 @@ Vous trouverez dans les pages suivantes une description des classes de Pathfinde
 - La page [Gagner un niveau](generalites/gagner-un-niveau.md), vous explique comment améliorer votre personnage une fois que vous aurez obtenu assez de **points d’expérience** pour passer au niveau supérieur.
 - La page [Compagnons animaux et familiers](compagnons-animaux-et-familiers.md), vous présente les règles régissant la création d’un **compagnon animal** ou d’un **familier** qui vous accompagnera dans vos aventures. Vous devez cependant posséder une **capacité de classe** ou un don qui vous permet d’avoir un compagnon ou un familier.
 - La page [Archétypes](archetypes.md) vous présentent les options thématiques qui vous permettent de personnaliser encore les pouvoirs de votre personnage. Les archétypes vous permettent de gagner des pouvoirs associés à d’autres classes à partir du niveau 2 ou de tracer une voie thématique. Cependant, l’utilisation de ces règles n’est pas recommandée aux joueurs débutants.
+
+# Liste des classes
+
+<table>
+	<tr><th>Nom</th><th>Nom anglais</th></tr>
+	{% for item in site.classes %}
+	  <tr>
+	  	<td><a href="{{ item.url | relative_url }}">{{item.title}}</a></td>
+	  	<td>{{item.titleEn}}</td>
+	  </tr>
+	{%- endfor -%}
+</table>

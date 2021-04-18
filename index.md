@@ -13,23 +13,24 @@ title: Bienvenue
 # Les ascendances et les historiques
 - [Ascendances et historiques](ascendances-et-historiques/ascendances-et-historiques.md)
   - les [ascendances](ascendances-et-historiques/ascendances.md)
-    - [Liste des ascendances](ascendances/index.html)
+    - [Liste des ascendances](ascendances/index.html) *voir s'il est possible de générer les pages des ascendances*
   - les [Historiques](ascendances-et-historiques/historiques.md)
-    - [Liste des historiques](historiques/index.html)
-  - les [Langues](ascendances-et-historiques/langues.md)
+    - [Liste des historiques](historiques/index.html) *contient une liste à générer à partir du compendium des historiques*
+  - les [Langues](ascendances-et-historiques/langues.md) *à raffiner pour les langues extraites des différents bestiaires qui sont présentes dans le fichier système mais pas dans les compendiums*
 
 # Les classes
-- les [classes](classes/classes.md)
+- les [classes](classes/classes.md) *contient une liste à générer à partir du compendium des classes*
+  - Idéalement générer automatiquement la *page de chaque classe*
 - [lire les rubriques consacrées aux classes](classes/lire-les-classes.md)
 - les [compagnons animaux](classes/compagnons-animaux)
   - les différents [types de compagnons animaux](classes/types-de-compagnons-animaux.md)
   - les [compagnons animaux spécialisés](classes/compagnons-animaux-specialises.md)
 - les [familiers](classes/familiers.md)
-  - les [pouvoirs de familier](classes/pouvoirs-de-familiers)
-  - les [pouvoirs des maîtres](classes/pouvoirs-des-maitres)
+  - les [pouvoirs de familier](classes/pouvoirs-de-familiers) *contient une page à générer à partir du compendium des pouvoirs de familier*
+  - les [pouvoirs des maîtres](classes/pouvoirs-des-maitres) *le compendium foundry ne comprend pas encore les pouvoirs des maîtres*
 - les [archétypes](classes/archetypes.md)
-  - les archétypes multiclasse
-  - les archétypes de classe
+  - les archétypes multiclasse *(voir si on peut générer la page à partir de fonction de tri du json des fichiers du compendium des archétypes)*
+  - les archétypes de classe *(voir si on peut générer la page à partir de fonction de tri du json des fichiers du compendium des archétypes en retirant de la liste à afficher les archétypes multiclasse)*
 
 ## Rubriques
 - [Liste des actions](actions/index.html)
