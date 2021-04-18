@@ -11,4 +11,4 @@ Title: liste des historiques
 	  	<td>{{item.titleEn}}</td>
 	  </tr>
 	{%- endfor -%}
-</table>
+</table> 
