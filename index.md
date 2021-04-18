@@ -27,7 +27,7 @@ title: Bienvenue
   - les [compagnons animaux spécialisés](classes/compagnons-animaux-specialises.md)
 - les [familiers](classes/familiers.md)
   - les [pouvoirs de familier](classes/pouvoirs-de-familiers.md) *C'est une page à générer à partir du compendium foundry des pouvoirs de familier pour afficher simplement le nom de chaque pouvoir en vf (en vo en plus petit) suivi de sa description fr*
-  - les [pouvoirs des maîtres](classes/pouvoirs-des-maitres.md) *le compendium foundry ne comprend pas encore les pouvoirs des maîtres* et la page est remplie
+  - les [pouvoirs des maîtres](classes/pouvoirs-de-maitres.md) *NB : le compendium foundry ne comprend pas encore les pouvoirs des maîtres*
 - les [archétypes](classes/archetypes.md)
   - les archétypes multiclasse *(idéalement, il faudrait générer la page à partir de fonction de tri du json des fichiers du compendium des archétypes en triant les archétypes multiclasse dont le nom est celui d'une classe de base comme alchimiste, barde,, druide) et la page de chaque archétype devrait pouvoir être ensuite générée*
   - les archétypes de classe *(Idéalement, il faudrait générer la page à partir de fonction de tri du json des fichiers du compendium des archétypes en retirant de la liste à afficher les archétypes multiclasse et générer chaque page de la même manière que pour les archétypes multiclasse)*
