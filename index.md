@@ -3,7 +3,7 @@ title: Bienvenue
 ---
 # Généralités
 - [Introduction](generalites/introduction.md)
-  - [Les bases du jeu](generalites/bases-du-jeu.md)
+  - [Les bases du jeu](generalites/Bases-du-jeu.md)
   - [Jouer une partie](generalites/jouer-une-partie.md)
   - Les [mots clefs](generalites/mots-clefs.md)
   - [Présentation des éléments de règle](generalites/presentation-des-elements-de-regle.md)
