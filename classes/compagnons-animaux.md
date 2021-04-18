@@ -1,5 +1,5 @@
 ---
-Title: compagnons animaux
+Title: Les compagnons animaux
 ---
 Certains aventuriers voyagent avec des alliés loyaux appelés compagnons animaux qui commencent comme de jeunes animaux, mais acquièrent des capacités physiques impressionnantes à mesure que vous progressez.
 ---
@@ -31,11 +31,3 @@ Pour faire passer un compagnon animal d’adulte à agile, augmentez son modific
 ### Compagnons animaux sauvages
 Pour faire passer un compagnon animal d’adulte à sauvage, augmentez son modificateur de Force de 2 et ses modificateurs de Dextérité, de Constitution et de Sagesse de 1. Il inflige 3 dégâts supplémentaires à ses attaques à mains nues. Faites passer son rang de maîtrise en Athlétisme à expert. Il apprend également la manœuvre avancée de son type.  
 Si votre compagnon est de taille Moyenne ou inférieure, il grandit d’une taille. Pour le fait d’ignorer les résistances, ses attaques deviennent magiques.
-
-### Types de compagnons
-L’espèce animale que vous choisissez correspond au type de votre compagnon. Chaque type de compagnon possède ses propres statistiques. L’entrée Taille indique la taille de départ de votre compagnon en tant que compagnon animal jeune. Viennent ensuite les attaques à mains nues du compagnon, puis ses modificateurs de caractéristiques. L’entrée Points de vie indique les points de vie ancestraux du compagnon. L’entrée Compétence mentionne une compétence qualifiée supplémentaire de votre compagnon. L’entrée Sens répertorie les sens spéciaux de votre compagnon. L’entrée Vitesse indique les Vitesses de votre compagnon. L’entrée Spécial, si elle existe, répertorie toutes les autres capacités spéciales de votre compagnon, par exemple s’il sert souvent de monture et est particulièrement approprié aux classes qui montent comme le champion. L’entrée Avantage de Soutien indique un avantage spécial que vous obtenez en Dirigeant l’animal pour utiliser l’action Soutien (voir ci-dessous). L’entrée Manœuvre avancée indique une nouvelle action puissante que votre compagnon apprend à utiliser s’il devient un compagnon agile ou sauvage.
-
-**SOUTIEN** {s:1a}
----
-**Conditions** La créature est un compagnon animal.  
-Votre compagnon animal vous apporte son soutien. Vous bénéficiez des avantages mentionnés dans l’entrée Avantage de Soutien. Si l’animal utilise l’action Soutien, les seules autres actions possibles pour lui durant ce tour sont des actions de déplacement basiques pour se mettre en position et tirer bénéfice des avantages de Soutien ; s’il a déjà utilisé une autre action ce tour-ci, il ne peut pas vous Soutenir.
