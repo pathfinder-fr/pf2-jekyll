@@ -55,8 +55,10 @@ title: Bienvenue
     - [Survie](competences/survie)
     - [Vol](competence/vol)
 
+# Les dons
+- La présentation des [dons](dons/presentation)
+- [Liste des dons](dons/index.html)
 
 ## Rubriques
 - [Liste des actions](actions/index.html)
-- [Liste des dons](dons/index.html)
 - [Liste des états préjudiciables](etats/index.html)
