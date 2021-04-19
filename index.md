@@ -51,6 +51,9 @@ title: Bienvenue
     - [Occultisme](competences/occultisme.md)
     - [Religion](competences/religion.md)
     - [Représentation](competences/representation.md)
+    - [Société](competences/societe)
+    - [Survie](competences/survie)
+    - [Vol](competence/vol)
 
 
 ## Rubriques
