@@ -1,6 +1,6 @@
 #load "include.csx"
 
-// Génère les pages des actions
+// Génère les pages des ascendances
 //
 // https://gitlab.com/pathfinder-fr/pf2-data-fr/-/blob/master/ancestries.json
 
