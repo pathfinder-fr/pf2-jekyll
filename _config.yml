@@ -38,6 +38,9 @@ collections:
   actions:
     output: true
     category: ['action']
+  ascendances:
+    output: true
+    category: ['ascendances']
   etats:
     output: true
     category: ['état préjudiciable']
