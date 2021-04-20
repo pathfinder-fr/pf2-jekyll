@@ -67,8 +67,8 @@ title: Bienvenue
 # Les dons
 - La présentation des [dons](dons/presentation)
 - [Liste des dons](dons/index.html)
-  - Liste des dons généraux : extraire du tableau les dons ayant la valeur général mais pas ceux ayant la valeur skill, les classer par niveau et ordre alphabétique afficher les champs suivant : nom en fr, Niveau, Prérequis, Avantage
-  - Liste des dons de compétence : extraire du tableau les dons ayant la valeur skill, sans la valeur skill. Les présenter en les triant par niveau, puis par prérequis, puis par ordre alphabétique. I déalement, il faudrait trier tous les dons par compétence prérequise. Le tableau doit également afficher les champs suivant : nom en fr, Niveau, Prérequis, Avantage
+  - Liste des dons **généraux** : extraire de la **feats.db** les dons ayant la valeur general mais pas ceux ayant la valeur skill, les classer par niveau, par ordre alphabétique. Afficher les champs suivant : nom en fr, Niveau, Prérequis, Avantage
+  - Liste des dons de **compétence** : extraire de la **feats.db** les dons ayant la valeur skill sans la valeur general. Les présenter en les triant d'abord par niveau puis par prérequis, puis par ordre alphabétique. Idéalement, il faudrait trier tous les dons par compétence prérequise. Afficher un tableau avec les champs suivant : nom en fr, Niveau, Prérequis, Avantage
 
 
 ## Rubriques diverses
