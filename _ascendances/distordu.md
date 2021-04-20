@@ -8,6 +8,16 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/ancestries.db/fleshwarp.json
 group: ancestries
 layout: ascendances
+hp: 10
+langues:
+  - Commun
+languesComplémentaires:
+  - Aklo
+  - Commun des profondeurs
+  - Draconique
+  - Elfique
+  - Gobelin
+  - Nain
 ---
 *Les Distordus sont des mutants dont les formes furent créées ou furent radicalement transformées par la magie, l'alchimie ou des énergies non naturelles. Leur apparence hétérodoxe peut leur rendre difficile de trouver un lieu qui soit à eux dans le monde.*
 

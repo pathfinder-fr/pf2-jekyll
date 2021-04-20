@@ -8,6 +8,16 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/ancestries.db/shoony.json
 group: ancestries
 layout: ascendances
+hp: 6
+langues:
+  - Commun
+  - Shoony
+languesComplémentaires:
+  - Gnomien
+  - Gobelin
+  - Halfelin
+  - Nain
+  - Terreux
 ---
 *Minuscules humanoïdes qui ressemblent à des chiens trapus et bipèdes les shoonys sont quelque fois pris à tort pour de faibles pacifistes insulaires. Quoi qu'il en soit, leur persévérance absolue, leur éthique de travail incroyable et leur utilisation pleine de ressources de la diplomatie font que les shoonys sont loin d'être sans défense.*
 

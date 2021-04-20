@@ -8,6 +8,15 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/ancestries.db/strix.json
 group: ancestries
 layout: ascendances
+hp: 8
+langues:
+  - Commun
+  - Strix
+languesComplémentaires:
+  - Draconique
+  - Géant
+  - Gnomien
+  - Infernal
 ---
 *Connu comme les itariis dans leur propre langue, les strix sont des humanoïdes aviaires reclus dévoués à leurs foyers et à leurs tribus. Ils défendent leurs précieuses communautés avec leurs larges envergures et des ergots acérés.*
 

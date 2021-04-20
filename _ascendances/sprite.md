@@ -8,6 +8,17 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/ancestries.db/sprite.json
 group: ancestries
 layout: ascendances
+hp: 6
+langues:
+  - Commun
+  - Sylvestre
+languesComplémentaires:
+  - Céleste
+  - Draconique
+  - Elfique
+  - Gnomien
+  - Gobelin
+  - Jotun
 ---
 *Les sprites sont des créatures minuscules, fantaisistes et éxubérantes du royaume des fées connus sous le nom de Premier monde. Ils adorent jouer des tours, explorer de nouvelles choses et embrasser tout ce qui a trait à la magie.*
 

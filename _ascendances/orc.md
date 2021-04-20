@@ -8,6 +8,15 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/ancestries.db/orc.json
 group: ancestries
 layout: ascendances
+hp: 10
+langues:
+  - Commun
+  - Orquien
+languesComplémentaires:
+  - Commun des profondeurs
+  - Gobelin
+  - Jotun
+  - Terreux
 ---
 *Les orcs sont forgés dans les creusets de la violence et du conflit, souvent dès le moment où ils viennent au monde. Comme ils vivent des vies qui sont fréquemment rapidement interrompues, les orcs apprécient de tester leurs forces contre des adversaires de valeur, que ce soit en défiant un membre de plus haut rang de leur communauté pour la domination ou en pillant une colonie des alentours. Beaucoup d'orcs recherchent la gloire aussitôt qu'ils savent marcher et porter une lame ou une massue, matant des bêtes sauvages ou chassant des monstres mortels.*
 

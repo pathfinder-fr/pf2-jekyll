@@ -8,6 +8,17 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/ancestries.db/leshy.json
 group: ancestries
 layout: ascendances
+hp: 8
+langues:
+  - Commun
+  - Sylvestre
+languesComplémentaires:
+  - Commun des profondeurs
+  - Draconique
+  - Elfique
+  - Gnomien
+  - Gobelin
+  - Halfelin
 ---
 *Gardiens et émissaires de l’environnement, les léchis sont des esprits immortels de la nature à qui a été accordée une forme physique temporaire.*
 

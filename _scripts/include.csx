@@ -92,7 +92,15 @@ static async Task GenerateFiles2(string dataName, string enFolderName, string co
 
             if (misc != null)
             {
-                misc(item, frJsonDoc, writer);
+                try
+                {
+                    misc(item, frJsonDoc, writer);
+                }
+                catch (Exception ex)
+                {
+                    WriteLine($"Erreur sur traitement personnalisé sur {trad.English} : {ex}");
+                    throw;
+                }
             }
 
             writer.WriteLine("---");
@@ -190,7 +198,15 @@ async static Task GenerateFiles(string tradFolderName, string colDir, DataGroup 
 
             if (misc != null)
             {
-                misc(jsonDoc, frJsonDoc, writer);
+                try
+                {
+                    misc(jsonDoc, frJsonDoc, writer);
+                }
+                catch (Exception ex)
+                {
+                    WriteLine($"Erreur sur traitement personnalisé sur {trad.English} : {ex}");
+                    throw;
+                }
             }
 
             writer.WriteLine("---");
@@ -438,6 +454,24 @@ public static JsonElement? GetPropertyOrDefault(this JsonElement @this, string p
     }
 
     return null;
+}
+
+public static void WriteArray(this StreamWriter @this, string name, IEnumerable<string> items)
+{
+    if (items.Where(x => !string.IsNullOrWhiteSpace(x)).Count() == 0)
+    {
+        return;
+    }
+
+    @this.WriteLine(name);
+
+    foreach (var item in items.OrderBy(x => x))
+    {
+        if (!string.IsNullOrWhiteSpace(item))
+        {
+            @this.WriteLine($"  - {item}");
+        }
+    }
 }
 
 public enum DataGroup

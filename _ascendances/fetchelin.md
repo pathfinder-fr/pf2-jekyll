@@ -8,6 +8,16 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/ancestries.db/fetchling.json
 group: ancestries
 layout: ascendances
+hp: 8
+langues:
+  - Commun
+  - Langue de l’ombre
+languesComplémentaires:
+  - Aklo
+  - Commun des profondeurs
+  - D'ziriak
+  - Draconique
+  - Nécril
 ---
 *Autrefois humains et désormais autre chose, les fetchelins démontrent l'influence ancienne du Plan de l'ombre à travers des teints monochromes, des yeux brillants et l'invocation d'ombres surnaturelles.*
 

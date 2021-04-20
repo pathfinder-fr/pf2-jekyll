@@ -8,6 +8,17 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/ancestries.db/kobold.json
 group: ancestries
 layout: ascendances
+hp: 6
+langues:
+  - Commun
+  - Draconique
+languesComplémentaires:
+  - Aklo
+  - Commun des profondeurs
+  - Gnomien
+  - Infernal
+  - Nain
+  - Terreux
 ---
 *Chaque kobold sait que leur frèle ossature dément leur véritable et puissant pouvoir draconique. Ils sont d'ingénieux concepteurs et des alliés dévoués au sein de leurs terriers, mais ceux qui s'aventurent sur leur territoire découvrent qu'il s'agit d'escarmoucheurs inspirés, surtout lorsqu'ils profitent du soutien d'ensorceleurs draconiques ou de véritable maîtres draconiques. Quoi qu'il en soit, ces reptiles opportunistes se montrent heureux de coopérer avec d'autres humanoïdes lorsque c'est à leur avantage, combinant les précautions et les ruses pour faire fortune dans le vaste monde.*
 

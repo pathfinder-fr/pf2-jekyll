@@ -8,6 +8,15 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/ancestries.db/halfling.json
 group: ancestries
 layout: ascendances
+hp: 6
+langues:
+  - Commun
+  - Halfelin
+languesComplémentaires:
+  - Elfique
+  - Gnomien
+  - Gobelin
+  - Nain
 ---
 *Les halfelins ne se revendiquent d’aucune nation et leurs villes sont rarement plus que de simples villages. Ils résident en général avec les humains dans l’enceinte de grandes villes où ils vivent dans de petites communautés aux côtés des grandes gens. De nombreux halfelins mènent une vie parfaitement épanouissante dans l’ombre de leurs grands voisins. D’autres préfèrent une existence plus nomade, partent fouler les chemins et profitent de toutes les opportunités et aventures qui se présentent à eux.*
 

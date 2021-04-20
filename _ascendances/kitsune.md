@@ -8,6 +8,16 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/ancestries.db/kitsune.json
 group: ancestries
 layout: ascendances
+hp: 8
+langues:
+  - Commun
+languesComplémentaires:
+  - Elfique
+  - Gnomien
+  - Gobelin
+  - Halfelin
+  - Nain
+  - Sylvestre
 ---
 *Les kitsunes sont un peuple charismatique et drôle avec un lien vers le spirituel qui leur accorde des capacités magiques avec, en premier lieu, le pouvoir de changer de forme pour adopter d'autres formes. Qu'il s'agisse de se faire passer pour un autre peuple ou de garder leur queue haute, les kitsunes sont de fins observateurs des sociétés qui les entourent.*
 
