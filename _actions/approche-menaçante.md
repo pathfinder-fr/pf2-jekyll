@@ -12,5 +12,3 @@ type: action
 typeFr: Action Unique
 ---
 Vous Marchez rapidement jusqu'à être adjacent à une créature et tentez de la [Démoraliser](démoraliser.md). Si vous réussissez, la créature est [Effrayée](../etats/effrayé.md) 2 au lieu d’Effrayée 1.
-
-

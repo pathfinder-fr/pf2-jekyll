@@ -18,5 +18,3 @@ Vous évaluez les faiblesses d'un ennemi en combat et les utilisez pour formuler
 Lorsque vous opérez cette substitution, vous pouvez substituer votre modificateur d'Intelligence au modificateur de Force ou de Dextérité pour votre jet d'attaque, lorsque votre Frappe utilise une arme de mêlée agile ou de finesse, une attaque à mains nues agile ou de finesse, une arme à distance (laquelle doit être agile ou de finesse s'il s'agit d'une arme de corps-à-corps disposant du trait lancer) ou une [Matraque](../equipment/matraque.md).
 
 Si vous savez que la créature que vous avez choisie est le sujet d'une piste que vous suivez, vous pouvez utiliser cette capacité par une action libre.
-
-

@@ -20,5 +20,3 @@ Vous tentez de déterminer si le comportement d’une créature est anormal. Cho
 **Échec** Vous détectez seulement ce qu’une créature trompeuse cherche à vous faire croire. Si la créature ne cherche pas à vous tromper, vous êtes convaincu qu’elle se comporte normalement.
 
 **Échec critique** Votre impression concernant les intentions de la créature est erronée.
-
-

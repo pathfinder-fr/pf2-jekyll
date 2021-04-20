@@ -13,10 +13,9 @@ typeFr: Réaction
 ---
 **Déclencheur** Un ennemi inflige des dégâts à votre allié et les deux sont à 4,50 m ou moins de vous.
 
-L’ennemi vacille sous le poids de ses péchés alors que des visions de rédemption défilent dans sa tête. Il doit choisir l’une des options suivantes :  
+L’ennemi vacille sous le poids de son pêché alors que des visions de rédemption défilent dans sa tête. Il doit choisir l’une des options suivantes :
+
 
 
 - Les dégâts déclencheurs ne blessent par votre allié.
 - L’allié gagne une résistance à tous les dégâts contre les dégâts déclencheurs égale à 2 + votre niveau. Après application de l’effet infligeant des dégâts, l’ennemi devient [Affaibli](../etats/affaibli.md) 2 jusqu’à la fin de son prochain tour.
-
-

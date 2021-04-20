@@ -13,12 +13,10 @@ typeFr: Action Unique
 ---
 **Fréquence **une fois par jour
 
-Vous pouvez maudire une autre créature la rendant maladroite. Cette malédiction possède une portée de 9 m et vous devez être capable de voir votre cible. La cible obtient un jet de sauvegarde pour résister à cette malédiction, en utilisant votre DD de Classe ou de sort, celui qui est le plus élevé.
+Vous pouvez maudire une autre créature pour la rendre maladroite. Cette malédiction possède une portée de 9 m et vous devez être capable de voir votre cible. La cible obtient un jet de sauvegarde pour résister à cette malédiction, en utilisant le plus élevé entre votre DD de classe ou votre DD de sort.
 
-**Succès** la cible n'est pas affectée est est immunisée de manière temporaire pendant 24 h.
+**Succès** la cible n'est pas affectée est est immunisée de manière temporaire pendant 24 heures.
 
-**Échec** la cible est [Maladroite](../conditions/maladroit.md) 1 pendant 1 minute.
+**Échec** la cible est [Maladroite](../etats/maladroit.md) 1 pendant 1 minute.
 
 **Échec critique** La cible est Maladroite 2 pendant 1 minute.
-
-

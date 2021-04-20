@@ -11,12 +11,10 @@ layout: actions
 type: reaction
 typeFr: Réaction
 ---
-**Prérequis** Au moins un sort inné arcanique ou occulte obtenu par un héritage de gnome ou un don d'ancètre gnome
+**Prérequis** Au moins un sort inné arcanique ou occulte obtenu par un héritage de gnome ou un don ancestral gnome
 
 **Fréquence** Une fois par jour
 
 **Déclencheur** Vous êtes attaqué par un ennemi
 
-La magie qui est en vous se manifeste comme une réaction naturelle à une menace. Vous obtenez les effets d'e '[Image miroir](../spells/image-miroir.md) mais avec deux images au lieu de trois. La tradition de cette action est la même que la tradition des option de votre ascendance gnome.
-
-
+La magie qui est en vous se manifeste comme une réaction naturelle à une menace. Vous obtenez les effets d' [Image miroir](../spells/image-miroir.md) mais avec deux images au lieu de trois. La tradition de cette action correspond à celle des options de votre ascendance gnome.

@@ -13,12 +13,10 @@ typeFr: Action Unique
 ---
 **Conditions** L’une de vos mains au moins est libre. Votre cible ne peut pas être de plus d’une catégorie de taille de plus que vous.
 
-Vous tentez de faire tomber un adversaire. Effectuez un test d’Athlétisme contre le DD de Réflexes de la cible.
+Vous tentez de faire tomber un adversaire. Effectuez un test <span data-pf2-action="trip" data-pf2-glyph="A">d’Athlétisme contre le DD de Réflexes de la cible.
 
 **Succès critique** La cible tombe [À terre](../etats/à-terre.md) et subit 1d6 dégâts contondants.
 
 **Succès** La cible tombe À terre.
 
 **Échec critique** Vous perdez l'équilibre et tombez À terre.
-
-

@@ -14,5 +14,3 @@ typeFr: Réaction
 **Déclencheur** Vous devez faire un jet de sauvegarde contre un effet magique, mais vous n’avez pas encore lancé le dé.
 
 Soudain, vous sentez la résistance magique de vos ancêtres affluer en vous, puis lentement se retirer. Vous gagnez un bonus de circonstances de +1 au jet de sauvegarde qui a déclenché cette réaction et jusqu’à la fin de ce tour.
-
-

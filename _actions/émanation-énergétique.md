@@ -13,6 +13,6 @@ typeFr: Action Unique
 ---
 **Fréquence** une fois par jour
 
-De l'énergie jaillit de votre corps. Vous infligez 1d6 dégâts d'un type au choix à toutes les créatures adjacentes (vous pouvez effectuer un jet de Réflexes basique en utilisant votre DD de classe ou votre DD de sorts, parmi le plus élevé). Au niveau 3, et tous les deux niveaux suivants, ces dégâts sont augmentés de 1d6.
+De l'énergie jaillit de votre corps. Vous infligez 1d6 dégâts de votre type choisi à toutes les créatures adjacentes (vous pouvez effectuer un jet de Réflexes basique en utilisant le plus élevé entre votre DD de classe ou votre DD de sorts).
 
-
+Au niveau 3, puis tous les deux niveaux suivants, ces dégâts sont augmentés de 1d6.

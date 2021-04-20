@@ -22,5 +22,3 @@ La plupart des animaux savent accomplir les actions basiques Bondir, Chercher, M
 **Échec** L'animal hésite ou rechigne et ne fait rien.
 
 **Échec critique** L'animal ne comprend pas l'ordre ou l'interprète mal et accomplit une autre action déterminée par le MJ.
-
-

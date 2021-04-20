@@ -15,4 +15,4 @@ typeFr: Action Unique
 
 Vous levez votre bouclier pour vous protéger. Quand vous avez Levé un bouclier, vous ajoutez le bonus de circonstances indiqué dans son profil à votre CA. Votre bouclier reste levé jusqu’au début de votre prochain tour.
 
-
+Lever un bouclier

@@ -11,15 +11,16 @@ layout: actions
 type: action
 typeFr: Action Unique
 ---
-En utilisant votre masse corporelle, un levier ou un autre outil, vous tentez de forcer l’ouverture d’une porte, d’une fenêtre, d’un contenant ou d’une grille épaisse. Avec un résultat suffisamment élevé, vous pouvez même traverser des murs. Vous subissez un malus d’objet de &ndash;2 au test d’Athlétisme si vous tentez d’Ouvrir de force quelque chose sans pied‑de‑biche.
+En utilisant votre masse corporelle, un levier ou un autre outil, vous tentez de forcer l’ouverture d’une porte, d’une fenêtre, d’un contenant ou d’une grille épaisse. Avec un résultat suffisamment élevé, vous pouvez même traverser des murs. Vous subissez un malus d’objet de -2 au test <span data-pf2-action="forceOpen" data-pf2-glyph="A">d’Athlétisme si vous tentez d’Ouvrir de force quelque chose sans pied‑de‑biche.
 
 **Succès critique** Vous ouvrez la porte, la fenêtre, le contenant ou la grille sans l’endommager si vous le souhaitez.
 
 **Succès** Vous enfoncez la porte, la fenêtre, le contenant ou la grille et l’objet enfoncé obtient l’état brisé. S’il est particulièrement solide, le MJ peut décider qu’il subit des dégâts sans être brisé.
 
-**Échec critique** Vous enfoncez la porte, la fenêtre, le contenant ou la grille et l’objet enfoncé obtient l’état brisé. S’il est particulièrement solide, le MJ peut décider qu’il subit des dégâts sans être brisé.
+**Échec critique** Votre tentative bloque la porte, la fenêtre, le contenant ou la grille, imposant un malus de circonstances de −2 aux tentatives ultérieures pour l’Ouvrir de force.
 
 <h2>Ouvrir de force : exemples de tâches**
+
 
 
 - **Inexpérimenté**tissu, verre fin
@@ -27,5 +28,3 @@ En utilisant votre masse corporelle, un levier ou un autre outil, vous tentez de
 - **Expert**porte en bois peu épaisse, herse en bois
 - **Maître**porte en bois épaisse, herse en fer, barreau métallique
 - **Légendaire**porte en pierre ou en fer
-
-

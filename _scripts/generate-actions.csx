@@ -2,20 +2,19 @@
 
 // Génère les pages des actions
 //
-// en : https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/tree/master/packs/data/actions.db
-// fr : https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/tree/master/data/actions
+// https://gitlab.com/pathfinder-fr/pf2-data-fr/-/blob/master/actionspf2e.json
 
 using System.Text.Json;
 
-await GenerateFiles("actions", "_actions", DataGroup.Actions, "actions.db", ParseAction);
+await GenerateFiles2("actionspf2e", "actions", "_actions", DataGroup.Actions, ParseAction);
 
-static void ParseAction(JsonDocument jsonDoc, JsonDocument frJsonDoc, StreamWriter writer)
+static void ParseAction(JsonElement item, JsonDocument frJsonDoc, StreamWriter writer)
 {
-    // chargement des infos utiles d'après le fichier anglais
-    var actionType = jsonDoc.RootElement.GetProperty("data").GetProperty("actionType").GetProperty("value").GetString();
+    // chargement des infos utiles d'après le fichier actionspf2e.json
+    var actionType = item.GetProperty("data").GetProperty("actionType").GetProperty("value").GetString();
 
     // on détermine le nom de l'entrée du glossaire pour avoir le texte FR
-    // pour le type d'action, on recherche ActionType + type d'action du json anglais
+    // pour le type d'action, on recherche ActionType + type d'action du json
     var itemName = "ActionType" + FirstCharUpper(actionType);
 
     // à partir de ce nom ActionType... on recherche la traduction française dans le glossaire

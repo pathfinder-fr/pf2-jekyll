@@ -30,10 +30,9 @@ Le MJ peut vous autoriser à faire des tests pour Se souvenir en utilisant d’a
 Ces exemples utilisent Société et Religion.
 
 
+
 - **Inexpérimenté** le nom d'un souverain, d'un noble prépondérant ou d'une divinité majeure
 - **Qualifié** la ligne de succession d'une famille noble majeure, les principaux préceptes d'une divinité majeure
 - **Expert** la généalogie d'un noble mineur, les enseignements d'un ancien prêtre
 - **Maître** la hiérarchie au sein de la cour d'un génie noble, les temples extraplanaires majeurs d'une divinité
 - **Légendaire** l'existence d'un héritier d'une famille noble depuis longtemps disparue, les préceptes secrets d'une religion
-
-

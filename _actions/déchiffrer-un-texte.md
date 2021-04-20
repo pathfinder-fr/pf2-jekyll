@@ -11,8 +11,8 @@ layout: actions
 type: passive
 typeFr: Passive
 ---
-Vous tentez de déchiffrer un manuscrit ou une œuvre littéraire com‑
-plexe abordant un sujet obscur. Il faut généralement y consacrer une minute par page de texte mais la tâche peut parfois s’avérer plus longue (le plus souvent une heure par page pour déchiffrer un code secret ou un écrit similaire). Le texte doit être rédigé dans une langue que vous savez lire, mais le MJ peut vous autoriser à tenter de déchiffrer un texte écrit dans une langue inconnue en utilisant Société à la place.  
+Vous tentez de déchiffrer un manuscrit ou une œuvre littéraire complexe abordant un sujet obscur. Il faut généralement y consacrer une minute par page de texte mais la tâche peut parfois s’avérer plus longue (le plus souvent une heure par page pour déchiffrer un code secret ou un écrit similaire). Le texte doit être rédigé dans une langue que vous savez lire, mais le MJ peut vous autoriser à tenter de déchiffrer un texte écrit dans une langue inconnue en utilisant Société à la place.
+
 Le MJ détermine le DD en prenant en compte l’état du document et la complexité du texte. Il peut vous demander de faire un test pour un texte court ou un test pour chaque section d’un texte plus long.
 
 **Succès critique** Vous comprenez le véritable sens du texte.
@@ -26,9 +26,8 @@ Le MJ détermine le DD en prenant en compte l’état du document et la complexi
 ## Déchiffrer un texte : exemples de tâches
 
 
+
 - **Qualifié** traité décrivant les notions de base d'une philosophie
 - **Expert** code complexe de type code secret
 - **Maître** code de maître-espion ou notes de recherche élaborées
 - **Légendaire** texte ésotérique sur les plans écrits en métaphores par un ancien céleste
-
-

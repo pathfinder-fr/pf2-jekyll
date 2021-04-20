@@ -20,10 +20,9 @@ Grâce aux étoiles, à la position du soleil, aux attributs géographiques, à 
 ## S'orienter : exemples de tâches
 
 
+
 - **Inexpérimenté** déterminer un point cardinal en observant le soleil
 - **Qualifié** trouver une piste envahie par la végétation dans une forêt
 - **Expert** trouver son chemin dans un labyrinthe végétal
 - **Maître** trouver son chemin dans un labyrinthe complexe ou dans un désert presque dénué de traits distinctifs
 - **Légendaire** trouver son chemin dans un royaume onirique en perpétuelle mutation
-
-

@@ -18,5 +18,3 @@ typeFr: Action Unique
 Vous préparez rapidement un objet alchimique périssable que vous pouvez utiliser sur‑le‑champ.
 
 Vous pouvez créer un unique objet alchimique d’un niveau inférieur ou égal à votre niveau d’alchimie avancée et qui se trouve dans votre formulaire, sans avoir à dépenser le coût monétaire normal en réactifs alchimiques ou à faire de test d’Artisanat. Cet objet possède le trait imprégné, mais est seulement efficace jusqu’au début de votre prochain tour.
-
-

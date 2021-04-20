@@ -2,23 +2,15 @@
 # ATTENTION : Ne modifiez pas ce fichier
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Voler
-titleEn: Steal
-id: RDXXE7wMrSPCLv5k
-urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/RDXXE7wMrSPCLv5k.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/steal.json
+titleEn: Fly
+id: cS9nfDRGD83bNU1p
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/cS9nfDRGD83bNU1p.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/fly.json
 group: actions
 layout: actions
 type: action
 typeFr: Action Unique
 ---
-Vous tentez de vous emparez d’un objet que porte une autre créature sans vous faire repérer. Généralement, vous ne pouvez Voler qu’un objet dont l’Encombrement est négligeable et vous ratez automatiquement si la créature qui porte l’objet est en combat ou sur ses gardes.
+**Conditions** Vous avez une Vitesse de vol.
 
-Faites un test de Vol pour déterminer si vous réussissez à Voler l’objet. Le DD pour Voler est le plus souvent le DD de Perception de la créature qui porte l’objet. On part du principe que l’objet est porté mais pas surveillé de près (comme une bourse pleine de pièces portée à la ceinture ou un objet dans une telle bourse). Si l’objet est dans une poche ou à l’abri de manière similaire, vous subissez un malus de −5 à votre test de Vol. Le MJ peut augmenter le DD de votre test si la nature de l’objet complique la tentative pour le voler (comme un objet très petit dans un grand sac ou une feuille de parchemin au milieu d’autres documents).
-
-Il est également possible que vous ayez à comparer le résultat de votre test de Vol aux DD de Perception des observateurs autres que la personne qui porte l’objet. Le MJ peut augmenter les DD de Perception de ces observateurs si leur attention est attirée par autre chose.
-
-**Succès** Vous volez l’objet sans que son détenteur ne s’en aperçoive, ou un observateur ne vous voit pas prendre ou tenter de prendre l’objet.
-
-**Échec** Le détenteur de l’objet remarque votre tentative avant que vous puissiez prendre l’objet, ou un observateur vous voit prendre ou tenter de prendre l’objet. Le MJ détermine la réaction des créatures qui remarquent votre larcin
-
-
+Vous vous déplacez dans les airs d’une distance maximale égale à votre Vitesse de vol. Vous faites appel aux règles du déplacement à travers un terrain difficile pour vous déplacer vers le haut (verticalement ou en diagonale). Vous pouvez vous diriger verticalement vers le sol de 3 m en dépensant 1,50 m de déplacement. Si vous Volez jusqu’au sol, vous ne subissez pas de dégâts de chute. Vous pouvez utiliser une action pour Voler sur une distance de 0 m afin de faire du vol stationnaire. Si vous êtes dans les airs à la fin de votre tour et que vous n’avez pas utilisé d’action pour Voler lors de ce tour, vous chutez.

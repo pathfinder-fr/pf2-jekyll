@@ -16,5 +16,3 @@ typeFr: Action Gratuite
 **Déclencheur** Vous faites un test de compétence et n'avez pas encore lancé les dés
 
 **Effet** Lancez deux fois le test de compétence et conservez le meilleur.
-
-

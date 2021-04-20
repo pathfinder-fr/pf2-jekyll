@@ -11,7 +11,7 @@ layout: actions
 type: action
 typeFr: Action Unique
 ---
-**Prérequis** Dévouement Dompteur d'animaux
+**Prérequis** Dévouement de Dompteur d'animaux
 
 **Conditions** Le compagnon animal a réussi sa dernière action [Se produire](se-produire.md). Le compagnon animal continue sa représentation pour attirer l'attention d'une cible unique dans un rayon de 9 mètres qui a été témoin de la représentation du compagnon. La cible doit effectuer un jet de Volonté.
 
@@ -20,5 +20,3 @@ typeFr: Action Unique
 **Échec** La cible est [Fascinée](../etats/fasciné.md) par la représentation du compagnon jusqu'à ce qu'il effectue sa prochaine action et est ensuite temporairement immunisée pendant 1 heure.
 
 **Échec critique** La cible est Fascinée par la représentation du compagnon durant 1 round. Tant que la cible reste Fascinée, elle ne peut utiliser de réactions.
-
-

@@ -18,5 +18,3 @@ Choisissez une activation d’objet magique avec une durée maintenue que vous a
 Maintenir une activation plus de 10 minutes (100 rounds) y met un terme et vous fatigue, à moins que la description de l’objet ne précise une durée maximale différente (comme "maintenu jusqu’à 1 minute" ou "maintenu jusqu’à 1 heure").
 
 Si l’action Maintenir une activation est interrompue, l’effet de l’objet se termine immédiatement.
-
-

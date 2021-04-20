@@ -21,5 +21,3 @@ Déverrouiller une serrure sans sa clef est très similaire au Désamorçage d�
 **Succès** Vous déverrouillez la serrure ou vous obtenez un succès pour réussir à ouvrir une serrure complexe.
 
 **Échec critique** Vous cassez vos outils. Les Réparer nécessite l’utilisation de la compétence Artisanat pour [Réparer](réparer.md) ou leur remplacement.
-
-

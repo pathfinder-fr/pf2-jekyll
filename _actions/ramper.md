@@ -14,5 +14,3 @@ typeFr: Action Unique
 <span>**Conditions** Vous êtes à terre et votre Vitesse est d'au moins 3 mètres.
 
 Vous vous déplacez de 1,50 mètres en rampant, en restant [À terre](../etats/à-terre.md).
-
-

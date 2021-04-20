@@ -11,7 +11,7 @@ layout: actions
 type: action
 typeFr: Action Unique
 ---
-Vous Marchez rapidement, puis vous Bondissez à la verticale et effectuez un test d’<pf2-action action='highJump' glyph='D'>Athlétisme</pf2-action> DD 30 pour augmenter la hauteur de votre saut. Si vous ne prenez pas un élan d’au moins 3 m avec l’action Marcher rapidement, vous ratez automatiquement votre test. Le MJ peut augmenter ou diminuer ce DD en fonction des situations.
+Vous Marchez rapidement, puis vous Bondissez à la verticale et effectuez un test d’<span data-pf2-action="highJump" data-pf2-glyph="D">Athlétisme DD 30 pour augmenter la hauteur de votre saut. Si vous ne prenez pas un élan d’au moins 3 m avec l’action Marcher rapidement, vous ratez automatiquement votre test. Le MJ peut augmenter ou diminuer ce DD en fonction des situations.
 
 **Succès critique** Augmentez la distance verticale maximale à 2,40 m, ou la distance verticale maximale à 1,50 m et la distance horizontale maximale à 3 m.
 
@@ -20,5 +20,3 @@ Vous Marchez rapidement, puis vous Bondissez à la verticale et effectuez un tes
 **Échec** Vous Bondissez normalement.
 
 **Échec critique** Vous ne parvenez pas à Bondir et tombez [à terre](../etats/à-terre.md) dans votre case à la place.
-
-

@@ -13,7 +13,7 @@ typeFr: Action Unique
 ---
 **Conditions** Vous avez une Vitesse de vol.
 
-Vous tentez une manœuvre difficile en volant. Effectuez un test d’Acrobaties. Le MJ détermine quelles manœuvres sont possibles mais elles vous permettent rarement de vous déplacer plus loin que votre Vitesse de vol.
+Vous tentez une manœuvre difficile en volant. Effectuez un test d'<span data-pf2-action="maneuverInFlight" data-pf2-glyph="A">Acrobaties. Le MJ détermine quelles manœuvres sont possibles mais elles vous permettent rarement de vous déplacer plus loin que votre Vitesse de vol.
 
 **Succès** Vous réussissez la manœuvre.
 
@@ -21,14 +21,11 @@ Vous tentez une manœuvre difficile en volant. Effectuez un test d’Acrobaties.
 
 **Échec critique** Comme un échec, mais les conséquences sont plus néfastes.
 
- 
-
 ## Manœuvrer en vol : exemples de tâches
+
 
 
 - **Qualifié** ascension ou descente brusque
 - **Expert** voler contre le vent, voler sur place
 - **Maître** se retourner dans la direction opposée
 - **Légendaire** voler lors d'une tempête par vent violent
-
-

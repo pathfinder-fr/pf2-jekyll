@@ -11,8 +11,6 @@ layout: actions
 type: reaction
 typeFr: Réaction
 ---
-**Déclencheur** Une créature se déplace dans la case du piège
+**Déclencheur** Une créature se déplace dans la case du piège.
 
-**Effet** Le piège explose, infligeant les dégâts des bombes et les dégâts d'éclaboussures à l'objet inanimé. Combinez Ces dégâts pour les besoin des résistances et faiblesses et ces dégâts igorent un montant de la Solidité de l'objet égal à votre niveau. N'importe quelle créature adjacente au piège subit les dégâts d'éclaboussures des bombes, combinés de la même façon pour les besoin des résistances et faiblesses. Souvenez vous que comme vous ne lancez pas les bombes, [Éclaboussure calculée](../dons/éclaboussure-calculée.md) et les effets similaires ne s'appliquent pas.
-
-
+**Effet** Le piège explose, infligeant les dégâts des bombes et les dégâts d'éclaboussures à l'objet inanimé. Combinez ces dégâts pour les besoins de calculer les résistances et les faiblesses et ces dégâts ignorent un montant de la Solidité de l'objet égal à votre niveau. N'importe quelle créature adjacente au piège subit les dégâts d'éclaboussures des bombes, combinés de la même façon pour les besoins de calculer les résistances et les faiblesses. Souvenez vous que comme vous ne lancez pas les bombes, Éclaboussure calculée et les effets similaires ne s'appliquent pas.

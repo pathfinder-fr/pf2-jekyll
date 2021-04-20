@@ -11,9 +11,8 @@ layout: actions
 type: free
 typeFr: Action Gratuite
 ---
-**Fréquence** une fois par jour  
+**Fréquence** une fois par jour
+
 **Conditions** Vous n'avez pas encore agi à votre tour.
 
-Vous dépensez la puissance contenue dans votre objet lié, ce qui vous permet de lancer, sans dépenser d’emplacement, un sort que vous avez préparé pour la journée et déjà lancé. Vous devez tout de même Lancer le sort et remplir ses autres conditions.  
-
-
+Vous dépensez la puissance contenue dans votre objet lié, ce qui vous permet de lancer, sans dépenser d’emplacement, un sort que vous avez préparé pour la journée et déjà lancé. Vous devez tout de même Lancer le sort et remplir ses autres conditions.

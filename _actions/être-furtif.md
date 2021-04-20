@@ -11,7 +11,7 @@ layout: actions
 type: action
 typeFr: Action Unique
 ---
-Vous pouvez tenter de vous déplacer vers un autre endroit tout en devenant ou en restant [non détecté](../etats/non-détecté.md). Marcher rapidement jusqu’à la moitié de votre Vitesse (vous pouvez Être furtif en Creusant, en Escaladant, en Volant ou en Nageant au lieu de Marcher rapidement si vous avez le type de déplacement correspondant ; vous devez vous déplacer à la moitié de votre Vitesse).
+Vous pouvez tenter de vous déplacer vers un autre endroit tout en devenant ou en restant [Non détecté](../etats/non-détecté.md). Marcher rapidement jusqu’à la moitié de votre Vitesse (vous pouvez Être furtif en Creusant, en Escaladant, en Volant ou en Nageant au lieu de Marcher rapidement si vous avez le type de déplacement correspondant ; vous devez vous déplacer à la moitié de votre Vitesse).
 
 Si vous êtes Non détecté par une créature et qu’il est impossible que cette créature puisse vous observer (pour une créature normale, soit vous êtes [Invisible](../etats/invisible.md), soit elle est [Aveuglée](../etats/aveuglé.md), soit vous êtes dans les ténèbres et elle ne peut pas voir dans les ténèbres), tous les échecs critiques que vous obtenez sur un test pour Être furtif sont considérés comme de simples échecs. Vous pouvez également continuer d’être non détecté si vous ne bénéficiez plus d’un abri normal ou important, ou n’êtes plus [Masqué](../etats/masqué.md), vis‑à‑vis d’une telle créature.
 
@@ -22,5 +22,3 @@ Si vous êtes Non détecté par une créature et qu’il est impossible que cett
 **Échec** Vous restez dissimulé mais un bruit ou autre signe suspect révèle votre position. Vous êtes caché de la créature pendant votre déplacement et le restez.
 
 **Échec critique** Vous êtes repéré ! Vous êtes Observé par la créature pendant votre déplacement et le restez. Si vous êtes Invisible et que vous étiez Caché de la créature, vous êtes Caché pendant votre déplacement, au lieu d’être Observé, et le restez.
-
-

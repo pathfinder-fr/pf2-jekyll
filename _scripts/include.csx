@@ -9,6 +9,98 @@ Environment.CurrentDirectory = GetScriptFolder();
 
 public delegate void ParseActionMethod(JsonDocument jsonDoc, JsonDocument frJsonDoc, StreamWriter writer);
 
+public delegate void ParseActionMethod2(JsonElement item, JsonDocument frJsonDoc, StreamWriter writer);
+
+/// <summary>
+/// Génère les pages pour le fichiers demandés.
+/// </summary>
+/// <param name="dataName">Nom du fichier dans le projet data-fr. ex: actionspf2e.</param>
+/// <param name="enFolderName">Nom du dossier contenant les fichiers dans le module foundry https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/tree/master/packs/data sans le .db. ex: actions.</param>
+/// <param name="colDir">Nom de la collection sous jekyll, préfixée par un _. ex: _dons. Doit être une des valeurs renvoyées par <see cref="AsDataFolderName" />.</param>
+/// <param name="group">Groupe de données parmi les différentes valeurs de <see cref="DataGroup" />.</param>
+/// <param name="misc">Méthode complémentaire à invoquer pour chaque fichier pour ajouter des entête front matter dans le fichier généré.</param>
+static async Task GenerateFiles2(string dataName, string enFolderName, string colDir, DataGroup group, ParseActionMethod2 misc = null)
+{
+    await Ids.EnsureIds();
+
+    CurrentGroup = group;
+
+    JsonDocument dataDoc;
+    using (var input = File.OpenRead($"../_ext/data-fr/{dataName}.json"))
+    {
+        dataDoc = JsonDocument.Parse(input);
+    }
+
+    // glossaire fr
+    JsonDocument frJsonDoc;
+    using (var input = File.OpenRead("../_ext/module-fr/fr.json"))
+    {
+        frJsonDoc = JsonDocument.Parse(input);
+    }
+
+
+    // on s'assure que le dossier existe déjà
+    Directory.CreateDirectory($"../{colDir}/");
+
+    WriteLine($"Examen des éléments...");
+    foreach (var item in dataDoc.RootElement.EnumerateArray())
+    {
+        // chargement données traduction et correspondance id <=> nom
+        var id = item.GetProperty("_id").GetString();
+        var groupName = enFolderName;
+        var enName = item.GetProperty("name").GetString();
+        var enDesc = item.GetProperty("data").GetProperty("description").GetProperty("value").GetString();
+
+        string frName, frDesc, status;
+        try
+        {
+            status = item.GetProperty("translations").GetProperty("fr").GetProperty("status").GetString();
+            frName = item.GetProperty("translations").GetProperty("fr").GetPropertyOrDefault("name")?.GetString();
+            frDesc = item.GetProperty("translations").GetProperty("fr").GetPropertyOrDefault("description")?.GetString();
+        }
+        catch (Exception ex)
+        {
+            WriteLine($"Impossible de lire la traduction pour l'élément {enName} : {ex}");
+            continue;
+        }
+
+        var trad = new TradDataEntry(id, groupName, frName, enName, frDesc, enDesc, status, string.Empty);
+
+        if (string.IsNullOrEmpty(trad.French))
+        {
+            WriteLine($"La donnée {trad.English} n'a pas été traduite en français et n'est donc pas disponible (ID {trad.Id})");
+            continue;
+        }
+
+        // on détermine le nom du fichier en anglais contenant les données
+        var enNameId = AsNameId(trad.English);
+
+        // on génère le nom unique en français qui sera utilisé comme nom de fichier final
+        var frNameId = AsNameId(trad.French);
+
+        // on va adapter la description française au markdown
+        var description = CleanupDescription(trad.FrenchDescription);
+
+        // ensuite on peut générer le fichier markdown final
+        var targetPath = $"../{colDir}/{frNameId}.md";
+        using (var writer = new StreamWriter(targetPath))
+        {
+            // on suppose que le layout est le nom de la collection sans le _
+            var layout = colDir.Substring(1);
+
+            WriteFileHeader(writer, trad, enFolderName, enFolderName + ".db", enNameId, layout);
+
+            if (misc != null)
+            {
+                misc(item, frJsonDoc, writer);
+            }
+
+            writer.WriteLine("---");
+            writer.WriteLine(description.Trim());
+        }
+    }
+}
+
 /// <summary>
 /// Génère les pages pour le fichiers demandés.
 /// </summary>
@@ -183,7 +275,7 @@ public static string AsNameId(string name)
         .Replace("(", string.Empty)
         .Replace(")", string.Empty)
         .Replace("!", string.Empty)
-        .TrimEnd('-')        
+        .TrimEnd('-')
         .ToLowerInvariant();
 }
 
@@ -249,6 +341,9 @@ public static string CleanupDescription(string description)
 
     // liens externes
     description = Regex.Replace(description, @"<a (?:style=""text-decoration: underline;"" )?href=""([^""]+)"">([^<]+)</a>", @"<a href=""$1"">$2</a>");
+
+    // nettoyage double retours chariots
+    description = Regex.Replace(description, @$"{Environment.NewLine}{{2,}}", Environment.NewLine + Environment.NewLine);
 
     return description;
 }
@@ -320,6 +415,16 @@ public static string AsDataFolderName(this DataGroup @this)
         case DataGroup.Condition_Items: return "etats";
         default: return @this.ToString().ToLowerInvariant().Replace("_", "-");
     }
+}
+
+public static JsonElement? GetPropertyOrDefault(this JsonElement @this, string propertyName)
+{
+    if (@this.TryGetProperty(propertyName, out var property))
+    {
+        return property;
+    }
+
+    return null;
 }
 
 public enum DataGroup
@@ -432,9 +537,9 @@ public static string ReplaceCompendiumMatch(Match match)
     {
         frName = Ids.ResolveFrenchNameId(group.Value, id);
     }
-    catch (Exception)
+    catch (Exception ex)
     {
-        WriteLine($"[WARNING] Impossible de trouver le nom français pour le lien {link} pointant vers la page {id} (groupe {group.Value})");
+        WriteLine($"[WARNING] Impossible de trouver le nom français pour le lien {link} pointant vers la page {id} (groupe {group.Value}) : {ex}");
         return text;
     }
 

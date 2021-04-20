@@ -17,8 +17,6 @@ Vous posez une question qui charme ou provoque efficacement quelqu’un. Posez u
 
 **Succès** Comme une réussite critique, mais le bonus de circonstances est de +2.
 
-**Échec** La cible peut refuser de vous répondre, comme c’est le cas normalement.
+**Échec** La cible peut refuser de vous répondre, comme c’est le cas d'ordinaire.
 
 **Échec critique** La cible peut refuser de vous répondre et son attitude envers vous diminue d’un cran parce que l’attention que vous lui portez la vexe.
-
-

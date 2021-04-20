@@ -12,5 +12,3 @@ type: action
 typeFr: Action Unique
 ---
 Vous passez 1 minute à appeler un compagnon animal différent, changeant de compagnon actif pour un autre de vos compagnons animaux de votre choix.
-
-

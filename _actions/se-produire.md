@@ -11,8 +11,7 @@ layout: actions
 type: action
 typeFr: Action Unique
 ---
-Quand vous donnez une courte représentation (une chanson, une danse rapide ou quelques histoires drôles), vous utilisez l’action Se produire. Cette action est particulièrement utile quand vous voulez prouver votre talent ou impressionner rapidement quelqu’un. Ce genre de représentations a rarement un impact en tant que tel mais elles peuvent influencer le DD de tests de Diplomatie ultérieurs vis‑à‑vis des observateurs, ou même changer leur attitude si le MJ le permet.  
-
+Quand vous donnez une courte représentation (une chanson, une danse rapide ou quelques histoires drôles), vous utilisez l’action Se produire. Cette action est particulièrement utile quand vous voulez prouver votre talent ou impressionner rapidement quelqu’un. Ce genre de représentations a rarement un impact en tant que tel mais elles peuvent influencer le DD de tests de Diplomatie ultérieurs vis‑à‑vis des observateurs ou même changer leur attitude si le MJ le permet.
 
 **Succès critique** Votre représentation impressionne les gens qui y assistent et ils parleront probablement autour d’eux de votre talent.
 
@@ -25,10 +24,9 @@ Quand vous donnez une courte représentation (une chanson, une danse rapide ou q
 ## Représentation : exemples de tâches
 
 
+
 - **Inexpérimenté** public de roturiers
 - **Qualifié** public d'artisans
 - **Expert** public de marchands ou de nobles mineurs
 - **Maître** public de nobles importants ou de membres mineurs de la famille royale
 - **Légendaire** public de membres majeurs de la famille royale ou d'entités d'outre-monde
-
-

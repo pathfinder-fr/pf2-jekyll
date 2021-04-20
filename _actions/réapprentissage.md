@@ -32,5 +32,3 @@ Vous pouvez également passer une semaine à réapprendre une compétence dans l
 ## Capacités de classe
 
 Vous pouvez modifier une capacité de classe dans le cadre de laquelle vous deviez faire un choix afin de modifier le choix que vous avez fait. Vous pouvez ainsi changer d’ordre druidique ou d’école de magie, par exemple. Le MJ vous indique alors le temps qu’il vous faut (un mois au minimum).
-
-

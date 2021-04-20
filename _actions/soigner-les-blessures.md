@@ -26,5 +26,3 @@ Le résultat de votre test de Médecine détermine le nombre de points de vie qu
 **Succès** La cible récupère [[/r 2d8]] points de vie et son état Blessé disparaît.
 
 **Échec critique** La cible subit 1d8 dégâts.
-
-

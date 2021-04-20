@@ -12,5 +12,3 @@ type: action
 typeFr: Action Unique
 ---
 Vous vous laissez tomber [À terre](../etats/à-terre.md).
-
-

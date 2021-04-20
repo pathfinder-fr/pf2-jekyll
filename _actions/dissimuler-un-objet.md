@@ -18,5 +18,3 @@ Vous pouvez également dissimuler un objet ailleurs que sur vous, dans un buisso
 **Succès** L'objet n'est pas trouvé.
 
 **Échec** La créature qui cherche trouve l'objet.
-
-

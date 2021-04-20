@@ -20,5 +20,3 @@ Une fois que vous savez qu’un objet, un site ou un effet en cours est magique,
 **Échec** Vous ne parvenez pas à identifier la magie et vous devez attendre une journée avant de faire une autre tentative.
 
 **Échec critique** Vous identifiez la magie de travers et croyez que c’est autre chose au choix du MJ.
-
-

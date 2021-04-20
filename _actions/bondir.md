@@ -16,5 +16,3 @@ Vous faites un petit saut sans prendre de risque. Vous pouvez Bondir de 3 m au m
 Si vous Bondissez verticalement, vous pouvez vous déplacer de 90 cm en hauteur et de 1,50 m en longueur pour atteindre une surface surélevée.
 
 Vous devez faire appel à la compétence Athlétisme pour sauter sur de plus grandes distances.
-
-

@@ -13,7 +13,7 @@ typeFr: Action Unique
 ---
 **Conditions** Vous êtes dans une case contenant une surface étroite, un sol inégal ou un autre élément similaire.
 
-Vous vous déplacez sur une surface étroite ou sur un sol inégal en effectuant un test d’Acrobaties contre son DD pour Garder l’équilibre. Vous êtes pris au dépourvu lorsque vous êtes sur une surface étroite ou un sol inégal.
+Vous vous déplacez sur une surface étroite ou sur un sol inégal en effectuant un test <span data-pf2-action="balance" data-pf2-glyph="A">d’Acrobaties contre son DD pour Garder l’équilibre. Vous êtes pris au dépourvu lorsque vous êtes sur une surface étroite ou un sol inégal.
 
 **Succès critique** Vous vous déplacez d’une distance maximale égale à votre Vitesse.
 
@@ -23,15 +23,13 @@ Vous vous déplacez sur une surface étroite ou sur un sol inégal en effectuant
 
 **Échec critique** Vous chutez et votre tour prend fin.
 
- 
-
 ## Garder l'équilibre : exemples de tâches
 
 
-- **Inexpérimenté** enchevêtrement de racines, pavés déchaussés  
-**Qualifié** poutre de bois
+
+- **Inexpérimenté** enchevêtrement de racines, pavés déchaussés
+
+- **Qualifié** poutre de bois
 - **Expert** épaisse couche de graviers
 - **Maître** corde tendue, surface lisse et verglacée
 - **Légendaire** lame de rasoir, des sections du sol qui s'effondrent brusquement
-
-

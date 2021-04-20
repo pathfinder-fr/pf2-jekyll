@@ -16,5 +16,3 @@ typeFr: Action Unique
 **Fréquence** une fois par heure
 
 Après inhalation du poison, vous l'expirez devant vous dans un cône de 4,5 mètres. Les créatures se trouvant dans la zone d'effet sont affectées par le poison; le DD du poison et ses effets restent inchangés.
-
-

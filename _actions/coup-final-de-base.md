@@ -11,6 +11,4 @@ layout: actions
 type: action
 typeFr: Action Unique
 ---
-Vous exécutez une attaque gracieuse et mortelle. Faites une [Frappe](frapper.md) ; si vous touchez et que votre arme permet une [Frappe précise](../class-features/frappe-précise.md), vous infligez le totalité des dégâts du d6 de Frappe précise.
-
-
+Vous exécutez une attaque gracieuse et mortelle. Faites une [Frappe](frapper.md) ; si vous touchez et que votre arme permet une [Frappe précise](../class-features/frappe-précise.md), vous infligez le totalité des dégâts du 1d6 de Frappe précise.

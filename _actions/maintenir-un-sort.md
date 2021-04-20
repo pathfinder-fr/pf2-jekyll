@@ -16,5 +16,3 @@ typeFr: Action Unique
 Choisissez un sort avec une durée maintenue que vous avez actuellement actif. La durée de ce sort se prolonge jusqu’à la fin de votre prochain tour. Certains sorts ont un effet légèrement différent ou étendu si vous les maintenez. Maintenir un sort plus de 10 minutes (100 rounds) met un terme au sort et vous fatigue, à moins que le sort ne précise une durée maximale différente (comme « maintenu jusqu’à 1 minute » ou « maintenu jusqu’à 1 heure »).
 
 Si l’action Maintenir un sort est interrompue, le sort se termine immédiatement.
-
-

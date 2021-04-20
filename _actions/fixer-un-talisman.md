@@ -14,5 +14,3 @@ typeFr: Passive
 **Conditions** Vous devez utiliser un [Kit de réparation](../equipment/kit-de-réparation.md)
 
 Vous passez 10 minutes à fixer le talisman sur un objet installé sur une surface stable, en utilisant le kit de réparation avec vos deux mains. Vous pouvez utiliser cette activité pour retirer le talisman. Si plusieurs talismans sont fixés sur le même objet, ils se suppriment mutuellement et aucun ne peut s’activer.
-
-

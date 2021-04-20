@@ -17,6 +17,4 @@ Vous passez 1 minute à examiner les détails d’un indice potentiel en désign
 
 Chaque fois que vous tentez un test de Perception ou un test de compétence pour enquêter sur le sujet désigné, vous gagnez un bonus de circonstances de +1 à ce test. Les tests auxquels cet avantage s’applique dépendent des actions que vous utilisez pour mener l’enquête et sont déterminés par le MJ, mais il s’agit généralement de tests de Perception ou de tests de compétence utilisant l’Intelligence, la Sagesse ou le Charisme.
 
-Vous pouvez maintenir deux enquêtes actives en même temps. Si vous Suivez une autre piste alors que vous avez déjà deux enquêtes ouvertes, le sujet doit être différent de ces deux enquêtes (ou, plutôt, vous devriez penser qu’il est différent) et vous devez abandonner un des deux autres sujets, à votre choix. Une fois que vous avez abandonné une enquête, vous ne pouvez plus Suivre cette piste à nouveau avant vos prochais préparatifs quotidiens.
-
-
+Vous pouvez maintenir deux enquêtes actives en même temps. Si vous Suivez une autre piste alors que vous avez déjà deux enquêtes ouvertes, le sujet doit être différent de ces deux enquêtes (ou, plutôt, vous devriez penser qu’il est différent) et vous devez abandonner un des deux autres sujets, à votre choix. Une fois que vous avez abandonné une enquête, vous ne pouvez plus Suivre cette piste à nouveau avant vos prochains préparatifs quotidiens.

@@ -14,5 +14,3 @@ typeFr: Action Unique
 **Coût** 1 Point de Résolution
 
 Vous regagnez des Points d'Endurance égaux à la moitié de votre maximum.
-
-

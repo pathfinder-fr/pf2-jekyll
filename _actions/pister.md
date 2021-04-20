@@ -24,10 +24,9 @@ Vous faites un test de Survie quand vous commencez à Pister, une fois par heure
 ## Pister : exemples de tâches
 
 
+
 - **Inexpérimenté** les traces laissées par une grande armée sur une route
 - **Qualifié** les traces relativement fraîches d’un ours déchaîné qui a traversé les plaines
 - **Expert** les traces d’une panthère leste à travers la jungle ou des traces après une averse
 - **Maître** des traces après les neiges hivernales, les traces d’une souris ou d’une créature plus petite ou des traces laissées sur des surfaces sur lesquelles on ne peut normalement pas trouver d’empreintes, comme de la roche nue
 - **Légendaire** d’anciennes traces à travers les sables d’un désert balayé par le vent, des traces après un blizzard ou un ouragan violent
-
-

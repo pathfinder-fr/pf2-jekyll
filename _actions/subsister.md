@@ -11,7 +11,7 @@ layout: actions
 type: passive
 typeFr: Passive
 ---
-Vous tentez d’obtenir de la nourriture et un abri pour vous et potentiellement aussi pour d’autres, selon un niveau de vie décrit en page 294. Le MJ détermine le DD en fonction de la nature de l’endroit où vous tentez de Subsister. Un rang de maîtrise minimum peut être nécessaire pour Subsister dans des environnements particulièrement étranges. Au contraire de la plupart des activités d’intermède, vous pouvez Subsister après huit heures ou moins d’exploration mais vous subissez dans ce cas un malus de −5.
+Vous tentez d’obtenir de la nourriture et un abri pour vous et potentiellement aussi pour d’autres, selon un certain niveau de vie. Le MJ détermine le DD en fonction de la nature de l’endroit où vous tentez de Subsister. Un rang de maîtrise minimum peut être nécessaire pour Subsister dans des environnements particulièrement étranges. Au contraire de la plupart des activités d’intermède, vous pouvez Subsister après huit heures ou moins d’exploration mais vous subissez dans ce cas un malus de −5.
 
 **Succès critique** Vous fournissez de quoi vivre à vous‑même et à une créature supplémentaire, ou vous améliorez votre nourriture et votre abri pour vivre de manière confortable.
 
@@ -24,10 +24,9 @@ Vous tentez d’obtenir de la nourriture et un abri pour vous et potentiellement
 ## Subsister : exemples de tâches
 
 
+
 - **Inexpérimenté** forêt luxuriante par temps calme ou grande cité où les ressources abondent
 - **Qualifié** village ou flanc de coteau typique
 - **Expert** hameau isolé ou montagnes typiques
 - **Maître** cité assiégée ou désert typique
 - **Légendaire** cité de morts-vivants ou désolation stérile
-
-

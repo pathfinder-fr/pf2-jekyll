@@ -22,5 +22,3 @@ Le résultat de votre test de Vol détermine les progrès de votre tentative.
 **Succès** Vous désamorcez le dispositif ou vous obtenez un succès pour réussir à désamorcer un dispositif complexe.
 
 **Échec critique** Vous déclenchez le dispositif.
-
-

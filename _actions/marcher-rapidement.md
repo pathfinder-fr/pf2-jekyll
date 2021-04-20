@@ -12,5 +12,3 @@ type: action
 typeFr: Action Unique
 ---
 Vous vous déplacez d'une distance maximale égale à votre Vitesse.
-
-

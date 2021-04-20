@@ -20,5 +20,3 @@ Vous pouvez identifier la nature d’un objet alchimique en l’analysant pendan
 **Échec** Vous ne parvenez pas à identifier l'objet mais vous pouvez recommencer.
 
 **Échec critique** Vous identifiez l'objet de travers et le prenez pour un autre objet au choix du MJ.
-
-

@@ -16,5 +16,3 @@ Quand vous tentez d’Escamoter un petit objet que personne ne porte sans vous f
 **Succès** la créature ne voit pas que vous Escamotez l'objet.
 
 **Échec** la créature voit que vous Escamotez l'objet et le MJ détermine sa réaction.
-
-

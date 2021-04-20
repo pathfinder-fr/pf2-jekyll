@@ -24,5 +24,3 @@ Quand vous utilisez la réaction Aider, faites un test de compétence ou un jet 
 **Succès** Vous permettez à votre allié de bénéficier d’un bonus de circonstances de +1 au test déclencheur.
 
 **Échec critique** Votre allié subit un malus de circonstances de -1 au test déclencheur.
-
-

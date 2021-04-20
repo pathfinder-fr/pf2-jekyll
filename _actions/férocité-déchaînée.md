@@ -11,10 +11,6 @@ layout: actions
 type: free
 typeFr: Action Gratuite
 ---
-**Prérequis** [Férocité orque](../dons/férocité-orque.md)
-
 **Déclencheur** Vous utilisez [Férocité orque](../dons/férocité-orque.md).
 
 Vous vous déchaînez même as lorsque vous repoussez la mort. Faites une unique [Frappe](frapper.md) au corps-à-corps. Si cette Frappe amène votre adversaire à 0 Points de vie, cette activation de Férocité orque n'est pas décomptée de sa fréquence.
-
-

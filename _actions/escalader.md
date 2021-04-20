@@ -13,15 +13,16 @@ typeFr: Action Unique
 ---
 **Conditions** Vos deux mains sont libres.
 
-Vous montez, descendez ou parcourez une déclivité. Vous devez effectuer un test d’Athlétisme, sauf si l’action est particulièrement facile. Le MJ détermine le DD en fonction de la nature de la déclivité et des circonstances environnementales. Vous êtes [pris au dépourvu](../etats/pris-au-dépourvu.md), sauf si vous avez une Vitesse d’escalade.
+Vous montez, descendez ou parcourez une déclivité. Vous devez effectuer un test d’<span data-pf2-action="climb" data-pf2-glyph="A">Athlétisme, sauf si l’action est particulièrement facile. Le MJ détermine le DD en fonction de la nature de la déclivité et des circonstances environnementales. Vous êtes [Pris au dépourvu](../etats/pris-au-dépourvu.md), sauf si vous avez une Vitesse d’escalade.
 
 **Succès critique** Vous montez, parcourez ou descendez la déclivité sans problème. La distance parcourue est égale à 1,50 m plus 1,50 m par tranche de 6 m de votre Vitesse au sol (ce qui donne un total de 3 m pour la plupart des PJ).
 
 **Succès** Vous montez, parcourez ou descendez la déclivité sans problème. La distance parcourue est égale à 1,50 m par tranche de 6 m de votre Vitesse au sol (ce qui donne un total de 1,50 m pour la plupart des PJ, avec un minimum de 1,50 m si votre Vitesse est inférieure à 6 m).
 
-**Échec critique** Vous chutez. Si vous avez commencé votre escalade sur un sol stable, vous tombez [à terre](../etats/à-terre.md).
+**Échec critique** Vous chutez. Si vous avez commencé votre escalade sur un sol stable, vous tombez [À terre](../etats/à-terre.md).
 
 <h2>**Escalader : exemples de tâches
+
 
 
 - **Inexpérimenté** échelle, pente abrupte, arbre aux branches basses
@@ -29,5 +30,3 @@ Vous montez, descendez ou parcourez une déclivité. Vous devez effectuer un tes
 - **Expert** mur avec des petites prises pour les pieds et les mains
 - **Maître** plafond avec des prises pour les pieds et les mains, mur de roche
 - **Légendaire** surface lisse
-
-

@@ -22,5 +22,3 @@ Un observateur qui n’a rien remarqué en observant un document de manière pas
 **Succès** L’observateur ne détecte pas la contrefaçon.
 
 **Échec** L’observateur sait que votre document est une contrefaçon.
-
-

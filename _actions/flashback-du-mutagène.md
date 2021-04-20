@@ -14,5 +14,3 @@ typeFr: Action Gratuite
 **Fréquence** une fois par jour
 
 Vous bénéficiez d’une brève résurgence d’un mutagène. Choisissez‑en un que vous avez consommé depuis vos derniers préparatifs quotidiens. Vous profitez de ses effets pendant 1 minute.
-
-

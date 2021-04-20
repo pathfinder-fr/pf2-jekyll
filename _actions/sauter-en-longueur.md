@@ -11,7 +11,7 @@ layout: actions
 type: action
 typeFr: Action Unique
 ---
-Vous Marchez rapidement, puis vous Bondissez à l’horizontale et effectuez un test d’Athlétisme pour augmenter la longueur de votre saut. Pour déterminer le DD du test d’Athlétisme, on divise la distance totale en centimètres par 30 cm si vous tentez de vous déplacer pendant votre Bond (il vous faudra donc réussir un test DD 20 pour faire un Bond en longueur de 6 m). La longueur de votre Bond ne peut pas dépasser votre Vitesse.
+Vous Marchez rapidement, puis vous Bondissez à l’horizontale et effectuez un test <span data-pf2-action="longJump" data-pf2-glyph="D">d’Athlétisme pour augmenter la longueur de votre saut. Pour déterminer le DD du test d’Athlétisme, on divise la distance totale en centimètres par 30 cm si vous tentez de vous déplacer pendant votre Bond (il vous faudra donc réussir un test DD 20 pour faire un Bond en longueur de 6 m). La longueur de votre Bond ne peut pas dépasser votre Vitesse.
 
 Si vous ne prenez pas un élan d’au moins 3 m avec l’action Marcher rapidement, ou si vous tentez de sauter dans une direction différente de celle de votre Marche rapide, vous ratez automatiquement votre test. Le MJ peut augmenter ou diminuer ce DD en fonction des situations.
 
@@ -20,5 +20,3 @@ Si vous ne prenez pas un élan d’au moins 3 m avec l’action Marcher rapideme
 **Échec** Vous bondissez normalement.
 
 **Échec critique** Vous bondissez normalement, puis tombez [À terre](../etats/à-terre.md).
-
-

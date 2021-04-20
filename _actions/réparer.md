@@ -20,5 +20,3 @@ Vous passez dix minutes à tenter de réparer un objet endommagé, en le plaçan
 **Succès** L’objet réparé récupère 5 points de vie, et 5 points de vie supplémentaires par rang de maîtrise que vous avez en Artisanat (pour un total de 10 PV si vous êtes qualifié, 15 PV si vous êtes un expert, 20 PV si vous êtes un maître ou 25 PV si vous êtes légendaire).
 
 **Échec critique** Vous infligez 2d6 dégâts à l’objet. Appliquez la Solidité de l’objet à ces dégâts.
-
-

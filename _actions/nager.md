@@ -11,7 +11,7 @@ layout: actions
 type: action
 typeFr: Action Unique
 ---
-Vous vous déplacez dans l’eau. Dans des eaux calmes, vous réussissez la plupart du temps l’action sans avoir à faire de test. Si vous respirez de l’air et que vous êtes immergé dans l’eau, vous devez retenir votre souffle chaque round. Si vous ne parvenez pas à retenir votre souffle, vous commencez à vous noyer. Si l’eau dans laquelle vous nagez est agitée ou dangereuse d’une façon ou d’une autre, il se peut que vous ayez à faire un test d’Athlétisme pour Nager.
+Vous vous déplacez dans l’eau. Dans des eaux calmes, vous réussissez la plupart du temps l’action sans avoir à faire de test. Si vous respirez de l’air et que vous êtes immergé dans l’eau, vous devez retenir votre souffle chaque round. Si vous ne parvenez pas à retenir votre souffle, vous commencez à vous noyer. Si l’eau dans laquelle vous nagez est agitée ou dangereuse d’une façon ou d’une autre, il se peut que vous ayez à faire un test <span data-pf2-action="swim" data-pf2-glyph="A">d’Athlétisme pour Nager.
 
 Si vous terminez votre tour dans l’eau et que vous n’avez pas réussi une action Nager lors de ce tour, vous coulez de 3 m ou vous êtes emporté par le courant, au choix du MJ. Toutefois, si votre dernière action lors de votre tour consistait à entrer dans l’eau, vous ne coulez pas et n’êtes pas emporté par le courant lors de ce tour.
 
@@ -24,10 +24,9 @@ Si vous terminez votre tour dans l’eau et que vous n’avez pas réussi une ac
 <h2>Nager : exemples de tâches
 
 
+
 - **Inexpérimenté**lac ou autre étendue d'eau immobile
 - **Qualifié** eau vive, telle que celle d'une rivière
 - **Expert** rivière au débit rapide
 - **Maître** mer démontée
 - **Légendaire** maelström, chute d'eau
-
-

@@ -15,11 +15,10 @@ typeFr: Action Gratuite
 
 La cible fait un jet de Vigueur contre votre DD de classe. Elle devient temporairement immunisée à votre Frappe de maître pour 1 journée.
 
-**Succès critique** La cible n'est pas affectée.  
+**Succès critique** La cible n'est pas affectée.
+
 **Succès** La cible est [Affaiblie](../etats/affaibli.md) 2 jusqu'à la fin de votre prochain tour.
 
-**Échec** La cible est paralysée pendant 4 rounds.
+**Échec** La cible est [Paralysée](../etats/paralysé.md) pendant 4 rounds.
 
-**Échec critique** La cible est [Paralysée](../etats/paralysé.md) pendant 4 rounds, se trouve dans l'état [inconscient](../etats/inconscient.md) pendant 2 heures ou est tuée (à vous de décider).
-
-
+**Échec critique** La cible est Paralysée pendant 4 rounds, se trouve dans l'état [Inconscient](../etats/inconscient.md) pendant 2 heures ou est tuée (à vous de décider).

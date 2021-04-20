@@ -12,5 +12,3 @@ type: action
 typeFr: Action Unique
 ---
 Vous étiez [À terre](../etats/à-terre.md) et vous Vous relevez.
-
-

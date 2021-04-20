@@ -15,6 +15,4 @@ typeFr: Réaction
 
 Votre égoïsme vous garde sauf. Vous obtenez une résistance contre les dégâts déclencheurs égaux à 2 + la moitié de votre niveau, quel que soit le type de dégâts.
 
-De plus, vos [Frappes](frapper.md) contre la créature qui déclenche la réaction infligent <a class="inline-roll roll" title="1" data-mode="roll" data-flavor="" data-formula="1"> 1</a> dégât supplémentaire jusqu'à la fin de votre prochain tour. Vous choisissez si les dégâts supplémentaires sont de type mauvais ou négatifs  à chaque fois que vous utilisez cette réaction. Ces dégâts supplémentaires passent à 2 au niveau 9 et à 3 au niveau 16.
-
-
+De plus, vos [Frappes](frapper.md) contre la créature qui déclenche la réaction infligent 1 point de dégât supplémentaire jusqu'à la fin de votre prochain tour. Vous choisissez si les dégâts supplémentaires sont de type mauvais ou négatifs  à chaque fois que vous utilisez cette réaction. Ces dégâts supplémentaires passent à 2 au niveau 9 et à 3 au niveau 16.

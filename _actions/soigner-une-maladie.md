@@ -11,7 +11,7 @@ layout: actions
 type: passive
 typeFr: Passive
 ---
-**Conditions** Vous maniez ou transportez des [instruments de guérisseur](../equipment/outils-de-guérisseur.md)] 
+**Conditions** Vous maniez ou transportez des [instruments de guérisseur](../equipment/outils-de-guérisseur.md)
 
 Vous passez au moins huit heures à prendre soin d’une créature malade. Faites un test de Médecine contre le DD de la maladie. Après avoir tenté de soigner une créature malade, vous ne pouvez pas faire d’autres tentatives tant que la créature n’a pas encore fait son prochain jet de sauvegarde contre la maladie.
 
@@ -20,5 +20,3 @@ Vous passez au moins huit heures à prendre soin d’une créature malade. Faite
 **Succès** Vous conférez un bonus de circonstances de +2 à son prochain jet de sauvegarde contre la maladie.
 
 **Échec critique** Vos efforts imposent un malus de circonstances de −2 à son prochain jet de sauvegarde contre la maladie.
-
-

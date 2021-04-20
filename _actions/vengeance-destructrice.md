@@ -11,10 +11,10 @@ layout: actions
 type: reaction
 typeFr: Réaction
 ---
-**déclencheur **Un enemy dans les 4,5 m vous fait subir des dégâts.
+**déclencheur **Un ennemi dans les 4,5 m vous fait subir des dégâts.
 
-Le sang appelle le sang lorsque vous menez votre ennemi à son anéantissement. Vous augmentez le montant des dégpâts que vous subissez de 1d6 et vous infliger 1d6 dégâts à l'énnemi déclencheur, en choisissant entre mal ou négatif avant de les infliger à chaque fois que vous utilisez cette réaction. De plus, jusqu'à la fin de votre prochain tour, vos [Frappes](frapper.md) contre la créature déclencheuse infligent 2 dégâts supplémentaires du type que vous avez choisi.
+Le sang appelle le sang lorsque vous menez votre ennemi à son anéantissement. Vous augmentez le montant des dégâts que vous subissez de 1d6 et vous infligez 1d6 dégâts à l'énnemi déclencheur, en choisissant entre mal ou négatif avant de les infliger à chaque fois que vous utilisez cette réaction. De plus, jusqu'à la fin de votre prochain tour, vos [Frappes](frapper.md) contre la créature déclencheuse infligent 2 dégâts supplémentaires du type que vous avez choisi.
 
-Les dégâts que vous subissez et que vous infligez lorsque vous utilisez cette réaction passent à <a class="inline-roll roll" title="2d6" data-mode="roll" data-flavor="" data-formula="2d6"> 2d6</a> au niveau 5, <a class="inline-roll roll" title="3d6" data-mode="roll" data-flavor="" data-formula="3d6"> 3d6</a> au niveau 9, <a class="inline-roll roll" title="4d6" data-mode="roll" data-flavor="" data-formula="4d6"> 4d6</a> au niveau 12, <a class="inline-roll roll" title="5d6" data-mode="roll" data-flavor="" data-formula="5d6"> 5d6</a> au niveau 16 et <a class="inline-roll roll" title="6d6" data-mode="roll" data-flavor="" data-formula="6d6"> 6d6</a> au niveau 19. Les dégâts supplémentaires de vos Frappes passent à <a class="inline-roll roll" title="4" data-mode="roll" data-flavor="" data-formula="4"> 4</a> au niveau 9 et à <a class="inline-roll roll" title="6" data-mode="roll" data-flavor="" data-formula="6"> 6</a> au niveau 16.
+Les dégâts que vous subissez et que vous infligez lorsque vous utilisez cette réaction passent à 2d6 au niveau 5, 3d6 au niveau 9, 4d6 au niveau 12, 5d6 au niveau 16 et 6d6 au niveau 19.
 
-
+Les dégâts supplémentaires de vos Frappes passent à 4 au niveau 9 et à 6 au niveau 16.
