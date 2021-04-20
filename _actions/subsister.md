@@ -23,8 +23,6 @@ Vous tentez d’obtenir de la nourriture et un abri pour vous et potentiellement
 
 ## Subsister : exemples de tâches
 
-
-
 - **Inexpérimenté** forêt luxuriante par temps calme ou grande cité où les ressources abondent
 - **Qualifié** village ou flanc de coteau typique
 - **Expert** hameau isolé ou montagnes typiques

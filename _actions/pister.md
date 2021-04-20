@@ -23,8 +23,6 @@ Vous faites un test de Survie quand vous commencez à Pister, une fois par heure
 
 ## Pister : exemples de tâches
 
-
-
 - **Inexpérimenté** les traces laissées par une grande armée sur une route
 - **Qualifié** les traces relativement fraîches d’un ours déchaîné qui a traversé les plaines
 - **Expert** les traces d’une panthère leste à travers la jungle ou des traces après une averse

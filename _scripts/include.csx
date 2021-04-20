@@ -274,6 +274,8 @@ public static string AsNameId(string name)
         .Replace('\\', '-')
         .Replace("(", string.Empty)
         .Replace(")", string.Empty)
+        .Replace("[", string.Empty)
+        .Replace("]", string.Empty)
         .Replace("!", string.Empty)
         .TrimEnd('-')
         .ToLowerInvariant();
@@ -289,6 +291,9 @@ public static string FirstCharUpper(string name)
 
 public static string CleanupDescription(string description)
 {
+    // passages en retours chariots windows
+    description = Regex.Replace(description, @"\n", Environment.NewLine);
+
     // paragraphes <p>
     description = Regex.Replace(description, @"<p>", string.Empty);
     description = Regex.Replace(description, @"</p>", Environment.NewLine);
@@ -326,6 +331,9 @@ public static string CleanupDescription(string description)
     description = Regex.Replace(description, @"<h1 class=""title"">", "# ");
     description = Regex.Replace(description, @"<h2 class=""title"">", "## ");
     description = Regex.Replace(description, @"<h3 class=""title"">", "### ");
+    description = Regex.Replace(description, @"<h1>", "# ");
+    description = Regex.Replace(description, @"<h2>", "## ");
+    description = Regex.Replace(description, @"<h3>", "### ");
     description = Regex.Replace(description, @"</h\d>", Environment.NewLine);
 
     // liens compendium
@@ -343,7 +351,8 @@ public static string CleanupDescription(string description)
     description = Regex.Replace(description, @"<a (?:style=""text-decoration: underline;"" )?href=""([^""]+)"">([^<]+)</a>", @"<a href=""$1"">$2</a>");
 
     // nettoyage double retours chariots
-    description = Regex.Replace(description, @$"{Environment.NewLine}{{2,}}", Environment.NewLine + Environment.NewLine);
+    description = Regex.Replace(description, @"(\r\n){3,}", "\r\n\r\n");
+    //description = Regex.Replace(description, @"\n{2,}", "\n");
 
     return description;
 }

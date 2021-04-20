@@ -19,8 +19,6 @@ Vous fréquentez les marchés, les tavernes et les lieux de rassemblements locau
 
 ## Recueillir des informations : exemples de tâches
 
-
-
 - **Inexpérimenté** ce dont tout le monde parle au village
 - **Qualifié** rumeur connue
 - **Expert** rumeur obscure, secret éventé

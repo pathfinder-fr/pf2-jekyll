@@ -25,8 +25,6 @@ Le MJ détermine le DD en prenant en compte l’état du document et la complexi
 
 ## Déchiffrer un texte : exemples de tâches
 
-
-
 - **Qualifié** traité décrivant les notions de base d'une philosophie
 - **Expert** code complexe de type code secret
 - **Maître** code de maître-espion ou notes de recherche élaborées

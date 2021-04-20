@@ -21,9 +21,7 @@ Si vous terminez votre tour dans l’eau et que vous n’avez pas réussi une ac
 
 **Échec critique** Vous ne progressez pas et si vous retenez votre souffle, vous perdez un round d’air.
 
-<h2>Nager : exemples de tâches
-
-
+## Nager : exemples de tâches
 
 - **Inexpérimenté**lac ou autre étendue d'eau immobile
 - **Qualifié** eau vive, telle que celle d'une rivière

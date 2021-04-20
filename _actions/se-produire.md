@@ -23,8 +23,6 @@ Quand vous donnez une courte représentation (une chanson, une danse rapide ou q
 
 ## Représentation : exemples de tâches
 
-
-
 - **Inexpérimenté** public de roturiers
 - **Qualifié** public d'artisans
 - **Expert** public de marchands ou de nobles mineurs

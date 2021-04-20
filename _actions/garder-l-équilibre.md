@@ -25,8 +25,6 @@ Vous vous déplacez sur une surface étroite ou sur un sol inégal en effectuant
 
 ## Garder l'équilibre : exemples de tâches
 
-
-
 - **Inexpérimenté** enchevêtrement de racines, pavés déchaussés
 
 - **Qualifié** poutre de bois

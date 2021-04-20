@@ -19,9 +19,7 @@ En utilisant votre masse corporelle, un levier ou un autre outil, vous tentez de
 
 **Échec critique** Votre tentative bloque la porte, la fenêtre, le contenant ou la grille, imposant un malus de circonstances de −2 aux tentatives ultérieures pour l’Ouvrir de force.
 
-<h2>Ouvrir de force : exemples de tâches**
-
-
+## Ouvrir de force : exemples de tâches**
 
 - **Inexpérimenté**tissu, verre fin
 - **Qualifié**glace, verre épais

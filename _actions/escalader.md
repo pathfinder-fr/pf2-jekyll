@@ -21,9 +21,7 @@ Vous montez, descendez ou parcourez une déclivité. Vous devez effectuer un tes
 
 **Échec critique** Vous chutez. Si vous avez commencé votre escalade sur un sol stable, vous tombez [À terre](../etats/à-terre.md).
 
-<h2>**Escalader : exemples de tâches
-
-
+## **Escalader : exemples de tâches
 
 - **Inexpérimenté** échelle, pente abrupte, arbre aux branches basses
 - **Qualifié** gréement, corde, arbre typique

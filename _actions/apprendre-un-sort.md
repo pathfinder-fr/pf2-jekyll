@@ -17,16 +17,13 @@ Vous pouvez apprendre un nouveau sort de votre tradition auprès de quelqu’un 
 
 Pour apprendre le sort, vous devez faire ce qui suit :
 
-
-
 - Passer une heure par niveau du sort en conversation avec une personne qui connaît le sort ou en possession du manuscrit magique sur lequel il est inscrit.
 - Posséder les matériaux dont le prix est indiqué dans le tableau ci-après.
 - Effectuer un test de la compétence correspondant à votre tradition (le DD est déterminé par le MJ, celui‑ci étant souvent proche du DD indiqué dans le tableau). Le DD des sorts peu courants ou rares sont plus élevés.
 
-
 Si vous avez un grimoire, Apprendre un sort vous permet d’ajouter le sort dans votre grimoire ; si vous préparez les sorts issus d’une liste, le sort appris est ajouté à votre liste ; si vous avez un répertoire de sorts, vous pouvez le sélectionner quand vous ajoutez ou remplacez des sorts.
 
-<h2>Table : Apprendre un sort
+## Table : Apprendre un sort
 
 <table class="pf2-table">
 <thead>
@@ -89,7 +86,6 @@ Si vous avez un grimoire, Apprendre un sort vous permet d’ajouter le sort dans
 </tr>
 </tbody>
 </table>
-
 **Succès critique** Vous dépensez la moitié des matériaux et apprenez le sort.
 
 **Succès** Vous dépensez les matériaux et apprenez le sort.

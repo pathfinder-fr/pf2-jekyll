@@ -23,8 +23,6 @@ Vous tentez une manœuvre difficile en volant. Effectuez un test d'<span data-pf
 
 ## Manœuvrer en vol : exemples de tâches
 
-
-
 - **Qualifié** ascension ou descente brusque
 - **Expert** voler contre le vent, voler sur place
 - **Maître** se retourner dans la direction opposée

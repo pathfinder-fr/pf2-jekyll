@@ -19,12 +19,9 @@ Certains sorts se lancent par réaction ou par une action gratuite. Dans ce cas,
 
 **Composant de sort** Chaque entrée de sort précise la liste des composants nécessaires pour le lancer après l’icône ou le texte d’action : "[trois actions] matériel, somatique, verbal." Les composants de sort, décrits en détail plus loin, ajoutent des traits et des conditions à l’activité Lancer un sort. Si vous êtes dans l’incapacité de fournir les composants, vous ne parvenez pas à Lancer le sort.
 
-
-
 - Matériel (manipulation)
 - Somatique (manipulation)
 - Verbal (concentration)
 - Focaliseur (manipulation)
-
 
 **Sorts interrompus et perdus** Certains sorts et pouvoirs permettent d’interrompre un sort, qui est alors perdu et n’a aucun effet. Quand vous perdez un sort, vous avez déjà dépensé son emplacement de sort, son coût et ses actions et déjà utilisé l’activité Lancer un sort. Si un sort est interrompu lors de l’action [Maintenir un sort](maintenir-un-sort.md), alors ce sort se termine de suite.

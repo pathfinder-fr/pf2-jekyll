@@ -33,7 +33,7 @@ Quand vous acceptez un travail, le MJ détermine en secret le DD de votre test d
 
 Vous pouvez continuer à travailler sur la tâche lors des jours suivants sans avoir à faire d’autres jets. Pour chaque jour que vous passez à travailler après le premier, vous gagnez la même somme d’argent que lors du premier jour, et ce, jusqu’à ce que la tâche soit entièrement accomplie. Le MJ détermine la durée du travail pour terminer une tâche.
 
-<h2>Table : Argent gagné
+## Table : Argent gagné
 
 <table class="pf2-table">
 <thead>
@@ -237,13 +237,10 @@ Vous pouvez continuer à travailler sur la tâche lors des jours suivants sans a
 
 Ces exemples utilisent Connaissance des alcools pour travailler dans un bar ou Connaissance juridique pour accomplir un travail de juriste.
 
-
-
 - **Qualifié** tenir le bar, accomplir des recherches juridiques
 - **Expert** établir la carte des boissons, présenter des cas mineurs au tribunal
 - **Maître** gérer une grande brasserie, présenter des cas importants au tribunal
 - **Légendaire** gérer une franchise de fabrication de bière internationale, présenter un cas au tribunal des Enfers
-
 
 ## Fabriquer des produits destinés à la vente - Artisanat
 

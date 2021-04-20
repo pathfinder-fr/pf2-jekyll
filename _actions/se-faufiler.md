@@ -21,7 +21,5 @@ Vous vous contorsionnez pour vous faufiler dans un espace si étroit que vous po
 
 ## Se faufiler : exemples de tâches
 
-
-
 - **Qualifié** un espace tout juste assez large pour y passer vos épaules
 - **Maître** un espace tout juste assez large pour y passer votre tête
