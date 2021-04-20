@@ -18,27 +18,7 @@ title: Bienvenue
 # Les ascendances et les historiques
 - [Ascendances et historiques](ascendances-et-historiques/ascendances-et-historiques.md)
   - les [ascendances](ascendances-et-historiques/ascendances.md)
-    - [Liste des ascendances](ascendances-et-historiques/liste-des-ascendances.md) Il s'agirait d'une page re regroupement en les affichant par ordre alphabétique avec une couleur ou une indication en fonction de la rareté.
-    - générer automatiquement les pages des ascendances *à partir de la structure des pages du compendium des ascendances de Foundry* issues de la ancestries.db :
-      - descriptionFr en html en français permet l'affichage central
-      - extraire les champs existants utiles qui sont en anglais pour constituer la colonne de droite de la page : 
-        - additionalLanguages donne les langues parlées accessibles à la race
-        - boosts 0 et 1, donnent les primes de caractéristiques de la race
-        - flaws value, donne la pénalité de caractéristiques de la race
-        - hp, donne les PV de l'ascendance au niveau 1
-        - items name : 
-          - 0898m donne une id correspondant à la vision en anglais (vision dans le noir, vision nocturne)
-          - fvpio , donne une particularité raciale (dans la ancestryfeatures.db avec son id qui permet d'aller la chercher pour l'affichage avec le nom et la description)
-          - ouwoo (id et name), donne une particularité raciale (dans la ancestryfeatures.db avec son id qui permet d'aller la chercher pour l'affichage avec le nom et la description) 
-        - languages donne les langues parlées d'office par l'ascendance
-        - size donne la taille
-        - speed donne la vitesse mais en pieds à convertir en m en multipliant par 1,5 et en ajoutant m
-        - traits rarity value donne la rareté permettant de colorer le titre de la page en css à l'affichage ou d'ajouter une mention ?
-        - traits value donne les traits de l'ascendance en anglais
-      - en affichant sur la page la liste des héritages correspondant à chaque ascendance : issues de la db **ancestryfeatures** Pour le tri (aller récupérer `"featType": {"value": "heritage"}, puis le bon trait correspondant à la race "traits": {value": elf})`, afficher par ordre alphabétique en indiquant : le nom en français, le nom en anglais et la description
-
-    - Idéalement, générer à part une page des dons de chaque ascendance en extrayant les dons ayant une valeur ancestry dans la feats.db, le nom de l'ascendance `"traits": {value": elf})` puis afficher en triant par niveau puis ordre alphabétique en affichant : nom du don en fr, type d'action, niveau puis en dessous le nom anglais puis les prérequis, puis la descriptionFr. 
-    - Pour certaines ascendances (demi-orc, demi-elfe), les pages n'existent pas dans le compendium Foundry en tant que telles et elles permettent d'obtenir les dons des deux ascendances mêlées ex elfe et humain. Voir ce qui peut être réalisé ou créé mais en option
+    - [Liste des ascendances](ascendances-et-historiques/liste-des-ascendances.md) 
   - les [Historiques](ascendances-et-historiques/historiques.md)
     - [Liste des historiques](ascendances-et-historiques/historiques.md) *contient une liste des historiques à générer à partir du compendium des historiques de Foundry :  
       - deux propositions de présentation : 
