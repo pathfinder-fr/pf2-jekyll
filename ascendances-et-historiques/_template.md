@@ -44,12 +44,13 @@ champ `flaws` du json de l'ancestry. Elles sont en anglais et sous forme d'abbr�
 
 **langues** languages donne les langues parlées d'office par l'ascendance
 
-*Langues supplémentaires* champ additionallanguages du json. Elles sont en anglais et peuvent être traduites à partir de Languagenomdelaraceanglaise donne une value dans le fr.system  
+*Langues supplémentaires* champ `additionallanguages` du json. Elles sont en anglais et peuvent être traduites à partir de Languagenomdelaraceanglaise pour récupérer la valeur dans le fr.json  
 
 **traits**
-trait value donne les traits de l'ascendance en anglais
+trait value donne les traits de l'ascendance en anglais à traduire avant affichage 
 
-// viennent ensuite les capacités de l'ascendance et renvoie à l'id d'une particularité qui se trouve dans la ancestryfeatures.db et qui permet d'aller la chercher pour l'afficher
+
+// viennent ensuite les capacités de l'ascendance. et renvoie à l'id d'une particularité qui se trouve dans la ancestryfeatures.db et qui permet d'aller la chercher pour l'afficher
 champ `items name = 0898m` donne une id qui correspond à la vision en anglais (vision dans le noir, vision nocturne)
 champ `fvpio` donne une id qui correspond à une capacité raciale qui se trouve dans la ancestryfeatures.db
 champ `ouwoo` donne une particularité raciale (dans la ancestryfeatures.db avec son id qui permet d'aller la chercher pour l'affichage avec le nom et la description) 
