@@ -7,3 +7,6 @@
 [submodule "_ext/module-en"]
 	path = _ext/module-en
 	url = https://gitlab.com/hooking/foundry-vtt---pathfinder-2e.git
+[submodule "_ext/data-fr"]
+	path = _ext/data-fr
+	url = https://gitlab.com/pathfinder-fr/pf2-data-fr.git
