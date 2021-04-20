@@ -6,9 +6,6 @@ titleEn: Blessed Sacrifice
 id: NrCloSukzSUCprsM
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/NrCloSukzSUCprsM.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/blessed-sacrifice.json
-group: feats
 layout: dons
 ---
-Vous obtenez le sort de domaine [Sacrifice du protecteur](../spells/sacrifice-du-protecteur.md) comme sort de dévotion. Augmentez le nombre de Points de Focalisation de votre réserve de focalisation de 1.
-
-
+Vous obtenez le sort de domaine [Sacrifice du protecteur](../sorts/sacrifice-du-protecteur.md) comme sort de dévotion. Augmentez le nombre de Points de Focalisation de votre réserve de focalisation de 1.

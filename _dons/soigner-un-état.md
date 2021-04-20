@@ -6,7 +6,6 @@ titleEn: Treat Condition
 id: rfnEcjxIFqwlJwJT
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/rfnEcjxIFqwlJwJT.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/treat-condition.json
-group: feats
 layout: dons
 ---
 **Conditions** Vous transportez des outils de guérisseur ou vous les portez et disposez d'une main libre.
@@ -17,12 +16,10 @@ tentez un test de contre contre cet état, en utilisant votre modificateur de M�
 
 Vous ne pouvez soigner un état qui provient d'un artefact ou d'un effet au delà du niveau 20 à moins que vous ne soyez [Infirmier légendaire](infirmier-légendaire.md) ; même dans ce cas, le DD de contre augmente de 10.
 
-Soigner un état qui est continuellement appliqué sous certaines circonstances (par exemple, l'état affaibli qu'un personnage bon obtient lorsqu'il transporte une arme <em>impie</em>) n'a pas d'effet tant que les circonstances se produisent.
+Soigner un état qui est continuellement appliqué sous certaines circonstances (par exemple, l'état affaibli qu'un personnage bon obtient lorsqu'il transporte une arme *impie*) n'a pas d'effet tant que les circonstances se produisent.
 
 **Succès critique** Réduisez la valeur de l'état de 2.
 
 **Succès** Réduisez la valeur de l'état de 1.
 
 **Échec critique** Augmentez la valeur de l'état de 1.
-
-

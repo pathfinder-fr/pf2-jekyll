@@ -6,11 +6,8 @@ titleEn: Azata Magic
 id: 4hFeaF4MlqIHb6gb
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/4hFeaF4MlqIHb6gb.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/azata-magic.json
-group: feats
 layout: dons
 ---
 Votre lignage remonte jusqu'au royaume de l'Élysee et vous pouvez exploiter sa magie en utilisant ce lien.
 
-Vous pouvez Lancer [Poussière scintillante](../spells/poussière-scintillante.md) et [Délivrance de la paralysie](../spells/délivrance-de-la-paralysie.md) une fois par jour chacun comme des sorts divins innés de niveau 2.
-
-
+Vous pouvez Lancer [Poussière scintillante](../sorts/poussière-scintillante.md) et [Délivrance de la paralysie](../sorts/délivrance-de-la-paralysie.md) une fois par jour chacun comme des sorts divins innés de niveau 2.

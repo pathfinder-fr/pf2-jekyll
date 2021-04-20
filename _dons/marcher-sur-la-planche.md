@@ -6,7 +6,6 @@ titleEn: Walk The Plank
 id: TzBP8yiZQHNhei1V
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/TzBP8yiZQHNhei1V.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/walk-the-plank.json
-group: feats
 layout: dons
 ---
 Vous effrayez un adversaire et le déplacez là où vous voulez qu'il soit, traditionnellement en lui demandant de marcher sur la planche. Tentez de [Démoraliser](../actions/démoraliser.md) un adversaire ; ce test obtient le trait mise hors de combat.
@@ -14,5 +13,3 @@ Vous effrayez un adversaire et le déplacez là où vous voulez qu'il soit, trad
 En cas de succès, en plus des effets normaux, vous pouvez aussi forcer la cible à [Marcher rapidement](../actions/marcher-rapidement.md) jusqu'à sa Vitesse. Vous choisissez le chemin qu'emprunte la cible et elle le fait comme une composante de votre action Marcher sur la planche. Vous ne pouvez pas forcer la cible à se déplacer dans une case dangereuse (une dans laquelle elle pourrait subir des dégâts, tomber, provoquer des réactions ou similaires) à moins que le résultat de votre test pour la [Démoraliser](../actions/démoraliser.md) soit un succès critique.
 
 La cible devient ensuite immunisée contre Marcher sur la planche pendant 24 heures.
-
-

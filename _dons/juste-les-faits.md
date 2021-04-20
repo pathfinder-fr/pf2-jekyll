@@ -6,7 +6,6 @@ titleEn: Just The Facts
 id: ZfycfbXlPXZlSqw5
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/ZfycfbXlPXZlSqw5.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/just-the-facts.json
-group: feats
 layout: dons
 ---
 **Prérequis** [Recherche minutieuse](recherche-minutieuse.md)
@@ -18,5 +17,3 @@ Vous êtes [Accéléré](../conditions/accéléré.md) de manière permanente et
 Vos tests pour Vous souvenir ne sont plus secrets. Lorsque vous Vous souvenez, vous utilisez le résultat d'un degré supérieur à celui qui résulte de votre test et si un effet (tel que [Savoir douteux](savoir-douteux.md)) devrait vous donner des informations inexactes à votre test pour Vous souvenir, vous savez quelle information est inexacte.
 
 Lorsque l'un de vos alliés Se souvient et obtient une fausse information, vous savez aussi que l'information est inexacte s'il la partage avec vous.
-
-

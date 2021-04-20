@@ -6,9 +6,6 @@ titleEn: Pin to the Spot
 id: ZTxiM8NExDmxHJDf
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/ZTxiM8NExDmxHJDf.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/pin-to-the-spot.json
-group: feats
 layout: dons
 ---
-Vous Frappez une cible à portée. Si vous touchez et infligez des dégâts, la cible est aussi [Entravée](../etats/entravé.md) comme si vous aviez obtenu un succès critique avec un test d'Athlétisme pour la [Saisir](../actions/saisir.md).
-
-
+Vous Frappez une cible à portée. Si vous touchez et infligez des dégâts, la cible est aussi [Entravée](../conditions/entravé.md) comme si vous aviez obtenu un succès critique avec un test d'Athlétisme pour la [Saisir](../actions/saisir.md).

@@ -6,7 +6,6 @@ titleEn: Bravo's Determination
 id: YTZhLWtrEnV9Pjf2
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/YTZhLWtrEnV9Pjf2.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/bravo-s-determination.json
-group: feats
 layout: dons
 ---
 **Déclencheur** La Frappe d'un adversaire vous réduit à 0 Point de vie ; vous n'étiez pas à 1 point de vie et vous ne devriez pas être tué.
@@ -16,5 +15,3 @@ Votre confiance frôle l'auto-persuasion, mais elle vous préserve du destins le
 **Succès critique** Vous évitez d'être abattu et restez à 1 Point de vie.
 
 **Succès** Vous évitez d'être abattu et restez à 1 Point de vie, mais vous augmentez vontre valeur de [Blessé](../conditions/blessé.md) de 1.
-
-

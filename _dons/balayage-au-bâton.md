@@ -6,7 +6,6 @@ titleEn: Staff Sweep
 id: dPmJ91qawZW2U8K3
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/dPmJ91qawZW2U8K3.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/staff-sweep.json
-group: feats
 layout: dons
 ---
 **Conditions** Vous maniez votre bâton.
@@ -14,5 +13,3 @@ layout: dons
 Vous effectuez un balayage contre vos ennemis avec votre bâton.
 
 Faites un test d'Athlétisme pour [Pousser](../actions/pousser.md) ou faire un [Croc-en-jambe](../actions/croc-en-jambe.md) et comparez le résultat aux DD appropriés de deux créatures au maximum, chacune d'entre elle devant se trouver dans votre allonge et pas à plus de 1,5 m l'une de l'autre.
-
-

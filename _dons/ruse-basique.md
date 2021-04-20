@@ -6,9 +6,6 @@ titleEn: Basic Trickery
 id: xMTC8UOerwGyCtaN
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/xMTC8UOerwGyCtaN.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/basic-trickery.json
-group: feats
 layout: dons
 ---
 Vous gagnez un don de roublard de niveau 1 ou 2.
-
-

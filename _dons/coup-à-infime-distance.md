@@ -6,7 +6,6 @@ titleEn: One-Millimeter Punch
 id: 4caP26xpkQajkaDp
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/4caP26xpkQajkaDp.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/one-millimeter-punch.json
-group: feats
 layout: dons
 ---
 **Prérequis** <a class="entity-link" data-pack="pf2e.feats-srd" data-id="jaAnxfXVmUQy0IKU" draggable="true">Coup à courte distance</a>
@@ -20,5 +19,3 @@ Vos coups de poings ont une force et un contrôle incroyable. Lorsque vous infli
 **Échec** La cible est repoussée de 3 m.
 
 **Échec critique** La cible est repoussée de 3 m pour chaque action que vous avez dépensée pour le Coup à courte distance.
-
-

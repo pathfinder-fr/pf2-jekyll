@@ -6,7 +6,6 @@ titleEn: Reverberate
 id: ecV3Nljvs4FOBS27
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/ecV3Nljvs4FOBS27.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/reverberate.json
-group: feats
 layout: dons
 ---
 **Déclencheur** Vous devriez subir des dégâts de son d'un sort.
@@ -18,5 +17,3 @@ Vous pouvez manipuler l'acoustique autour de vous pour ddévier les dégâts et 
 **Succès** Comme avec un succès critique, mais vous réduisez les dégâts déclencheurs par un montant égal à deux fois votre niveau.
 
 **Échec critique** Vous renvoyez les ondes sonores sur vous-même, subissant deux fois les dégâts déclencheurs.
-
-

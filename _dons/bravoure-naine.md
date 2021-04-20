@@ -6,9 +6,6 @@ titleEn: Dwarven Doughtiness
 id: UJ8AqzkkDqRCMNFW
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/UJ8AqzkkDqRCMNFW.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/dwarven-doughtiness.json
-group: feats
 layout: dons
 ---
 Vous êtes soit calme et recueilli face au danger imminent, soit très bon à feindre que vous l'êtes. À la fin de votre tour, réduisez votre état [Effrayé](../conditions/effrayé.md) de 2 au lieu de 1.
-
-

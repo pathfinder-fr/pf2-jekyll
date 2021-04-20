@@ -6,7 +6,6 @@ titleEn: Decipher Writing
 id: d9gbpiQjChYDYA2L
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/d9gbpiQjChYDYA2L.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/decipher-writing.json
-group: actions
 layout: actions
 type: passive
 typeFr: Passive

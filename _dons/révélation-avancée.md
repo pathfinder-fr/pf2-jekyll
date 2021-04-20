@@ -6,11 +6,6 @@ titleEn: Advanced Revelation
 id: FPVe3o7YctBicSQa
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/FPVe3o7YctBicSQa.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/advanced-revelation.json
-group: feats
 layout: dons
 ---
-**Prérequis** Sort de révélation initial
-
-Vous apprenez un sort de révélation avancé associé à votre mystère. Augmentez le nombre de points de focalisatoion de votre réserve de focalisation de 1.
-
-
+Vous apprenez un sort de révélation avancé associé à votre mystère. Augmentez le nombre de points de focalisation de votre réserve de focalisation de 1.

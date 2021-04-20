@@ -6,15 +6,12 @@ titleEn: Intuitive Illusions
 id: MwjnRpVn3br88Caj
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/MwjnRpVn3br88Caj.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/intuitive-illusions.json
-group: feats
 layout: dons
 ---
 **Fréquence** une fois par jour
 
 **Déclencheur** Votre tour commence
 
-La magie d'illusion vous vient si naturellement que vous pouvez sans effort maintenir vos ruses magiques.
+La magie d'illusion vous vient si naturellement que vous pouvez sans effort Maintenir vos ruses magiques.
 
 Vous obtenez immédiatement les effets de l'action [Maintenir un sort](../actions/maintenir-un-sort.md) pour étendre la durée d'un de vos sorts d'illusion actifs.
-
-

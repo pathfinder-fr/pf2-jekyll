@@ -6,9 +6,6 @@ titleEn: Quick Block
 id: DalEte4OQyLzR7nd
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/DalEte4OQyLzR7nd.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/quick-block.json
-group: feats
 layout: dons
 ---
 Vous faites des blocages au bouclier instinctifs. Au début de chacun de vos tours, vous gagnez une réaction supplémentaire que vous pouvez utiliser uniquement pour faire un Blocage au bouclier.
-
-

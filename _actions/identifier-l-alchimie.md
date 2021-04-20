@@ -6,12 +6,11 @@ titleEn: Identify Alchemy
 id: Q4kdWVOf2ztIBFg1
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/Q4kdWVOf2ztIBFg1.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/identify-alchemy.json
-group: actions
 layout: actions
 type: passive
 typeFr: Passive
 ---
-**Conditions** Vous avez des [outils d'alchimiste](../equipment/outils-d-alchimiste.md).
+**Conditions** Vous avez des [outils d'alchimiste](../équipements/outils-d-alchimiste.md).
 
 Vous pouvez identifier la nature d’un objet alchimique en l’analysant pendant dix minutes avec vos outils d’alchimiste. Si votre tentative est interrompue, vous devez la reprendre depuis le début.
 

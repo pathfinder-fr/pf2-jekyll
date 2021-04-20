@@ -6,7 +6,6 @@ titleEn: Scare to Death
 id: mZttsiWl1ql5NvrH
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/mZttsiWl1ql5NvrH.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/scare-to-death.json
-group: feats
 layout: dons
 ---
 **Prérequis** légendaire en Intimidation
@@ -20,5 +19,3 @@ Vous pouvez effrayer des ennemis au point qu’ils pourraient en mourir. Tentez 
 **Échec** La cible devient [effrayée](../conditions/effrayé.md) 1.
 
 **Échec critique** La cible n’est pas affectée.
-
-

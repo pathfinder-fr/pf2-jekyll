@@ -6,7 +6,6 @@ titleEn: Blaze Of Revelation
 id: nLidn7L2z61Ktjzk
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/nLidn7L2z61Ktjzk.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/blaze-of-revelation.json
-group: feats
 layout: dons
 ---
 Votre esprit et votre corps peuvent, pour un court moment, appréhender la dévastation qui suit le fait de trop tirer sur votre malédiction.
@@ -22,5 +21,3 @@ Au bout de cette minute, les durées de tout sort de révélation que vous avez 
 **Échec** Vous êtes Drainé 4 et ne pouvez réduire ou retirer cette condition jusqu'à vos prochains préparatifs quotidiens.
 
 **Échec critique** Vous mourrez.
-
-

@@ -6,7 +6,6 @@ titleEn: Emblazon Antimagic
 id: xAFdoKl7aOP9rVkl
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/xAFdoKl7aOP9rVkl.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/emblazon-antimagic.json
-group: feats
 layout: dons
 ---
 **Prérequisites** Arsenal Blasonné
@@ -16,5 +15,3 @@ Le symbole de votre divinité offre une protection contre la magie offensive. Qu
 • **Bouclier** Quand l’utilisateur a son bouclier levé, il ajoute le bonus de circonstances du bouclier aux jets de sauvegarde contre la magie et il peut utiliser Blocage au bouclier contre les dégâts des sorts ennemis.
 
 • **Arme** Quand une créature obtient un coup critique en maniant l’arme, elle peut tenter de contrer un sort sur sa cible, en utilisant son niveau en guise de niveau du contre. Le cas échéant, le symbole blasonné disparaît immédiatement.
-
-

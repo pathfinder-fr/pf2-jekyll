@@ -6,13 +6,10 @@ titleEn: Dual-Weapon Reload
 id: sjChYEuEWPqndCSK
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/sjChYEuEWPqndCSK.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/dual-weapon-reload.json
-group: feats
 layout: dons
 ---
 **Conditions** Vous maniez deux armes à une main, chacune dans une main différente, dont une est une arme à distance.
 
-Vous portez votre munition d'une manière qui vous permet de recharger en portant deux armes.
+Vous portez votre munition d'une manière qui vous permet de recharger tout en portant deux armes.
 
 Vous [Interagissez](../actions/interagir.md) pour recharger une arme à distance à une main que vous tenez. Contrairement à la plupart des actions Interagir, vous n'avez pas besoin d'une main libre pour recharger votre arme à distance de cette manière.
-
-

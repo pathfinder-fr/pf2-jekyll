@@ -6,9 +6,6 @@ titleEn: Thorough Research
 id: WjEwsu4kkexNvDcN
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/WjEwsu4kkexNvDcN.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/thorough-research.json
-group: feats
 layout: dons
 ---
-Lorsque vous réussissez un test pour <a class="entity-link" data-pack="pf2e.actionspf2e" data-id="KygTSeDvsFoSO6HW" draggable="true">Vous souvenir</a>, vous apprenez un fait supplémentaire à propos du sujet. Lorsque vous obtenez une réussite critique à un test pour Vous souvenir, vous pouvez obtenir plus d'information supplémentaire ou contextuelle que la normale, à la discrétion du MJ.
-
-
+Lorsque vous réussissez un test pour [Vous souvenir](../actions/se-souvenir-arcanes.md), vous apprenez un fait supplémentaire à propos du sujet. Lorsque vous obtenez une réussite critique à un test pour Vous souvenir, vous pouvez obtenir plus d'information supplémentaire ou contextuelle que la normale, à la discrétion du MJ.

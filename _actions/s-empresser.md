@@ -6,7 +6,6 @@ titleEn: Hustle
 id: JuqmIAnkL9hVGai8
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/JuqmIAnkL9hVGai8.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/hustle.json
-group: actions
 layout: actions
 type: passive
 typeFr: Passive

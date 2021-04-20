@@ -6,9 +6,6 @@ titleEn: Expert Bard Spellcasting
 id: 0RB3f3J7gOEv3fni
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/0RB3f3J7gOEv3fni.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/expert-bard-spellcasting.json
-group: feats
 layout: dons
 ---
 Vous gagnez les avantages d’Incantation experte.
-
-

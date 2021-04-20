@@ -6,9 +6,6 @@ titleEn: Expert Poisoner
 id: VruIzuysxw4tY6rk
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/VruIzuysxw4tY6rk.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/expert-poisoner.json
-group: feats
 layout: dons
 ---
-Votre niveau d'[Alchimie avancée](../class-features/alchimie-avancée.md) pour le poison passe à votre niveau –3.
-
-
+Votre niveau d'[Alchimie avancée](../capacité-classe/alchimie-avancée.md) pour le poison passe à votre niveau –3.

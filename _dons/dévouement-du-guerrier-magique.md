@@ -6,7 +6,6 @@ titleEn: Magic Warrior Dedication
 id: 5FOqVC9Q0eEKEf3w
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/5FOqVC9Q0eEKEf3w.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/magic-warrior-dedication.json
-group: feats
 layout: dons
 ---
 **Accès** Vous êtes des étendues du Mwangi
@@ -21,5 +20,3 @@ Vos sorts focalisés obtenus grâce à l’archétype guerrier magique ont la m�
 vous avez des sorts de différentes traditions.)
 
 **Spécial** Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype du guerrier magique.
-
-

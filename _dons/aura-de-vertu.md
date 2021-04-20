@@ -6,11 +6,8 @@ titleEn: Aura of Righteousness
 id: erCOcFZJPT2O3gwC
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/erCOcFZJPT2O3gwC.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/aura-of-righteousness.json
-group: feats
 layout: dons
 ---
 **Prérequis** principes du bien
 
 Votre aura vertueuse sape les forces du mal. Vous et tous les alliés dans un rayon de 4,50 m gagnez une résistance 5 contre le mal.
-
-

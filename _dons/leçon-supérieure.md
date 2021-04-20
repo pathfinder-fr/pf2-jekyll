@@ -6,11 +6,8 @@ titleEn: Greater Lesson
 id: qDfTqetM9UEpp8ty
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/qDfTqetM9UEpp8ty.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/greater-lesson.json
-group: feats
 layout: dons
 ---
 Votre patron vous accorde une connaissance supérieure.
 
-Choisissez une leçon basiquee ou supérieure issue de la liste de [Leçons de Sorcière](../class-features/leçons-de-sorcière.md). Vous obtenez le maléfice associé et votre familier apprend le sort associé. Augmentez le nombre de points de focalisation de votre réserve de focalisation de 1.
-
-
+Choisissez une leçon basiquee ou supérieure issue de la liste de [Leçons de Sorcière](../capacité-classe/leçons-de-sorcière.md). Vous obtenez le maléfice associé et votre familier apprend le sort associé. Augmentez le nombre de points de focalisation de votre réserve de focalisation de 1.

@@ -6,11 +6,8 @@ titleEn: Winding Flow
 id: vXH0HWMHzevA1Wox
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/vXH0HWMHzevA1Wox.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/winding-flow.json
-group: feats
 layout: dons
 ---
 **Fréquence** une fois par round
 
 La destination est souvent moins importante que le trajet pour y parvenir. Vous effectuez deux des actions suivantes dans l’ordre de votre choix : Se relever, Faire un pas et Marcher rapidement. Vous ne pouvez pas faire deux fois la même action.
-
-

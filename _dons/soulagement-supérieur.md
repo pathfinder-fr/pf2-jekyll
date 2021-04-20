@@ -6,11 +6,6 @@ titleEn: Greater Mercy
 id: kZdcoaTD849QalR9
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/kZdcoaTD849QalR9.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/greater-mercy.json
-group: feats
 layout: dons
 ---
-**Prérequis** Soulagement
-
-Votre foi améliore votre capacité à supprimer des états. Quand vous utilisez Soulagement, votre pouvez à la place tenter de contrer les effets des états aveugle, sourd, malade ou ralenti.
-
-
+Votre foi améliore votre capacité à supprimer des états. Quand vous utilisez Soulagement, votre pouvez à la place tenter de contrer les effets des états Aveugle, Sourd, Malade ou Ralenti.

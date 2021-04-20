@@ -6,7 +6,6 @@ titleEn: Scrounger Dedication
 id: CaeCSWFWytWv8Fgu
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/CaeCSWFWytWv8Fgu.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/scrounger-dedication.json
-group: feats
 layout: dons
 ---
 Vous pouvez [Fabriquer](../actions/fabriquer.md) des objets même sans disposer des outils appropriés ou d'un atelier, bien que vous subissiez alors une pénalité d'objet de -2 à votre test d'Artisanat.
@@ -19,8 +18,6 @@ Vos objets temporaires durent pendant [[/r 1d4]] heures avant de retomber en mor
 
 Vous pouvez incorporer tous les matériaux que vous avez sous la main, même s'il ne s'agit pas du type de materiaux habituellement utilisé pour Fabriquer l'objet, bien qu'il vous faille un volume suffisant de matériaux pour fabriquer l'objet que vous désirez.
 
-À moins que tous les matériaux que vous avez utilisés soit du type approprié pour fabriquer l'objet, vous subissez une pénalité de -5 au test d'Artisanat (ou une pénalité de -10 si les matériaux que vous avez utilisés sont particulièrement inadaptés, à l'appréciation du MJ).
+À moins que tous les matériaux que vous avez utilisés ne soient du type approprié pour Fabriquer l'objet, vous subissez une pénalité de -5 au test d'Artisanat (ou une pénalité de -10 si les matériaux que vous avez utilisés sont particulièrement inadaptés, à l'appréciation du MJ).
 
 **Spécial** Vous ne pouvez choisir un autre don de dévouement avant d'avoir obtenu deux autres dons de l'archétype de Bricoleur.
-
-

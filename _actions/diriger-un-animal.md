@@ -6,7 +6,6 @@ titleEn: Command an Animal
 id: q9nbyIF0PEBqMtYe
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/q9nbyIF0PEBqMtYe.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/command-an-animal.json
-group: actions
 layout: actions
 type: action
 typeFr: Action Unique

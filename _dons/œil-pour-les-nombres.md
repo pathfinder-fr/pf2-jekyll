@@ -6,7 +6,6 @@ titleEn: Eye For Numbers
 id: 0N8TtGSk5enoLBZ8
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/0N8TtGSk5enoLBZ8.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/eye-for-numbers.json
-group: feats
 layout: dons
 ---
 **Prérequis** qualifié en Société
@@ -19,6 +18,4 @@ Par exemple, vous pourriez regarder une valise de flacons de potions et apprendr
 
 Vous ne pouvez utiliser cette capacité que sur des objets qui peuvent typiquement être comptés ; ainsi vous ne pouvez pas le faire avec des grains de sable ou avec les étoiles dans le ciel, par exemple.
 
-De plus, lorsque vous essayez de [Déchiffrer un texte](../actions/déchiffrer-un-texte.md) qui est essentiellement numérique ou mathématique, vous obtenez un bonus de circonstance de +2 à votre test.
-
-
+De plus, lorsque vous essayez de [Déchiffrer un texte](../actions/déchiffrer-un-texte.md) qui est essentiellement numérique ou mathématique, vous obtenez un bonus de circonstances de +2 à votre test.

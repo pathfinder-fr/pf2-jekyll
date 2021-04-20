@@ -6,13 +6,10 @@ titleEn: Premonition Of Clarity
 id: 2h8a6pKhXTXwpJjP
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/2h8a6pKhXTXwpJjP.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/premonition-of-clarity.json
-group: feats
 layout: dons
 ---
 **Fréquence** une fois par heure
 
 **Déclencheur** Vous obtenez un échec à un jet de protection contre un effet mental.
 
-Votre divinité vous envoie une vision de foi pour vous renforcer contre des attaques mentales. Relancez le jet déclencherur avec un bonus de circonstance de +2. Vous devez utiliser le second résultat, même s'il est pire.
-
-
+Votre divinité vous envoie une vision de foi pour vous renforcer contre des attaques mentales. Relancez le jet déclencherur avec un bonus de circonstances de +2. Vous devez utiliser le second résultat, même s'il est pire.

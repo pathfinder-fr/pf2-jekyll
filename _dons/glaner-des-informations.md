@@ -6,7 +6,6 @@ titleEn: Glean Contents
 id: WeQGWvlWdeLeOlCN
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/WeQGWvlWdeLeOlCN.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/glean-contents.json
-group: feats
 layout: dons
 ---
 **Prérequis** qualifié en Société
@@ -18,5 +17,3 @@ Vous pouvez tenter des tests de Société pour [Déchiffrer un texte](../actions
 Lorsque vous utilisez ce don pour déchiffrer les lettres scellées, vos tentatives pour Déchiffrer un texte obtiennent le trait manipulation.
 
 Ce don n'empêche pas des témoins de remarquer vos efforts, particulièrement avec les lettres scellées que vous devez directement manipuler en vue de les lire ; Vous pourriez avoir besoin de faire des tests de Duperie ou de Discrétion pour éviter d'être remarqué.
-
-

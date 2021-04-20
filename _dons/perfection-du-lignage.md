@@ -6,11 +6,8 @@ titleEn: Bloodline Perfection
 id: 6SEDoht4dXEJE5SW
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/6SEDoht4dXEJE5SW.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/bloodline-perfection.json
-group: feats
 layout: dons
 ---
 **Prérequis** parangon du lignage
 
 Vous maîtrisez les ultimes pouvoirs de votre lignage et de votre tradi tion. Vous gagnez un emplacement de sort de niveau 10 de plus.
-
-

@@ -6,9 +6,6 @@ titleEn: Dirge of Doom
 id: vWrGwqy4AhHMPz8V
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/vWrGwqy4AhHMPz8V.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/dirge-of-doom.json
-group: feats
 layout: dons
 ---
-Vous apprenez le tour de magie de composition chant funeste (page 386) qui terrorise vos ennemis.
-
-
+Vous apprenez le tour de magie de composition [chant funeste](../sorts/chant-funeste.md) qui terrorise vos ennemis.

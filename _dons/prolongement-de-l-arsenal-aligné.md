@@ -6,11 +6,8 @@ titleEn: Extend Armament Alignment
 id: T3XFrLIBzir9IqD5
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/T3XFrLIBzir9IqD5.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/extend-armament-alignment.json
-group: feats
 layout: dons
 ---
 **Prérequis** Arsenal aligné
 
 L’alignement que vous imposez à une arme dure plus longtemps. La durée d’Arsenal aligné passe à une minute.
-
-

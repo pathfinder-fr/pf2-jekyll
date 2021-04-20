@@ -6,11 +6,8 @@ titleEn: Legendary Medic
 id: Kk4AMZtpQnLEgN0b
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/Kk4AMZtpQnLEgN0b.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/legendary-medic.json
-group: feats
 layout: dons
 ---
 **Prérequis** légendaire en Médecine
 
 Vous avez découvert des avancées ou techniques médicales qui produisent des résultats miraculeux. Une fois par jour pour chaque cible, vous pouvez passer 1 heure à soigner cette cible et tenter un test de Médecine pour délivrer d’une maladie ou de l’état aveuglé, sourd, condamné ou drainé. Utilisez le DD de la maladie ou du sort ou de l’effet à l’origine de l’état. Si la source de l’effet est un artefact, au-delà du niveau 20 ou d’une puissance similaire, augmentez le DD de 10.
-
-

@@ -6,14 +6,13 @@ titleEn: Quick Alchemy
 id: yzNJgwzV9XqEhKc6
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/yzNJgwzV9XqEhKc6.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/quick-alchemy.json
-group: actions
 layout: actions
 type: action
 typeFr: Action Unique
 ---
 **Coût** 1 lot de réactifs imprégnés
 
-**Conditions** Vous avez des [outils alchimiques](../equipment/outils-d-alchimiste.md), la formule de l'objet alchimique que vous créez et une main libre.
+**Conditions** Vous avez des [outils alchimiques](../équipements/outils-d-alchimiste.md), la formule de l'objet alchimique que vous créez et une main libre.
 
 Vous préparez rapidement un objet alchimique périssable que vous pouvez utiliser sur‑le‑champ.
 

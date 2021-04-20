@@ -6,13 +6,10 @@ titleEn: Defiance Unto Death
 id: 5AnJTAZnuWrkL8fa
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/5AnJTAZnuWrkL8fa.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/defiance-unto-death.json
-group: feats
 layout: dons
 ---
 **Accès** Elfe de la Tour acérée
 
 Vous abhorrez les alghollthus et leur magie de l'esprit et vous avez été entraîné à préférer la mort plutôt que de permettre d'être l'objet d'une manipulation mentale.
 
-Si vous débutez votre tour [confus](../etats/confus.md), [Contrôlé](../etats/contrôlé.md) ou [En fuite](../etats/en-fuite.md) à cause de l'échec d'un jet de Volonté, vous pouvez tenter un jet de Volonté contre le même DD ; sur un succès, vous êtes [Paralysé](../etats/paralysé.md) jusqu'à votre prochain tour, au lieu d'agir contre votre volonté.
-
-
+Si vous débutez votre tour [confus](../conditions/confus.md), [Contrôlé](../conditions/contrôlé.md) ou [En fuite](../conditions/en-fuite.md) à cause de l'échec d'un jet de Volonté, vous pouvez tenter un jet de Volonté contre le même DD ; sur un succès, vous êtes [Paralysé](../conditions/paralysé.md) jusqu'à votre prochain tour, au lieu d'agir contre votre volonté.

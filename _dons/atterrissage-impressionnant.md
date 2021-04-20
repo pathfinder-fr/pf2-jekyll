@@ -6,11 +6,8 @@ titleEn: Impressive Landing
 id: QO8l5Dao8HnaFQE4
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/QO8l5Dao8HnaFQE4.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/impressive-landing.json
-group: feats
 layout: dons
 ---
 **Déclencheur** Vous tombez d'au moins 3 m et atterrissez sur une surface solide
 
 Vous frappez sur le sol, le brisant autour de vos. Traitez la chute comme si elle était plus courte de 3 m. Vous atterrissez sur vos pieds. Toutes les cases adjacentes deviennent un terrain difficile et les créatures dans ces cases lorsque vous atterrissez subissent 5 dégâts contondants lorsque les débris les touchent et sont <a class="entity-link" data-pack="pf2e.conditionspf2e" data-id="AJh5ex99aV6VTggg" draggable="true"><i class="fas fa-book-open"></i>Prises au dépourvu</a> jusqu'au début de leur prochain tour.
-
-

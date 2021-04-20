@@ -6,7 +6,6 @@ titleEn: Courteous Comeback
 id: DwnnmTNOvpLbp7jJ
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/DwnnmTNOvpLbp7jJ.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/courteous-comeback.json
-group: feats
 layout: dons
 ---
 **Accès** nationalité Kéleshite
@@ -16,5 +15,3 @@ layout: dons
 **Déclencheur** Vous faites un échec critique à un test de Diplomatie.
 
 Vous avez été élevé au sein du fier empire du Padishah, où même les insultes les plus graves ont une certaine tournure poétique. Relancez le test de Diplomatie qui l'a déclenché en utilisant le second résultat.
-
-

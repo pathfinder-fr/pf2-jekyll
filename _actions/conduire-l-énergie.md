@@ -6,7 +6,6 @@ titleEn: Conduct Energy
 id: BKnN9la3WNrRgZ6n
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/BKnN9la3WNrRgZ6n.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/conduct-energy.json
-group: actions
 layout: actions
 type: free
 typeFr: Action Gratuite

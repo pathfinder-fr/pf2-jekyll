@@ -6,7 +6,6 @@ titleEn: Disturbing Knowledge
 id: hkSuxXOc9qBleJbd
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/hkSuxXOc9qBleJbd.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/disturbing-knowledge.json
-group: feats
 layout: dons
 ---
 **Prérequis** maître en Occultisme
@@ -22,5 +21,3 @@ Faites un test d'Occultisme et comparez le résultat au DD de Volonté d'un enne
 **Échec** La cible n'est pas affectée.
 
 **Échec critique** Vous prenez trop à cœur vos propres mots et devenez Effrayé 1.
-
-

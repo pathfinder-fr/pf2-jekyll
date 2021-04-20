@@ -6,9 +6,6 @@ titleEn: Fleet
 id: Ux73dmoF8KnavyUD
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/Ux73dmoF8KnavyUD.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/fleet.json
-group: feats
 layout: dons
 ---
 Vous vous déplacez beaucoup plus rapidement à pied. Votre Vitesse augmente de 1,50 m.
-
-

@@ -6,12 +6,12 @@
 
 using System.Text.Json;
 
-await GenerateData("ancestries", "ancestries", "ascendances", DataGroup.Ancestries, ParseAncestry);
+await GenerateData(DataGroup.Ancestries, ParseAncestry);
 
 static void ParseAncestry(JsonElement item, JsonDocument frJsonDoc, StreamWriter writer)
 {
     var hp = item.GetProperty("data").GetProperty("hp").GetInt32();
-    writer.WriteLine($"hp: {hp}");
+    writer.WriteLine($"  pv: {hp}");
 
     // liste des langues en anglais
     var languages = item.GetProperty("data").GetProperty("languages").GetProperty("value").EnumerateArray().Select(x => x.GetString()).ToArray();
@@ -28,7 +28,7 @@ static void ParseAncestry(JsonElement item, JsonDocument frJsonDoc, StreamWriter
         });
 
     // écriture de l'entête langues avec la liste des langues françaises
-    writer.WriteArray("langues:", languagesFr);
+    writer.WriteArray("  langues:", languagesFr);
 
     languages = item.GetProperty("data").GetProperty("additionalLanguages").GetProperty("value").EnumerateArray().Select(x => x.GetString()).ToArray();
 
@@ -43,7 +43,7 @@ static void ParseAncestry(JsonElement item, JsonDocument frJsonDoc, StreamWriter
         });
 
     // écriture de l'entête langues avec la liste des langues françaises
-    writer.WriteArray("languesComplémentaires:", languagesFr);
+    writer.WriteArray("  languesComplémentaires:", languagesFr);
 
     // liste des langues complémentaires
 

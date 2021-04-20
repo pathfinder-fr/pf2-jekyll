@@ -6,7 +6,6 @@ titleEn: Jinx
 id: hFRHPBj6wjAayNtW
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/hFRHPBj6wjAayNtW.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/jinx.json
-group: actions
 layout: actions
 type: action
 typeFr: Action Unique
@@ -17,6 +16,6 @@ Vous pouvez maudire une autre créature pour la rendre maladroite. Cette malédi
 
 **Succès** la cible n'est pas affectée est est immunisée de manière temporaire pendant 24 heures.
 
-**Échec** la cible est [Maladroite](../etats/maladroit.md) 1 pendant 1 minute.
+**Échec** la cible est [Maladroite](../conditions/maladroit.md) 1 pendant 1 minute.
 
 **Échec critique** La cible est Maladroite 2 pendant 1 minute.

@@ -6,7 +6,6 @@ titleEn: No Cause For Alarm
 id: 6ON8DjFXSMITZleX
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/6ON8DjFXSMITZleX.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/no-cause-for-alarm.json
-group: feats
 layout: dons
 ---
 **Prérequis** qualifié en Diplomatie
@@ -16,5 +15,3 @@ Vous tentez de réduire la panique. Faites un test de Diplomatie et comparez le 
 **Succès critique** Réduisez la valeur Effrayée de la créature de 2.
 
 **Succès** Réduisez la valeur Effrayée de la créature de 1.
-
-

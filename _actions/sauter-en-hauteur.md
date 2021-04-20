@@ -6,7 +6,6 @@ titleEn: High Jump
 id: 2HJ4yuEFY1Cast4h
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/2HJ4yuEFY1Cast4h.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/high-jump.json
-group: actions
 layout: actions
 type: action
 typeFr: Action Unique
@@ -19,4 +18,4 @@ Vous Marchez rapidement, puis vous Bondissez à la verticale et effectuez un tes
 
 **Échec** Vous Bondissez normalement.
 
-**Échec critique** Vous ne parvenez pas à Bondir et tombez [à terre](../etats/à-terre.md) dans votre case à la place.
+**Échec critique** Vous ne parvenez pas à Bondir et tombez [à terre](../conditions/à-terre.md) dans votre case à la place.

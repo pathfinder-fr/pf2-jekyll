@@ -6,13 +6,8 @@ titleEn: Martial Performance
 id: q1iP3SjAF5uceI0M
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/q1iP3SjAF5uceI0M.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/martial-performance.json
-group: feats
 layout: dons
 ---
-**Prérequis** [Combattant (Muse de barde)](../class-features/muse---combattant.md)
+Votre muse vous a enseigné comment tenir une plus grande variété d'armes par rapport aux autres bardes, vous permettant de mélanger sans effort à votre représentation en combat même les outils les plus inélégants.
 
-Votre muse vous a enseigné comment tenir une plus grande variété d'armes par rapport aux autres bardes, vous permettant de mélanger sans effort votre représentation en combat même avec les outils les plus inélégants.
-
-Vous devenez qualifié avec toutes les armes martiales. Si vous obtenez la capacité de classe expertise martiale du barde, votre rang de compétence avec les armes martiales passe à expert.
-
-
+Vous devenez qualifié avec toutes les armes de guerre. Si vous obtenez la capacité de classe expertise martiale du barde, votre rang de compétence avec les armes de guerre passe à expert.

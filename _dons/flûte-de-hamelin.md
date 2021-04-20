@@ -6,9 +6,6 @@ titleEn: Pied Piping
 id: UOxDJt8Y7SiCR4xq
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/UOxDJt8Y7SiCR4xq.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/pied-piping.json
-group: feats
 layout: dons
 ---
-Vous apprenez le sort de composition [Flûte de Hamelin](../spells/flûte-de-hamelin.md), qui vous permet de contrôler les actions des individus faibles d'esprit.
-
-
+Vous apprenez le sort de composition [Flûte de Hamelin](../sorts/flûte-de-hamelin.md), qui vous permet de contrôler les actions des individus faibles d'esprit.

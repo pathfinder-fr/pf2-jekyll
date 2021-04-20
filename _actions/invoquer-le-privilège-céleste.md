@@ -6,7 +6,6 @@ titleEn: Invoke Celestial Privilege
 id: Aq2mXT2hLlstFL5C
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/Aq2mXT2hLlstFL5C.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/invoke-celestial-privilege.json
-group: actions
 layout: actions
 type: reaction
 typeFr: Réaction

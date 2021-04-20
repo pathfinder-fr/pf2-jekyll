@@ -6,7 +6,6 @@ titleEn: Upstage
 id: F0JgJR2rXKOg9k1z
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/F0JgJR2rXKOg9k1z.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/upstage.json
-group: actions
 layout: actions
 type: reaction
 typeFr: Réaction

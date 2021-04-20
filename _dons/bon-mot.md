@@ -6,7 +6,6 @@ titleEn: Bon Mot
 id: 0GF2j54roPFIDmXf
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/0GF2j54roPFIDmXf.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/bon-mot.json
-group: feats
 layout: dons
 ---
 **Prérequis** qualifié en Diplomatie
@@ -18,5 +17,3 @@ Vous lancez une pique bien sentie à un ennemi pour le distraire. Choisissez un 
 **Succès** Comme une réussite critique, mais la pénalité est de -2.
 
 **Échec critique** Votre trait d’esprit est atroce. Vous subissez la même pénalité que celle que l’ennemi aurait subi si vous aviez obtenu une réussite. Cette pénalité prend fin après 1 minute ou dès que vous réussissez à placer un autre Bon mot.
-
-

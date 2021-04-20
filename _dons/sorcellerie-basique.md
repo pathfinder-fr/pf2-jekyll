@@ -6,9 +6,6 @@ titleEn: Basic Witchcraft
 id: geESDWQVvwScyPph
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/geESDWQVvwScyPph.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/basic-witchcraft.json
-group: feats
 layout: dons
 ---
-Vous obtenez un don de Sorcière de niveau 1 ou 2 de votre choix. Votre familier possède désormais le nombre habituel de capacités de familier.
-
-
+Vous obtenez un don de Sorcière de niveau 1 ou 2 de votre choix. Votre familier n'a plus désormais une aptitude de familier de moins que la normale.

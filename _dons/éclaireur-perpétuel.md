@@ -6,7 +6,6 @@ titleEn: Perpetual Scout
 id: eHvJqBHYqx7UjpPg
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/eHvJqBHYqx7UjpPg.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/perpetual-scout.json
-group: feats
 layout: dons
 ---
 Vous remarquez tout ce qui n'est pas à sa place dans les zones que vous connaissez le mieux.
@@ -14,5 +13,3 @@ Vous remarquez tout ce qui n'est pas à sa place dans les zones que vous connais
 Lorsque vous êtes sur votre [Terrain de prédilection](environnement-de-prédilection.md), vous obtenez toujours les avantages de l'activité d'exploration [Reconnaître](../actions/reconnaître.md), même si vous accomplissez une autre activité d'exploration.
 
 Si vous êtes légendaire en Survie, vous obtenez ces avantages sur tous les terrains.
-
-

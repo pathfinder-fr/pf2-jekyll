@@ -6,13 +6,10 @@ titleEn: Archaeologist's Luck
 id: dmXd68ilbuGR6eUP
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/dmXd68ilbuGR6eUP.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/archaeologist-s-luck.json
-group: feats
 layout: dons
 ---
 **Fréquence** une fois par heure
 
-**Déclencheur** Vous échouez à un test contre un piège, tel qu'un test de Vol pour <a class="entity-link" data-pack="pf2e.actionspf2e" data-id="cYdz2grcOcRt4jk6" draggable="true">Désamorcer le piège</a> ou un jet de Réflexes pour en éviter les effets.
+**Déclencheur** Vous échouez à un test contre un piège, tel qu'un test de Vol pour [Désamorcer le piège](../actions/désamorcer-un-dispositif.md) ou un jet de Réflexes pour en éviter les effets.
 
 Vous êtes plus que simplement compétent ; votre volonté de trouver les secrets du passé se manifeste comme un étrange forme de chance. Relancez le test manqué et utilisez le nouveau résultat.
-
-

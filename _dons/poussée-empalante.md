@@ -6,7 +6,6 @@ titleEn: Impaling Thrust
 id: guSjEQS3WuXJqQxf
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/guSjEQS3WuXJqQxf.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/impaling-thrust.json
-group: feats
 layout: dons
 ---
 **Condition** Vous maniez une arme de mêlée qui inflige des dégâts perforants.
@@ -16,5 +15,3 @@ Vous empalez votre ennemi et le maintenez en position avec votre arme.
 Faites une [Frappe](../actions/frapper.md) de mêlée avec l'arme requise. Si la Frappe touche et inflige des dégâts, votre cible est [Saisie](../conditions/agrippé-empoigné.md) jusqu'à ce qu'elle parvienne à [S'échapper](../actions/s-échapper.md), que vous attaquiez avec l'arme requise ou que vous [Relâchiez](../actions/relâcher.md) l'arme requise, ce qui advient en premier.
 
 Lorsque la cible n'est plus saisie, elle subit des dégâts de saignement persistants égaux au nombre de dés de dégât de l'arme.
-
-

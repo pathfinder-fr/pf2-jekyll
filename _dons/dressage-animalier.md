@@ -6,7 +6,6 @@ titleEn: Train Animal
 id: nowEaHgIyij7im8F
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/nowEaHgIyij7im8F.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/train-animal.json
-group: feats
 layout: dons
 ---
 **Prérequis** qualifié en Nature
@@ -17,5 +16,3 @@ la pensée critique. Si vous êtes un expert, un maître ou légendaire en Natur
 **Succès.** L’animal apprend l’action. S’il s’agissait d’une action que l’animal connaissait déjà, vous pouvez Diriger l’animal pour effectuer une action sans tenter de test de Nature. S’il s’agissait d’une nouvelle action, ajoutez-la aux actions que l’animal peut effectuer avec Diriger un animal, mais vous devez toujours effectuer le jet.
 
 **Échec.** L’animal n’apprend pas le tour.
-
-

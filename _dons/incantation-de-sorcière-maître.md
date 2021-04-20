@@ -6,11 +6,6 @@ titleEn: Master Witch Spellcasting
 id: i7ibUqJCl1GXRFEa
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/i7ibUqJCl1GXRFEa.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/master-witch-spellcasting.json
-group: feats
 layout: dons
 ---
-**Prérequis** Incantation de sorcière expert, légendaire  dans la compétence associée à la tradition de votre patron
-
 Vous obtenez les avantages de l'incantation maître.
-
-

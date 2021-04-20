@@ -6,7 +6,6 @@ titleEn: Absorb into the Aegis
 id: S9PZFOVe7zhORkUc
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/S9PZFOVe7zhORkUc.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/absorb-into-the-aegis.json
-group: actions
 layout: actions
 type: reaction
 typeFr: Réaction

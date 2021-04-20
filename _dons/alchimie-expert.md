@@ -6,9 +6,6 @@ titleEn: Expert Alchemy
 id: soHLtpMM9h3AE7PD
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/soHLtpMM9h3AE7PD.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/expert-alchemy.json
-group: feats
 layout: dons
 ---
-Votre niveau d’Alchimie avancée passe à 3. Au niveau 10, il passe à 5
-
-
+Votre niveau d’Alchimie avancée passe à 3. Au niveau 10, il passe à 5.

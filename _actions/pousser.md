@@ -6,7 +6,6 @@ titleEn: Shove
 id: 7blmbDrQFNfdT731
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/7blmbDrQFNfdT731.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/shove.json
-group: actions
 layout: actions
 type: action
 typeFr: Action Unique
@@ -19,4 +18,4 @@ Vous repoussez un adversaire loin de vous. Effectuez un test d’<span data-pf2-
 
 **Succès** Vous repoussez votre adversaire de 1,50 m. Vous pouvez Marcher rapidement après ça, mais votre déplacement doit être aussi long et doit se faire dans la même direction.
 
-**Échec critique** Vous perdez l'équilibre et tombez [À terre](../etats/à-terre.md).
+**Échec critique** Vous perdez l'équilibre et tombez [À terre](../conditions/à-terre.md).

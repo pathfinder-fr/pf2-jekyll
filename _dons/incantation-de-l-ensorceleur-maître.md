@@ -6,11 +6,6 @@ titleEn: Master Sorcerer Spellcasting
 id: phD0PbElkEeldZ2U
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/phD0PbElkEeldZ2U.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/master-sorcerer-spellcasting.json
-group: feats
 layout: dons
 ---
-**Prérequis**  Incantation de l’ensorceleur expert ; légendaire en Arcanes, Nature, Occultisme ou Religion, selon le lignage
-
-Vous gagnez les avantages d’Incantation maître (page 219).
-
-
+Vous gagnez les avantages d’Incantation maître.

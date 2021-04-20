@@ -6,11 +6,8 @@ titleEn: Potent Poisoner
 id: zKL1lRcIbFblp2M2
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/zKL1lRcIbFblp2M2.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/potent-poisoner.json
-group: feats
 layout: dons
 ---
 **Prérequis** Alchimie puissante
 
 En concentrant les composants toxiques de vos poisons, vous rendez plus difficiles pour vos victimes de leur résiter. Lorsque vous Fabriquez un objet alchimique avec le trait poison quel que soit la manière, le DD iest augmenté d'un maximum de 4, jusqu'au maximum correspondant à votre DD de classe.
-
-

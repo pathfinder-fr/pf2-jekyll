@@ -6,7 +6,6 @@ titleEn: Recall Knowledge (Medicine)
 id: SeUolRoPzorFUAaI
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/SeUolRoPzorFUAaI.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/recall-knowledge-medicine.json
-group: actions
 layout: actions
 type: action
 typeFr: Action Unique

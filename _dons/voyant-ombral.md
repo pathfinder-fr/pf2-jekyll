@@ -6,11 +6,8 @@ titleEn: Darkseer
 id: XM4zR0q9rBxjR3lG
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/XM4zR0q9rBxjR3lG.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/darkseer.json
-group: feats
 layout: dons
 ---
 Zon-Kuthon vous sourit — même si vous maudissez son nom — et vous accorde des yeux complètement noirs qui vous permettent de voir dans les ombres et l'obscurité.
 
-Vous obtenez [vision dans le noir](../ancestry-features/vision-dans-le-noir.md).
-
-
+Vous obtenez [vision dans le noir](../capacités-ascendances/vision-dans-le-noir.md).

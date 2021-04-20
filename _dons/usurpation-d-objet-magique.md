@@ -6,7 +6,6 @@ titleEn: Trick Magic Item
 id: uR62fVC9FyQAMCO1
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/uR62fVC9FyQAMCO1.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/trick-magic-item.json
-group: feats
 layout: dons
 ---
 **Prérequis** qualifié en Arcanes, Nature, Occultisme ou Religion
@@ -24,5 +23,3 @@ Si vous êtes un maître dans la compétence appropriée pour la tradition de l�
 **Échec.** Vous ne pouvez pas utiliser l’objet ni tenter de le duper de nouveau à ce tour, mais vous pouvez réessayer aux tours suivants.
 
 **Échec critique** Vous ne pouvez pas utiliser l’objet et vous ne pouvez pas réessayer de le duper avant vos prochains préparatifs quotidiens.
-
-

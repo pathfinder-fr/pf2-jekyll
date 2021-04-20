@@ -6,7 +6,6 @@ titleEn: Beastmaster Dedication
 id: wdmUH6hdat7jpEWt
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/wdmUH6hdat7jpEWt.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/beastmaster-dedication.json
-group: feats
 layout: dons
 ---
 Vous obtenez les services d'un jeune compagnon animal qui voyage avec vous et obéit à vos ordres.
@@ -18,5 +17,3 @@ Certains dons de maître des bêtes vous donnent des sorts de focalisation primo
 Vous pouvez [Refocaliser](../actions/refocaliser.md) en apportant des soins, en nourrissant, en jouant ou en vous occupant d'un compagnon animal.
 
 **Spécial** Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons d'archétype de Maître des bêtes.
-
-

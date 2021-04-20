@@ -6,7 +6,6 @@ titleEn: Prescient Planner
 id: bh2jHyyYrkLMsIdX
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/bh2jHyyYrkLMsIdX.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/prescient-planner.json
-group: feats
 layout: dons
 ---
 **Coût** le Prix de l'objet choisi
@@ -18,5 +17,3 @@ Vous créer régulièrement des plans alambiqués et des alternatives, en utilis
 Lo'bjet doit être un élément d'équipement d'aventure (d'une des tables du livre de base ou d'autres sources d'équipement) et ne peut âs être une arme, une armure, un objet alchimique ou magique ou un autre trésor.
 
 Il doit être commun avec un niveau qui n'est pas supérieur à la moitié de votre niveau et son Encombrement doit être suffisamment bas pour que le transporter ne vous ait pas rendu encombré.
-
-

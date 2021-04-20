@@ -6,9 +6,6 @@ titleEn: Bloodline Metamorphosis
 id: GIKySPq1n7xUmICw
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/GIKySPq1n7xUmICw.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/bloodline-metamorphosis.json
-group: feats
 layout: dons
 ---
-Vous avez appris à manipuler le pouvoir inné de votre lignage et l'adaptez à vos besoins. Lorsque vous faites vos préparatifs quotidiens, vous pouvez échanger un unique sort du niveau 9 ou inférieur pour un autre sort de ce même niveau. Vous ne pouvez pas changer les sorts accordés spécifiquement par votre lignage. 
-
-
+Vous avez appris à manipuler le pouvoir inné de votre lignage et l'adaptez à vos besoins. Lorsque vous faites vos préparatifs quotidiens, vous pouvez échanger un unique sort du niveau 9 ou inférieur pour un autre sort de ce même niveau. Vous ne pouvez pas changer les sorts accordés spécifiquement par votre lignage.

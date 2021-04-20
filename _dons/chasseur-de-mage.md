@@ -6,13 +6,8 @@ titleEn: Mage Hunter
 id: mqLPCNdCSNyY7gyI
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/mqLPCNdCSNyY7gyI.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/mage-hunter.json
-group: feats
 layout: dons
 ---
-**Prérequis** [Instinct superstitieux](../class-features/instinct-superstitieux.md)
-
 **déclencheur** Une créature dans votre portée [Lance un sort](../actions/lancer-un-sort.md).
 
-Vous utilisez voter haine de la magie pour vous déchainer à la vue d'une incantation, vous permettant d'interrompre le sort d'un ennemi. Faites une [Frappe](../actions/frapper.md) de mêlée contre la créature déclencheuse. Si l'attaque est une réussite critique, vous interrompez le sort.
-
-
+Vous utilisez votre haine de la magie pour vous déchainer à la vue d'une incantation, vous permettant d'interrompre le sort d'un ennemi. Faites une [Frappe](../actions/frapper.md) au corps à corps contre la créature déclencheuse. Si l'attaque est une réussite critique, vous interrompez le sort.

@@ -6,9 +6,6 @@ titleEn: Thorough Search
 id: 9QQnv7nFpsNCGE89
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/9QQnv7nFpsNCGE89.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/thorough-search.json
-group: feats
 layout: dons
 ---
-Vous prenez votre temps pour fouiller pour vous assurer de tout trouver. Lorsque vous <a class="entity-link" data-pack="pf2e.actionspf2e" data-id="TiNDYUGlMmxzxBYU" draggable="true">Fouillez</a>, vous pouvez passer deux fois plus de temps à chercher. Normalement cela signifie que vous Fouillez à un quart de votre Vitesse, jusqu'à un maximum de 50 m par minute pour tout vérifier ou 25 m par minute pour tout vérifier avant de vous avancer. Si vous le faites, vous obtenez un bonus de circonstance de +2 à vos tests de Perception pour <a class="entity-link" data-pack="pf2e.actionspf2e" data-id="BlAOM2X92SI6HMtJ" draggable="true">Fouiller</a>.
-
-
+Vous prenez votre temps pour fouiller pour vous assurer de tout trouver. Lorsque vous <a class="entity-link" data-pack="pf2e.actionspf2e" data-id="TiNDYUGlMmxzxBYU" draggable="true">Fouillez</a>, vous pouvez passer deux fois plus de temps à chercher. Normalement cela signifie que vous Fouillez à un quart de votre Vitesse, jusqu'à un maximum de 50 m par minute pour tout vérifier ou 25 m par minute pour tout vérifier avant de vous avancer. Si vous le faites, vous obtenez un bonus de circonstances de +2 à vos tests de Perception pour <a class="entity-link" data-pack="pf2e.actionspf2e" data-id="BlAOM2X92SI6HMtJ" draggable="true">Fouiller</a>.

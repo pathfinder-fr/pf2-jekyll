@@ -6,7 +6,6 @@ titleEn: Consult The Spirits
 id: fvYwsHM9O1twQa5N
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/fvYwsHM9O1twQa5N.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/consult-the-spirits.json
-group: feats
 layout: dons
 ---
 **Prérequis** maître en Nature, Occultisme ou Religion
@@ -34,5 +33,3 @@ Passez 10 minutes et tentez un testpour <a class="entity-link" data-pack="pf2e.a
 **Échec critique** Vous contactez un ou davantage esprits malveillants. Ils vous sont hostiles, bien qu'ils ne puissent pas immédiatement apparaître. Ils répondent jusqu'à trois questions mais vous donne les informations qui vous sont nuisibles d'une certaine manière, à la discrétion du MJ.
 
 **Spécial** Vous pouvez prendre ce don plusieurs fois, en prenant à chaque fois une compétence différente dans laquelle vous êtes au moins maître. Vous pouvez utiliser ce don avec chaque compétence une fois par jour (ou une fois par heure, si vous êtes légendaire).
-
-

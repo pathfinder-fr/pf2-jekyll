@@ -6,7 +6,6 @@ titleEn: Annotate Composition
 id: PIVC14saumGNKWbo
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/PIVC14saumGNKWbo.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/annotate-composition.json
-group: feats
 layout: dons
 ---
 En transcrivant la composition sur le papier, vous pouvez créer une source de mots émouvants ou une chanson que d'autrespeuvent lire et comprendre.
@@ -18,5 +17,3 @@ Si vous possédez <a class="entity-link" data-pack="pf2e.spells-srd" data-id="kF
 Toute créature qui peut lire le langage que vous avez utilisé lorsque vous avez annoté votre composition peut Activer l'objet en dépensant une unique action, qui possède le trait concentration. Cela produit kes effets de la composition comme si la crature l'activant avait <a class="entity-link" data-pack="pf2e.actionspf2e" data-id="aBQ8ajvEBByv45yz" draggable="true">Lancé le sort</a>.
 
 Une composition que vous créez de cette manière  perd son pouvoir lors de vos prochains préparatifs quotidiens. Tant que la composition est en votre possession, vous pouvez la rendre inerte en utilisant une uniquee action qui possède le trait concentration. Vous ne pouvez pas regagner les Points de focalisation que vous avez dépensés pour créer la composition annotée jusqu'à ce qu'elle soit activée ou perde sa magie.
-
-

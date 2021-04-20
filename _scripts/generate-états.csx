@@ -7,8 +7,8 @@
 
 using System.Text.Json;
 
-await GenerateFiles("conditionitems", "_etats", DataGroup.Condition_Items, "conditionitems.db", ParseAction);
+await GenerateCollection(DataGroup.Conditions, ParseAction);
 
-static void ParseAction(JsonDocument jsonDoc, JsonDocument frJsonDoc, StreamWriter writer)
+static void ParseAction(JsonElement jsonDoc, JsonDocument frJsonDoc, StreamWriter writer)
 {
 }

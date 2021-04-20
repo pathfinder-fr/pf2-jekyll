@@ -6,12 +6,8 @@ titleEn: Song of the Fallen
 id: 4E4121lbfWgxui4y
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/4E4121lbfWgxui4y.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/song-of-the-fallen.json
-group: feats
 layout: dons
 ---
 **Prérequis** réserve de focalisation  
 
-
-Le pouvoir de déplacement de vos chansons peut conduire l'esprit des morts à se lever une fois de plus et combattre à vos côtés. Vous apprenez le sort de composition [chanson des morts au combat](../spells/chanson-des-morts-au-combat.md). Augmentez le nombre de Points de focalisation de votre réserve de focalisation de 1.
-
-
+Le pouvoir de déplacement de vos chansons peut conduire l'esprit des morts à se lever une fois de plus et combattre à vos côtés. Vous apprenez le sort de composition [chanson des morts au combat](../sorts/chanson-des-morts-au-combat.md). Augmentez le nombre de Points de focalisation de votre réserve de focalisation de 1.

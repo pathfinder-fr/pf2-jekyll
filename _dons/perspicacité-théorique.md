@@ -6,13 +6,10 @@ titleEn: Theoretical Acumen
 id: MXkklchuimVSHZyd
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/MXkklchuimVSHZyd.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/theoretical-acumen.json
-group: feats
 layout: dons
 ---
 <**Fréquence** Une fois par jour
 
-**Déclencheur** Vous obtenez un succès à un test de connaissance pour [Vous souvenir](../actions/se-souvenir-arcanes.md) pour identifier une  créature.
+**Déclencheur** Vous obtenez un succès à un test de connaissance pour [Vous souvenir](../actions/se-souvenir-arcanes.md) pour identifier une créature.
 
-Vous étudiez la forme et le comportement d'une créature pour former des hypothèses sur les moyens de surpasser ses forces. Une fois avant la fin de votre prochain tour, vous pouvez utiliser le modificateur de compétence du test déclencheur au lieu de votre modificateur du jet de sauvegarde contre une des capacités de la créature, au lieu de votre modificateur de Perception pour Chercher la créature, au lieu de votre modificateur de Duperie pour Feinter la créature ou au lieu de votre modificateur d'Intimidation pour Démoraliser la créature. De manière alternative, contre l'une des attaques de la créature, vous pouvez utiliser votre DD pour la compétence utilisée dans le test déclencheur à la place de votre CA.
-
-
+Vous étudiez la forme et le comportement d'une créature pour former des hypothèses sur les moyens de vaincre ses capacités. Une fois avant la fin de votre prochain tour, vous pouvez utiliser le modificateur de compétence du test déclencheur au lieu de votre modificateur du jet de sauvegarde contre une des capacités de la créature, au lieu de votre modificateur de Perception pour [Chercher](../actions/chercher.md) la créature, au lieu de votre modificateur de Duperie pour [Feinter](../actions/feinter.md) la créature ou au lieu de votre modificateur d'Intimidation pour [Démoraliser](../actions/démoraliser.md) la créature. De manière alternative, contre l'une des attaques de la créature, vous pouvez utiliser votre DD pour la compétence utilisée dans le test déclencheur à la place de votre CA.

@@ -6,7 +6,6 @@ titleEn: Change Shape (Beastkin)
 id: 0b3TTeQGFOiy6ykz
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/0b3TTeQGFOiy6ykz.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/change-shape-beastkin.json
-group: actions
 layout: actions
 type: action
 typeFr: Action Unique

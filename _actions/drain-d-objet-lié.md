@@ -6,7 +6,6 @@ titleEn: Drain Bonded Item
 id: v82XtjAVN4ffgVVR
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/v82XtjAVN4ffgVVR.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/drain-bonded-item.json
-group: actions
 layout: actions
 type: free
 typeFr: Action Gratuite

@@ -6,7 +6,6 @@ titleEn: Sleeper Hold
 id: E1WXnYE2QwhHQxQb
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/E1WXnYE2QwhHQxQb.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/sleeper-hold.json
-group: feats
 layout: dons
 ---
 **Conditions** Vous empoignez ou entravez une créature.
@@ -16,5 +15,3 @@ Vous pincez les points cruciaux du système nerveux de votre cible pour bloquer 
 **Succès critique** La cible tombe inconsciente pendant une minute, mais elle reste debout et ne lâche pas ce qu’elle tient en mains.
 
 **Succès**La cible est [maladroite](../conditions/maladroit.md) 1 jusqu’à la fin de son prochain tour
-
-

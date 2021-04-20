@@ -6,7 +6,6 @@ titleEn: Acrobatic Performer
 id: f0faBEUPtspdutKx
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/f0faBEUPtspdutKx.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/acrobatic-performer.json
-group: feats
 layout: dons
 ---
 **Prérequis **qualifié en Acrobaties
@@ -14,5 +13,3 @@ layout: dons
 Vous êtes un acrobate incroyable, une merveille d'évocation et vous êtes capable de capter l'attention du public avec vos prouesses. C'est une véritable représentation !
 
 Vous pouvez utiliser un test d'Acrobaties au lieu d'un test de Représentation lorsque vous utilisez l'action [Représentation](../actions/se-produire.md).
-
-

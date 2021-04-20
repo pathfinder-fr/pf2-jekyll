@@ -6,7 +6,6 @@ titleEn: Debilitating Strike
 id: bp0Up04x3dzGK5bB
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/bp0Up04x3dzGK5bB.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/debilitating-strike.json
-group: actions
 layout: actions
 type: free
 typeFr: Action Gratuite
@@ -16,4 +15,4 @@ typeFr: Action Gratuite
 La créature reçoit l’un des handicaps suivants, qui dure jusqu’à la fin de votre prochain tour.
 
 - **Handicap** La cible reçoit un malus de statut de -3 m à ses Vitesses.
-- **Handicap** La cible devient [Affaiblie](../etats/affaibli.md) 1.
+- **Handicap** La cible devient [Affaiblie](../conditions/affaibli.md) 1.

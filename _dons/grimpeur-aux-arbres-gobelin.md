@@ -6,13 +6,10 @@ titleEn: Tree Climber (Goblin)
 id: XYtnVNKt6uPcRrdH
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/XYtnVNKt6uPcRrdH.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/tree-climber-goblin.json
-group: feats
 layout: dons
 ---
 Le temps passé en forêt ou dans les canopées des jungles vous a appris à crapahuter dans les branches avec un pied assuré.
 
 Vous gagnez une vitesse d'escalade de 3 m.
 
-si vous possédez aussi le don ancestral <a class="entity-link" data-pack="pf2e.feats-srd" data-id="bo4JG09pkoS7ywSZ" draggable="true">Grimpeur des cavernes</a>, votre vitesse d'escalade augmente pour atteindre votre vitesse de déplacement lorsque vous grimpez aux arbres.
-
-
+si vous possédez aussi le don ancestral [Grimpeur des cavernes](grimpeur-des-cavernes.md), votre vitesse d'escalade augmente pour atteindre votre vitesse de déplacement lorsque vous grimpez aux arbres.

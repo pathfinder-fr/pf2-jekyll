@@ -6,7 +6,6 @@ titleEn: Halfling Luck
 id: ZbRVqf14RTJJIZXG
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/ZbRVqf14RTJJIZXG.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/halfling-luck.json
-group: feats
 layout: dons
 ---
 **Fréquence** une fois par jour
@@ -14,5 +13,3 @@ layout: dons
 **Déclencheur** Vous échouez à un test de compétence ou à un jet de sauvegarde.
 
 Votre nature insouciante donne l’impression que la malchance vous évite et, dans une certaine mesure, c’est peut-être bien le cas. Vous pouvez relancer le test qui déclenche ce pouvoir, mais vous devez alors utiliser le nouveau résultat, même s’il est moins bon que le premier.
-
-

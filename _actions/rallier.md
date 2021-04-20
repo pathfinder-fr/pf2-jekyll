@@ -6,7 +6,6 @@ titleEn: Rally
 id: xJEkXFJgEfEida27
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/xJEkXFJgEfEida27.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/rally.json
-group: actions
 layout: actions
 type: action
 typeFr: Action Unique

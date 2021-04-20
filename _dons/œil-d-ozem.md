@@ -6,11 +6,8 @@ titleEn: Eye of Ozem
 id: FVDozRTuCQQzD97D
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/FVDozRTuCQQzD97D.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/eye-of-ozem.json
-group: feats
 layout: dons
 ---
 Vous avez appris à repérer le danger de loin, ce qui facilite votre tâche de sentinelle.
 
-Vous gagnez un bonus de circonstances de +2 aux jets d’initiative lorsque vous utilisez Perception et, lorsque vous êtes en Reconnaissance, vous faites bénéficier à vos alliés un bonus de circonstances de +2 au lieu de +1.
-
-
+Vous gagnez un bonus de circonstances de +2 aux jets d’initiative lorsque vous utilisez Perception et, lorsque vous partez en Reconnaissance, vous faites bénéficier vos alliés d'un bonus de circonstances de +2 au lieu de +1.

@@ -6,11 +6,8 @@ titleEn: Discerning Strike
 id: OjvE7gaQgWiBqOhY
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/OjvE7gaQgWiBqOhY.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/discerning-strike.json
-group: feats
 layout: dons
 ---
 **Conditions** Vous avez réussi à identifier la cible avec Se souvenir au cours de ce combat.
 
-Identifier une créature est le premier pas pour trouver ses faiblesses. Faites une Frappe contre la cible ; si elle est réussie, vous infligez <a class="inline-roll roll" title="precision" data-mode="roll" data-flavor="precision" data-formula="1d6"> 1d6</a> points de dégâts de précision supplémentaires. Si vous avez réussi un test pour Vous souvenir contre la cible durant ce combat et que le type de créature était précédemment enregistré en utilisant Rapports minutieux, vous infligez aussi <a class="inline-roll roll" title="persistent bleed" data-mode="roll" data-flavor="persistent bleed" data-formula="1"> 1</a> point de saignement persistant. La créature est alors temporairement immunisée à Frappe discernante pendant 1 journée.
-
-
+Identifier une créature est le premier pas pour trouver ses faiblesses. Faites une Frappe contre la cible ; si elle est réussie, vous infligez 1d6 points de dégâts de précision supplémentaires. Si vous avez réussi un test pour Vous souvenir contre la cible durant ce combat et que le type de créature était précédemment enregistré en utilisant Rapports minutieux, vous infligez aussi 1 dégât de saignement persistant. La créature est alors temporairement immunisée à Frappe discernante pendant 1 journée.

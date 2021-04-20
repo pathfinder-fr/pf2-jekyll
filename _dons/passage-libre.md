@@ -6,11 +6,8 @@ titleEn: Unhampered Passage
 id: RFXzsfEgz7WbDCQO
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/RFXzsfEgz7WbDCQO.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/unhampered-passage.json
-group: feats
 layout: dons
 ---
 Vous n'autorisez pas les autres à vous entraver.
 
-Vous pouvez Lancer [Liberté de mouvement](../spells/liberté-de-mouvement.md) sur vous-même comme un sort primordial inné une fois par jour.
-
-
+Vous pouvez Lancer [Liberté de mouvement](../sorts/liberté-de-mouvement.md) sur vous-même comme un sort primordial inné une fois par jour.

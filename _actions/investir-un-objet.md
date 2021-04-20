@@ -6,7 +6,6 @@ titleEn: Invest an Item
 id: lvqPQDdWT2DDO0k2
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/lvqPQDdWT2DDO0k2.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/invest-an-item.json
-group: actions
 layout: actions
 type: passive
 typeFr: Passive

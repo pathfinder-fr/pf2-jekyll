@@ -6,7 +6,6 @@ titleEn: Make an Impression
 id: OX4fy22hQgUHDr0q
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/OX4fy22hQgUHDr0q.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/make-an-impression.json
-group: actions
 layout: actions
 type: passive
 typeFr: Passive

@@ -6,7 +6,6 @@ titleEn: Change Shape (Kitsune)
 id: wwvPiG2kET2rkSAG
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/wwvPiG2kET2rkSAG.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/change-shape-kitsune.json
-group: actions
 layout: actions
 type: action
 typeFr: Action Unique

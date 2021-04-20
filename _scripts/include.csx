@@ -11,14 +11,14 @@ public delegate void ParseActionMethod(JsonDocument jsonDoc, JsonDocument frJson
 
 public delegate void ParseActionMethod2(JsonElement item, JsonDocument frJsonDoc, StreamWriter writer);
 
-static async Task GenerateData(string dataName, string enFolderName, string colDir, DataGroup group, ParseActionMethod2 misc = null)
+static async Task GenerateData(DataGroup group, ParseActionMethod2 misc = null)
 {
     await Ids.EnsureIds();
 
     CurrentGroup = group;
 
     JsonDocument dataDoc;
-    using (var input = File.OpenRead($"../_ext/data-fr/{dataName}.json"))
+    using (var input = File.OpenRead($"../_ext/data-fr/{group.FoundrySystemName}.json"))
     {
         dataDoc = JsonDocument.Parse(input);
     }
@@ -34,7 +34,7 @@ static async Task GenerateData(string dataName, string enFolderName, string colD
     // on s'assure que le dossier existe déjà
     Directory.CreateDirectory($"../_data");
 
-    var targetPath = $"../_data/{colDir}.yml";
+    var targetPath = $"../_data/{group.FrenchId}.yml";
     using (var writer = new StreamWriter(targetPath))
     {
         WriteLine($"Examen des éléments...");
@@ -42,11 +42,10 @@ static async Task GenerateData(string dataName, string enFolderName, string colD
         writer.WriteLine("# ATTENTION : Ne modifiez pas ce fichier");
         writer.WriteLine("# Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction");
 
-        foreach (var item in dataDoc.RootElement.EnumerateArray())
+        foreach (var item in dataDoc.RootElement.EnumerateArray().OrderBy(i => i.GetProperty("name").GetString()))
         {
             // chargement données traduction et correspondance id <=> nom
             var id = item.GetProperty("_id").GetString();
-            var groupName = enFolderName;
             var enName = item.GetProperty("name").GetString();
             var enDesc = item.GetProperty("data").GetProperty("description").GetProperty("value").GetString();
 
@@ -63,7 +62,7 @@ static async Task GenerateData(string dataName, string enFolderName, string colD
                 continue;
             }
 
-            var trad = new TradDataEntry(id, groupName, frName, enName, frDesc, enDesc, status, string.Empty);
+            var trad = new TradDataEntry(id, frName, enName, frDesc, enDesc, status, string.Empty);
 
             if (string.IsNullOrEmpty(trad.French))
             {
@@ -80,21 +79,22 @@ static async Task GenerateData(string dataName, string enFolderName, string colD
             // on va adapter la description française au markdown
             var description = CleanupDescription(trad.FrenchDescription).Trim();
 
-            // ensuite on peut générer le fichier markdown final
-            // on suppose que le layout est le nom de la collection sans le _
-            var layout = colDir.Substring(1);
-
             writer.WriteLine($"{frNameId} :");
             writer.WriteLine($"  id: {trad.Id}");
-            writer.WriteLine($"  name: {trad.French}");
-            writer.WriteLine($"  nameEn: {trad.English}");
-            
-            writer.WriteLine($"  urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/{tradFolderName}/{trad.Id}.htm");
-            writer.WriteLine($"  urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/{enFolderName}/{enName}.json");
+            writer.WriteLine($"  nom: {trad.French}");
+            writer.WriteLine($"  nomEn: {trad.English}");
+
+            writer.WriteLine($"  urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/{group.TradFrFolderName}/{trad.Id}.htm");
+            writer.WriteLine($"  urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/{group.FoundryDbName}/{enName}.json");
+
+            if (misc != null)
+            {
+                misc(item, frJsonDoc, writer);
+            }
 
             writer.WriteLine("  description: |");
 
-            foreach(var line in description.Split(Environment.NewLine))
+            foreach (var line in description.Split(Environment.NewLine))
             {
                 writer.Write("    ");
                 writer.WriteLine(line);
@@ -108,19 +108,16 @@ static async Task GenerateData(string dataName, string enFolderName, string colD
 /// <summary>
 /// Génère les pages pour le fichiers demandés.
 /// </summary>
-/// <param name="dataName">Nom du fichier dans le projet data-fr. ex: actionspf2e.</param>
-/// <param name="enFolderName">Nom du dossier contenant les fichiers dans le module foundry https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/tree/master/packs/data sans le .db. ex: actions.</param>
-/// <param name="colDir">Nom de la collection sous jekyll, préfixée par un _. ex: _dons. Doit être une des valeurs renvoyées par <see cref="AsDataFolderName" />.</param>
 /// <param name="group">Groupe de données parmi les différentes valeurs de <see cref="DataGroup" />.</param>
 /// <param name="misc">Méthode complémentaire à invoquer pour chaque fichier pour ajouter des entête front matter dans le fichier généré.</param>
-static async Task GenerateCollection(string dataName, string enFolderName, string colDir, DataGroup group, ParseActionMethod2 misc = null)
+static async Task GenerateCollection(DataGroup group, ParseActionMethod2 misc = null)
 {
     await Ids.EnsureIds();
 
     CurrentGroup = group;
 
     JsonDocument dataDoc;
-    using (var input = File.OpenRead($"../_ext/data-fr/{dataName}.json"))
+    using (var input = File.OpenRead($"../_ext/data-fr/{group.FoundrySystemName}.json"))
     {
         dataDoc = JsonDocument.Parse(input);
     }
@@ -134,183 +131,82 @@ static async Task GenerateCollection(string dataName, string enFolderName, strin
 
 
     // on s'assure que le dossier existe déjà
-    Directory.CreateDirectory($"../{colDir}/");
+    Directory.CreateDirectory($"../_{group.FrenchId}/");
 
     WriteLine($"Examen des éléments...");
     foreach (var item in dataDoc.RootElement.EnumerateArray())
     {
         // chargement données traduction et correspondance id <=> nom
         var id = item.GetProperty("_id").GetString();
-        var groupName = enFolderName;
         var enName = item.GetProperty("name").GetString();
         var enDesc = item.GetProperty("data").GetProperty("description").GetProperty("value").GetString();
 
-        string frName, frDesc, status;
         try
         {
-            status = item.GetProperty("translations").GetProperty("fr").GetProperty("status").GetString();
-            frName = item.GetProperty("translations").GetProperty("fr").GetPropertyOrDefault("name")?.GetString();
-            frDesc = item.GetProperty("translations").GetProperty("fr").GetPropertyOrDefault("description")?.GetString();
+            string frName, frDesc, status;
+            try
+            {
+                status = item.GetProperty("translations").GetProperty("fr").GetProperty("status").GetString();
+                frName = item.GetProperty("translations").GetProperty("fr").GetPropertyOrDefault("name")?.GetString();
+                frDesc = item.GetProperty("translations").GetProperty("fr").GetPropertyOrDefault("description")?.GetString();
+            }
+            catch (Exception ex)
+            {
+                WriteLine($"Impossible de lire la traduction pour l'élément {enName} : {ex}");
+                continue;
+            }
+
+            var trad = new TradDataEntry(id, frName, enName, frDesc, enDesc, status, string.Empty);
+
+            if (string.IsNullOrEmpty(trad.French))
+            {
+                WriteLine($"La donnée {trad.English} n'a pas été traduite en français et n'est donc pas disponible (ID {trad.Id})");
+                continue;
+            }
+
+            // on détermine le nom du fichier en anglais contenant les données
+            var enNameId = AsNameId(trad.English);
+
+            // on génère le nom unique en français qui sera utilisé comme nom de fichier final
+            var frNameId = AsNameId(trad.French);
+
+            // on va adapter la description française au markdown
+            var description = CleanupDescription(trad.FrenchDescription);
+
+            // ensuite on peut générer le fichier markdown final
+            var targetPath = $"../_{group.FrenchId}/{frNameId}.md";
+            using (var writer = new StreamWriter(targetPath))
+            {
+                var layout = group.FrenchId;
+
+                WriteFileHeader(writer, trad, group, enNameId, layout);
+
+                if (misc != null)
+                {
+                    try
+                    {
+                        misc(item, frJsonDoc, writer);
+                    }
+                    catch (Exception ex)
+                    {
+                        WriteLine($"Erreur sur traitement personnalisé sur {trad.English} : {ex}");
+                        throw;
+                    }
+                }
+
+                writer.WriteLine("---");
+                writer.WriteLine(description.Trim());
+            }
         }
         catch (Exception ex)
         {
-            WriteLine($"Impossible de lire la traduction pour l'élément {enName} : {ex}");
-            continue;
-        }
-
-        var trad = new TradDataEntry(id, groupName, frName, enName, frDesc, enDesc, status, string.Empty);
-
-        if (string.IsNullOrEmpty(trad.French))
-        {
-            WriteLine($"La donnée {trad.English} n'a pas été traduite en français et n'est donc pas disponible (ID {trad.Id})");
-            continue;
-        }
-
-        // on détermine le nom du fichier en anglais contenant les données
-        var enNameId = AsNameId(trad.English);
-
-        // on génère le nom unique en français qui sera utilisé comme nom de fichier final
-        var frNameId = AsNameId(trad.French);
-
-        // on va adapter la description française au markdown
-        var description = CleanupDescription(trad.FrenchDescription);
-
-        // ensuite on peut générer le fichier markdown final
-        var targetPath = $"../{colDir}/{frNameId}.md";
-        using (var writer = new StreamWriter(targetPath))
-        {
-            // on suppose que le layout est le nom de la collection sans le _
-            var layout = colDir.Substring(1);
-
-            WriteFileHeader(writer, trad, enFolderName, enFolderName + ".db", enNameId, layout);
-
-            if (misc != null)
-            {
-                try
-                {
-                    misc(item, frJsonDoc, writer);
-                }
-                catch (Exception ex)
-                {
-                    WriteLine($"Erreur sur traitement personnalisé sur {trad.English} : {ex}");
-                    throw;
-                }
-            }
-
-            writer.WriteLine("---");
-            writer.WriteLine(description.Trim());
-        }
-    }
-}
-
-/// <summary>
-/// Génère les pages pour le fichiers demandés.
-/// </summary>
-/// <remarks>
-/// Le script fonctionne ainsi :
-///
-/// pour chaque page .htm du dossier actions du projet trads :
-///
-/// - on lit les données de traduction du projet trads
-/// - on charge le fichier anglais pour récupérer des données utiles qui ne sont pas présentes dans le fichier de traduction (type d'action)
-/// - on utilise le glossaire français pour traduire certaines infos (type d'action)
-/// </remarks>
-/// <param name="tradFolderName">Nom du dossier contenant les fichiers dans le projet de traduction. ex: feats.</param>
-/// <param name="colDir">Nom de la collection sous jekyll, préfixée par un _. ex: _dons. Doit être une des valeurs renvoyées par <see cref="AsDataFolderName" />.</param>
-/// <param name="group">Groupe de données parmi les différentes valeurs de <see cref="DataGroup" />.</param>
-/// <param name="misc">Méthode complémentaire à invoquer pour chaque fichier pour ajouter des entête front matter dans le fichier généré.</param>
-async static Task GenerateFiles(string tradFolderName, string colDir, DataGroup group, string enFolderName, ParseActionMethod misc = null)
-{
-    CurrentGroup = group;
-
-    var files = Directory.GetFiles($"../_ext/trads/data/{tradFolderName}", "*.htm");
-
-    // glossaire anglais
-    // JsonDocument enJsonDoc;
-    // using (var input = File.OpenRead("../_ext/module-en/static/lang/en.json"))
-    // {
-    //     enJsonDoc = JsonDocument.Parse(input);
-    // }
-
-    // glossaire fr
-    JsonDocument frJsonDoc;
-    using (var input = File.OpenRead("../_ext/module-fr/fr.json"))
-    {
-        frJsonDoc = JsonDocument.Parse(input);
-    }
-
-    // chargement mapping ids
-    await Ids.EnsureIds();
-
-    // on s'assure que le dossier existe déjà
-    Directory.CreateDirectory($"../{colDir}/");
-
-    WriteLine($"Examen de {files.Length} fichiers...");
-    foreach (var file in files)
-    {
-        // chargement données traduction et correspondance id <=> nom
-        var trad = ReadTradDataEntry(file);
-
-        if (string.IsNullOrEmpty(trad.French))
-        {
-            WriteLine($"La donnée {trad.English} n'a pas été traduite en français et n'est donc pas disponible (ID {trad.Id})");
-            continue;
-        }
-
-        // on détermine le nom du fichier en anglais contenant les données
-        var enName = AsNameId(trad.English);
-
-        // on génère le nom unique en français qui sera utilisé comme nom de fichier final
-        var frNameId = AsNameId(trad.French);
-
-        // chemin du fichier complet contenant les données en anglais
-        var path = $"../_ext/module-en/packs/data/{enFolderName}/{enName}.json";
-        if (!File.Exists(path))
-        {
-            WriteLine($"Impossible de trouver le fichier d'origine {enName} correspondant à {trad.English} (ID {trad.Id})");
-            continue;
-        }
-
-        // chargement document json des données en anglais
-        JsonDocument jsonDoc;
-        using (var input = File.OpenRead(path))
-        {
-            jsonDoc = JsonDocument.Parse(input);
-        }
-
-        // on va adapter la description française au markdown
-        var description = CleanupDescription(trad.FrenchDescription);
-
-        // ensuite on peut générer le fichier markdown final
-        var targetPath = $"../{colDir}/{frNameId}.md";
-        using (var writer = new StreamWriter(targetPath))
-        {
-            // on suppose que le layout est le nom de la collection sans le _
-            var layout = colDir.Substring(1);
-
-            WriteFileHeader(writer, trad, tradFolderName, enFolderName, enName, layout);
-
-            if (misc != null)
-            {
-                try
-                {
-                    misc(jsonDoc, frJsonDoc, writer);
-                }
-                catch (Exception ex)
-                {
-                    WriteLine($"Erreur sur traitement personnalisé sur {trad.English} : {ex}");
-                    throw;
-                }
-            }
-
-            writer.WriteLine("---");
-            writer.WriteLine(description);
+            WriteLine($"Impossible de lire la page {enName} (id {id}) : {ex}");
         }
     }
 }
 
 /// <summary>Contient les données de traduction française d'une entrée du compendium anglais.</summary>
-public record TradDataEntry(string Id, string Group, string French, string English, string FrenchDescription, string EnglishDescription, string Status, string OldStatus);
+public record TradDataEntry(string Id, string French, string English, string FrenchDescription, string EnglishDescription, string Status, string OldStatus);
 
 /// <summary>Lit un fichier de traduction FR et exporte les données de l'entête et les descriptions dans une classe TradDataEntry.</summary>
 public static TradDataEntry ReadTradDataEntry(string file)
@@ -321,9 +217,6 @@ public static TradDataEntry ReadTradDataEntry(string file)
 
     // ex: 0EIhRniun8jfdPeN
     var id = match.Groups[1].Value;
-
-    // ex: backgrounds
-    var group = Path.GetFileName(Path.GetDirectoryName(file));
 
     // content
     var enName = string.Empty;
@@ -368,7 +261,7 @@ public static TradDataEntry ReadTradDataEntry(string file)
         }
     }
 
-    return new TradDataEntry(id, group, frName, enName, frDesc, enDesc, status, oldStatus);
+    return new TradDataEntry(id, frName, enName, frDesc, enDesc, status, oldStatus);
 }
 
 /// <summary>Transforme un nom d'élément (action, sort, objet) en un nom unique standard, pouvant être utilisé pour un nom de fichier.</summary>
@@ -387,6 +280,7 @@ public static string AsNameId(string name)
         .Replace("[", string.Empty)
         .Replace("]", string.Empty)
         .Replace("!", string.Empty)
+        .Replace("?", string.Empty)
         .TrimEnd('-')
         .ToLowerInvariant();
 }
@@ -472,7 +366,7 @@ public static string CleanupDescription(string description)
 }
 
 /// <summary>Ecrit la partie commune à tous les scripts générant un fichier.</summary>
-public static void WriteFileHeader(StreamWriter writer, TradDataEntry trad, string tradFolderName, string enFolderName, string enName, string layout)
+public static void WriteFileHeader(StreamWriter writer, TradDataEntry trad, DataGroup group, string enName, string layout)
 {
     writer.WriteLine("---");
     writer.WriteLine("# ATTENTION : Ne modifiez pas ce fichier");
@@ -480,63 +374,11 @@ public static void WriteFileHeader(StreamWriter writer, TradDataEntry trad, stri
     writer.WriteLine($"title: {trad.French}");
     writer.WriteLine($"titleEn: {trad.English}");
     writer.WriteLine($"id: {trad.Id}");
-    writer.WriteLine($"urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/{tradFolderName}/{trad.Id}.htm");
-    writer.WriteLine($"urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/{enFolderName}/{enName}.json");
-    writer.WriteLine($"group: {trad.Group}");
+    writer.WriteLine($"urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/{group.TradFrFolderName}/{trad.Id}.htm");
+    writer.WriteLine($"urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/{group.FoundryDbName}/{enName}.json");
     if (layout != null)
     {
         writer.WriteLine($"layout: {layout}");
-    }
-}
-
-/// <summary>Renvoie le nom du dossier du projet de traduction contenant les fichiers pour le groupe de données indiqué.</summary>
-public static string AsTradFolderName(this DataGroup @this)
-{
-    switch (@this)
-    {
-        case DataGroup.Ancestry_Features: return "ancestryfeatures";
-        case DataGroup.Bestiary_Ability: return "bestiary-ability-glossary-srd";
-        case DataGroup.Class_Features: return "classfeatures";
-        case DataGroup.Condition_Items: return "conditionitems";
-        case DataGroup.Conditions: return "conditionspf2e";
-        case DataGroup.GameMaster_Guide: return "gmg-srd";
-        case DataGroup.Bestiary: return "pathfinder-bestiary";
-        case DataGroup.Bestiary_2: return "pathfinder-bestiary-2";
-        case DataGroup.Pathfinder_Society_Boons: return "pathfinder-society-boons";
-        default: return @this.ToString().ToLowerInvariant().Replace("_", "-");
-    }
-}
-
-public static DataGroup? FromTradFolderName(string tradFolderName)
-{
-    switch (tradFolderName)
-    {
-        case "ancestryfeatures": return DataGroup.Ancestry_Features;
-        case "bestiary-ability-glossary-srd": return DataGroup.Bestiary_Ability;
-        case "classfeatures": return DataGroup.Class_Features;
-        case "conditionitems": return DataGroup.Condition_Items;
-        case "conditionspf2e": return DataGroup.Conditions;
-        case "gmg-srd": return DataGroup.GameMaster_Guide;
-        case "pathfinder-bestiary": return DataGroup.Bestiary;
-        case "pathfinder-bestiary-2": return DataGroup.Bestiary_2;
-        case "pathfinder-society-boons": return DataGroup.Pathfinder_Society_Boons;
-        default:
-            if (!Enum.TryParse<DataGroup>(tradFolderName.Replace("-", "_"), true, out var result))
-            {
-                return null;
-            }
-            return result;
-    }
-}
-
-/// <summary>Pour un groupe de données, renvoie le nom du dossier de données où les fichiers doivent être écrits (sans le _).</summary>
-public static string AsDataFolderName(this DataGroup @this)
-{
-    switch (@this)
-    {
-        case DataGroup.Feats: return "dons";
-        case DataGroup.Condition_Items: return "etats";
-        default: return @this.ToString().ToLowerInvariant().Replace("_", "-");
     }
 }
 
@@ -557,41 +399,19 @@ public static void WriteArray(this StreamWriter @this, string name, IEnumerable<
         return;
     }
 
+    var padding = new string(' ', name.Length - name.TrimStart().Length);
+
     @this.WriteLine(name);
 
     foreach (var item in items.OrderBy(x => x))
     {
         if (!string.IsNullOrWhiteSpace(item))
         {
-            @this.WriteLine($"  - {item}");
+            @this.WriteLine($"{padding}  - {item}");
         }
     }
 }
 
-public enum DataGroup
-{
-    Actions,
-    Ancestries,
-    Ancestry_Features,
-    Archetypes,
-    Backgrounds,
-    Bestiary_Ability,
-    Boons_And_Curses,
-    Classes,
-    Class_Features,
-    Condition_Items,
-    Conditions,
-    Equipment,
-    Familiar_Abilities,
-    Feats,
-    GameMaster_Guide,
-    Hazards,
-    Bestiary_2,
-    Bestiary,
-    Pathfinder_Society_Boons,
-    Spell_Effects,
-    Spells
-}
 
 public record StatusEntry(string French, string English);
 
@@ -616,7 +436,7 @@ public static class Ids
     {
         if (entries == null) throw new InvalidOperationException("Vous devez appeller Ids.EnsureIds() avant de pouvoir utiliser le dictionnaire des Ids");
 
-        var groupId = group.AsTradFolderName();
+        var groupId = group.Id;
 
         if (!entries.TryGetValue(groupId, out var groupEntries))
         {
@@ -632,7 +452,7 @@ public static class Ids
     }
 }
 
-public static DataGroup? CurrentGroup;
+public static DataGroup CurrentGroup;
 
 public static string ReplaceCompendiumMatch(Match match)
 {
@@ -655,41 +475,141 @@ public static string ReplaceCompendiumMatch(Match match)
     var linkParts = link.Split('.');
     var groupName = linkParts[1]; // actionspf2e
 
-    switch (groupName)
-    {
-        case "actionspf2e": groupName = "actions"; break;
-        case "equipment-srd": groupName = "equipment"; break;
-        case "feats-srd": groupName = "feats"; break;
-        case "spells-srd": groupName = "spells"; break;
-    }
+    var dataGroup = DataGroup.FromFoundrySystemName(groupName);
 
-    var group = FromTradFolderName(groupName); // DataGroup.Actions
-    if (group == null)
+    if (dataGroup == null)
     {
-        WriteLine($"[WARNING] Impossible de trouver le groupe de données {linkParts[1]} pour le lien {link}");
+        WriteLine($"[WARNING] Impossible de trouver le groupe de données {groupName} pour le lien {link}");
         return text;
     }
 
-    var groupFolder = group.Value.AsDataFolderName(); // _actions
+    if (dataGroup.IgnoreLink)
+    {
+        return text;
+    }
+
+    var groupFolder = dataGroup.FrenchId; // actions
 
     var id = linkParts[2]; // Bcxarzksqt9ezrs6
     string frName;
     try
     {
-        frName = Ids.ResolveFrenchNameId(group.Value, id);
+        frName = Ids.ResolveFrenchNameId(dataGroup, id);
     }
     catch (Exception ex)
     {
-        WriteLine($"[WARNING] Impossible de trouver le nom français pour le lien {link} pointant vers la page {id} (groupe {group.Value}) : {ex}");
+        WriteLine($"[WARNING] Impossible de trouver le nom français pour le lien {link} pointant vers la page {id} (groupe {dataGroup}) : {ex}");
         return text;
     }
 
-    if (CurrentGroup == group)
+    if (CurrentGroup == dataGroup)
     {
         return $"[{text}]({frName}.md)";
     }
     else
     {
         return $"[{text}](../{groupFolder}/{frName}.md)";
+    }
+}
+
+public class DataGroup
+{
+    public static readonly DataGroup Actions = new DataGroup("actions", "actions", "actionspf2e", "actions.db");
+
+    public static readonly DataGroup Ancestries = new DataGroup("ancestries", "ascendances", "ancestries", "ancestries.db");
+
+    public static readonly DataGroup Conditions = new DataGroup("conditions", "conditions", "conditionitems", "conditionitems.db");
+
+    public static readonly DataGroup Feats = new DataGroup("feats", "dons", "feats-srd", "feats.db");
+
+    public static readonly DataGroup Equipments = new DataGroup("equipments", "équipements", "equipment-srd", "equipment.db");
+
+    public static readonly DataGroup FeatEffects = new DataGroup("feat-effects", "effets-don", "feat-effects", "feat-effects.db", ignoreLink: true);
+
+    public static readonly DataGroup ClassFeatures = new DataGroup("class-features", "capacité-classe", "classfeatures", "classfeatures.db");
+
+    public static readonly DataGroup Spells = new DataGroup("spells", "sorts", "spells-srd", "spells.db");
+
+    public static readonly DataGroup ActionMacros = new DataGroup("action-macros", "action-macros", "action-macros", "action-macros.db", ignoreLink: true);
+
+    public static readonly DataGroup BestiaryAbilities = new DataGroup("bestiary-ability-glossary-srd", "capacités-monstres", "bestiary-ability-glossary-srd", "bestiary-ability-glossary-srd.db");
+
+    public static readonly DataGroup AncestryFeatures = new DataGroup("ancestry-features", "capacités-ascendances", "ancestryfeatures", "ancestryfeatures.db");
+
+    public static readonly DataGroup Deities = new DataGroup("deities", "divinités", "deities", "deities.db");
+
+    public static readonly DataGroup Backgrounds = new DataGroup("backgrounds", "backgrounds", "backgrounds", "backgrounds.db");
+
+    public static readonly DataGroup FamiliarAbilities = new DataGroup("familiar-abilities", "capacités-familiers", "familiar-abilities", "familiar-abilities.db");
+
+    public static readonly DataGroup SpellEffects = new DataGroup("spell-effects", "effet-sorts", "spell-effects", "spell-effects.db");
+
+    public static readonly DataGroup Archetypes = new DataGroup("archetypes", "archétypes", "archetypes", "archetypes.db");
+
+    public static readonly DataGroup[] All = new[] {
+        Actions,
+        Ancestries,
+        Conditions,
+        Feats,
+        Equipments,
+        FeatEffects,
+        ClassFeatures,
+        Spells,
+        ActionMacros,
+        BestiaryAbilities,
+        AncestryFeatures,
+        Deities,
+        Backgrounds,
+        FamiliarAbilities,
+        SpellEffects,
+        Archetypes
+    };
+
+    /// <summary>
+    /// </summary>
+    private DataGroup(string id, string frenchId, string foundrySystemName, string foundryDbName, bool ignoreLink = false)
+    {
+        Id = id;
+        FrenchId = frenchId;
+        FoundrySystemName = foundrySystemName;
+        FoundryDbName = foundryDbName;
+        IgnoreLink = ignoreLink;
+    }
+
+    /// <summary>Identifiant unique du groupe de données, correspond au nom en anglais en minuscules.</summary>
+    public string Id { get; }
+
+    /// <summary>
+    /// Identifiant unique français du groupe de données, correspond au nom en français en minuscules et au pluriel.
+    /// Correspond au nom du dossier ou du fichier dans lequel les éléments doivent être stockés.
+    /// </summary>
+    public string FrenchId { get; }
+
+    /// <summary>Nom système dans foundry. Correspond à la propriété "name" du fichier system.json de foundry.</summary>
+    public string FoundrySystemName { get; }
+
+    /// <summary>Nom du dossier de base de données sous foundry. Correspond au nom du dossier de la propriété "path" du fichier system.json de foundry.</summary>
+    public string FoundryDbName { get; }
+
+    public bool IgnoreLink { get; }
+
+    string _tradFrFolderName;
+
+    public string TradFrFolderName => _tradFrFolderName ?? (_tradFrFolderName = FoundryDbName.Substring(0, FoundryDbName.Length - 3));
+
+    public override string ToString() => $"{Id} - {FrenchId}";
+
+    public static DataGroup FromFoundrySystemName(string foundrySystemName)
+    {
+        if (foundrySystemName == "conditionspf2e") foundrySystemName = "conditionitems";
+        return All.FirstOrDefault(x => x.FoundrySystemName == foundrySystemName) ?? throw new NotSupportedException($"Système {foundrySystemName} non supporté");
+    }
+
+    public override int GetHashCode() => Id.GetHashCode();
+
+    public override bool Equals(object obj)
+    {
+        if (obj is DataGroup other) return Id == other.Id;
+        return base.Equals(obj);
     }
 }

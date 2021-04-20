@@ -6,11 +6,8 @@ titleEn: Daemon Magic
 id: UKYO5kiOnCY1hgCD
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/UKYO5kiOnCY1hgCD.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/daemon-magic.json
-group: feats
 layout: dons
 ---
 La magie d'Abaddon circule dans votre sang et vous pouvez manier son pouvoir.
 
-Vous pouvez Lancer [Mise à mort](../spells/mise-à-mort.md) et [Simulacre de vie](../spells/simulacre-de-vie.md) chacun une fois par jour comme des sorts innés divins de niveau 2.
-
-
+Vous pouvez Lancer [Mise à mort](../sorts/mise-à-mort.md) et [Simulacre de vie](../sorts/simulacre-de-vie.md) chacun une fois par jour comme des sorts innés divins de niveau 2.

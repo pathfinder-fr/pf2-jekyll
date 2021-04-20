@@ -6,9 +6,6 @@ titleEn: Feather Step
 id: c9fHUSI5lRdXu1Ic
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/c9fHUSI5lRdXu1Ic.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/feather-step.json
-group: feats
 layout: dons
 ---
 Vous avancez prudemment et rapidement. Vous pouvez Faire un pas sur les terrains difficiles.
-
-

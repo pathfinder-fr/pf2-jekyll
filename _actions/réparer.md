@@ -6,12 +6,11 @@ titleEn: Repair
 id: bT3skovyLUtP22ME
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/bT3skovyLUtP22ME.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/repair.json
-group: actions
 layout: actions
 type: passive
 typeFr: Passive
 ---
-**Conditions** Vous avez un [kit de répération](../equipment/kit-de-réparation.md)
+**Conditions** Vous avez un [kit de répération](../équipements/kit-de-réparation.md)
 
 Vous passez dix minutes à tenter de réparer un objet endommagé, en le plaçant sur une surface stable et en utilisant le kit de réparation avec vos deux mains. Le MJ détermine le DD, sachant que le DD pour Réparer un objet donné est généralement similaire à celui pour le Fabriquer. Vous ne pouvez pas Réparer un objet détruit.
 

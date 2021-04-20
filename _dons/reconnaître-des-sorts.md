@@ -6,7 +6,6 @@ titleEn: Recognize Spell
 id: MjQyTcV8Jiv1Jtln
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/MjQyTcV8Jiv1Jtln.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/recognize-spell.json
-group: feats
 layout: dons
 ---
 **Prérequis** qualifié en Arcanes, Nature, Occultisme ou Religion
@@ -22,5 +21,3 @@ Si vous êtes qualifié dans la compétence appropriée pour la tradition du sor
 **Échec.** Vous échouez à reconnaître le sort.
 
 **Échec critique** Vous identifiez le sort de travers et le prenez pour un autre sort, déterminé par le MJ.
-
-

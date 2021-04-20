@@ -6,9 +6,6 @@ titleEn: Cremate Undead
 id: nLTTph2tgwcQghVq
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/nLTTph2tgwcQghVq.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/cremate-undead.json
-group: feats
 layout: dons
 ---
 Votre énergie positive embrase les morts-vivants. Quand vous utilisez une guérison pour blesser des morts-vivants, chacune de ces créatures qui subit des dégâts subit également un montant de dégâts de feu persistants égal au niveau du sort.
-
-

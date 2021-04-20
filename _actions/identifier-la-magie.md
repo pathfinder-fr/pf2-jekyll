@@ -6,7 +6,6 @@ titleEn: Identify Magic
 id: eReSHVEPCsdkSL4G
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/eReSHVEPCsdkSL4G.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/identify-magic.json
-group: actions
 layout: actions
 type: passive
 typeFr: Passive

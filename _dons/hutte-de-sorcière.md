@@ -6,15 +6,13 @@ titleEn: Witch's Hut
 id: Sq9muixjFptJO8Ae
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/Sq9muixjFptJO8Ae.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/witch-s-hut.json
-group: feats
 layout: dons
 ---
 Votre foyer est une structure animée qui obéit à vos ordres. En accomplissant un rite qui dure un jour, vous créez un objet animé à partir d'une hutte, d'une petite maison, d'un chariot bâché, d'une tente ou d'uneconstruction similaire de taille Gigantesque.
 
-La hutte utilise votre CA, vos modificateurs de sauvegarde et votre modificateur de Perception et possède 150 PV et une solidité de 10. Elle a la capacité <em>armure construite</em>, signifiant qu'une fois qu'elle est réduite à moins de la moitié de ses Points de vie ou immédiatement si elle est endommagée par un coup critique, sa CA est réduite de 4 jusqu'à ce qu'elle soit réparée.
+La hutte utilise votre CA, vos modificateurs de sauvegarde et votre modificateur de Perception et possède 150 PV et une solidité de 10. Elle a la capacité *armure construite*, signifiant qu'une fois qu'elle est réduite à moins de la moitié de ses Points de vie ou immédiatement si elle est endommagée par un coup critique, sa CA est réduite de 4 jusqu'à ce qu'elle soit réparée.
 
 La hutte ne peut attaquer ou faire de test de compétence. Vous pouvez donner à la hutte un ordre par une action unique, qui possède les traits audible et concentration ; après 1 round pour sa propre reconfiguration, la hutte suitt alors cet ordre jusqu'à ce que vous lui en donniez un différent.
-
 
 - **Garde** La hutte surveille pour des maraudeurs dans les 40 m en utilisant votre modificateur de Perception et crie si elle en aperçoit.
 - **Fermeture** Chaque entrée de la hutte est scellée avec un sort de @Compendium[pf2e.spells-srd.Azoh0BSoCASrA1lr]{Verrouillage.
@@ -22,5 +20,3 @@ La hutte ne peut attaquer ou faire de test de compétence. Vous pouvez donner à
 - **Cache toi** La hutte apparaît être un objet normal et courant de son type. C'est un effet d'illusion de niveau 10.
 
 Vous ne pouvez avoir qu'une unique hutte au même moment. Si vous en animez une autre, la précédente hutte revient immédiatement à sa forme courante originelle. Si vous mourrez, la hutte continue à suivre le dernier ordre que vous lui avez donné indéfiniment.
-
-

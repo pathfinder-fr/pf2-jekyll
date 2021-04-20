@@ -6,11 +6,8 @@ titleEn: Combat Climber
 id: 09PurtIanNUPfNRq
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/09PurtIanNUPfNRq.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/combat-climber.json
-group: feats
 layout: dons
 ---
 **Prérequis** qualifié en Athlétisme
 
 Vos techniques vous permettent de combattre quand vous escaladez. Vous n’êtes pas pris au dépourvu pendant que vous Escaladez et vous pouvez Escalader avec une main occupée. Vous devez toujours utiliser l’autre main et vos deux jambes pour Escalader.
-
-

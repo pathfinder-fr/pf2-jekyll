@@ -7,8 +7,8 @@
 
 using System.Text.Json;
 
-await GenerateFiles("feats", "_dons", DataGroup.Feats, "feats.db", ParseAction);
+await GenerateCollection(DataGroup.Feats, ParseAction);
 
-static void ParseAction(JsonDocument jsonDoc, JsonDocument frJsonDoc, StreamWriter writer)
+static void ParseAction(JsonElement jsonDoc, JsonDocument frJsonDoc, StreamWriter writer)
 {
 }

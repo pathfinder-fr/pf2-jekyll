@@ -6,9 +6,6 @@ titleEn: Guarded Movement
 id: fO1vRDEfl9pysfLU
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/fO1vRDEfl9pysfLU.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/guarded-movement.json
-group: feats
 layout: dons
 ---
 Vous êtes toujours sur vos gardes, même lorsque vous vous déplacez. Vous bénéficiez d’un bonus de circonstances de +4 à la CA contre les réactions déclenchées par vos déplacements.
-
-

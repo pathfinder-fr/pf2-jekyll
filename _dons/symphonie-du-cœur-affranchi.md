@@ -6,9 +6,6 @@ titleEn: Symphony Of The Unfettered Heart
 id: VJl2xHDKr0HxTUrs
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/VJl2xHDKr0HxTUrs.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/symphony-of-the-unfettered-heart.json
-group: feats
 layout: dons
 ---
-Vous apprenez le sort de composition [Symphonie du cœur affranchi](../spells/symphonie-du-cœur-affranchi.md) qui vous permet de protéger un allié contre les conditions incapacitantes.
-
-
+Vous apprenez le sort de composition [Symphonie du cœur affranchi](../sorts/symphonie-du-cœur-affranchi.md) qui vous permet de protéger un allié contre les conditions incapacitantes.

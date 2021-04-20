@@ -6,9 +6,8 @@ titleEn: Swashbuckler's Riposte
 id: lZ0swL9EEUgbAuaZ
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/lZ0swL9EEUgbAuaZ.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/swashbuckler-s-riposte.json
-group: feats
 layout: dons
 ---
-Vous avez appris à riposter contre les attaques mal portées. Vous obtenez la réaction [Riposte opportune](../actions/riposte-opportune.md).
+Vous avez appris à riposter contre les attaques mal portées.
 
-
+Vous obtenez la réaction [Riposte opportune](../actions/riposte-opportune.md).

@@ -6,9 +6,8 @@ titleEn: Magical Scholastics
 id: AuIE19F9rY3YvXf6
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/AuIE19F9rY3YvXf6.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/magical-scholastics.json
-group: feats
 layout: dons
 ---
-Alors que l'étude est la clé de votre succès, un peu de magie est toujours un outil utile lorsqu'il s'agit de découvrir les secrets du passé. Vous obtenez les tours de magie innés occultes [Assistance divine](../spells/assistance-divine.md), [Détection de la magie](../actions/détection-de-la-magie.md) et [Lecture de l'aura](../spells/lecture-de-l-aura.md).
+Alors que l'étude est la clé de votre succès, un peu de magie est toujours un outil utile lorsqu'il s'agit de découvrir les secrets du passé.
 
-
+Vous obtenez les tours de magie innés occultes [Assistance divine](../sorts/assistance-divine.md), [Détection de la magie](../actions/détection-de-la-magie.md) et [Lecture de l'aura](../sorts/lecture-de-l-aura.md).

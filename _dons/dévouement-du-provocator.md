@@ -6,7 +6,6 @@ titleEn: Provocator Dedication
 id: VJ3wIsfmabK02SNg
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/VJ3wIsfmabK02SNg.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/provocator-dedication.json
-group: feats
 layout: dons
 ---
 **Accès** Avoir réussi à vaincre les eberarks au sein de l'Irorium.
@@ -18,5 +17,3 @@ Vous devenez qualifié avec les armes simples, les armes de guerre et une arme a
 Vous devenez un expert en Représentation et à votre choix soit en Acrobaties, soit en Athlétisme. Si vous étiez déjà expert dans ces trois compétences, vous devenez un expert dans une compétence de votre choix.
 
 **Spécial** Vous ne pouvez choisir un autre don de dévouement avant d'avoir d'abord choisi deux autre dons de l'Archétype du Provocator.
-
-

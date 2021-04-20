@@ -6,7 +6,6 @@ titleEn: Life Leap
 id: aOIZvx5fx5jVHHOO
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/aOIZvx5fx5jVHHOO.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/life-leap.json
-group: feats
 layout: dons
 ---
 **Condition** Vous devez être adjacent à une créature vivante.
@@ -18,5 +17,3 @@ Vous vous déplacez de votre lieu actuel vers un autre lieu qui reste toujours a
 Pour déterminer si une position est valide, vous utilisez les mêmes règles que pour la prise en tenaille : une ligne à travers le centre des deux cases doit passer par les côtés opposés ou les coins de la case de la créature.
 
 Vous passez au travers de la force vitale de la créature, en apparaissant dans le lieu choisi ; Cela ne déclenche aucune réaction basée sur le déplacement. Vous devez être capable de voir votre destination et vous ne pouvez pas vous déplacer plus loin que ce que votre Vitesse permettrait.
-
-

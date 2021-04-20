@@ -6,7 +6,6 @@ titleEn: Universal Longevity
 id: EiiCCJqWnN5RYMV4
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/EiiCCJqWnN5RYMV4.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/universal-longevity.json
-group: feats
 layout: dons
 ---
 **Fréquence** une fois par jour
@@ -14,5 +13,3 @@ layout: dons
 Vous avez perfectionné votre capacité à entretenir les compétences que vous avez apprises au cours de votre longue vie et vous ne vous trouvez ainsi jamais véritablement inexpérimenté dans une compétence.
 
 En méditant sur votre existence, vous pouvez modifier les compétences que vous avez sélectionnées dans le cadre des dons Longévité ancestrale et Longévité experte.
-
-

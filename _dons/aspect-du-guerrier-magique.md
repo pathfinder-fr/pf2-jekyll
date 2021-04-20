@@ -6,11 +6,8 @@ titleEn: Magic Warrior Aspect
 id: G43fiFtxFR24CWRs
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/G43fiFtxFR24CWRs.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/magic-warrior-aspect.json
-group: feats
 layout: dons
 ---
 Vous pouvez changer votre apparence pour gagner un aspect de l’animal représenté sur votre masque.
 
-Vous gagnez le sort focalisé [Aspect du guerrier magique](../spells/aspect-du-guerrier-magique.md).
-
-
+Vous gagnez le sort focalisé [Aspect du guerrier magique](../sorts/aspect-du-guerrier-magique.md).

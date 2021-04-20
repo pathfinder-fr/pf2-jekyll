@@ -6,69 +6,38 @@ using System.Text.RegularExpressions;
 
 var data = new Dictionary<string, Dictionary<string, StatusEntry>>();
 
-var files = Directory.GetFiles("../_ext/trads/data", "*.htm", new EnumerationOptions { RecurseSubdirectories = true });
-
-foreach (var file in files)
+foreach (var file in Directory.GetFiles("../_ext/data-fr", "*.json"))
 {
-    // data/backgrounds/0EIhRniun8jfdPeN.htm => 0EIhRniun8jfdPeN
-    var match = Regex.Match(file, @"(\w{16})\.htm");
-    if (!match.Success) continue;
-
-    // ex: 0EIhRniun8jfdPeN
-    var id = match.Groups[1].Value;
-
-    // ex: backgrounds
-    var group = Path.GetFileName(Path.GetDirectoryName(file));
-
-    // content
-    var enName = string.Empty;
-    var frName = string.Empty;
-    var status = string.Empty;
-    var oldStatus = string.Empty;
-    var isEnDesc = false;
-    var isFrDesc = false;
-    var enDesc = string.Empty;
-    var frDesc = string.Empty;
-
-    foreach (var line in File.ReadAllLines(file, Encoding.UTF8))
+    var systemId = Path.GetFileNameWithoutExtension(file);
+    var group = DataGroup.All.FirstOrDefault(g => g.FoundrySystemName == systemId);
+    if (group == null)
     {
-        if (line.StartsWith("Name:"))
-            enName = line.Substring(5).TrimStart();
-        else if (line.StartsWith("Nom:"))
-            frName = line.Substring(4).TrimStart();
-        else if (line.StartsWith("État:"))
-            status = line.Substring(5).TrimStart();
-        else if (line.StartsWith("État d'origine:"))
-            oldStatus = line.Substring(15).TrimStart();
-        else if (line.StartsWith("------ Description (en) ------"))
-        {
-            isEnDesc = true;
-            isFrDesc = false;
-            continue;
-        }
-        else if (line.StartsWith("------ Description (fr) ------"))
-        {
-            isFrDesc = true;
-            isEnDesc = false;
-            continue;
-        }
-
-        if (isEnDesc)
-        {
-            enDesc += line;
-        }
-        else if (isFrDesc)
-        {
-            frDesc += line;
-        }
+        WriteLine($"Fichier de données {systemId} non supporté, ignoré");
+        continue;
     }
 
-    if(!data.TryGetValue(group, out var ids))
+    JsonDocument dataDoc;
+    using (var input = File.OpenRead(file))
     {
-        data[group] = new Dictionary<string, StatusEntry>();
+        dataDoc = JsonDocument.Parse(input);
     }
 
-    data[group].Add(id, new StatusEntry(frName, enName));
+    using (dataDoc)
+    {
+        if (!data.TryGetValue(group.Id, out var ids))
+        {
+            ids = data[group.Id] = new Dictionary<string, StatusEntry>();
+        }
+
+        foreach (var item in dataDoc.RootElement.EnumerateArray().OrderBy(x => x.GetProperty("_id").GetString()))
+        {
+            var id = item.GetProperty("_id").GetString();
+            var enName = item.GetProperty("name").GetString();
+            var frName = item.GetProperty("translations").GetProperty("fr").GetPropertyOrDefault("name")?.GetString();
+
+            ids.Add(id, new StatusEntry(frName, enName));
+        }
+    }
 }
 
 Directory.CreateDirectory("../_data");

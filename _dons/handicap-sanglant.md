@@ -6,14 +6,10 @@ titleEn: Bloody Debilitation
 id: QicYF43HqgpOBLzo
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/QicYF43HqgpOBLzo.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/bloody-debilitation.json
-group: feats
 layout: dons
 ---
-**Prérequis** qualifié en Médecine, [Frappes incapacitantes](../class-features/frappes-incapacitantes.md)
+**Prérequis** qualifié en Médecine, [Frappes incapacitantes](../capacité-classe/frappes-incapacitantes.md)
 
 Vos attaques coupent les artères et les veines. Ajoutez le handicap suivant à la liste dans laquelle vous pouvez choisir lorsque vous utilisez [Frappe incapacitante](../actions/frappe-incapacitante.md).
 
-
 - **Handicap** La cible subit [[/r 3d6 #saignement persistant]] dégâts de saignement persistant.
-
-

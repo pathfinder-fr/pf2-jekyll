@@ -6,9 +6,6 @@ titleEn: Master Spotter (Investigator)
 id: t8CAK8ylu23PUxbn
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/t8CAK8ylu23PUxbn.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/master-spotter-investigator.json
-group: feats
 layout: dons
 ---
 votre rang de maîtrise en Perception passe à maître.
-
-

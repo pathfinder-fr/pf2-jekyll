@@ -6,7 +6,6 @@ titleEn: Disarm
 id: Dt6B1slsBy8ipJu9
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/Dt6B1slsBy8ipJu9.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/disarm.json
-group: actions
 layout: actions
 type: action
 typeFr: Action Unique
@@ -19,4 +18,4 @@ Vous tentez d’obliger un adversaire à lâcher un objet qu’il tient. Effectu
 
 **Succès** Vous affaiblissez la prise de votre adversaire sur l’objet. Jusqu’au début du tour de cette créature, les tentatives pour la Désarmer et l’obliger à lâcher l’objet bénéficient d’un bonus de circonstances de +2 et la cible subit un malus de circonstances de −2 aux attaques effectuées avec l’objet ou aux autres tests nécessitant une prise ferme sur l’objet.
 
-**Échec critique**Vous perdez l’équilibre et êtes [Pris au dépourvu](../etats/pris-au-dépourvu.md) jusqu’au début de votre prochain tour
+**Échec critique**Vous perdez l’équilibre et êtes [Pris au dépourvu](../conditions/pris-au-dépourvu.md) jusqu’au début de votre prochain tour

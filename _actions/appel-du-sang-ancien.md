@@ -6,7 +6,6 @@ titleEn: Call on Ancient Blood
 id: 8w6esW689NNbbq3i
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/actions/8w6esW689NNbbq3i.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/actions.db/call-on-ancient-blood.json
-group: actions
 layout: actions
 type: reaction
 typeFr: Réaction

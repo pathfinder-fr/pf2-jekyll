@@ -6,11 +6,8 @@ titleEn: Fiendish Eyes
 id: LUXBuTAuK1glHOkJ
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/LUXBuTAuK1glHOkJ.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/fiendish-eyes.json
-group: feats
 layout: dons
 ---
-Vous pouvez voir dans l'obscurité aussi facilement qu'un fielon. Vous obtenez [Vision dans le noir](../ancestry-features/vision-dans-le-noir.md).
+Vous pouvez voir dans l'obscurité aussi facilement qu'un fiélon. Vous obtenez [Vision dans le noir](../capacités-ascendances/vision-dans-le-noir.md).
 
 **Spécial** Vous ne pouvez choisir ce don qu'au niveau 1 et vous ne pouvez ni le perdre, ni l'obtenir par le biais du réapprentissage.
-
-

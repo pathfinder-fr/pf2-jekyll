@@ -6,9 +6,6 @@ titleEn: Monk's Flurry
 id: bBORql3kKsSyXllk
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/bBORql3kKsSyXllk.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/monk-s-flurry.json
-group: feats
 layout: dons
 ---
 Vous bénéficiez de l’action Déluge de coups.
-
-

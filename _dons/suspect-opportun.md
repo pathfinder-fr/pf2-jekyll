@@ -6,7 +6,6 @@ titleEn: Suspect of Opportunity
 id: Sc9clbAXe97vlzxM
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/Sc9clbAXe97vlzxM.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/suspect-of-opportunity.json
-group: feats
 layout: dons
 ---
 **Fréquence** une fois par heure
@@ -16,5 +15,3 @@ layout: dons
 Quelques fois quelqu'un s'introduit dans votre affaire de manière inattendue, comme une embuscade envoyée pour pouvoir mettre un terme à votre enquête. Vous avez appris à compartimenter votre piste principale et à en suivre une nouvelle pendant la situation délicate actuelle.
 
 Vous <a class="entity-link" data-pack="pf2e.actionspf2e" data-id="xTK2zsWFyxSJvYbX" draggable="true"> Suivez une piste</a> contre l'ennemi déclencheur, mettant de côté sans la terminer une de vos pistes alors actives, si vous avez deux pistes. À la fin de ce combat, vous arrêtez de Suivre la piste contre l'ennemi déclencheur pour reprendre la piste originelle, si vous en aviez une.
-
-

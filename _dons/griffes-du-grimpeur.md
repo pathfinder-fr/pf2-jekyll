@@ -6,11 +6,8 @@ titleEn: Climbing Claws
 id: TlMSleKR8Bh0EuSW
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/TlMSleKR8Bh0EuSW.htm
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/climbing-claws.json
-group: feats
 layout: dons
 ---
 Vous pouvez étendre vos griffes pour vous aider à Escalader.
 
 Vous obtenez une Vitesse d'escalade de 3 m.
-
-
