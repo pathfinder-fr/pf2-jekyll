@@ -9,7 +9,7 @@ urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/pack
 group: ancestries
 layout: ascendances
 ---
-<em>Vagabonds curieux et grégaires, les hommes-félins combinent des caractéristiques des félins et des humanoïdes à la fois en apparence et en tempérament. Ils apprécient apprendre de nouvelles choses, collectionner de nouvelles histoires et des babioles et s'assurer que les êtres qui leur sont chers soient en sécurité et heureux. Les hommes-félins se voient comme des gardiens choisis des lieux naturels du monde et sont souvent imprudemment braves, même en face d'une opposition surpuissante.</em>
+*Vagabonds curieux et grégaires, les hommes-félins combinent des caractéristiques des félins et des humanoïdes à la fois en apparence et en tempérament. Ils apprécient apprendre de nouvelles choses, collectionner de nouvelles histoires et des babioles et s'assurer que les êtres qui leur sont chers soient en sécurité et heureux. Les hommes-félins se voient comme des gardiens choisis des lieux naturels du monde et sont souvent imprudemment braves, même en face d'une opposition surpuissante.*
 
 Les hommes-félins sont des humanoïdes pleins d'entrain et actifs qui se délectent de la découverte, que ce soit de ruines cachées ou d'un lieu confortable pour faire une sieste. Ils sont particulièrement sociables, à la fois au sein de leurs communautés trés soudées et aussi avec les autres créatures qu'ils rencontrent. Remarquablement courageux, les hommes-félins se voient comme les gardiens du monde contre les forces qui voudraient l'assaillir et croient que des communautés fortes, emplies d'expérience et d'amélioration continuelle d'elles-mêmes les aideront dans ce combat.
 

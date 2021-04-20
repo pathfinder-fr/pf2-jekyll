@@ -9,7 +9,7 @@ urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/pack
 group: ancestries
 layout: ascendances
 ---
-<em>Ceci est une ascendance vierge pour une ascendance maison.</em>
+*Ceci est une ascendance vierge pour une ascendance maison.*
 
 Cette feuille ne fournit aucune automatisation mais peut être utilisée pour un glisser déposer sur un acteur.
 

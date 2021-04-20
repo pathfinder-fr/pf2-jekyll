@@ -9,7 +9,7 @@ urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/pack
 group: ancestries
 layout: ascendances
 ---
-<em>Autrefois humains et désormais autre chose, les fetchelins démontrent l'influence ancienne du Plan de l'ombre à travers des teints monochromes, des yeux brillants et l'invocation d'ombres surnaturelles.</em>
+*Autrefois humains et désormais autre chose, les fetchelins démontrent l'influence ancienne du Plan de l'ombre à travers des teints monochromes, des yeux brillants et l'invocation d'ombres surnaturelles.*
 
 Les fetchelins sont un peuple frappant dont la peau apparaît être totalement drainée de sa couleur. Ces êtres agiles et sombres semblent se noyer et s'évanouir dans la pénombre. Ils voient dans l'obscurité, exercent un contrôle sur les ombres et ont d'étranges pouvoirs occultes. Certains fetchelins développent assez leurs pouvoirs pour voyager entre le Plan de l'ombre et le Plan matériel, laissant les autres ascendances murmurer à propos des personnes qui émergent des coins sombres et qui s'évanouissent sans laisser de traces. Par la magie ou d'autres moyens, ils se sont répandus à travers Golarion et les plans de l'au-delà, étant aussi adaptables que les humains qu'il furent autrefois.
 

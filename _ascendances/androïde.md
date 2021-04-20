@@ -9,7 +9,7 @@ urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/pack
 group: ancestries
 layout: ascendances
 ---
-<em>Merveilles technologiques venus d'un autre monde, les androïdes ont des corps synthétiques et des âmes vivantes. Leur nature duale les rend vifs lorsqu'il s'agit de réfléchir et calmes sous la pression, mais aussi à l'aise dans l'immobilité et la solitude.</em>
+*Merveilles technologiques venus d'un autre monde, les androïdes ont des corps synthétiques et des âmes vivantes. Leur nature duale les rend vifs lorsqu'il s'agit de réfléchir et calmes sous la pression, mais aussi à l'aise dans l'immobilité et la solitude.*
 
 Les androïdes sont arrivés pour la première fois sur Golarion durant la Pluie d'Étoiles, lorsqu'un vaisseau interstellaire venu de la très lointaine planète d'Androffa s'est écrasé, répandant des débris au travers de la Numérie. Alors que certains androïdes survivants de ce crash arpentent toujours aujourd'hui Golarion, la plupart furent créés à partir des capsules de technologie, connues sous le nom de fonderies, qui opèrent de manière sporadique au sein de l'épave du vaisseau spatial. Les androïdes nés de ces ventres mécaniques possèdent des corps adultes et des âmes neuves, à la fois organiques et synthétiques ; ils émergent en connaissant seulement la langue de leurs créateurs et les compétences motrices nécessaires à leur survie. Ils n'ont aucune compréhension de leur environnement, de leur origine ou de leur but. La plupart d'entre eux apprenne à se comporter à travers une observation affûtée au cours de leur vagabondage en Numérie.
 

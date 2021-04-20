@@ -9,7 +9,7 @@ urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/pack
 group: ancestries
 layout: ascendances
 ---
-<em>Plus imprévisibles et disparates que n’importe quel autre peuple habitant sur Golarion, les humains font preuve d’une volonté exceptionnelle qui les pousse à s’étendre envers et contre tout. Si de nombreuses civilisations ont prospéré avant l’ascension de l’humanité, celle-ci est à l’origine des plus grandes et plus terribles sociétés de l’histoire et elle constitue aujourd’hui la majorité de la population du pourtour de la mer Intérieure.</em>
+*Plus imprévisibles et disparates que n’importe quel autre peuple habitant sur Golarion, les humains font preuve d’une volonté exceptionnelle qui les pousse à s’étendre envers et contre tout. Si de nombreuses civilisations ont prospéré avant l’ascension de l’humanité, celle-ci est à l’origine des plus grandes et plus terribles sociétés de l’histoire et elle constitue aujourd’hui la majorité de la population du pourtour de la mer Intérieure.*
 
 L’ambition, la diversité et le potentiel exceptionnel des humains leur ont permis de devenir l’ascendance dominante de Golarion. Leurs empires et nations couvrent de vastes territoires et leurs habitants se taillent des noms à la pointe de l’épée ou à la puissance de leurs sorts. L’humanité, aussi diverse que turbulente, se décline d’un extrême à l’autre, allant des peuples nomades aux impérialistes et des individus les plus sinistres aux plus saints. De nombreux humains se lancent à l’aventure pour explorer, cartographier le multivers, chercher des trésors perdus ou mener de grandes armées à la conquête de leurs voisins... pour la simple raison qu’ils le peuvent.
 

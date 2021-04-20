@@ -298,6 +298,7 @@ public static string CleanupDescription(string description)
     description = Regex.Replace(description, @"<p>", string.Empty);
     description = Regex.Replace(description, @"</p>", Environment.NewLine);
 
+
     // sauts de ligne <br>
     description = Regex.Replace(description, @"<br( ?/)?>", "  " + Environment.NewLine);
 
@@ -316,6 +317,9 @@ public static string CleanupDescription(string description)
 
     // gras <strong>
     description = Regex.Replace(description, @"</?strong>", "**");
+
+    // italique <em>
+    description = Regex.Replace(description, @"</?em>", "*");
 
     // espaces insécables &nbsp;
     description = Regex.Replace(description, @"&nbsp;", " ");

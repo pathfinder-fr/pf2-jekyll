@@ -9,7 +9,7 @@ urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/pack
 group: ancestries
 layout: ascendances
 ---
-<em>Les halfelins ne se revendiquent d’aucune nation et leurs villes sont rarement plus que de simples villages. Ils résident en général avec les humains dans l’enceinte de grandes villes où ils vivent dans de petites communautés aux côtés des grandes gens. De nombreux halfelins mènent une vie parfaitement épanouissante dans l’ombre de leurs grands voisins. D’autres préfèrent une existence plus nomade, partent fouler les chemins et profitent de toutes les opportunités et aventures qui se présentent à eux.</em>
+*Les halfelins ne se revendiquent d’aucune nation et leurs villes sont rarement plus que de simples villages. Ils résident en général avec les humains dans l’enceinte de grandes villes où ils vivent dans de petites communautés aux côtés des grandes gens. De nombreux halfelins mènent une vie parfaitement épanouissante dans l’ombre de leurs grands voisins. D’autres préfèrent une existence plus nomade, partent fouler les chemins et profitent de toutes les opportunités et aventures qui se présentent à eux.*
 
 Optimistes et joyeux, dotés d’une chance surnaturelle et animés par une puissante soif de voyage, les halfelins compensent leur petite stature par du courage et de la curiosité, qu’ils possèdent en abondance. D’un naturel plutôt décontracté, ils s’enflamment cependant facilement et font partie des opportunistes de la meilleure école, en faisant toujours passer la joie avant la violence. Même dans les pires situations, les halfelins perdent rarement leur sens de l’humour.
 

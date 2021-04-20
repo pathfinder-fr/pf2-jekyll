@@ -9,7 +9,7 @@ urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/pack
 group: ancestries
 layout: ascendances
 ---
-<em>Les kitsunes sont un peuple charismatique et drôle avec un lien vers le spirituel qui leur accorde des capacités magiques avec, en premier lieu, le pouvoir de changer de forme pour adopter d'autres formes. Qu'il s'agisse de se faire passer pour un autre peuple ou de garder leur queue haute, les kitsunes sont de fins observateurs des sociétés qui les entourent.</em>
+*Les kitsunes sont un peuple charismatique et drôle avec un lien vers le spirituel qui leur accorde des capacités magiques avec, en premier lieu, le pouvoir de changer de forme pour adopter d'autres formes. Qu'il s'agisse de se faire passer pour un autre peuple ou de garder leur queue haute, les kitsunes sont de fins observateurs des sociétés qui les entourent.*
 
 Les kitsunes dont des changeurs de forme qui possédent deux formes: la première est celle d'un humanoïde avec une tête de renard et une autre qui est largement dépendante de l'endroit où ils ont été élevés. Ceux élevés dans des endroits peuplés ont souvent une forme appelée dépourvue de queue — un corps d'humanoïde sans aucun trait de renard qui ressemble à une ascendance plus courante, comme celle d'un elfe ou d'un humain. Dans les zones rurales ou boisées, leur seconde forme est plus régulièrement celle d'un renard.
 

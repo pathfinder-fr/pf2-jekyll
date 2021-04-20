@@ -9,7 +9,7 @@ urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/pack
 group: ancestries
 layout: ascendances
 ---
-<em>Gardiens et émissaires de l’environnement, les léchis sont des esprits immortels de la nature à qui a été accordée une forme physique temporaire.</em>
+*Gardiens et émissaires de l’environnement, les léchis sont des esprits immortels de la nature à qui a été accordée une forme physique temporaire.*
 
 Les léchis «naissent» lorsqu’un druide de talent ou un autre maître de la magie primordiale effectue un rituel au cours duquel il crée un réceptacle adéquat, qui est ensuite choisi par un esprit comme hôte temporaire. Les léchis deviennent autonomes dès que le rituel est terminé et ne dépendent donc plus du druide qui leur a donné vie, même s’il est fréquent que des léchis conservent des liens permanents avec leurs créateurs.
 

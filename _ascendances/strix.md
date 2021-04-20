@@ -9,7 +9,7 @@ urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/pack
 group: ancestries
 layout: ascendances
 ---
-<em>Connu comme les itariis dans leur propre langue, les strix sont des humanoïdes aviaires reclus dévoués à leurs foyers et à leurs tribus. Ils défendent leurs précieuses communautés avec leurs larges envergures et des ergots acérés.</em>
+*Connu comme les itariis dans leur propre langue, les strix sont des humanoïdes aviaires reclus dévoués à leurs foyers et à leurs tribus. Ils défendent leurs précieuses communautés avec leurs larges envergures et des ergots acérés.*
 
 Les strix valorisent la férocité, la vengeance et le dévouement par dessus tout. Leurs envergure sombre et formidable et leur réputation ancienne de tirer revanche pour tous les membres de leur famille abattus les ont dépeints comme des diables ailés aux yeux des populations humaines avoisinantes. En contradiction de leur nature incomprise, les strix se vantent de posséder une culture spirituelle, artistique et pleine de compassion qui est rarement perçue en dehors de leurs perchoirs.
 

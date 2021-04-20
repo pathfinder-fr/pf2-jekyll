@@ -9,7 +9,7 @@ urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/pack
 group: ancestries
 layout: ascendances
 ---
-<em>Les ysokis — comme les hommes-rats s'apellent eux-mêmes — sont une ascendance intelligente, adaptable et méticuleuse qui regroupe joyeusement ses grandes familles dans de très petits espaces de vie.</em>
+*Les ysokis — comme les hommes-rats s'apellent eux-mêmes — sont une ascendance intelligente, adaptable et méticuleuse qui regroupe joyeusement ses grandes familles dans de très petits espaces de vie.*
 
 La plupart des humanoïdes qui habitent à la surface appellent les ysokis 'hommes-rats' et les connaissent comme un peuple courant qui préfère vivre à l'étroit, avec jusqu'à 100 individus au sein d'une maison donnée. S'ils ne peuvent trouver de maisons en ville, les ysokis peuvent, à la place, choisir de vivre dans les caves ou dans des complexes de cavernes, lesquels leur permettent de stocker pour la multitude les biens variés qu'ils rapportent de leurs expéditions commerciales.
 

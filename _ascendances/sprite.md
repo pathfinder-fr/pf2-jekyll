@@ -9,7 +9,7 @@ urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/pack
 group: ancestries
 layout: ascendances
 ---
-<em>Les sprites sont des créatures minuscules, fantaisistes et éxubérantes du royaume des fées connus sous le nom de Premier monde. Ils adorent jouer des tours, explorer de nouvelles choses et embrasser tout ce qui a trait à la magie.</em>
+*Les sprites sont des créatures minuscules, fantaisistes et éxubérantes du royaume des fées connus sous le nom de Premier monde. Ils adorent jouer des tours, explorer de nouvelles choses et embrasser tout ce qui a trait à la magie.*
 
 Lorsque la plupart des gens s'imaginent une fée, il y a des chances qu'ils pensent à un sprite. La majorité des sprites restent dans le Premier Monde où ils sont essentiellement immortels, se réincarnant en une nouvelle forme de fée lorsque leur vie parvient à sa fin. Certains se mêlent les uns aux autres pour former un corps plus substantiel ou se séparent en plusieurs plus petites fées. Quoi qu'il en soit, les sprites sont incroyablement curieux à propos de toutes les formes de magie, conduisant un nombre significatif à se risquer sur le monde mortel pour explorer les nouvelles possibilités offertes par la nature inhabituellement statique de l'existence mortelle. Ces créatures se mélangent avec les autres, en plus petits groupes de camarades sur le Plan Matériel, incluant les éxilés du Premier Monde, ceux dont la famille a noué des pactes avec les mortels et même des individus contemplatifs curieux de rentrer dans le cycle des âmes des mortels.
 

@@ -9,7 +9,7 @@ urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/pack
 group: ancestries
 layout: ascendances
 ---
-p><em>Les tengus sont un peuple d'experts de la survie plein de ressources qui s'est répandu loin et largement à partir de leur foyer ancestral au Tian Xia, collectionnant et combinant toutes les innovations et les traditions qu'ils ont croisées sur leur chemin avec leur propre longue histoire.</em>
+p>*Les tengus sont un peuple d'experts de la survie plein de ressources qui s'est répandu loin et largement à partir de leur foyer ancestral au Tian Xia, collectionnant et combinant toutes les innovations et les traditions qu'ils ont croisées sur leur chemin avec leur propre longue histoire.*
 
 Les tengus sont tout à la fois des adeptes de la survie et des personnes qui aiment la conversation, qu'on peut trouver vivants dans des étendues sauvages ou faisant leur nid dans les villes denses. Ils accumulent les connaissances, les outils et les compagnons, en les ajoutant à leur collection lorsqu'ils voyagent.
 

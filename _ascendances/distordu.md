@@ -9,7 +9,7 @@ urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/pack
 group: ancestries
 layout: ascendances
 ---
-<em>Les Distordus sont des mutants dont les formes furent créées ou furent radicalement transformées par la magie, l'alchimie ou des énergies non naturelles. Leur apparence hétérodoxe peut leur rendre difficile de trouver un lieu qui soit à eux dans le monde.</em>
+*Les Distordus sont des mutants dont les formes furent créées ou furent radicalement transformées par la magie, l'alchimie ou des énergies non naturelles. Leur apparence hétérodoxe peut leur rendre difficile de trouver un lieu qui soit à eux dans le monde.*
 
 La magie et la science qui peuvent tordre les os et tordre les tendons sont toutes courantes sur Golarion. Les Distordus sont ceux qui ont été altérés de manière permanente par de telles méthodes — quelque fois un être sensible créé complètement à partir de chair inanimée mais le plus souvent une victime involontaire qui a été transformée par d'étranges énergies ou par des créateurs sadiques.
 

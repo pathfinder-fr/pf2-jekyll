@@ -9,7 +9,7 @@ urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/pack
 group: ancestries
 layout: ascendances
 ---
-<em>Les hommes-lézards sont des survivants accomplis, héritiers de royaumes considérés comme anciens même du point de vue des elfes.</em>
+*Les hommes-lézards sont des survivants accomplis, héritiers de royaumes considérés comme anciens même du point de vue des elfes.*
 
 Les hommes-lézards évoluent au sein des autres sociétés humanoïdes avec la réserve inébranlable propre aux prédateurs. Ils possèdent une réputation, légitime, de rôdeurs extraordinaires et de guerriers insensibles. Même si les hommes-lézards se sont adaptés à de nombreux environnements, la plupart d’entre eux préfèrent rester à proximité d’étendues d’eau, utilisant leur capacité à retenir leur souffle à leur avantage. De fait, les hommes-lézards ont tendance à favoriser un équipement qui ne sera pas endommagé par l’humidité, remplaçant le cuir et le métal par de la pierre, de l’ivoire, du verre et de l’os.
 

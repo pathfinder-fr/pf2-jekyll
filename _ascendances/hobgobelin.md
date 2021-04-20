@@ -9,7 +9,7 @@ urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/pack
 group: ancestries
 layout: ascendances
 ---
-<em>Plus grands et plus forts que leurs cousins gobelins, les hobgobelins égalent les humains en puissance et en stature, avec de larges épaules et de longs bras puissants. </em>
+*Plus grands et plus forts que leurs cousins gobelins, les hobgobelins égalent les humains en puissance et en stature, avec de larges épaules et de longs bras puissants. *
 
 La réputation des hobgobelins de la mer Intérieure a considérablement évolué grâce à l’Oprak, la nation hobgobeline qui s’est récemment établie dans les montages entre le Nidal et le Nirmathas. La légion Crocdefer, qui a pris d’assaut le Molthune et le Nirmathas il y a quelques années de cela, a pris la décision réfléchie de cesser les combats, de revendiquer l’Oprak en tant que nouvelle patrie, et d’établir la paix avec tses voisins. Ayant dorénavant reçu l’ordre strict de n’entrer en conflit avec aucune autre nation, les hobgobelins de l’Oprak ont commencé à explorer prudemment l’Avistan dans un objectif de coopération et non de conquête. De nombreux peuples, principalement ceux qui ont été les victimes des épouvantables cruautés de la légion Crocdefer, craignent qu’il ne s’agisse que d’une simple pause dans leur politique d’agression, le temps que l’Oprak devienne suffisamment fort pour écraser ses rivaux. D’autres espèrent que ces courageux soldats pourront devenir des alliés dans la lutte contre les armées infinies du Tyran qui Murmure. 
 
