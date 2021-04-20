@@ -8,6 +8,19 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/ancestries.db/catfolk.json
 group: ancestries
 layout: ascendances
+hp: 8
+langues:
+  - Amurrun
+  - Commun
+languesComplémentaires:
+  - Draconique
+  - Elfique
+  - Gnomien
+  - Gobelin
+  - Halfelin
+  - Iruxi
+  - Jotun
+  - Sylvestre
 ---
 *Vagabonds curieux et grégaires, les hommes-félins combinent des caractéristiques des félins et des humanoïdes à la fois en apparence et en tempérament. Ils apprécient apprendre de nouvelles choses, collectionner de nouvelles histoires et des babioles et s'assurer que les êtres qui leur sont chers soient en sécurité et heureux. Les hommes-félins se voient comme des gardiens choisis des lieux naturels du monde et sont souvent imprudemment braves, même en face d'une opposition surpuissante.*
 

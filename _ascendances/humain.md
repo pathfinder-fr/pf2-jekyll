@@ -8,6 +8,9 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/ancestries.db/human.json
 group: ancestries
 layout: ascendances
+hp: 8
+langues:
+  - Commun
 ---
 *Plus imprévisibles et disparates que n’importe quel autre peuple habitant sur Golarion, les humains font preuve d’une volonté exceptionnelle qui les pousse à s’étendre envers et contre tout. Si de nombreuses civilisations ont prospéré avant l’ascension de l’humanité, celle-ci est à l’origine des plus grandes et plus terribles sociétés de l’histoire et elle constitue aujourd’hui la majorité de la population du pourtour de la mer Intérieure.*
 

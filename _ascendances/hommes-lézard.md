@@ -8,6 +8,18 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/ancestries.db/lizardfolk.json
 group: ancestries
 layout: ascendances
+hp: 8
+langues:
+  - Commun
+  - Iruxi
+languesComplémentaires:
+  - Amurrun
+  - Aquatique
+  - Bourbiérin
+  - Draconique
+  - Elfique
+  - Jotun
+  - Sylvestre
 ---
 *Les hommes-lézards sont des survivants accomplis, héritiers de royaumes considérés comme anciens même du point de vue des elfes.*
 

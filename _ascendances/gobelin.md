@@ -8,6 +8,17 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/ancestries.db/goblin.json
 group: ancestries
 layout: ascendances
+hp: 6
+langues:
+  - Commun
+  - Gobelin
+languesComplémentaires:
+  - Draconique
+  - Gnoll
+  - Gnomien
+  - Halfelin
+  - Nain
+  - Orquien
 ---
 *Les gobelins n’ont que faire du passé alambiqué auquel s’accrochent les autres gens. Ces petits êtres vivent en effet dans le présent et préfèrent de loin les fables à l’histoire réelle. En ce qui les concerne, des guerres qui se sont déroulées il y a seulement quelques décennies se trouvent dans un lointain passé. Bien qu’ils soient incompris des autres peuples, les gobelins sont satisfaits de leur situation. Les vertus gobelines sont de vivre dans le présent, de faire preuve de créativité et d’être honnête. Ils s’efforcent de mener une vie bien remplie plutôt que de se soucier de la fin du voyage. De raconter des histoires plutôt que de chicaner sur des détails factuels. D’être petit, mais de rêver en grand.*
 

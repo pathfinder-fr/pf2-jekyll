@@ -8,6 +8,17 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/ancestries.db/tengu.json
 group: ancestries
 layout: ascendances
+hp: 6
+langues:
+  - Commun
+  - Tengu
+languesComplémentaires:
+  - Elfique
+  - Gnomien
+  - Gobelin
+  - Halfelin
+  - Nain
+  - Sylvestre
 ---
 p>*Les tengus sont un peuple d'experts de la survie plein de ressources qui s'est répandu loin et largement à partir de leur foyer ancestral au Tian Xia, collectionnant et combinant toutes les innovations et les traditions qu'ils ont croisées sur leur chemin avec leur propre longue histoire.*
 

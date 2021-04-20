@@ -8,6 +8,17 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/ancestries.db/android.json
 group: ancestries
 layout: ascendances
+hp: 8
+langues:
+  - Androffan
+  - Commun
+languesComplémentaires:
+  - Abyssal
+  - Céleste
+  - Commun des profondeurs
+  - Draconique
+  - Nain
+  - Utopien
 ---
 *Merveilles technologiques venus d'un autre monde, les androïdes ont des corps synthétiques et des âmes vivantes. Leur nature duale les rend vifs lorsqu'il s'agit de réfléchir et calmes sous la pression, mais aussi à l'aise dans l'immobilité et la solitude.*
 

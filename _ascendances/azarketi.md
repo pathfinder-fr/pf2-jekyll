@@ -8,6 +8,16 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/ancestries.db/azarketi.json
 group: ancestries
 layout: ascendances
+hp: 8
+langues:
+  - Commun
+languesComplémentaires:
+  - Aklo
+  - Aquatique
+  - Azlant
+  - Commun des profondeurs
+  - Draconique
+  - Elfique
 ---
 Les azarketis, héritiers d'un empire éclaté, tiennent à leurs fières traditions mais font toujours surface pour interagir avec le reste du monde.
 

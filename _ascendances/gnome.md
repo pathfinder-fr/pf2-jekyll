@@ -8,6 +8,16 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/ancestries.db/gnome.json
 group: ancestries
 layout: ascendances
+hp: 8
+langues:
+  - Commun
+languesComplémentaires:
+  - Draconique
+  - Elfique
+  - Gobelin
+  - Jotun
+  - Nain
+  - Orquien
 ---
 *Les ancêtres des premiers gnomes ont quitté le Premier Monde, le royaume des fées, il y a bien longtemps, mais nul ne connaît la véritable raison de leur exil sur Golarion. Les gnomes modernes ont hérité de leurs lointains parents leurs étranges raisonnements, leur excentricité, des comportements obsessionnels et ce que certains perçoivent comme une forme de naïveté. On retrouve des traces des particularités et des origines surnaturelles des gnomes dans les caractéristiques physiques : de longs membres, des cheveux de couleur vive et des visages enfantins et très expressifs.*
 

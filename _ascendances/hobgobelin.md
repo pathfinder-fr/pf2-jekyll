@@ -8,6 +8,17 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/ancestries.db/hobgoblin.json
 group: ancestries
 layout: ascendances
+hp: 8
+langues:
+  - Commun
+  - Gobelin
+languesComplémentaires:
+  - Draconique
+  - Gnoll
+  - Halfelin
+  - Jotun
+  - Nain
+  - Orquien
 ---
 *Plus grands et plus forts que leurs cousins gobelins, les hobgobelins égalent les humains en puissance et en stature, avec de larges épaules et de longs bras puissants. *
 

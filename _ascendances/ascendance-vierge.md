@@ -8,6 +8,9 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/ancestries.db/empty-ancestry.json
 group: ancestries
 layout: ascendances
+hp: 6
+langues:
+  - Commun
 ---
 *Ceci est une ascendance vierge pour une ascendance maison.*
 
