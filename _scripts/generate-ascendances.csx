@@ -6,7 +6,7 @@
 
 using System.Text.Json;
 
-await GenerateFiles2("ancestries", "ancestries", "_ascendances", DataGroup.Ancestries, ParseAncestry);
+await GenerateData("ancestries", "ancestries", "ascendances", DataGroup.Ancestries, ParseAncestry);
 
 static void ParseAncestry(JsonElement item, JsonDocument frJsonDoc, StreamWriter writer)
 {

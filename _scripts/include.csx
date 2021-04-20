@@ -11,6 +11,100 @@ public delegate void ParseActionMethod(JsonDocument jsonDoc, JsonDocument frJson
 
 public delegate void ParseActionMethod2(JsonElement item, JsonDocument frJsonDoc, StreamWriter writer);
 
+static async Task GenerateData(string dataName, string enFolderName, string colDir, DataGroup group, ParseActionMethod2 misc = null)
+{
+    await Ids.EnsureIds();
+
+    CurrentGroup = group;
+
+    JsonDocument dataDoc;
+    using (var input = File.OpenRead($"../_ext/data-fr/{dataName}.json"))
+    {
+        dataDoc = JsonDocument.Parse(input);
+    }
+
+    // glossaire fr
+    JsonDocument frJsonDoc;
+    using (var input = File.OpenRead("../_ext/module-fr/fr.json"))
+    {
+        frJsonDoc = JsonDocument.Parse(input);
+    }
+
+
+    // on s'assure que le dossier existe déjà
+    Directory.CreateDirectory($"../_data");
+
+    var targetPath = $"../_data/{colDir}.yml";
+    using (var writer = new StreamWriter(targetPath))
+    {
+        WriteLine($"Examen des éléments...");
+
+        writer.WriteLine("# ATTENTION : Ne modifiez pas ce fichier");
+        writer.WriteLine("# Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction");
+
+        foreach (var item in dataDoc.RootElement.EnumerateArray())
+        {
+            // chargement données traduction et correspondance id <=> nom
+            var id = item.GetProperty("_id").GetString();
+            var groupName = enFolderName;
+            var enName = item.GetProperty("name").GetString();
+            var enDesc = item.GetProperty("data").GetProperty("description").GetProperty("value").GetString();
+
+            string frName, frDesc, status;
+            try
+            {
+                status = item.GetProperty("translations").GetProperty("fr").GetProperty("status").GetString();
+                frName = item.GetProperty("translations").GetProperty("fr").GetPropertyOrDefault("name")?.GetString();
+                frDesc = item.GetProperty("translations").GetProperty("fr").GetPropertyOrDefault("description")?.GetString();
+            }
+            catch (Exception ex)
+            {
+                WriteLine($"Impossible de lire la traduction pour l'élément {enName} : {ex}");
+                continue;
+            }
+
+            var trad = new TradDataEntry(id, groupName, frName, enName, frDesc, enDesc, status, string.Empty);
+
+            if (string.IsNullOrEmpty(trad.French))
+            {
+                WriteLine($"La donnée {trad.English} n'a pas été traduite en français et n'est donc pas disponible (ID {trad.Id})");
+                continue;
+            }
+
+            // on détermine le nom du fichier en anglais contenant les données
+            var enNameId = AsNameId(trad.English);
+
+            // on génère le nom unique en français qui sera utilisé comme nom de fichier final
+            var frNameId = AsNameId(trad.French);
+
+            // on va adapter la description française au markdown
+            var description = CleanupDescription(trad.FrenchDescription).Trim();
+
+            // ensuite on peut générer le fichier markdown final
+            // on suppose que le layout est le nom de la collection sans le _
+            var layout = colDir.Substring(1);
+
+            writer.WriteLine($"{frNameId} :");
+            writer.WriteLine($"  id: {trad.Id}");
+            writer.WriteLine($"  name: {trad.French}");
+            writer.WriteLine($"  nameEn: {trad.English}");
+            
+            writer.WriteLine($"  urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/{tradFolderName}/{trad.Id}.htm");
+            writer.WriteLine($"  urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/{enFolderName}/{enName}.json");
+
+            writer.WriteLine("  description: |");
+
+            foreach(var line in description.Split(Environment.NewLine))
+            {
+                writer.Write("    ");
+                writer.WriteLine(line);
+            }
+
+            writer.WriteLine();
+        }
+    }
+}
+
 /// <summary>
 /// Génère les pages pour le fichiers demandés.
 /// </summary>
@@ -19,7 +113,7 @@ public delegate void ParseActionMethod2(JsonElement item, JsonDocument frJsonDoc
 /// <param name="colDir">Nom de la collection sous jekyll, préfixée par un _. ex: _dons. Doit être une des valeurs renvoyées par <see cref="AsDataFolderName" />.</param>
 /// <param name="group">Groupe de données parmi les différentes valeurs de <see cref="DataGroup" />.</param>
 /// <param name="misc">Méthode complémentaire à invoquer pour chaque fichier pour ajouter des entête front matter dans le fichier généré.</param>
-static async Task GenerateFiles2(string dataName, string enFolderName, string colDir, DataGroup group, ParseActionMethod2 misc = null)
+static async Task GenerateCollection(string dataName, string enFolderName, string colDir, DataGroup group, ParseActionMethod2 misc = null)
 {
     await Ids.EnsureIds();
 

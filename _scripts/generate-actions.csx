@@ -6,7 +6,7 @@
 
 using System.Text.Json;
 
-await GenerateFiles2("actionspf2e", "actions", "_actions", DataGroup.Actions, ParseAction);
+await GenerateCollection("actionspf2e", "actions", "_actions", DataGroup.Actions, ParseAction);
 
 static void ParseAction(JsonElement item, JsonDocument frJsonDoc, StreamWriter writer)
 {
