@@ -23,7 +23,7 @@ Pour remplir les champs, voici où les trouver dans l'ordre du tableau :
 - Bonus à la CA : champ `"armor": {"value":` donne le chiffre du bonus. Il faut juste prévoir d'ajouter + devant la valeur à l'affichage qui n'est pas compris
 - Dex Max : champ `"dex": {"value":` donne le bonus max de dex à la CA. Il faut prévoir d'ajouter + devant la valeur à l'affichage qui n'est pas compris
 - Malus aux test : champ  `"check": {"value` donne le malus au test. Il est inutile de mettre le signe devant qui figure dans les valeurs
-- Malus à la vitesse : champ `"speed": {"value": ""}`, donne la valeur en pieds à convertir en m en divisant par 5 
+- Malus à la vitesse : champ `"speed": {"value": ""}`, donne la valeur en pieds à convertir en m en divisant par 5 et en rajoutant l'unité de mesure pour l'affichage sur la page du wiki
 - Force : champ `"strength": {"value":` donne la valeur numérique. Aucun changement à faire
 - Encombrement : champ `"equippedBulk": {"value":` ATTENTION ne surtout pas prendre le champ weight
 - Groupe : champ `"group": {"value":` donnera le groupe en anglais à traduire (dans le fr.json la traduction est dans les champs "ArmorGroupChain" ArmorGroupComposite ArmorGroupLeather ArmorGroupPlate)
