@@ -11,7 +11,7 @@ public delegate void ParseActionMethod(JsonDocument jsonDoc, JsonDocument frJson
 
 public delegate void ParseActionMethod2(JsonElement item, JsonDocument frJsonDoc, StreamWriter writer);
 
-static async Task GenerateData(DataGroup group, ParseActionMethod2 misc = null)
+static async Task GenerateData(DataGroup group, ParseActionMethod2 misc = null, Func<JsonElement, bool> filter = null, string customDataFileName = null)
 {
     await Ids.EnsureIds();
 
@@ -34,7 +34,11 @@ static async Task GenerateData(DataGroup group, ParseActionMethod2 misc = null)
     // on s'assure que le dossier existe déjà
     Directory.CreateDirectory($"../_data");
 
-    var targetPath = $"../_data/{group.FrenchId}.yml";
+    // nom du fichier en sortie : on privilégie customDataFileName si renseigné,
+    // sinon on se base sur le nom du groupe de données FR
+    customDataFileName = customDataFileName ?? group.FrenchId;
+    var targetPath = $"../_data/{customDataFileName}.yml";
+
     using (var writer = new StreamWriter(targetPath))
     {
         WriteLine($"Examen des éléments...");
@@ -44,6 +48,12 @@ static async Task GenerateData(DataGroup group, ParseActionMethod2 misc = null)
 
         foreach (var item in dataDoc.RootElement.EnumerateArray().OrderBy(i => i.GetProperty("name").GetString()))
         {
+            // on applique le filtre éventuel
+            if (filter != null && filter(item) == false)
+            {
+                continue;
+            }
+
             // chargement données traduction et correspondance id <=> nom
             var id = item.GetProperty("_id").GetString();
             var enName = item.GetProperty("name").GetString();
@@ -382,6 +392,8 @@ public static void WriteFileHeader(StreamWriter writer, TradDataEntry trad, Data
     }
 }
 
+#region Extensions Json
+
 public static JsonElement? GetPropertyOrDefault(this JsonElement @this, string propertyName)
 {
     if (@this.TryGetProperty(propertyName, out var property))
@@ -391,6 +403,28 @@ public static JsonElement? GetPropertyOrDefault(this JsonElement @this, string p
 
     return null;
 }
+
+public static string GetPropertyString(this JsonElement @this, string propertyName)
+=> @this.GetPropertyOrDefault(propertyName)?.GetString();
+
+public static int? GetPropertyInt32(this JsonElement @this, string propertyName)
+=> @this.GetPropertyOrDefault(propertyName)?.GetInt32();
+
+public static object GetPropertyIntOrString(this JsonElement @this, string propertyName)
+{
+    var property = @this.GetPropertyOrDefault(propertyName);
+    if (property == null)
+        return null;
+
+    if (property.Value.ValueKind == JsonValueKind.Number)
+        return property.Value.GetInt32();
+
+    return property.Value.GetString();
+}
+
+#endregion
+
+#region StreamWriter Extensions
 
 public static void WriteArray(this StreamWriter @this, string name, IEnumerable<string> items)
 {
@@ -412,6 +446,15 @@ public static void WriteArray(this StreamWriter @this, string name, IEnumerable<
     }
 }
 
+public static void WriteYamlProperty(this StreamWriter @this, string name, object value, bool omitIfNull = true)
+{
+    if(value == null && omitIfNull)
+        return;
+    
+    @this.WriteLine($"{name}: {value}");
+}
+
+#endregion
 
 public record StatusEntry(string French, string English);
 
@@ -540,6 +583,8 @@ public class DataGroup
 
     public static readonly DataGroup Equipments = new DataGroup("equipments", "équipements", "equipment-srd", "equipment.db");
 
+    public static readonly DataGroup EquipmentEffects = new DataGroup("equipment-effects", "effets-équipements", "equipment-effects", null, ignoreLink: true);
+
     public static readonly DataGroup FeatEffects = new DataGroup("feat-effects", "effets-don", "feat-effects", "feat-effects.db", ignoreLink: true);
 
     public static readonly DataGroup ClassFeatures = new DataGroup("class-features", "capacité-classe", "classfeatures", "classfeatures.db");
@@ -568,6 +613,7 @@ public class DataGroup
         Conditions,
         Feats,
         Equipments,
+        EquipmentEffects,
         FeatEffects,
         ClassFeatures,
         Spells,
