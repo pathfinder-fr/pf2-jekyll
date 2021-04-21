@@ -8,7 +8,7 @@ title: éléments pour le tableau des armures
 Pour faire le tri et trouver les armures : elles se trouvent dans equipment.db avec le préfixe armor.
 Un moyen simple également de ne pas attraper les armures magiques consiste à viser le champ `level=0` 
 
-À afficher dans le tableau en triant selon le Armortype puis ordre alphabétique du nom
+À afficher dans le tableau en triant selon le ArmorType puis ordre alphabétique du nom
 
 Pour remplir les champs, voici où les trouver dans l'ordre du tableau :
 - Armure : champ `nom` en français
@@ -18,7 +18,8 @@ Pour remplir les champs, voici où les trouver dans l'ordre du tableau :
       "cp": "pc",
       "gp": "po",
       "pp": "pp",
-      "sp": "pa"},```
+      "sp": "pa"},
+```
 - Bonus à la CA : champ `"armor": {"value":` donne le chiffre du bonus. Il faut juste prévoir d'ajouter + devant la valeur à l'affichage qui n'est pas compris
 - Dex Max : champ `"dex": {"value":` donne le bonus max de dex à la CA. Il faut prévoir d'ajouter + devant la valeur à l'affichage qui n'est pas compris
 - Malus aux test : champ  `"check": {"value` donne le malus au test. Il est inutile de mettre le signe devant qui figure dans les valeurs
