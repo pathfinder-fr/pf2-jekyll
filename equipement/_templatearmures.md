@@ -31,6 +31,7 @@ Les autres traits qui seront utiles :
 - le trait de rareté : champ `traits rarity` (dans le fr.json, la traduction est dans le champ TraitCommon, TraitUncommon, TraitRare)
 
 Voici les champs d'une armure dans les compendiums Foundry (ex Leather armor)
+```
 {
     "_id": "4tIVTg9wj56RrveA", 
     "data": {"armor": {"value": 1},
@@ -88,3 +89,4 @@ Voici les champs d'une armure dans les compendiums Foundry (ex Leather armor)
     "permission": {"default": 0},
     "type": "armor"
 }
+```
