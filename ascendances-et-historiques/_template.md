@@ -17,8 +17,8 @@ A la fin de cette page, il faudrait pouvoir afficher :
 
 ### **Héritages de l'ascendance** :
 les héritages de l'ascendance sont à aller chercher dans la base de données **ancestryfeatures.db**.
-    - Pour effectuer le tri dans les fichiers de cette DB pour prendre les seuls héritages correspondant à la race, il faut d'abord trier tous les fichiers qui sont des héritages indiqués par le champ `featType` : `"featType": {"value": "heritage"}. 
-    Une fois que ces fichiers sont récupérés, il faut faire le tri pour s'assurer que la value du champ trait correspond à la page de l'ascendance sur laquelle on souhaite place l'héritage ex :`"traits": {value": elf})` si `Name` a la valeur elf, on peut aussi récupérer le `"traits": {value": versatile heritage})` qui correspond à des héritages qu'on peut placer avec toutes les ascendances
+    - Pour effectuer le tri dans les fichiers de cette DB pour prendre les seuls héritages correspondant à la race, il faut d'abord trier tous les fichiers qui sont des héritages indiqués par le champ `featType` : `"featType": {"value": "heritage"}`. 
+    - Une fois que ces fichiers sont récupérés, il faut faire le tri pour s'assurer que la value du champ trait correspond à la page de l'ascendance sur laquelle on souhaite place l'héritage ex :`"traits": {value": elf})` si `Name` a la valeur elf, on peut aussi envisager de récupérer les héritages ayant le `"traits": {value": versatile heritage})` qu'on peut utiliser avec toutes les ascendances.
     - une fois le tri de ces données effectué, il faut alors faire un cleanup du html de la `descriptionFr` pour la passer en markdown, puis afficher les uns à la suite des autres tous les héritages sélectionnés sur la page de l'ascendance les uns à la suite des autres par ordre alphabétique en affichant  : 
         - le `nom` en gras 
         - le `Name` en petit, 
