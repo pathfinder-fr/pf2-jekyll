@@ -8,6 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/cat-fall.json
 layout: dons
 ---
-**Prérequis** qualifié en Acrobaties
-
-Vos acrobaties aériennes félines vous permettent d’amortir vos chutes. Traitez les chutes comme étant 3 m plus courtes. Si vous êtes un expert en Acrobaties, traitez les chutes comme étant 7,5 m plus courtes. Si vous êtes un maître en Acrobaties, traitez-les comme étant 15 m plus courtes. Si vous êtes légendaire en Acrobaties, vous retombez toujours sur vos pieds et ne subissez pas de dégâts, quelle que soit la distance de la chute.
+Vos acrobaties aériennes félines vous permettent d’amortir vos chutes. Traitez les chutes comme étant de 3 m de moins. Si vous êtes un expert en Acrobaties, traitez les chutes comme étant 7,5 m de moins. Si vous êtes un maître en Acrobaties, traitez-les comme étant 15 m de moins. Si vous êtes légendaire en Acrobaties, vous retombez toujours sur vos pieds et ne subissez pas de dégâts, quelle que soit la distance de la chute.

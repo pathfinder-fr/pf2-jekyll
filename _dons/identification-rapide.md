@@ -8,6 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/quick-identification.json
 layout: dons
 ---
-**Prérequis** qualifié en Arcanes, Nature, Occultisme ou Religion
-
-Vous pouvez Identifier la magie rapidement. Quand vous utilisez Identifier la magie, vous ne mettez que 1 min pour déterminer les propriétés d’un objet, d’un effet en cours ou d’un lieu, au lieu de 10 min. Si vous êtes un maître, cela prend une activité de 3 actions, et si vous êtes légendaire, cela prend 1 action.
+Vous pouvez Identifier la magie rapidement. Quand vous utilisez Identifier la magie, vous ne mettez que 1 minute pour déterminer les propriétés d’un objet, d’un effet en cours ou d’un lieu, au lieu de 10 minutes. Si vous êtes un maître, cela prend une activité de 3 actions, et si vous êtes légendaire, cela prend 1 action.

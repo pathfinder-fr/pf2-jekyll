@@ -8,6 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/lie-to-me.json
 layout: dons
 ---
-**Prérequis** qualifié en Duperie
-
 Vous pouvez utiliser Duperie pour tendre un piège à quiconque essaie de vous duper. Si vous pouvez engager la conversation avec quelqu’un essayant de vous Mentir, utilisez votre DD de Duperie s’il est supérieur à votre DD de Perception pour déterminer s’il réussit. Cela ne s’applique pas si vous ne dialoguez pas, par exemple quand quelqu’un tente de Mentir pendant un long discours.

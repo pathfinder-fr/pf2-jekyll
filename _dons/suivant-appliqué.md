@@ -10,4 +10,4 @@ layout: dons
 ---
 L'observation assidue de vos alliés vous a rendu meilleur lorsqu'il s'agit de suivre leurs traces.
 
-Lorsque vous utilisez l'activité <a class="entity-link" data-pack="pf2e.actionspf2e" data-id="tfa4Sh7wcxCEqL29" draggable="true">Suivre l'expert</a> en mode exploration, vous obtenez un bonus de circonstances de +3 si l'allié que vous suivez est expert et de +4 si votre allié est maître.
+Lorsque vous utilisez l'activité [Suivre l'expert](../actions/suivre-l-expert.md) en mode exploration, vous obtenez un bonus de circonstances de +3 si l'allié que vous suivez est expert et de +4 si votre allié est un maître.

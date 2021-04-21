@@ -8,8 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/pilgrim-s-token.json
 layout: dons
 ---
-**Prérequis** qualifié en Religion
-
 Vous transportez une petite amulette de protection provenant d'un site sacré pour votre foi ou vous avez touché de votre symbole religieux une relique ou un autel sur un tel site. Tant que cette amulette reste en votre possession, lorsque vous êtes à égalité avec un test d'initiative avec un adversaire, vous agissez le premier.
 
 **Spécial** Si vous sélectionnez ce don au niveau 1, vous recevez gratuitement votre amulette de pélerin. De manière alternative, si vous possédez un symbole religieux, il est déjà harmonisé comme indiqué ci-dessus.

@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/captivating-curiosity.json
 layout: dons
 ---
-Vous pouvez captuver l'attention des spectateur avec votre apparence unique.
+Vous pouvez capturer l'attention des spectateurs avec votre apparence unique.
 
 Vous pouvez lancer [Discours captivant](../sorts/discours-captivant.md) comme un sort inné occulte de niveau 3 une fois par jour.

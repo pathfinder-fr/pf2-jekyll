@@ -8,12 +8,10 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/corrupted-shield.json
 layout: dons
 ---
-**Prérequis** <a class="entity-link" data-pack="pf2e.feats-srd" data-id="lix0Utu4g8mQ0ZtI" draggable="true">
-
 Votre allié bouclier est plus que juste un esprit de protection — c'est un conduit pour la magie divine mortelle.
 
-Lorsque vous utilisez votre allié bouclier pour effectuer un [Blocage au bouclier](blocage-au-bouclier.md) contre une Frappe à mains nues de mêlée ou une arme de mêlée d'une créature adjacente, l'attaquant subit <a class="inline-roll roll" data-mode="roll" data-flavor="" data-formula="1d6" title="1d6"><i class="fas fa-dice-d20"></i> 1d6</a> dégâts mauvais ou négatifs (à votre choix).
+Lorsque vous utilisez votre allié bouclier pour effectuer un [Blocage au bouclier](blocage-au-bouclier.md) contre une Frappe à mains nues de mêlée ou une arme de mêlée d'une créature adjacente, l'attaquant subit [[/r 1d6 #evil]] dégâts mauvais ou négatifs (à votre choix).
 
 Si l'attaque ou la Frappe brise ou détruit votre bouclier, doublez ces dégâts supplémentaires.
 
-Les dégâts que l'attaquant subit augmentent à <a class="inline-roll roll" data-mode="roll" data-flavor="" data-formula="2d6" title="2d6"><i class="fas fa-dice-d20"></i>2d6</a> au niveau 11 et <a class="inline-roll roll" data-mode="roll" data-flavor="" data-formula="3d6" title="3d6"><i class="fas fa-dice-d20"></i>3d6</a> au niveau 16.
+Les dégâts que l'attaquant subit augmentent à [[/r 2d6 #evil]] dégâts mauvais au niveau 11 et [[/r 3d6 #evil]] dégâts mauvais au niveau 16.

@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/favor-of-heaven.json
 layout: dons
 ---
-Vous êtes une des personnes élues par Hei Feng et possédez l'autorité de la Cour célesteà votre côté. Une fois par jour, vous pouvez Lancer  [Explosion spirituelle](../sorts/coup-spirituel.md) au niveau 6 comme un sort inné divin. De plus, vous obtenez unee résistance de 5 à la fois aux dégâts bons et mauvais.
+Vous êtes une des personnes élues par Hei Feng et possédez l'autorité de la Cour céleste à votre côté. Une fois par jour, vous pouvez Lancer  [Explosion spirituelle](../sorts/coup-spirituel.md) au niveau 6 comme un sort inné divin. De plus, vous obtenez unee résistance de 5 à la fois aux dégâts bons et mauvais.

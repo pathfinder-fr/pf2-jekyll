@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/fey-disguise.json
 layout: dons
 ---
-Vous pouvez vous déguiser vous-même avec des illusions magiques. Vous pouvez lancer [Déguisement illusoire](../sorts/déguisement-illusoire.md) une fois par jour comme un sort inné primordial de niveau 1. Au niveau 7, le sort est intensifié au niveaau 2, et le sort est intensifié d'un niveau supplémentaire par tranche de 2 niveaux.
+Vous pouvez vous déguiser grâce à vos illusions magiques. Vous pouvez lancer [Déguisement illusoire](../sorts/déguisement-illusoire.md) une fois par jour comme un sort inné primordial de niveau 1. Au niveau 7, le sort est intensifié au niveau 2, et le sort est intensifié d'un niveau supplémentaire par tranche de 2 niveaux.

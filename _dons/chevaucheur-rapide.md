@@ -8,10 +8,8 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/express-rider.json
 layout: dons
 ---
-**Prérequis **qualifié en Nature
-
 Vous savez comment encourager votre monture à parcourir des distances rapidement.
 
-Lorsque vous calculez votre vitesse de voyage pendant la journée à dos de cheval, vous pouvez tenter un test de  Nature pour [Diriger un animal](../actions/diriger-un-animal.md) pour augmenter la vitesse de déplacement de votre monture. Le DD est déterminé par le MJ mais il est typiquement fonction du niveau de la monture ou de la difficulté de l'environnement, le plus difficile des deux.
+Lorsque vous calculez votre vitesse de voyage pendant la journée alors que vous êtes sur une monture, vous pouvez tenter un test de  Nature pour [Diriger un animal](../actions/diriger-un-animal.md) pour augmenter la vitesse de déplacement de votre monture. Le DD est déterminé par le MJ mais il correspond typiquement égale à la plus élevée des difficultés entre le niveau de la monture ou celui de l'environnement.
 
 Sur un succès, augmentez la vitesse de déplacement de votre monture de moitié. Cela n'a pas d'effet sur la vitesse de votre monture lors des rencontres.

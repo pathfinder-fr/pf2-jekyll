@@ -8,6 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/true-perception.json
 layout: dons
 ---
-**Prérequis** Légendaire en Perception
-
-Vos facultés de perception et votre capacité à interpréter les informations sensorielles sont tellement au-delà des limites que vous remarquez les moindre divergences dans toutes sortes d'illusions et de transmutations. Vous êtes constamment sous l'effet d'un sort de <a class="entity-link" data-pack="pf2e.spells-srd" data-id="uqlxMQQeSGWEVjki" draggable="true">Vision lucide</a> de niveau 6, en utilisant votre modificateur de Perception pour le test de contre.
+Vos facultés de perception et votre capacité à interpréter les informations sensorielles sont tellement au-delà des limites que vous remarquez les moindre divergences dans toutes sortes d'illusions et de transmutations. Vous êtes constamment sous l'effet d'un sort de [Vision lucide](../sorts/vision-lucide.md) de niveau 6, en utilisant votre modificateur de Perception pour le test de contre.

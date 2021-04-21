@@ -8,8 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/glean-contents.json
 layout: dons
 ---
-**Prérequis** qualifié en Société
-
 Vous êtes adepte à lire rapidement les papiers laissés sans surveillance et à discerner soigneusement le contenu des plis scellés sans endommager le sceau.
 
 Vous pouvez tenter des tests de Société pour [Déchiffrer un texte](../actions/déchiffrer-un-texte.md) sur un message qui est seulement partiellement entrevu, vu du verso ou inversé de votre perspective ou même scellé. Quoi qu'il en soit, sur un échec critique, le destinataire est conscient de vos efforts (par exemple, vous endommages le sceau ou perturbez les papiers consultés d'une quelconque manière).

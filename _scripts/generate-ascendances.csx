@@ -10,11 +10,11 @@ await GenerateData(DataGroup.Ancestries, ParseAncestry);
 
 static void ParseAncestry(JsonElement item, JsonDocument frJsonDoc, StreamWriter writer)
 {
-    var hp = item.GetProperty("data").GetProperty("hp").GetInt32();
+    var hp = item.GetProperty("hp").GetInt32();
     writer.WriteLine($"  pv: {hp}");
 
     // liste des langues en anglais
-    var languages = item.GetProperty("data").GetProperty("languages").GetProperty("value").EnumerateArray().Select(x => x.GetString()).ToArray();
+    var languages = item.GetProperty("languages").EnumerateArray().Select(x => x.GetString()).ToArray();
 
     // liste des langues traduites en FR d'après le glossaire
     var languagesFr = languages
@@ -30,7 +30,7 @@ static void ParseAncestry(JsonElement item, JsonDocument frJsonDoc, StreamWriter
     // écriture de l'entête langues avec la liste des langues françaises
     writer.WriteArray("  langues:", languagesFr);
 
-    languages = item.GetProperty("data").GetProperty("additionalLanguages").GetProperty("value").EnumerateArray().Select(x => x.GetString()).ToArray();
+    languages = item.GetProperty("additionalLanguages").EnumerateArray().Select(x => x.GetString()).ToArray();
 
     languagesFr = languages
         .Select(l =>

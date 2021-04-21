@@ -10,4 +10,4 @@ layout: dons
 ---
 **Fréquence** une fois par jour
 
-Vous maniez de nombreux visages, même ceux qui ne vous appartiennent pas. Lorsque vous Changez de forme pour passer à votre forme sans queue, vous obtenez les effets d'un [Déguisement illusoire](../sorts/déguisement-illusoire.md) de niveau 3 pendant 1 heure ou jusqu'à ce que vous vous changiez de nouveau, à moins que ce ne soit un effet de transmutation au lieu d'une illusion.
+Vous maniez de nombreux visages, même ceux qui ne vous appartiennent pas. Lorsque vous [Changez de forme](../capacités-ascendances/changer-de-forme.md) pour passer à votre forme sans queue, vous obtenez les effets d'un [Déguisement illusoire](../sorts/déguisement-illusoire.md) de niveau 3 pendant 1 heure ou jusqu'à ce que vous vous changiez de nouveau, à moins que ce ne soit un effet de transmutation au lieu d'une illusion.

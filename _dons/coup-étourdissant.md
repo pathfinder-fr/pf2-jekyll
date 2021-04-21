@@ -16,7 +16,7 @@ Faites une [Frappe](../actions/frapper.md) de mêlée contre une crature que vou
 
 **Succès critique** La créature n'est pas affectée.
 
-**Succès** La créature est [étourdie](../conditions/étourdi.md) 1.
+**Succès** La créature est [Etourdie](../conditions/étourdi.md) 1.
 
 **Échec** La créature est étourdie 2.
 

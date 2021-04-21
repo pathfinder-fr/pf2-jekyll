@@ -8,6 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/arcane-sense.json
 layout: dons
 ---
-**Prérequis** Qualifié en Arcanes
-
 Votre apprentissage de la magie vous permet de sentir instinctivement sa présence. Vous pouvez incanter détection de la magie niveau 1 à volonté comme si c’était un sort inné arcanique. Si vous êtes un maître en Arcanes, le sort est intensifié au niveau 3. Si vous êtes légendaire, il est intensifié au niveau 4.

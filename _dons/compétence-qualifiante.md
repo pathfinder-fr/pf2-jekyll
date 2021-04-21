@@ -8,8 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/skill-training.json
 layout: dons
 ---
-**Prérequis** Intelligence 12
-
 Vous devenez qualifié dans la compétence de votre choix.
 
 **Spécial** Vous pouvez sélectionner ce don plusieurs fois en choisissant une nouvelle compétence à chaque fois.

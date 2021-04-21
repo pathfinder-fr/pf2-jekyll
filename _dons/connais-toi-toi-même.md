@@ -14,4 +14,4 @@ layout: dons
 
 **Déclencheur** Vous obtenez un échec critique sur un jet de sauvegarde contre un effet d'émotion.
 
-Vous vous recentrez sur vous-même et faites appel à l'esprit de l'idéal monastique vudrain du vide de l'esprit et de la connaissance intérieure. Vous obtenez un échec au jet de sauvegarder contre l'effet d'émotion au lieu de l'échec critique.
+Vous vous recentrez sur vous-même et faites appel à l'esprit de l'idéal monastique Vudrain du vide de l'esprit et de la connaissance intérieure. Vous obtenez un échec au jet de sauvegarder contre l'effet d'émotion au lieu de l'échec critique.

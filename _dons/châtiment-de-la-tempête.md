@@ -12,4 +12,4 @@ layout: dons
 
 **Conditions** Votre réserve contient au moins 1 point de focalisation
 
-Vous vous défendez en déclenchant une explosion de fureur orageuse sur une créature qui vous a blessé. Vous lancez onde de tempête sur l’adversaire déclencheur et le repoussez de 1,5 m s’il rate son jet de Réflexes ou de 3 m s’il obtient un échec critique. Ceci est un déplacement forcé.
+Vous vous défendez en déclenchant une explosion de fureur orageuse sur une créature qui vous a blessé. Vous lancez [Onde de tempête](../sorts/onde-de-tempête.md) sur l’adversaire déclencheur et vous le repoussez de 1,5 mètres s’il rate son jet de Réflexes ou de 3 mètres s’il obtient un échec critique. Ceci est un déplacement forcé.

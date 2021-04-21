@@ -8,8 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/armor-assist.json
 layout: dons
 ---
-**Prérequis **qualifié en Athlétisme ou en Connaissance de la guerre
-
 Après votre service passé à aider les combattants à revêtir leurs armures, vous êtes habitué à revêtir ou à aider les autres à porter de lourds équipements.
 
 Vous pouvez faire un test d'Athlétisme ou de Connaissance de la Guerre avec un DD déterminé par le MJ (mais habituellement un DD15 pour les armures courantes, DD 20 pour les armures peu courantes et un DD 25 pour les armures rares) pour réduire de moitié le temps que vous devez prendre pour enfiler une armure.

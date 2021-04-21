@@ -1,0 +1,13 @@
+---
+# ATTENTION : Ne modifiez pas ce fichier
+# Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
+title: Expertise du terrain (Ciel)
+titleEn: Terrain Expertise (Sky)
+id: SRwYgPYcZNdtuqEZ
+urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/SRwYgPYcZNdtuqEZ.htm
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/terrain-expertise-sky.json
+layout: dons
+---
+Votre expérience de l’orientation sur un certain type de terrain vous rend extrêmement confiant pour ce faire. Vous gagnez un bonus de circonstances de +1 aux tests de Survie dans les *cieux*.
+
+**Spécial** Vous pouvez sélectionner ce don plus d’une fois en choisissant un type de terrain différent à chaque fois.

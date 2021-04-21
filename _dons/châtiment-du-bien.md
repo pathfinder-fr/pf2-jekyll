@@ -10,4 +10,4 @@ layout: dons
 ---
 Votre allié lame partage votre goût du sang des créatures du bien. Choisissez un ennemi que vous pouvez voir. Jusqu'au début de votre prochain tour, vos [Frappes](../actions/frapper.md) contre cet adversaire en utilisant l'arme que votre allié lame habite infligent [[/r 4 #mal]] dégâts maléfiques supplémentaires, passant à [[/r 6 #mal]] si vous êtes maître avec cet arme.
 
-Si l'ennemi choisi  vous attaque avant le début de votre prochain tour, la durée s'étend jusqu'à la fin du prochain tour de cet ennem. Si l'ennemi continue à vous attaquer à chaque tour, la durée continue à s'accroître.
+Si l'ennemi choisi  vous attaque avant le début de votre prochain tour, la durée s'étend jusqu'à la fin du prochain tour de cet ennemi. Si l'ennemi continue à vous attaquer à chaque tour, la durée continue à s'accroître.

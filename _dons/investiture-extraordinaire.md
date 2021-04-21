@@ -8,6 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/incredible-investiture.json
 layout: dons
 ---
-**Prérequis** Charisme 16
-
 Vous avez une incroyable capacité à investir plus d’objets magiques. Augmentez la limite d’objets investis de 10 à 12.

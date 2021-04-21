@@ -8,6 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/prescient-consumable.json
 layout: dons
 ---
-**Prérequis** [Planificateur prescient](planificateur-prescient.md)
-
-Vous pouvez prédire quels sont les consommables dont vous pourriez avoir besoin à l'avance. Lorsque vous utilisez Planificateur prescient, vous pouvez tirer un objet consommable de votre sac à dos, au lieu d'une pièce d'équipement d'aventurier. L'objet consommable doit toujours être courant et d'un niveau non supérieur à la moitié de votre niveau et son Encombrement doit être suffisamment faible que le porter ne vous ait pas rendu encombré.
+Vous pouvez prédire quels sont les consommables dont vous pourriez avoir besoin à l'avance. Lorsque vous utilisez Planificateur prescient, vous pouvez tirer un objet consommable de votre sac à dos, au lieu d'un élément d'équipement d'aventurier. L'objet consommable doit toujours être courant et d'un niveau qui n'est pas supérieur à la moitié de votre niveau et son Encombrement doit être suffisamment faible pour que le porter ne vous ait pas rendu Encombré.

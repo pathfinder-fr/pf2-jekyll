@@ -8,6 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/confabulator.json
 layout: dons
 ---
-**Prérequis ** expert en Duperie  
-
 Même quand vous êtes pris à mentir, vous rajoutez mensonge sur mensonge. Réduisez le bonus de circonstances qu’une cible gagne pour votre tentative précédente de Faire diversion ou de lui Mentir de +4 à +2. Si vous êtes un maître en Duperie, réduisez le bonus à +1, et si vous êtes légendaire, vos cibles ne reçoivent pas de bonus du tout.

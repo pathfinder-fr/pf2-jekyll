@@ -1,6 +1,6 @@
 # ATTENTION : Ne modifiez pas ce fichier
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
-ascendance-vierge :
+ascendance-vierge:
   id: mDtlRBBUWqUzYSHs
   nom: [Ascendance vierge]
   nomEn: [Empty Ancestry]
@@ -64,7 +64,7 @@ ascendance-vierge :
     
     Les noms avec les consonnances propres ou le type de surnoms des membres de l'ascendance
 
-androïde :
+androïde:
   id: GfLwE884NoRC7cRi
   nom: Androïde
   nomEn: Android
@@ -126,7 +126,7 @@ androïde :
     
     Anati, Daniv, Ère-4, Féralia, Gélegor, Ilgos-5, Koresh, Oris, Prime, Urdun, Vérité-3, Ymry
 
-azarketi :
+azarketi:
   id: yFoojz6q3ZjvceFw
   nom: Azarketi
   nomEn: Azarketi
@@ -187,7 +187,7 @@ azarketi :
     
     Alizée, Cascade, Delta, Face au vent, Foc, Ilani, Inkua, Lagon, Lobay, Marine, Marée, Port, Poupe, Zarket
 
-homme-félin-félide :
+homme-félin-félide:
   id: 972EkpJOPv9KkQIW
   nom: Homme-félin (félide)
   nomEn: Catfolk
@@ -259,7 +259,7 @@ homme-félin-félide :
     
     Alyara, Crinto, Drewan, Espes, Ferrus, Gerran, Halhat, Hoya, Ruun, Sevastin, Tespa, Yonsol, Zakkar, Zathra
 
-nain :
+nain:
   id: BYj5ZvlXZdpaEgA6
   nom: Nain
   nomEn: Dwarf
@@ -327,7 +327,7 @@ nain :
     
     Agna, Bodill, Dolgrin, Edrukk, Grunyar, Ingra, Kazmuk, Kotri, Lupp, Morgrym, Rogar, Rusilka, Torra, Yangrit
 
-elfe :
+elfe:
   id: PgKmsA2aKdbLU6O0
   nom: Elfe
   nomEn: Elf
@@ -397,7 +397,7 @@ elfe :
     
     Aerel, Amrunelara, Caladrel, Dardlara, Faunra, Heldalel, Jathal, Lanliss, Oparal, Seldlon, Soumral, Talathel, Tessara, Variel, Yalandlara, Zordlon
 
-fetchelin :
+fetchelin:
   id: hIA3qiUsxvLZXrFP
   nom: Fetchelin
   nomEn: Fetchling
@@ -456,7 +456,7 @@ fetchelin :
     
     Amelisce, Ashka, Drosil, Eitsanara, Eomva, Ikyamek, Inva, Jegan, Lirtae, Meotrai, Sorsul, Zokaratz
 
-distordu :
+distordu:
   id: FXlXmNBFiiz9oasi
   nom: Distordu
   nomEn: Fleshwarp
@@ -519,7 +519,7 @@ distordu :
     
     Borble, Dag, Feff, Hurn, Kemp, Omber, Ostro, Shurni, Surm, Wumpin
 
-gnome :
+gnome:
   id: CYlfsYLJcBOgqKtD
   nom: Gnome
   nomEn: Gnome
@@ -584,7 +584,7 @@ gnome :
     
     Abroshtor, Bastargre, Besh, Fijit, Halungalom, Krolmnite, Neji, Majet, Paï, Poshment, Queck, Trig, Zarzuket, Zatqualmie
 
-gobelin :
+gobelin:
   id: sQfjTMDaZbT9DThq
   nom: Gobelin
   nomEn: Goblin
@@ -653,7 +653,7 @@ gobelin :
     
     Ak, Bokker, Frum, Guzmuk, Krobby, Loohi, Mazmord, Neeka, Omgot, Ranzak, Rickle, Tup, Wakla, Yonk, Zibini
 
-halfelin :
+halfelin:
   id: GgZAHbrjnzWOZy2v
   nom: Halfelin
   nomEn: Halfling
@@ -723,7 +723,7 @@ halfelin :
     
     Anafa, Antal, Bellis, Boram, Etune, Filiu, Jamir, Kaleb, Linna, Marra, Miro, Rillka, Sistra, Sumak, Yamyra
 
-hobgobelin :
+hobgobelin:
   id: piNLXUrm9iaGqD2i
   nom: Hobgobelin
   nomEn: Hobgoblin
@@ -741,7 +741,7 @@ hobgobelin :
     - Nain
     - Orquien
   description: |
-    *Plus grands et plus forts que leurs cousins gobelins, les hobgobelins égalent les humains en puissance et en stature, avec de larges épaules et de longs bras puissants. *
+    *Plus grands et plus forts que leurs cousins gobelins, les hobgobelins égalent les humains en puissance et en stature, avec de larges épaules et de longs bras puissants.*
     
     La réputation des hobgobelins de la mer Intérieure a considérablement évolué grâce à l’Oprak, la nation hobgobeline qui s’est récemment établie dans les montages entre le Nidal et le Nirmathas. La légion Crocdefer, qui a pris d’assaut le Molthune et le Nirmathas il y a quelques années de cela, a pris la décision réfléchie de cesser les combats, de revendiquer l’Oprak en tant que nouvelle patrie, et d’établir la paix avec tses voisins. Ayant dorénavant reçu l’ordre strict de n’entrer en conflit avec aucune autre nation, les hobgobelins de l’Oprak ont commencé à explorer prudemment l’Avistan dans un objectif de coopération et non de conquête. De nombreux peuples, principalement ceux qui ont été les victimes des épouvantables cruautés de la légion Crocdefer, craignent qu’il ne s’agisse que d’une simple pause dans leur politique d’agression, le temps que l’Oprak devienne suffisamment fort pour écraser ses rivaux. D’autres espèrent que ces courageux soldats pourront devenir des alliés dans la lutte contre les armées infinies du Tyran qui Murmure. 
     
@@ -785,7 +785,7 @@ hobgobelin :
     
     Aze, Druknar, Ghargam, Hathkren, Imakra, Kralaeng, Mazkol, Olzu, Rezal, Sivkrag, Volmak, Zornum
 
-humain :
+humain:
   id: IiG7DgeLWYrSNXuX
   nom: Humain
   nomEn: Human
@@ -837,7 +837,7 @@ humain :
     
     Les personnages qui appartiennent aux ethnies humaines de la mer Intérieure parlent le commun (aussi appelé le taldorien). Certaines ethnies leur donnent également accès à des langues peu courantes.
 
-kitsune :
+kitsune:
   id: 4BL5wf1VF9feC2rY
   nom: Kitsune
   nomEn: Kitsune
@@ -900,7 +900,7 @@ kitsune :
     
     Hamako, Haohiko, Kitsukou, Kon, Kwan-la, Talaro
 
-kobold :
+kobold:
   id: 7oQxL6wgsokD3QXG
   nom: Kobold
   nomEn: Kobold
@@ -968,7 +968,7 @@ kobold :
     
     **Note pour le jeu organisé** Compte tenu de nombreuses années de réussite des activités dans la Société des Éclaireurs, tous les personnages ont accès à l'ascendance kobold.
 
-léchi :
+léchi:
   id: cdhgByGG1WtuaK73
   nom: Léchi
   nomEn: Leshy
@@ -1033,7 +1033,7 @@ léchi :
     
     Vermeille en été, Tisseur de légendes verdoyant, Chasseur qui rôde, Maître buveur du soleil, Ciel de midi chanson du soir, Branche de pin enneigée, Rapides en cascade.
 
-hommes-lézard :
+hommes-lézard:
   id: HWEgF7Gmoq55VhTL
   nom: Hommes-lézard
   nomEn: Lizardfolk
@@ -1099,7 +1099,7 @@ hommes-lézard :
     
     Arasheg, Barashk, Essaru, Enshuk, Gishkim, Hazi, Inishish, Kutak, Nasha, Shulkuru, Tizkar, Utakish, Zelkekek
 
-orc :
+orc:
   id: lSGWXjcbOa6O5fTx
   nom: Orc
   nomEn: Orc
@@ -1171,7 +1171,7 @@ orc :
     
     Arkus, Ausk, Durra, Grask, Grillgiss, Krugga, Mahja, Murdut, Ollak, Onyat, Thurk, Uirch, Unach
 
-homme-rat :
+homme-rat:
   id: P6PcVnCkh4XMdefw
   nom: Homme-rat
   nomEn: Ratfolk
@@ -1248,7 +1248,7 @@ homme-rat :
     
     Barnan, Chikis, Chonan, Deto, Jass, Jix, Knagi, Kubi, Lolo, Ninnec, Nos, Rak, Renzi, Skigim, Tali, Zess
 
-shoony :
+shoony:
   id: q6rsqYARyOGXZA8F
   nom: Shoony
   nomEn: Shoony
@@ -1311,7 +1311,7 @@ shoony :
     
     Ahogo, Arnbin, Bighmor, Bondin, Domwurd, Ebmeur, Gopor, Gurna, Hiemgur, Mufurlo, Oriog, Pulumar, Raliamar, Ruggion, Uhulrig, Ungrin.
 
-sprite :
+sprite:
   id: TRqoeYfGAFjQbviF
   nom: Sprite
   nomEn: Sprite
@@ -1371,7 +1371,7 @@ sprite :
     
     Bree, Pruneherbe, Cowrie, Flit, Papillon de nuit, Zéphyr, Naatalu, Brossepin, Zandivar
 
-strix :
+strix:
   id: GXcC6oVa5quzgNHD
   nom: Strix
   nomEn: Strix
@@ -1429,7 +1429,7 @@ strix :
     
     Chiit-iir, Cicreeti, Ikatarii, Irkoata, Kaata, Kiilo, Kirii, Rahka, Roatatwiil, Turiilo, Turuk, Twilii
 
-tengu :
+tengu:
   id: 18xDKYPDBLEv2myX
   nom: Tengu
   nomEn: Tengu

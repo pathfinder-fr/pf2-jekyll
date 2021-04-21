@@ -8,7 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/numb-to-death.json
 layout: dons
 ---
-<span>**Fréquence** une fois par jour  
-**Prérequis** [Dur à cuir](dur-à-cuir.md), vous êtes mort au moins une fois  
+**Fréquence** une fois par jour
 
-Votre passé vous a laissé insensible à l'appel de la mort. La première fois au cours de chaque journée que vous récupérez des Points de vie alors que vous êtes  [Mourant](../conditions/mourant.md), vous regagnez des Points de vie supplémentaires égaux à votre niveau et vous ne gagnez ni la condition [Blessé](../conditions/blessé.md) ni n'augmentez la valeur de cette condition.
+Votre passé vous a laissé insensible à l'appel de la mort. La première fois au cours de chaque journée que vous récupérez des Points de vie alors que vous êtes [Mourant](../conditions/mourant.md), vous regagnez des Points de vie supplémentaires égaux à votre niveau et vous ne gagnez ni la condition [Blessé](../conditions/blessé.md) ni n'augmentez la valeur de cette condition.

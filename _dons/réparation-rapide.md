@@ -8,6 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/quick-repair.json
 layout: dons
 ---
-**Prérequis** qualifié en Artisanat
-
-Vous mettez 1 min à Réparer un objet. Si vous êtes un maître en Artisanat, cela prend 3 actions. Si vous êtes légendaire, cela prend 1 action.
+Vous mettez 1 minute à Réparer un objet. Si vous êtes un maître en Artisanat, cela prend 3 actions. Si vous êtes légendaire, cela prend 1 action.

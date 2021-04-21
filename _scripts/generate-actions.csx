@@ -11,7 +11,7 @@ await GenerateCollection(DataGroup.Actions, ParseAction);
 static void ParseAction(JsonElement item, JsonDocument frJsonDoc, StreamWriter writer)
 {
     // chargement des infos utiles d'après le fichier actionspf2e.json
-    var actionType = item.GetProperty("data").GetProperty("actionType").GetProperty("value").GetString();
+    var actionType = item.GetProperty("actionType").GetString();
 
     // on détermine le nom de l'entrée du glossaire pour avoir le texte FR
     // pour le type d'action, on recherche ActionType + type d'action du json

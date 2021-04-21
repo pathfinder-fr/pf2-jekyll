@@ -9,3 +9,7 @@ urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/pack
 layout: dons
 ---
 Vous vous déplacez beaucoup plus rapidement à pied. Votre Vitesse augmente de 1,50 m.
+
+Effet automatiquement appliqué :
+
+- bonus non typé de +1,5 m à votre Vitesse au sol

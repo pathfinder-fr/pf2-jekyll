@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/elemental-bulwark.json
 layout: dons
 ---
-**Trigger** Un ennemi est sur le point de vous infliger des dégâts de froid, d'électricité ou de feu ou avec un sort qui possède les traits air, terre, feu ou eau.
+**Activation** Un ennemi est sur le point de vous infliger des dégâts de froid, d'électricité ou de feu ou avec un sort qui possède les traits air, terre, feu ou eau.
 
 Vous invoquez les éléments correspondants de votre héritage suli pour résister à l'effet. Vous obtenez une résistance 5 contre les dégâts déclencheurs.

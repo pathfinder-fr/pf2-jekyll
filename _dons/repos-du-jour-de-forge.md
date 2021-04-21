@@ -10,4 +10,4 @@ layout: dons
 ---
 **Accès** ethnie de nain vivant sous la surface
 
-Votre cycle de repos inhabituel vous permet de récupérer plus vite. tant que vous pouvez vous reposer pendant 12 heures, vous obtenez les effets du don général [Récupération rapide](récupération-rapide.md) et vous pouvez rester 20 heures sans repos avant de devenir [Fatigué](../conditions/fatigué.md)
+Votre cycle de repos inhabituel vous permet de récupérer plus vite. Tant que vous pouvez vous reposer pendant 12 heures, vous obtenez les effets du don général [Récupération rapide](récupération-rapide.md) et vous pouvez rester 20 heures sans repos avant de devenir [Fatigué](../conditions/fatigué.md)

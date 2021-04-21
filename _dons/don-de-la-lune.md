@@ -14,4 +14,4 @@ Au niveau 15 , vous lancez Frénésie lunaire au niveau 6 à la place.
 
 Au niveau 17, votre frénésie lunaire au niveau 6 accorde ses effets ordinaires sauf que les points de vie temporaires passent à 15 et la faiblesse à l'argent passe à 15.
 
-Au niveau 20, vous lancez Frénésie lunaire au niveau 10 à la place. Le sort utilise le plus élevé entre votre DD de sort et votre DD de classe.
+Au niveau 20, vous lancez Frénésie lunaire au niveau 10 à la place. Le sort utilise - au plus élevé - entre votre DD de sort et votre DD de classe.

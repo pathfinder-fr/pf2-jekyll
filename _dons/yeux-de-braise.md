@@ -10,4 +10,4 @@ layout: dons
 ---
 Vos yeux s'embrasent de votre flamme intérieure. Vous obtenez [Vision nocturne](../capacités-ascendances/vision-nocturne.md) ou vous obtenez [Vision dans le noir](../capacités-ascendances/vision-dans-le-noir.md) si votre  ascendance possède déjà vision nocturne.
 
-**Spécial** Si votre ascendance n'a ni vision nocturne, ni vision dans le noir, vous pouvez prendre ce don d'ascendance une seconde fois pour obtenir vision dans le noir. You can’t retrain out of this feat.
+**Spécial** Si votre ascendance ne possède ni vision nocturne, ni vision dans le noir, vous pouvez prendre ce don d'ascendance une seconde fois pour obtenir vision dans le noir. Vous ne pouvez pas utiliser le réapprentissage pour le perdre.

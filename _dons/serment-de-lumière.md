@@ -16,7 +16,7 @@ Serment de lumière (Paladin)
 
 La résistance contre les dégâts d’un mort‑vivant que vous confère votre Lueur de rédemption s’élève à 7 + votre niveau.
  
-Si vous utilisez Pas libérateur lorsqu’il est déclenché par un mort‑vivant, votre allié bénéficie d’un bonus de circonstances de +4 aux tests conféré par votre Pas libérateur et il peut ensuite Faire un pas deux fois.
+Si vous utilisez [Pas libérateur](../actions/pas-libérateur.md) lorsqu’il est déclenché par un mort‑vivant, votre allié bénéficie d’un bonus de circonstances de +4 aux tests conféré par votre Pas libérateur et il peut ensuite Faire un pas deux fois.
 
 Effet: Pas libérateur (contre les morts-vivants)
 

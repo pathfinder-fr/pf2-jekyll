@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/mercy.json
 layout: dons
 ---
-Votre contact apaise les peurs et restaure les capacités de déplacement. Si la prochaine action que vous effectuez consiste à lancer imposition des mains, vous pouvez tenter de contrer un effet de terreur ou un effet qui impose l’état Pparalysé à la cible, en plus des autres avantages de l’imposition des mains.
+Votre contact apaise les peurs et restaure les capacités de déplacement. Si la prochaine action que vous effectuez consiste à lancer [Imposition des mains](../sorts/imposition-des-mains.md), vous pouvez tenter de contrer un effet de terreur ou un effet qui impose l’état [Paralysé](../conditions/paralysé.md) à la cible, en plus des autres avantages de l’imposition des mains.

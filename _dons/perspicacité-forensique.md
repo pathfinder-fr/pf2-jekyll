@@ -8,8 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/forensic-acumen.json
 layout: dons
 ---
-p>**Prérequis** qualifié en Medicine
-
 Vous comprenez les principes de la médecine forensique, ce qui vous rend plus à même d’examiner un corps à la recherche des causes de la mort ou d’une blessure.
 
 Vous pouvez réaliser un examen forensique sur un corps, comme indiqué sous [Se souvenir de connaissances](../actions/se-souvenir-médecine.md) dans la compétence de Médecine, en la moitié du temps normal (avec un minimum de 5 minutes). Si vous réussissez ce test, vous pouvez effectuer immédiatement un test de Se souvenir de connaissances pour Suivre une piste que vous venez de trouver et ce, avec un bonus de circonstances de +2.

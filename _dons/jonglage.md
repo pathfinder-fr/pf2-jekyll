@@ -8,8 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/juggle.json
 layout: dons
 ---
-**Prérequis** Dextérité 16, qualifié en Représentation  
-
 Vous pouvez jongler avec des objets et continuer à utiliser vos mains entre les passes. Vous pouvez utiliser l'action Juggle de différentes manières.
 
 Vous pouvez commencer à jongler avec un unique objet que vous avez rangé, un objet que vous portiez ou un objet délaissé à votre portée. L'objet doit être d'Encombrement léger ou négligeable. Vous jonglez avec l'objet jusqu'à la fin de votre tour à moins que vous n'utilisiez ce don durant le prochain tour pour continuer à Jogler (voir ci-dessous). Lorsque vous êtes en train de Jongler, vous pouvez utiliser cette action pour ajouter un autre objet au jonglage, lequel doit remplir toutes les conditions identiques. Vous pouvez jongler avec un nombre d'objets égal à un plus le nombre de mains que vous utilisez pour jongler.  

@@ -12,4 +12,4 @@ Vous savez reconnaître le bon artisanat lorsque vous le voyez et pouvez partir 
 
 Vous êtes qualifié en Artisanat et obtenez un bonus de circonstances de +1 à tous les tests d'Artisanat faits pour [vous Souvenir](../actions/se-souvenir-artisanat.md). Si vous devriez automatiquement être qualifié en Artisanat (par le biais de votre historique ou de votre classe, par exemple), vous êtes qualifié dans une autre compétence de votre choix à la place.
 
-De plus, vous obtenez le don de compétence [Évaluation artisanale](évaluation-artisanale.md), vous permettant d'identifier les objets magiques en utilisant la compétence Artisanat.
+De plus, vous obtenez le don de compétence [Évaluation artisanale](évaluation-de-l-artisan.md), vous permettant d'identifier les objets magiques en utilisant la compétence Artisanat.

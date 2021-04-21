@@ -16,7 +16,7 @@ Au bout de cette minute, les durées de tout sort de révélation que vous avez 
 
 **Succès critique** Vous ne subissez pas d'autres effets.
 
-**Succès** Vous êtes <a class="entity-link" data-pack="pf2e.conditionspf2e" data-id="4D2KBtexWXa6oUMR" draggable="true"><i class="fas fa-book-open"></i>Drainé</a> 2 et ne pouvez pas réduire ou retirer cette condition jusqu'à vos prochains préparatifs quotidiens.
+**Succès** Vous êtes <a class="entity-link" data-pack="pf2e.conditionitems" data-id="4D2KBtexWXa6oUMR" draggable="true"><i class="fas fa-book-open"></i>Drainé</a> 2 et ne pouvez pas réduire ou retirer cette condition jusqu'à vos prochains préparatifs quotidiens.
 
 **Échec** Vous êtes Drainé 4 et ne pouvez réduire ou retirer cette condition jusqu'à vos prochains préparatifs quotidiens.
 

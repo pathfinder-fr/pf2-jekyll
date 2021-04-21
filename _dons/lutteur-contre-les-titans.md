@@ -8,6 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/titan-wrestler.json
 layout: dons
 ---
-**Prérequis** qualifié en Athlétisme
-
-Vous pouvez tenter de Désarmer, Saisir, Pousser ou faire un Croc-enjambe aux créatures jusqu’à deux tailles plus grandes que vous, ou jusqu’à trois tailles plus grandes que vous si vous êtes légendaire en Athlétisme.
+Vous pouvez tenter de [Désarmer](../actions/désarmer.md), [Saisir](../actions/saisir.md), [Pousser](../actions/pousser.md) ou faire un [Croc-en-jambe](../actions/croc-en-jambe.md) aux créatures jusqu’à deux tailles plus grandes que vous, ou jusqu’à trois tailles plus grandes que vous si vous êtes légendaire en Athlétisme.

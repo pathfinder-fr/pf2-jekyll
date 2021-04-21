@@ -8,6 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/magical-crafting.json
 layout: dons
 ---
-**Prérequis ** expert en Artisanat
-
-Vous pouvez Fabriquer des objets magiques, bien que certains aient d’autres conditions, comme listé au Chapitre 11. Quand vous sélectionnez ce don, vous gagnez les formules pour quatre objets magiques ordinaires de niveau 2 ou inférieur.
+Vous pouvez Fabriquer des objets magiques, bien que certains aient d’autres conditions. Quand vous sélectionnez ce don, vous gagnez les formules pour quatre objets magiques courants de niveau 2 ou inférieur.

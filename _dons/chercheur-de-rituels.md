@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/ritual-researcher.json
 layout: dons
 ---
-Une recherche soigneuse dans l'art des rituels vous a rendu meilleur lorsqu'il s'agit de les accomplir. Vous obtenez un bonus de circonstances de +2 à tous les tests primaires et secondaires que vous tentez qui sont des parties du lancement d'un rituel.
+Une recherche soigneuse dans l'art des rituels vous a rendu plus performant lorsqu'il s'agit de les accomplir. Vous obtenez un bonus de circonstances de +2 à tous les tests primaires et secondaires que vous tentez qui sont des parties du lancement d'un rituel.

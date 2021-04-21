@@ -8,6 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/impressive-performance.json
 layout: dons
 ---
-**Prérequis** qualifié en Représentation
-
 Votre représentation inspire l’admiration et vous fait gagner des fans. Vous pouvez Faire bonne impression en utilisant Représentation au lieu de Diplomatie.

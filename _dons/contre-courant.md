@@ -8,8 +8,8 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/riptide.json
 layout: dons
 ---
-**Conditions** Vous êtes à 3 m d'une eau d'au moins 3 m de profondeur et votre vitesse est suffisante pour atteindre l'eau en Marchant rapidement.
+**Conditions** Vous êtes à 3 mètres d'une eau d'au moins 3 mètres de profondeur et votre vitesse est suffisante pour atteindre l'eau en Marchant rapidement.
 
 **Déclencheur** Vous réussissez à saisir une créature de la même taille que vous ou plus petite.
 
-Vous Marchez rapidement de 3 m pour rentrer dans l'eau, emportant la créature [Agrippée](../conditions/agrippé-empoigné.md) avec vous dans l'eau.
+Vous Marchez rapidement de 3 mètres pour rentrer dans l'eau, emportant la créature [Agrippée](../conditions/agrippé-empoigné.md) avec vous dans l'eau.

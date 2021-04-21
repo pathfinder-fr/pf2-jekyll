@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/steel-your-resolve.json
 layout: dons
 ---
-<span>**Coût** 1 Point de Résolution  
+**Coût** 1 Point de Persévérance
 
-Regagnez des Points d'Endurance égaux à la moitié de votre maximum.
+Vous regagnez des Points d'Endurance égaux à la moitié de votre maximum.

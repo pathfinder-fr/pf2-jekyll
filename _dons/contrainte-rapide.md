@@ -8,5 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/quick-coercion.json
 layout: dons
 ---
-Vous pouvez intimider les autres simplement par le choix de quelques
-effets. Vous pouvez Contraindre une créature après 1 round de conversation au lieu de 1 minute. Vous ne pouvez toujours pas Contraindre une créature au milieu d’un combat, ni sans engager la conversation.
+Vous pouvez intimider les autres simplement par le choix de quelques effets. Vous pouvez Contraindre une créature après 1 round de conversation au lieu de 1 minute. Vous ne pouvez toujours pas Contraindre une créature au milieu d’un combat, ni sans engager la conversation.

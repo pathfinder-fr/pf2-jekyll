@@ -10,6 +10,6 @@ layout: dons
 ---
 La plupart des demi-orcs possèdent des défenses visibles mais les vôtres sont particulièrement grandes et pointues, capables d'infliger des blessures profondes.
 
-Vous obtenez une attaque à mains nues de mâchoire qui inflige 1d6 dégâts perforants.
+Vous obtenez une attaque à mains nues de mâchoire qui inflige [[/r 1d6 #piercing]] dégâts perforants.
 
 **Spécial** Vous ne pouvez prendre ce don qu'au niveau 1 et vous ne pouvez jamais utiliser le réapprentissage pour perdre ou prendre ce don par la suite.

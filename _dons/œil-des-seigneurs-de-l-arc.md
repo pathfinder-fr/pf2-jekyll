@@ -10,8 +10,6 @@ layout: dons
 ---
 **Fréquence** une fois par jour
 
-**Prérequis** expert en Arcanes, Sens arcanique
-
-**Access** Vous êtes membre des Seigneurs de l'Arc du Nex.
+**Accès** Vous êtes membre des Seigneurs de l'Arc du Nex.
 
 Un troisième œil incandescent s’ouvre sur votre front. Il peut rester ouvert jusqu’à une minute. Vous pouvez le fermer avant cela avec une action unique dotée du trait concentration. Il peut rester ouvert 2 minutes si vous êtes maître en Arcanes et 5 min si vous êtes légendaire. Tant que l’œil est ouvert, vous bénéficiez des avantages suivants : vous gagnez les effets du sort arcanique inné détection de la magie issu de votre Sens arcanique au début de chacun de vos tours, sans avoir besoin de le lancer ; vous gagnez [vision dans le noir](../sorts/vision-dans-le-noir.md) ; vous gagnez un bonus de statut de +2 aux tests de Perception pour [Chercher](../actions/chercher.md) une créature [non détectée](../conditions/non-détecté.md) ou [cachée](../conditions/caché.md) et au DD de vos tests de Perception contre [Se cacher](../actions/se-cacher.md) et [Être furtif](../actions/être-furtif.md). Une fois que votre troisième œil se ferme, vous êtes [ébloui](../conditions/ébloui.md) pendant aussi longtemps que vous l’avez gardé ouvert.

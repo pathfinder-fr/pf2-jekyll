@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/thrown-voice.json
 layout: dons
 ---
-Vous avez appris à prjeter votre voix à travers le vent, abusant les autres quant à votre emplacement. Vous pouvez lancer [Ventriloquie](../sorts/ventriloquie.md) comme un sort primordial inné une fois par jour. Si vous êtes un strix oiseauchanteur, vous pouvez le lancer deux fois par jour à la place.
+Vous avez appris à projeter votre voix à travers les vents, abusant les autres quant à votre emplacement. Vous pouvez lancer [Ventriloquie](../sorts/ventriloquie.md) comme un sort primordial inné une fois par jour. Si vous êtes un Strix oiseau-chanteur, vous pouvez le lancer deux fois par jour à la place.

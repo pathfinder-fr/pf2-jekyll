@@ -8,8 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/root-magic.json
 layout: dons
 ---
-**Prérequis **qualifié en Occultisme
-
-Vos talismans protègent contre la magie foul. Au cours de vos préparatifs quotidiens, vous pouvez assembler une petite bourse avec des morceaux d'herbes, de cheveux, d'huiles sacrées et d'autres ingrédients rituels, que vous pouvez donner à un allié.
+Vos talismans protègent contre la magie immonde. Au cours de vos préparatifs quotidiens, vous pouvez assembler une petite bourse avec des morceaux d'herbes, de cheveux, d'huiles sacrées et d'autres ingrédients rituels, que vous pouvez donner à un allié.
 
 La première fois dans la journée que l'allié tente un jet de sauvegarde contre un sort ou une apparition, il obtient un bonus de circonstances de +1 au test. Ce bonus passe à +2 si vous êtes expert en Occultisme ou à +3 si vous êtes légendaire.

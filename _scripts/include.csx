@@ -47,7 +47,7 @@ static async Task GenerateData(DataGroup group, ParseActionMethod2 misc = null)
             // chargement données traduction et correspondance id <=> nom
             var id = item.GetProperty("_id").GetString();
             var enName = item.GetProperty("name").GetString();
-            var enDesc = item.GetProperty("data").GetProperty("description").GetProperty("value").GetString();
+            var enDesc = item.GetProperty("description").GetString();
 
             string frName, frDesc, status;
             try
@@ -58,7 +58,7 @@ static async Task GenerateData(DataGroup group, ParseActionMethod2 misc = null)
             }
             catch (Exception ex)
             {
-                WriteLine($"Impossible de lire la traduction pour l'élément {enName} : {ex}");
+                WriteError($"Impossible de lire la traduction pour l'élément {enName} : {ex}");
                 continue;
             }
 
@@ -66,7 +66,7 @@ static async Task GenerateData(DataGroup group, ParseActionMethod2 misc = null)
 
             if (string.IsNullOrEmpty(trad.French))
             {
-                WriteLine($"La donnée {trad.English} n'a pas été traduite en français et n'est donc pas disponible (ID {trad.Id})");
+                WriteWarning($"L'élément '{trad.English}' n'a pas été traduit en français et n'est donc pas disponible (ID {trad.Id})");
                 continue;
             }
 
@@ -79,7 +79,7 @@ static async Task GenerateData(DataGroup group, ParseActionMethod2 misc = null)
             // on va adapter la description française au markdown
             var description = CleanupDescription(trad.FrenchDescription).Trim();
 
-            writer.WriteLine($"{frNameId} :");
+            writer.WriteLine($"{frNameId}:");
             writer.WriteLine($"  id: {trad.Id}");
             writer.WriteLine($"  nom: {trad.French}");
             writer.WriteLine($"  nomEn: {trad.English}");
@@ -139,7 +139,7 @@ static async Task GenerateCollection(DataGroup group, ParseActionMethod2 misc = 
         // chargement données traduction et correspondance id <=> nom
         var id = item.GetProperty("_id").GetString();
         var enName = item.GetProperty("name").GetString();
-        var enDesc = item.GetProperty("data").GetProperty("description").GetProperty("value").GetString();
+        var enDesc = item.GetProperty("description").GetString();
 
         try
         {
@@ -152,7 +152,7 @@ static async Task GenerateCollection(DataGroup group, ParseActionMethod2 misc = 
             }
             catch (Exception ex)
             {
-                WriteLine($"Impossible de lire la traduction pour l'élément {enName} : {ex}");
+                WriteError($"Impossible de lire la traduction pour l'élément {enName} : {ex}");
                 continue;
             }
 
@@ -160,7 +160,7 @@ static async Task GenerateCollection(DataGroup group, ParseActionMethod2 misc = 
 
             if (string.IsNullOrEmpty(trad.French))
             {
-                WriteLine($"La donnée {trad.English} n'a pas été traduite en français et n'est donc pas disponible (ID {trad.Id})");
+                WriteWarning($"L'élément '{trad.English}' n'a pas été traduit en français et n'est donc pas disponible (ID {trad.Id})");
                 continue;
             }
 
@@ -189,7 +189,7 @@ static async Task GenerateCollection(DataGroup group, ParseActionMethod2 misc = 
                     }
                     catch (Exception ex)
                     {
-                        WriteLine($"Erreur sur traitement personnalisé sur {trad.English} : {ex}");
+                        WriteError($"Erreur sur traitement personnalisé sur l'élément '{trad.English}' : {ex}");
                         throw;
                     }
                 }
@@ -200,7 +200,7 @@ static async Task GenerateCollection(DataGroup group, ParseActionMethod2 misc = 
         }
         catch (Exception ex)
         {
-            WriteLine($"Impossible de lire la page {enName} (id {id}) : {ex}");
+            WriteError($"Impossible de lire l'élément '{enName}' (id {id}) : {ex}");
         }
     }
 }
@@ -479,7 +479,7 @@ public static string ReplaceCompendiumMatch(Match match)
 
     if (dataGroup == null)
     {
-        WriteLine($"[WARNING] Impossible de trouver le groupe de données {groupName} pour le lien {link}");
+        WriteWarning($"Impossible de trouver le groupe de données {groupName} pour le lien {link}");
         return text;
     }
 
@@ -496,9 +496,9 @@ public static string ReplaceCompendiumMatch(Match match)
     {
         frName = Ids.ResolveFrenchNameId(dataGroup, id);
     }
-    catch (Exception ex)
+    catch (Exception)
     {
-        WriteLine($"[WARNING] Impossible de trouver le nom français pour le lien {link} pointant vers la page {id} (groupe {dataGroup}) : {ex}");
+        WriteWarning($"Impossible de trouver la traduction pour le lien {link} pointant vers l'id {id} (groupe {dataGroup})");
         return text;
     }
 
@@ -510,6 +510,22 @@ public static string ReplaceCompendiumMatch(Match match)
     {
         return $"[{text}](../{groupFolder}/{frName}.md)";
     }
+}
+
+public static void WriteWarning(string message)
+{
+    var previous = Console.ForegroundColor;
+    Console.ForegroundColor = ConsoleColor.Yellow;
+    Console.WriteLine(message);
+    Console.ForegroundColor = previous;
+}
+
+public static void WriteError(string message)
+{
+    var previous = Console.ForegroundColor;
+    Console.ForegroundColor = ConsoleColor.Red;
+    Console.WriteLine(message);
+    Console.ForegroundColor = previous;
 }
 
 public class DataGroup

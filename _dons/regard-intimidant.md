@@ -8,6 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/intimidating-glare.json
 layout: dons
 ---
-**Prérequis** qualifié en Intimidation
-
 Vous pouvez Démoraliser d’un simple regard. Quand vous le faites, Démoraliser perd le trait audible et gagne le trait visuel, et vous ne subissez pas de malus si la créature ne comprend pas votre langue.

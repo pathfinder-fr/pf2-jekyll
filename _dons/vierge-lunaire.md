@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/moon-may.json
 layout: dons
 ---
-Votre mère était une guenaude de la lune, une vierge viergeservante de Groetus, et vous avez un unique œil écarlate et un éclat de leur céleste prescience. Vous pouvez lancer [Assistance divine](../sorts/assistance-divine.md) comme un tour de magie inné occulte. Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi au supérieur.
+Votre mère était une guenaude de la lune, une servante de Groetus, et vous avez un unique œil écarlate et un éclat de leur céleste prescience. Vous pouvez lancer [Assistance divine](../sorts/assistance-divine.md) comme un tour de magie inné occulte. Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi au supérieur.
