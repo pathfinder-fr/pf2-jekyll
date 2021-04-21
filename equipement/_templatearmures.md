@@ -13,11 +13,12 @@ Un moyen simple également de ne pas attraper les armures magiques consiste à v
 Pour remplir les champs, voici où les trouver dans l'ordre du tableau :
 - Armure : champ `nom` en français
 - Type : champ `"armorType":` donne unarmored, light, medium ou heavy à traduire (dans le fr.json la traduction est dans les champs "ArmorTypeUnarmored" ArmorTypeLight ArmorTypeMedium ArmorTypeHeavy)
-- Prix : champ `"price": {"value":` donne le prix mais les pièces sont en anglais en dur 2 gp à convertir en 2 po, je ne sais pas gérer mais le fr.json comporte un champ CurrencyAbbreviations": {
+- Prix : champ `"price": {"value":` donne le prix mais les pièces sont en anglais en dur 2 gp à convertir en 2 po, je ne sais pas gérer mais le fr.json comporte un champ 
+```CurrencyAbbreviations": {
       "cp": "pc",
       "gp": "po",
       "pp": "pp",
-      "sp": "pa"},
+      "sp": "pa"},```
 - Bonus à la CA : champ `"armor": {"value":` donne le chiffre du bonus. Il faut juste prévoir d'ajouter + devant la valeur à l'affichage qui n'est pas compris
 - Dex Max : champ `"dex": {"value":` donne le bonus max de dex à la CA. Il faut prévoir d'ajouter + devant la valeur à l'affichage qui n'est pas compris
 - Malus aux test : champ  `"check": {"value` donne le malus au test. Il est inutile de mettre le signe devant qui figure dans les valeurs
