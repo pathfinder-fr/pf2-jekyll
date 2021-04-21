@@ -1,7 +1,7 @@
 ----
-Title: template des classes
+Title: template des ascendances
 ---
-- Créer une page de regroupement pour faire apparaître toutes les ascendances accessibles en les affichant par ordre alphabétique avec une couleur ou une indication en fonction de la rareté. Pour gérer la Rareté : il y a un trait `rarity` qui donne la rareté de l'ascendance
+- Créer une page de regroupement pour faire apparaître toutes les ascendances accessibles en les affichant par ordre alphabétique avec une couleur ou une indication en fonction de la rareté. Pour gérer la Rareté : il y a un trait `rarity` dans chaque ascendance qui détermine la rareté de l'ascendance donnée.
 
 - générer automatiquement les pages des ascendances *à partir de la structure des pages du compendium des ascendances de Foundry* issues de la ancestries.db :
 
