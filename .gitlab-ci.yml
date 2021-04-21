@@ -11,6 +11,7 @@ pages:
   stage: deploy
   script:
   - bundle exec jekyll build -d public -b "/pf2-jekyll/"
+  - bundle exec jekyll build -d pf-org
   artifacts:
     paths:
     - public
