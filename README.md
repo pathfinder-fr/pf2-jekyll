@@ -99,3 +99,9 @@ Avant de générer le site pour la première fois, vous devrez lancer la command
 Une fois les pre-requis installés, vous pouvez lancer la commande `bundle exec jekyll build` qui génèrera une copie du site dans le dossier `_site`.
 
 Utilisez la commande `bundle exec jekyll serve` pour lancer une copie du site. En général le site pourra ensuite être consulté à l'adresse [](http://127.0.0.1:4000/srd/pf2/).
+
+### CI / CD
+
+Le contenu de la branche **master** est automatiquement build et publié à l'adresse [https://pathfinder-fr.gitlab.io/pf2-jekyll](https://pathfinder-fr.gitlab.io/pf2-jekyll).
+
+Le contenu de la branche **pub** est automatiquement build et publié sur le site officiel [https://www.pathfinder-fr.org/srd/pf2/](https://www.pathfinder-fr.org/srd/pf2/).
