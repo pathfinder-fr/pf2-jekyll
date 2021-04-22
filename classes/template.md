@@ -17,10 +17,12 @@ Pour l'affichage sur la page
 
 ATTENTION : Le champ descriptionFr ne contient pas certaines capacités des classes. Par exemple, les trafics du roublard sont simplement mentionnés par leur nom avec leur ID qui donne un lien vers la capacité sous Foundry. ce sera la même chose avec les lignages des ensorceleurs, les ordres druidiques
 
-Hypothèse dans l'ordre de ma préférence
-- pouvoir utiliser les liens de la description pour les afficher en utilisant l'id pour les appeler et afficher Nom en Fr suivi de descriptionFr. Voir si techniquement c'est possible et rentable sachant qu'il y a d'autres occurences pour les autres classes. Ce sont les seuls liens sortant de la page Foundry apparemment.
-- les ajouter manuellement dans la description de la classe dans le compendium Foundry, cela impose cependant de maintenir deux fichiers
-- autre solution ?
+## Capacités de chaque classe
+Les capacités emblématiques des classes n'existent pas dans la description de la page de la classe (trafics du roublard, styles du bretteur, lignages de l'ensorceleur, écoles du magicien, thèses du magicien). L'idée est donc de les repérer dans la description de chaque classe (a priori il y a un lien vers @Compendium[pf2e.classfeature,XXXX) qui donne l'ID des capacités qu'on peut aller cherche pour permettre l'affichage).
+
+Ensuite on crée une page permettant le regroupement de ces capacités pour chaque classe pour pouvoir mettre dessus toutes les variantes de la capacité (lignages pour mettre les lignages...).
+
+template à créer pour regarder ce dont on a besoin
 
 ## Dons de chaque classe
 Idéalement, il faudrait  pouvoir générer automatiquement une page à part intitulée **dons-ancestraux-nomdelaclasse** pour avoir les dons de chaque classe correspondante
