@@ -39,7 +39,7 @@ pf-org:
   stage: deploy
   script:
   - bundle exec jekyll build -d pf-org --incremental
-  - lftp -e "set ssl:verify-certificate no; set mirror:overwrite true; set mirror:parallel-transfer-count 5; open pathfinder-fr.org; user $ftp_username $ftp_password; mirror -R -e --use-cache -p pf-org/ /; bye"
+  - lftp -e "set ssl:verify-certificate no; set mirror:overwrite true; set mirror:parallel-transfer-count 5; open pathfinder-fr.org; user $ftp_username $ftp_password; mirror -R -e --use-cache --no-perms --no-umask pf-org/ /; bye"
   artifacts:
     paths:
     - pf-org
