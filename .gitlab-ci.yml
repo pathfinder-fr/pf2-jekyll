@@ -19,7 +19,8 @@ cache:
     - pf-org/
 
 before_script:
-  - bundle install --path .vendor
+  - bundle config set path '.vendor'
+  - bundle install
   - apt-get -qq update
   - apt-get -qq install -y lftp
 
