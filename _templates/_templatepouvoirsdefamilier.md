@@ -1,5 +1,5 @@
 ---
-Title: Les pouvoirs de familier
+Title: Template pour générer les pouvoirs de familier
 ---
 ## Champs utiles
 Tous les champs dont nous disposons sont dans la familiar-abilities.db de la traduction des compendium Foundry

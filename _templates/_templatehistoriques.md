@@ -1,5 +1,5 @@
 ---
-Title: template pour les historiques
+Title: template de la page des historiques (tableau et page de regroupement) 
 ---
 ## Champs utiles
 Dans Foundry, nous avons les champs

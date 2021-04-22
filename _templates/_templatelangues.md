@@ -1,5 +1,5 @@
 ---
-Title: Liste de toutes les langues du jeu
+Title: template pour générer toutes les langues du jeu
 ---
 La page [Langues](ascendances-et-historiques/langues.md) contient les tableaux des langues du Ldb rangées en fonction de leur rareté.
 

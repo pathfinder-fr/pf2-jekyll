@@ -1,5 +1,5 @@
-----
-Title: template du fichier des ascendances
+---
+Title: template de la page de chaque ascendance, des héritages et des dons ancestraux
 ---
 ## Page de l'ascendance
 
