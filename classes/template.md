@@ -296,60 +296,38 @@ Voici les champs d'un don de classe (adrenaline-rush)
     "_id": "BBj6jrdyff7QOgjH",
     "data": {
         "actionCategory": {
-            "value": ""
-        },
-        "actionType": {
-            "value": "passive"
-        },
+            "value": ""},
+        "actionType": {"value": "passive"},
         "actions": {
-            "value": ""
-        },
+            "value": ""},
         "description": {
             "chat": "",
             "unidentified": "",
-            "value": "<p>In the heat of battle, you are capable of amazing feats of strength.</p>\n<p>While you are @Compendium[pf2e.actionspf2e.Rage]{Raging}, increase your encumbered and maximum Bulk limits by 2; you also gain a +1 status bonus to Athletics checks to lift heavy objects, @Compendium[pf2e.actionspf2e.Escape]{Escape}, and @Compendium[pf2e.actionspf2e.Force Open]{Force Open}.</p>"
-        },
-        "featType": {
-            "value": "class"
-        },
-        "level": {
-            "value": 1
-        },
+            "value": "<p>In the heat of battle, you are capable of amazing feats of strength.</p>\n<p>While you are @Compendium[pf2e.actionspf2e.Rage]{Raging}, increase your encumbered and maximum Bulk limits by 2; you also gain a +1 status bonus to Athletics checks to lift heavy objects, @Compendium[pf2e.actionspf2e.Escape]{Escape}, and @Compendium[pf2e.actionspf2e.Force Open]{Force Open}.</p>"},
+        "featType": {"value": "class"},
+        "level": {"value": 1},
         "location": "",
         "prerequisites": {
-            "value": []
-        },
-        "rules": [
-            {
-                "key": "PF2E.RuleElement.FlatModifier",
+            "value": []},
+        "rules": [{"key": "PF2E.RuleElement.FlatModifier",
                 "label": "Adrenaline Rush (Lift heavy objects, escape, force open)",
                 "predicate": {
                     "all": [
-                        "rage"
-                    ],
+                        "rage"],
                     "any": [
                         "action:escape",
                         "action:force-open",
-                        "lift-heavy-object"
-                    ]
-                },
+                        "lift-heavy-object"]},
                 "roll-options": [
                     "athletics",
-                    "all"
-                ],
+                    "all"],
                 "selector": "athletics",
                 "type": "status",
-                "value": 1
-            }
-        ],
-        "source": {
-            "value": ""
-        },
+                "value": 1}],
+        "source": {"value": ""},
         "traits": {
             "custom": "",
-            "rarity": {
-                "value": "common"
-            },
+            "rarity": {"value": "common"},
             "value": [
                 "barbarian",
                 "rage"]}},
