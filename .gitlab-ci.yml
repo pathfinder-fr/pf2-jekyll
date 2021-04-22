@@ -14,7 +14,7 @@ pages:
   script:
   - bundle exec jekyll build -d public -b "/pf2-jekyll/"
   - bundle exec jekyll build -d pf-org
-  - lftp -e "set ssl:verify-certificate no; open pathfinder-fr.org; user $ftp_username $ftp_password; mirror --reverse --verbose --delete pf-org/ /; bye"
+  - lftp -e "set ssl:verify-certificate no; open pathfinder-fr.org; user $ftp_username $ftp_password; mirror -R -e -P=4 pf-org/ /; bye"
   artifacts:
     paths:
     - pf-org
