@@ -27,7 +27,9 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/srd/pf2" # the subpath of your site, e.g. /blog
 url: "https://www.pathfinder-fr.org" # the base hostname & protocol for your site, e.g. http://example.com
 
-exclude: [README.md]
+exclude:
+  - README.md
+  - .vendor/
 
 plugins:
   - jekyll-relative-links
