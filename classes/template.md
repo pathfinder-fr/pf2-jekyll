@@ -25,7 +25,7 @@ Ensuite on crée une page permettant le regroupement de ces capacités pour chaq
 template à créer pour regarder ce dont on a besoin
 
 ## Dons de chaque classe
-Idéalement, il faudrait  pouvoir générer automatiquement une page à part intitulée **dons-ancestraux-nomdelaclasse** pour avoir les dons de chaque classe correspondante
+Idéalement, il faudrait  pouvoir générer automatiquement une page à part intitulée **dons-nomdelaclasse** pour avoir les dons de chaque classe correspondante
 
 Sur la page on porte simplement les dons qui sont propres à chaque classe. 
 
