@@ -89,6 +89,7 @@ Pour le tri, il s'agit des dons :
     - `PrereqFR:` qui donne les prérequis du don 
     - `DescriptionFr` qui donne la description du don
     - `Avantage` qui permet de résumer le don
+    - `"traits": {"value:` qui donnera les traits du don
     - `"actionType": {"value":` qui donne le type d'action nécessaire pour utiliser le don  
     - `"level": {value":` qui donne le niveau sous une forme numérique ne nécessitant pas de traitement,
     - `"rarity": {"value":` qui donne les valeurs common, uncommon ou rare qui peuvent être traduites à partir du fr.json
@@ -101,8 +102,10 @@ Une fois qu'on a récupéré ces champs, sur la page, l'affichage des dons se fa
 - Sur la deuxième ligne
     - le nom anglais du champ `Name` entre parenthèses, en plus petit
 - Sur la troisième ligne
-    - **Prérequis** suivi du contenu du champ `PrereqFr`. ATTENTION Quand il y a plusieurs prérequis pour un même don, ils sont séparés par des "|" qui doivent être remplacés par des *, * à l'affichage dans le wiki. S'il n'existe pas, supprimer l'affichage
-- en dessous la description du champ `DescriptionFR`.
+    - les traits du champ `traits`à traduire à partir du json.fr en récupérant la valeur dans le champ `TraitNomdutraitenanglais`
+- Sur la quatrième ligne
+    - **Prérequis** suivi du contenu du champ `PrereqFr`. ATTENTION Quand il y a plusieurs prérequis pour un même don, sous Foundry, ils sont séparés par des "|" qui doivent être remplacés par des *, * à l'affichage dans le wiki. S'il n'existe pas, supprimer l'affichage
+- en dessous la description du champ `DescriptionFr`.
 
 On pourrait prévoir dans une colonne à droite sur la page, le nom et le niveau de chaque don avec un lien, pour circuler sur la page
 
