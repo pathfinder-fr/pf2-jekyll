@@ -4,16 +4,22 @@ variables:
   JEKYLL_ENV: production
   LC_ALL: C.UTF-8
 
-# utilisatrion
+# utilisation d'un cache réutilisable pour accéler les déploiements
+# le cache est spécifique par job (pages, pf-org) et par branche
+#
+# .jekyll-cache : données de jekyll
+# .vendor : packages ruby
+# public/ et /pf-org/ : fichiers en sortie du site, pour la gestion de --incremental
 cache:
   key: "$CI_JOB_NAME-$CI_COMMIT_REF_SLUG"
   paths:
-    - .jekyll-cache
-    - public
-    - pf-org
+    - .jekyll-cache/
+    - .vendor/
+    - public/
+    - pf-org/
 
 before_script:
-  - bundle install
+  - bundle install --path .vendor
   - apt-get -qq update
   - apt-get -qq install -y lftp
 
