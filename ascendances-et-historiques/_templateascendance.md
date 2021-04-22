@@ -67,8 +67,8 @@ le champ `additionallanguages` de l'ancestry donne les langues qu'un membre de l
 - **traits**
 `trait value` donne les traits de l'ascendance en anglais. La valeur est ensuite à récupérer dans le fr.json pour l'afficher en français dans le champ `TraitNomdutraitanglais` 
 
-// viennent ensuite les capacités de l'ascendance. 
-Le champ `items name` donne les ID qui correspondent à des capacités de l'ascendance qui se trouvent toutes dans la **ancestryfeatures.db**. L'ID permet d'aller chercher chacune des capacités de la race pour pouvoir les afficher sur la page.
+- viennent ensuite les capacités de l'ascendance. 
+Le champ `items name` donne les ID qui correspondent à des capacités de l'ascendance qui se trouvent toutes dans la **ancestryfeatures.db**. L'ID permet d'aller chercher chacune des capacités de la race pour pouvoir les afficher sur la page. Cela concerne soit des capacités, soit la vision dans le noir ou nocturne de l'ascendance.
 
 Dans la **ancestryfeatures.db** en allant chercher le fichier dont l'ID a été récupérée au-dessus, on récupère pour l'affichage :
     - **nom**  
@@ -78,12 +78,12 @@ Dans la **ancestryfeatures.db** en allant chercher le fichier dont l'ID a été 
 ## Dons de l'ascendance
 Idéalement, il faudrait ensuite pouvoir générer automatiquement une page à part intitulée **dons-ancestraux-nomdelascendance**.
 
-Sur la page on porte les dons qui sont propres à chaque ascendance. 
+Sur la page on porte simplement les dons qui sont propres à chaque ascendance. 
 Les dons ancestraux sont dans la feats.db.
 Pour le tri, il s'agit des dons :
 - ayant le `"featType": {value": "ancestry",`
 - puis dans le champ `trait` le nom de l'ascendance concernée ex : `"traits": {value": elf})`.
-- il faut extraire les champs :
+- pour les données, il faut pouvoir extraire les champs suivants :
     - `Nom:` en français
     - `Name`en anglais
     - `PrereqFR:` qui donne les prérequis du don 
@@ -94,14 +94,17 @@ Pour le tri, il s'agit des dons :
     - `"rarity": {"value":` qui donne les valeurs common, uncommon ou rare qui peuvent être traduites à partir du fr.json
 
 Une fois qu'on a récupéré ces champs, sur la page, l'affichage des dons se fait en les triant par niveau dans l'ordre croissant, puis au sein du même niveau, par ordre alphabétique en affichant : 
-- Nom du don
-- suivi sur la même ligne du type d'action 
-- suivi sur la même ligne mais le plus à droite possible la mention niveau avec le `niveau` 
-- en dessous le nom anglais
-- en dessous les prérequis qui sont séparés dans notre traduction par des "|" qui doivent être remplacés par des *, * à l'affichage dans le wiki
-- en dessous la descriptionFr. 
+- Sur la première ligne
+    - *Nom* du don
+    - suivi  du *type d'action* du champ `actionType` ATTENTION la valeur doit être convertie en image à récupérer dans le fichiers images du pf2-jekyll) 
+    - suivi le plus à droite possible (un float right ?) la mention **niveau** suivi du contenu du champ `niveau` 
+- Sur la deuxième ligne
+    - le nom anglais du champ `Name` entre parenthèses, en plus petit
+- Sur la troisième ligne
+    - **Prérequis** suivi du contenu du champ `PrereqFr`. ATTENTION Quand il y a plusieurs prérequis pour un même don, ils sont séparés par des "|" qui doivent être remplacés par des *, * à l'affichage dans le wiki. S'il n'existe pas, supprimer l'affichage
+- en dessous la description du champ `DescriptionFR`.
 
-On pourrait prévoir dans une colonne à droite, en petit juste le nom et le niveau pour circuler sur la page
+On pourrait prévoir dans une colonne à droite sur la page, le nom et le niveau de chaque don avec un lien, pour circuler sur la page
 
 ## Notes sur les héritages versatiles
 Certains héritages d'ascendance sont versatiles.
