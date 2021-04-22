@@ -12,8 +12,9 @@ pages:
   script:
   - bundle exec jekyll build -d public -b "/pf2-jekyll/"
   - bundle exec jekyll build -d pf-org
+  - lftp -e "open pathfinder-fr.org; user $ftp_username $ftp_password; mirror --reverse --verbose --delete pf-org/ /; bye"
   artifacts:
     paths:
-    - public
+    - pf-org
   only:
   - master
