@@ -30,7 +30,7 @@ before_script:
 pages:
   stage: deploy
   script:
-  - bundle exec jekyll build -d public -b "/pf2-jekyll/" --verbose
+  - bundle exec jekyll build -d public -b "/pf2-jekyll/" --verbose --incremental
   artifacts:
     paths:
     - public
