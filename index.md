@@ -70,10 +70,10 @@ title: Bienvenue
 - [armures](equipement/armures.md) et tableau des armures
 - [boucliers](equipement/boucliers.md)
 - [armes](equipement/armes) 
-    - tableau des armes
-    - description des armes 
-    - traits des armes
-    - effets de critique spécialisés
+    - [tableaux des armes](equipement/armes-tableaux.md)
+    - [description des armes](equipement/armes-description.md)
+    - [traits des armes](equipement/armes-traits.md)
+    - [effets de critique spécialisés](equipement/armes-critiques.md)
 - [Matériel d'aventurier](equipement/materiel.md)
     - [Tableaux des matériels](equipement/tableaux.md)
     - [Kits de classe](equipement/kits.md)
