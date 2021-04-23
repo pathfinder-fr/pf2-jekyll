@@ -55,16 +55,28 @@ title: Bienvenue
     - [Occultisme](competences/occultisme.md)
     - [Religion](competences/religion.md)
     - [Représentation](competences/representation.md)
-    - [Société](competences/societe)
-    - [Survie](competences/survie)
-    - [Vol](competence/vol)
+    - [Société](competences/societe.md)
+    - [Survie](competences/survie.md)
+    - [Vol](competence/vol.md)
 
 # Les dons
-- La présentation des [dons](dons/presentation)
+- La présentation des [dons](dons/presentation.md)
 - [Liste des dons](dons/index.html)
   - Liste des dons **généraux** : extraire de la **feats.db** les dons ayant la valeur general mais pas ceux ayant la valeur skill, les classer par niveau, par ordre alphabétique. Afficher les champs suivant : nom en fr, Niveau, Prérequis, Avantage
   - Liste des dons de **compétence** : extraire de la **feats.db** les dons ayant la valeur skill sans la valeur general. Les présenter en les triant d'abord par niveau puis par prérequis, puis par ordre alphabétique. Idéalement, il faudrait trier tous les dons par compétence prérequise. Afficher un tableau avec les champs suivant : nom en fr, Niveau, Prérequis, Avantage
 
+# L'équipement
+- [Règles générales](equipement/regles-generales.md)
+- [armures](equipement/armures.md) et tableau des armures
+- [boucliers](equipement/boucliers.md)
+- [armes](equipement/armes) 
+    - tableau des armes
+    - description des armes 
+    - traits des armes
+    - effets de critique spécialisés
+- [Matériel d'aventurier](equipement/materiel.md)
+    - [Tableaux des matériels](equipement/tableaux.md)
+    - 
 
 ## Rubriques diverses
 - [Liste des actions](actions/index.html)
