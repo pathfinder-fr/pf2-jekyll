@@ -2,6 +2,8 @@
 title: Les archétypes
 ---
 
+# Les archétypes
+
 **Il existe une infinité de concepts de personnage possibles, mais vous constaterez peut-être que les dons et les choix de compétences d’une classe donnée ne sont pas suffisants pour concrétiser pleinement votre personnage. Les archétypes vous permettent alors d’élargir ce périmètre couvert par la classe de votre personnage.**
 
 L’application d’un archétype nécessite de sélectionner des dons d’archétype plutôt que des dons de classe. Commencez par trouver l’archétype qui correspond le mieux au concept de votre personnage et sélectionnez le don de dévouement de cet archétype en utilisant l’un des dons de classe que vous avez choisis. Une fois que vous possédez le don de dévouement, vous pouvez sélectionner un don de cet archétype à la place d’un don de classe, à condition que vous remplissiez ses prérequis.
