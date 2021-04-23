@@ -7,8 +7,8 @@ targe-en-adamantium-haute-qualité:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/AbYyx61j1K4F27tC.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Adamantine Buckler (High-Grade).json
   type: shield
-  armure: 1
-  bonus: 16
+  bonus: 1
+  level: 16
   prix: 8,000 gp
   description: |
     Les targes en adamantium sont particulièrement solides et sont des armes en adamantium lorsqu’on les utilise pour frapper.
@@ -24,8 +24,8 @@ targe-en-adamantium-qualité-standard:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/4aVkppixLHPg940o.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Adamantine Buckler (Standard-Grade).json
   type: shield
-  armure: 1
-  bonus: 8
+  bonus: 1
+  level: 8
   prix: 400 gp
   description: |
     Les targes en adamantium sont particulièrement solides et sont des armes en adamantium lorsqu’on les utilise pour frapper.
@@ -41,8 +41,8 @@ bouclier-en-adamantium-haute-qualité:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/rA1hULhhqOP2u4Ze.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Adamantine Shield (High-Grade).json
   type: shield
-  armure: 2
-  bonus: 16
+  bonus: 2
+  level: 16
   prix: 8,800 gp
   description: |
     Les boucliers en adamantium sont particulièrement solides et sont des armes en adamantium lorsqu’on les utilise pour frapper
@@ -58,8 +58,8 @@ bouclier-en-adamantium-qualité-standard:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/2gMlhHlkQp3DuWw5.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Adamantine Shield (Standard-Grade).json
   type: shield
-  armure: 2
-  bonus: 8
+  bonus: 2
+  level: 8
   prix: 440 gp
   description: |
     Les boucliers en adamantium sont particulièrement solides et sont des armes en adamantium lorsqu’on les utilise pour frapper.
@@ -75,8 +75,8 @@ bouclier-intercepteur-de-projectiles:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/9ZGkQo739t9utj37.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Arrow-Catching Shield.json
   type: shield
-  armure: 2
-  bonus: 11
+  bonus: 2
+  level: 11
   prix: 1,350 gp
   traits:
     - Abjuration
@@ -97,8 +97,8 @@ cuirasse:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/r0ifJfoz8aqf0mwk.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Breastplate.json
   type: medium
-  armure: 4
-  bonus: 0
+  bonus: 4
+  level: 0
   prix: 8 gp
   dexMax: 1
   malusTests: -2
@@ -114,8 +114,8 @@ cuirasse-de-commandement:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/RUEAV5LMUGFHcXcW.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Breastplate of Command.json
   type: medium
-  armure: 4
-  bonus: 10
+  bonus: 4
+  level: 10
   prix: 1,000 gp
   dexMax: 1
   malusTests: -2
@@ -149,8 +149,8 @@ cuirasse-de-commandement-supérieur:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/XKON66YXYLXlGPPg.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Breastplate of Command (Greater).json
   type: medium
-  armure: 4
-  bonus: 18
+  bonus: 4
+  level: 18
   prix: 22,000 gp
   dexMax: 1
   malusTests: -3
@@ -184,8 +184,8 @@ targe:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/1k3AsSW7lpU0kEpY.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Buckler.json
   type: shield
-  armure: 1
-  bonus: 0
+  bonus: 1
+  level: 0
   prix: 1 gp
   description: |
     Ce très petit bouclier est le favori des duellistes et des guerriers rapides dotés d’armures légères. Il est généralement fabriqué en acier et attaché à votre avant-bras. Vous  pouvez Lever un bouclier avec votre targe tant que vous avez cette main libre ou que vous tenez dans cette main un objet léger qui n’est pas une arme.
@@ -212,8 +212,8 @@ armure-céleste:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/2uHcTZ40oZ62R9gy.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Celestial Armor.json
   type: medium
-  armure: 4
-  bonus: 13
+  bonus: 4
+  level: 13
   prix: 2,500 gp
   dexMax: 1
   malusTests: 0
@@ -255,8 +255,8 @@ cotte-de-mailles:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/Kf4eJEXnFPuAsseP.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Chain Mail.json
   type: medium
-  armure: 4
-  bonus: 0
+  bonus: 4
+  level: 0
   prix: 6 gp
   dexMax: 1
   malusTests: -2
@@ -275,8 +275,8 @@ chemise-de-mailles:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/MPcM4Wt6KmWE2kGL.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Chain Shirt.json
   type: light
-  armure: 2
-  bonus: 0
+  bonus: 2
+  level: 0
   prix: 5 gp
   dexMax: 3
   malusTests: -1
@@ -295,8 +295,8 @@ vêtements-d-explorateur:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/dDIPA1WE9ESF67EB.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Clothing (Explorer's).json
   type: unarmored
-  armure: 0
   bonus: 0
+  level: 0
   prix: 1 sp
   dexMax: 5
   encombrement: L
@@ -310,8 +310,8 @@ targe-en-fer-froid-de-haute-qualité:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/kCjvkkuI3JP4TQ0t.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Cold Iron Buckler (High-Grade).json
   type: shield
-  armure: 1
-  bonus: 15
+  bonus: 1
+  level: 15
   prix: 5,000 gp
   description: |
     <span>Les boucliers en fer froid ne produisent généralement aucun effet supplémentaire mais ce sont des armes en fer froid lorsqu'on les utilise pour frapper.
@@ -326,8 +326,8 @@ targe-en-fer-froid-de-basse-qualité:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/ckUxr51wJVGRNAD0.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Cold Iron Buckler (Low-Grade).json
   type: shield
-  armure: 1
-  bonus: 2
+  bonus: 1
+  level: 2
   prix: 30 gp
   description: |
     <span>Les boucliers en fer froid ne produisent généralement aucun effet supplémentaire mais ce sont des armes en fer froid lorsqu’on les utilise pour frapper.
@@ -342,8 +342,8 @@ targe-en-fer-froid-qualité-standard:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/PsyfqGIzDbr1mX6d.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Cold Iron Buckler (Standard-Grade).json
   type: shield
-  armure: 1
-  bonus: 7
+  bonus: 1
+  level: 7
   prix: 300 gp
   description: |
     <span>Les targes en fer froid ne produisent généralement aucun effet supplémentaire mais ce sont des armes en fer froid lorsqu’on les utilise pour frapper.
@@ -358,8 +358,8 @@ bouclier-en-fer-froid-de-haute-qualité:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/nRmGErgTLZYf6WMD.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Cold Iron Shield (High-Grade).json
   type: shield
-  armure: 2
-  bonus: 15
+  bonus: 2
+  level: 15
   prix: 5,500 gp
   description: |
     <span>Les boucliers en fer froid ne produisent généralement aucun effet supplémentaire mais ce sont des armes en fer froid lorsqu'on les utilise pour frapper.
@@ -375,8 +375,8 @@ bouclier-en-fer-froid-basse-qualité:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/5E6l3RheSyl99G3m.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Cold Iron Shield (Low-Grade).json
   type: shield
-  armure: 2
   bonus: 2
+  level: 2
   prix: 34 gp
   description: |
     <span>Les boucliers en fer froid ne produisent généralement aucun effet supplémentaire mais ce sont des armes en fer froid lorsqu’on les utilise pour frapper.
@@ -391,8 +391,8 @@ bouclier-en-fer-froid-qualité-standard:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/p1uYtIUYXXoNdVKg.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Cold Iron Shield (Standard-Grade).json
   type: shield
-  armure: 2
-  bonus: 7
+  bonus: 2
+  level: 7
   prix: 340 gp
   description: |
     <span>Les boucliers en fer froid ne produisent généralement aucun effet supplémentaire mais ce sont des armes en fer froid lorsqu’on les utilise pour frapper.
@@ -408,8 +408,8 @@ targe-en-ébénite-de-haute-qualité:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/sRHR4cEo8WnowjU3.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Darkwood Buckler (High-Grade).json
   type: shield
-  armure: 1
-  bonus: 16
+  bonus: 1
+  level: 16
   prix: 8,000 gp
   description: |
     <span>Un bouclier en ébénite est 1 Encombrement plus léger que la normale (ou d'un Encombrement léger si son Encombrement normal est de 1, sans effet sur un bouclier ayant normalement un Encombrement léger).
@@ -425,8 +425,8 @@ targe-en-ébénite-qualité-standard:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/BUHV5rev5HVgCrUB.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Darkwood Buckler (Standard-Grade).json
   type: shield
-  armure: 1
-  bonus: 8
+  bonus: 1
+  level: 8
   prix: 400 gp
   description: |
     <span>Un bouclier en ébénite est 1 Encombrement plus léger que la normale (ou d’un Encombrement léger si son Encombrement normal est de 1,sans effet sur un bouclier ayant normalement un Encombrement léger).
@@ -442,8 +442,8 @@ bouclier-en-ébénite-de-haute-qualité:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/V4kbHwiODxwJOJga.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Darkwood Shield (High-Grade).json
   type: shield
-  armure: 2
-  bonus: 16
+  bonus: 2
+  level: 16
   prix: 8,800 gp
   description: |
     <span>Un bouclier en ébénite est 1 Encombrement plus léger que la normale (ou d'un Encombrement léger si son Encombrement normal est de 1, sans effet sur un bouclier ayant normalement un Encombrement léger).
@@ -459,8 +459,8 @@ bouclier-en-ébénite-de-qualité-standard:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/UdvSJPCtBr2Y1e22.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Darkwood Shield (Standard-Grade).json
   type: shield
-  armure: 2
-  bonus: 8
+  bonus: 2
+  level: 8
   prix: 440 gp
   description: |
     <span>Un bouclier en ébénite est 1 Encombrement plus léger que la normale (ou d'un Encombrement léger si son Encombrement normal est de 1, sans effet sur un bouclier ayant normalement un Encombrement léger).
@@ -476,8 +476,8 @@ pavois-en-ébénite-de-haute-qualité:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/8gcuJ2Ev3euFyXnS.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Darkwood Tower Shield (High-Grade).json
   type: shield
-  armure: 2
-  bonus: 16
+  bonus: 2
+  level: 16
   prix: 11,200 gp
   description: |
     <span>Un bouclier en ébénite est 1 Encombrement plus léger que la normale (ou d'un Encombrement léger si son Encombrement normal est de 1, sans effet sur un bouclier ayant normalement un Encombrement léger).
@@ -493,8 +493,8 @@ pavois-en-ébénite-de-qualité-standard:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/Snu8yjMrUi3ockyA.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Darkwood Tower Shield (Standard-Grade).json
   type: shield
-  armure: 2
-  bonus: 8
+  bonus: 2
+  level: 8
   prix: 560 gp
   description: |
     <span>Un bouclier en ébénite est 1 Encombrement plus léger que la normale (ou d'un Encombrement léger si son Encombrement normal est de 1, sans effet sur un bouclier ayant normalement un Encombrement léger).
@@ -510,8 +510,8 @@ armure-démoniaque:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/hYBZK1kaGPeR85CH.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Demon Armor.json
   type: heavy
-  armure: 6
-  bonus: 13
+  bonus: 6
+  level: 13
   prix: 2,500 gp
   dexMax: 0
   malusTests: -3
@@ -541,8 +541,8 @@ targe-en-peau-de-dragon-haute-qualité:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/R1I1MEKwDYtCfZr3.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Dragonhide Buckler (High-Grade).json
   type: shield
-  armure: 1
-  bonus: 16
+  bonus: 1
+  level: 16
   prix: 8,000 gp
   description: |
     <span>Chaque bouclier en peau de dragon est immunisé contre un type de dégâts selon le type de dragon.
@@ -587,8 +587,8 @@ taarge-en-peau-de-dragon-qualité-normale:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/vfzzrp0tKXznWnhY.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Dragonhide Buckler (Standard-Grade).json
   type: shield
-  armure: 1
-  bonus: 8
+  bonus: 1
+  level: 8
   prix: 400 gp
   description: |
     <span>Chaque bouclier en peau de dragon est immunisé contre un type de dégâts selon le type de dragon.
@@ -634,8 +634,8 @@ bouclier-en-peau-de-dragon-de-haute-qualité:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/LVixPROPOwIfHgEK.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Dragonhide Shield (High-Grade).json
   type: shield
-  armure: 2
-  bonus: 16
+  bonus: 2
+  level: 16
   prix: 8,800 gp
   description: |
     <span>Chaque bouclier en peau de dragon est immunisé contre un type de dégâts selon le type de dragon.
@@ -679,8 +679,8 @@ bouclier-en-peau-de-dragon-de-qualité-standard:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/daX1jX7XYo3mWZmP.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Dragonhide Shield (Standard-Grade).json
   type: shield
-  armure: 2
-  bonus: 8
+  bonus: 2
+  level: 8
   prix: 440 gp
   description: |
     <span>Chaque bouclier en peau de dragon est immunisé contre un type de dégâts selon le type de dragon.
@@ -726,8 +726,8 @@ harnois-du-dragon:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/3xsQ1AA4dyMHLxpw.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Dragonplate.json
   type: heavy
-  armure: 6
-  bonus: 16
+  bonus: 6
+  level: 16
   prix: 10,000 gp
   dexMax: 0
   malusTests: -3
@@ -754,8 +754,8 @@ bouclier-du-pourfendeur-de-dragons:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/Q8BscHUFiM1a86PO.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Dragonslayer's Shield.json
   type: shield
-  armure: 2
-  bonus: 9
+  bonus: 2
+  level: 9
   prix: 670 gp
   traits:
     - Abjuration
@@ -801,8 +801,8 @@ peau-d-anguille-électrique:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/8HxM35X8DDt2gw9d.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Electric Eelskin.json
   type: light
-  armure: 1
-  bonus: 10
+  bonus: 1
+  level: 10
   prix: 950 gp
   dexMax: 4
   encombrement: 1
@@ -833,8 +833,8 @@ maille-elfique-haute-qualité:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/PuqdH7DmNsN79HyE.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Elven Chain (High-Grade).json
   type: light
-  armure: 2
-  bonus: 20
+  bonus: 2
+  level: 20
   prix: 52,000 gp
   dexMax: 3
   force: 12
@@ -855,8 +855,8 @@ maille-elfique-qualité-standard:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/peAvz7u35GEfTXxp.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Elven Chain (Standard-Grade).json
   type: light
-  armure: 2
-  bonus: 13
+  bonus: 2
+  level: 13
   prix: 2,500 gp
   dexMax: 3
   force: 12
@@ -877,8 +877,8 @@ bouclier-explosif:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/slQRh4FVDzP8h1wj.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Exploding Shield.json
   type: shield
-  armure: 2
-  bonus: 5
+  bonus: 2
+  level: 5
   prix: 25 gp
   traits:
     - Évocation
@@ -914,8 +914,8 @@ bouclier-flottant:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/ydNocKN6afzIyVh6.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Floating Shield.json
   type: shield
-  armure: 1
-  bonus: 11
+  bonus: 1
+  level: 11
   prix: 1,250 gp
   traits:
     - Magique
@@ -937,8 +937,8 @@ bouclier-flottant-supérieur:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/uAs0hUUgROrndceD.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Floating Shield (Greater).json
   type: shield
-  armure: 1
-  bonus: 16
+  bonus: 1
+  level: 16
   prix: 9,000 gp
   traits:
     - Magique
@@ -958,8 +958,8 @@ bouclier-de-force:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/DIzZr0K20eCbNzQo.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Force Shield.json
   type: shield
-  armure: 2
-  bonus: 9
+  bonus: 2
+  level: 9
   prix: 650 gp
   traits:
     - Évocation
@@ -981,8 +981,8 @@ gardien-de-la-forge:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/NoTUhKkiTY5BQU5T.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Forge Warden.json
   type: shield
-  armure: 2
-  bonus: 10
+  bonus: 2
+  level: 10
   prix: 975 gp
   traits:
     - Abjuration
@@ -1005,8 +1005,8 @@ coquille-oubliée:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/zPSImy0ENQjnRJNs.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Forgotten Shell.json
   type: heavy
-  armure: 6
-  bonus: 13
+  bonus: 6
+  level: 13
   prix: 2500 gp
   dexMax: 0
   malusTests: -3
@@ -1035,8 +1035,8 @@ harnois:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/Gq1cZWSKOtJhKd2p.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Full Plate.json
   type: heavy
-  armure: 6
-  bonus: 2
+  bonus: 6
+  level: 2
   prix: 30 gp
   dexMax: 0
   malusTests: -3
@@ -1054,8 +1054,8 @@ peau-de-goule:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/hRwnNTMj7wa8S4Ji.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Ghoul Hide.json
   type: medium
-  armure: 3
-  bonus: 6
+  bonus: 3
+  level: 6
   prix: 220 gp
   dexMax: 2
   malusTests: -2
@@ -1081,8 +1081,8 @@ targe-étincelante:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/IxuDS3POB6EH8TVN.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Glamorous Buckler.json
   type: shield
-  armure: 1
-  bonus: 2
+  bonus: 1
+  level: 2
   prix: 35 gp
   traits:
     - Illusion
@@ -1124,8 +1124,8 @@ harnois-glorieux:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/tLNsmY90aN668PMG.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Glorious Plate.json
   type: heavy
-  armure: 6
-  bonus: 14
+  bonus: 6
+  level: 14
   prix: 4,500 gp
   dexMax: 0
   malusTests: -3
@@ -1157,8 +1157,8 @@ armure-de-plates:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/pRoikbRo5HFW6YUB.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Half Plate.json
   type: heavy
-  armure: 5
-  bonus: 1
+  bonus: 5
+  level: 1
   prix: 18 gp
   dexMax: 1
   malusTests: -3
@@ -1174,8 +1174,8 @@ armure-de-chevalier-infernal:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/lCgXeV52eYYl5cUX.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Hellknight Plate.json
   type: heavy
-  armure: 6
-  bonus: 2
+  bonus: 6
+  level: 2
   prix: 35 gp
   malusTests: -3
   force: 18
@@ -1192,8 +1192,8 @@ armure-de-peau:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/AnwzlOs0njF9Jqnr.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Hide.json
   type: medium
-  armure: 3
-  bonus: 0
+  bonus: 3
+  level: 0
   prix: 2 gp
   dexMax: 2
   malusTests: -2
@@ -1209,8 +1209,8 @@ armure-impénétrable:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/aLA7pikfeNIAAGLw.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Impenetrable Scale.json
   type: medium
-  armure: 3
-  bonus: 17
+  bonus: 3
+  level: 17
   prix: 12,800 gp
   dexMax: 2
   malusTests: -2
@@ -1241,8 +1241,8 @@ bouclier-indestructible:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/SUbYk6B1iPoGyyjh.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Indestructible Shield.json
   type: shield
-  armure: 2
-  bonus: 18
+  bonus: 2
+  level: 18
   prix: 24,000 gp
   traits:
     - Abjuration
@@ -1259,8 +1259,8 @@ bouclier-brise-mâchoire:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/QJNyQlmPNzIrnuLf.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Jawbreaker Shield.json
   type: shield
-  armure: 2
-  bonus: 12
+  bonus: 2
+  level: 12
   prix: 1,650 gp
   traits:
     - Abjuration
@@ -1289,8 +1289,8 @@ pourpoint-de-la-libération:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/COsToVFlA36UmkB7.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Jerkin of Liberation.json
   type: light
-  armure: 2
-  bonus: 17
+  bonus: 2
+  level: 17
   prix: 14,000 gp
   dexMax: 3
   malusTests: -1
@@ -1316,8 +1316,8 @@ armure-de-cuir:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/4tIVTg9wj56RrveA.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Leather Armor.json
   type: light
-  armure: 1
-  bonus: 0
+  bonus: 1
+  level: 0
   prix: 2 gp
   dexMax: 4
   malusTests: -1
@@ -1333,8 +1333,8 @@ bouclier-du-lion:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/eMDt5vCQztp7cC6B.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Lion's Shield.json
   type: shield
-  armure: 2
-  bonus: 6
+  bonus: 2
+  level: 6
   prix: 245 gp
   traits:
     - Invocation
@@ -1356,8 +1356,8 @@ maille-chanceuse:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/AdJgj7vVvNGvPIEj.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Mail of Luck.json
   type: heavy
-  armure: 5
-  bonus: 13
+  bonus: 5
+  level: 13
   prix: 2,600 gp
   dexMax: 1
   malusTests: -3
@@ -1387,8 +1387,8 @@ bouclier-du-martyr:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/HWQEGY2X0QXj2zfN.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Martyr's Shield.json
   type: shield
-  armure: 2
-  bonus: 7
+  bonus: 2
+  level: 7
   prix: 
   traits:
     - Abjuration
@@ -1410,8 +1410,8 @@ armure-de-la-méduse:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/Iic9QpNemaumfkHc.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Medusa Armor.json
   type: medium
-  armure: 3
-  bonus: 14
+  bonus: 3
+  level: 14
   prix: 
   dexMax: 2
   malusTests: -2
@@ -1432,8 +1432,8 @@ cri-de-méduse:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/nzQKwdUxzmmwWtzT.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Medusa's Scream.json
   type: shield
-  armure: 2
-  bonus: 13
+  bonus: 2
+  level: 13
   prix: 3,000 gp
   malusTests: 5
   traits:
@@ -1472,8 +1472,8 @@ cri-de-méduse-supérieur:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/TyW1XOWYMM2xHGaI.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Medusa's Scream (Greater).json
   type: shield
-  armure: 2
-  bonus: 13
+  bonus: 2
+  level: 13
   prix: 3,000 gp
   malusTests: 5
   traits:
@@ -1512,8 +1512,8 @@ targe-en-mithral-de-haute-qualité:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/ZZrCiVcoKinA5wyu.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Mithral Buckler (High-Grade).json
   type: shield
-  armure: 1
-  bonus: 16
+  bonus: 1
+  level: 16
   prix: 8,000 gp
   description: |
     <span>Un bouclier en mithral est 1 Encombrement plus léger que la normale (ou d'un Encombrement léger si son Encombrement normal est de 1, sans effet sur un bouclier ayant normalement un Encombrement léger). Ils sont considérés comme des armes en argent lorsqu'on les utilise pour frapper.
@@ -1528,8 +1528,8 @@ targe-en-mithral-qualité-standard:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/CF9BCVE0ppxMmULb.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Mithral Buckler (Standard-Grade).json
   type: shield
-  armure: 1
-  bonus: 8
+  bonus: 1
+  level: 8
   prix: 400 gp
   description: |
     <span>Un bouclier en mithral est 1 Encombrement plus léger que la normale (ou d’un Encombrement léger si son Encombrement normal est de 1, sans ef‑ fet sur un bouclier ayant normalement un Encombrement léger). Ils sont considérés comme des armes en argent lorsqu’on les utilise pour frapper.
@@ -1544,8 +1544,8 @@ bouclier-en-mithral-de-haute-qualité:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/5dBSn9brsT9NISoR.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Mithral Shield (High-Grade).json
   type: shield
-  armure: 2
-  bonus: 16
+  bonus: 2
+  level: 16
   prix: 8,800 gp
   description: |
     <span>Un bouclier en mithral est 1 Encombrement plus léger que la normale (ou d'un Encombrement léger si son Encombrement normal est de 1, sans effet sur un bouclier ayant normalement un Encombrement léger). Ils sont considérés comme des armes en argent lorsqu'on les utilise pour frapper.
@@ -1560,8 +1560,8 @@ bouclier-en-mithral-qualité-standard:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/ETHbpwjh8aLGrXi0.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Mithral Shield (Standard-Grade).json
   type: shield
-  armure: 2
-  bonus: 8
+  bonus: 2
+  level: 8
   prix: 440 gp
   description: |
     <span>Un bouclier en mithral est 1 Encombrement plus léger que la normale (ou d’un Encombrement léger si son Encombrement normal est de 1, sans ef fet sur un bouclier ayant normalement un Encombrement léger). Ils sont considérés comme des armes en argent lorsqu’on les utilise pour frapper.
@@ -1576,8 +1576,8 @@ maille-lunaire:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/vHZSx5f093Wrivzn.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Moonlit Chain.json
   type: light
-  armure: 2
-  bonus: 7
+  bonus: 2
+  level: 7
   prix: 360 gp
   dexMax: 3
   malusTests: -1
@@ -1603,8 +1603,8 @@ rempart-néthysien:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/EKXRigmEZgqmFA62.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Nethysian Bulwark.json
   type: shield
-  armure: 2
-  bonus: 16
+  bonus: 2
+  level: 16
   prix: 8,000 gp
   traits:
     - Abjuration
@@ -1626,8 +1626,8 @@ pourpoint-nocif:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/GAu6v14pCSgLJh2D.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Noxious Jerkin.json
   type: light
-  armure: 1
-  bonus: 13
+  bonus: 1
+  level: 13
   prix: 2,800 gp
   dexMax: 3
   force: 10
@@ -1656,8 +1656,8 @@ cuirasse-en-acier-numérien:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/GDSclGF1yk0sw86V.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Numerian Steel Breastplate.json
   type: medium
-  armure: 4
-  bonus: 10
+  bonus: 4
+  level: 10
   prix: 900 gp
   dexMax: 1
   malusTests: -2
@@ -1679,8 +1679,8 @@ targe-en-orichalque-de-haute-qualité:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/OKo8ub6D11ztZc2V.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Orichalcum Buckler (High-Grade).json
   type: shield
-  armure: 1
-  bonus: 17
+  bonus: 1
+  level: 17
   prix: 12,000 gp
   description: |
     <span>Les propriétés de manipulation temporelle des boucliers en orichalque sont particulièrement utiles pour les maintenir intacts. Chaque jour, la première fois qu'un bouclier en orichalque devrait être détruit, il lui reste à la place 1 point de vie et il obtient l'état brisé.
@@ -1696,8 +1696,8 @@ bouclier-en-orichalque-de-haute-qualité:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/PeS3J9r4ss7gNytK.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Orichalcum Shield (High-Grade).json
   type: shield
-  armure: 2
-  bonus: 17
+  bonus: 2
+  level: 17
   prix: 13,200 gp
   description: |
     <span>Les propriétés de manipulation temporelle des boucliers en orichalque sont particulièrement utiles pour les maintenir intacts. Chaque jour, la première fois qu'un bouclier en orichalque devrait être détruit, il lui reste à la place 1 point de vie et il obtient l'état brisé.
@@ -1713,8 +1713,8 @@ armure-matelassée:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/zBYEU9E7034ENCmh.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Padded Armor.json
   type: light
-  armure: 1
-  bonus: 0
+  bonus: 1
+  level: 0
   prix: 2 sp
   dexMax: 3
   force: 10
@@ -1731,8 +1731,8 @@ harnois-des-profondeurs:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/gp5kgCySEOuntQPF.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Plate Armor of the Deep.json
   type: heavy
-  armure: 6
-  bonus: 15
+  bonus: 6
+  level: 15
   prix: 6,500 gp
   dexMax: 0
   malusTests: -3
@@ -1759,8 +1759,8 @@ bouclier-réfléchissant:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/La9qYc5NHsg423Jb.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Reflecting Shield.json
   type: shield
-  armure: 1
-  bonus: 18
+  bonus: 1
+  level: 18
   prix: 18,000 gp
   traits:
     - Abjuration
@@ -1787,8 +1787,8 @@ bouclier-réparateur:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/aPD0z9dBsHqgiCW0.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Reforging Shield.json
   type: shield
-  armure: 1
-  bonus: 15
+  bonus: 1
+  level: 15
   prix: 6,000 gp
   traits:
     - Abjuration
@@ -1803,8 +1803,8 @@ peau-de-rhinocéros:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/C4XKMcHZoGzrAZBl.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Rhino Hide.json
   type: medium
-  armure: 3
-  bonus: 9
+  bonus: 3
+  level: 9
   prix: 700 gp
   dexMax: 2
   malusTests: -1
@@ -1828,8 +1828,8 @@ robe-d-archimage:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/Wkh5rQx3IqInEKdT.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Robe of the Archmagi.json
   type: unarmored
-  armure: 0
-  bonus: 15
+  bonus: 0
+  level: 15
   prix: 6,500 gp
   dexMax: 5
   traits:
@@ -1860,8 +1860,8 @@ robe-de-l-archimage-supérieure:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/7ynjS9llFg7tPMoj.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Robe of the Archmagi (Greater).json
   type: unarmored
-  armure: 0
-  bonus: 19
+  bonus: 0
+  level: 19
   prix: 32,000 gp
   dexMax: 5
   traits:
@@ -1892,8 +1892,8 @@ armure-d-écailles:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/YMQr577asquZIP65.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Scale Mail.json
   type: medium
-  armure: 3
-  bonus: 0
+  bonus: 3
+  level: 0
   prix: 4 gp
   dexMax: 2
   malusTests: -2
@@ -1909,8 +1909,8 @@ bouclier-de-la-légion-unifiée:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/PlYr5AhYwHIztMw2.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Shield of the Unified Legion.json
   type: shield
-  armure: 2
-  bonus: 20
+  bonus: 2
+  level: 20
   prix: 70,000 gp
   encombrement: L
   traits:
@@ -1938,8 +1938,8 @@ targe-en-argent-de-haute-qualité:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/LboYDYZ0IbDWuWMl.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Silver Buckler (High-Grade).json
   type: shield
-  armure: 1
-  bonus: 15
+  bonus: 1
+  level: 15
   prix: 5,000 gp
   description: |
     Les boucliers en argent ne produisent généralement aucun effet supplémentaire mais ce sont des armes en argent lorsqu'on les utilise pour frapper.
@@ -1955,8 +1955,8 @@ targe-en-argent-basse-qualité:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/aA9clnIP3deHNNjo.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Silver Buckler (Low-Grade).json
   type: shield
-  armure: 1
-  bonus: 2
+  bonus: 1
+  level: 2
   prix: 30 gp
   description: |
     Les boucliers en argent ne produisent généralement aucun effet supplémentaire mais ce sont des armes en argent lorsqu’on les utilise pour frapper.
@@ -1972,8 +1972,8 @@ targe-en-argent-qualité-standard:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/8DNpWWeL7X9MDG0i.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Silver Buckler (Standard-Grade).json
   type: shield
-  armure: 1
-  bonus: 7
+  bonus: 1
+  level: 7
   prix: 300 gp
   description: |
     Les boucliers en argent ne produisent généralement aucun effet supplémentaire mais ce sont des armes en argent lorsqu’on les utilise pour frapper.
@@ -1989,8 +1989,8 @@ bouclier-en-argent-de-haute-qualité:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/pRzafUKQviDSMRJp.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Silver Shield (High-Grade).json
   type: shield
-  armure: 2
-  bonus: 15
+  bonus: 2
+  level: 15
   prix: 5,500 gp
   description: |
     Les boucliers en argent ne produisent généralement aucun effet supplémentaire mais ce sont des armes en argent lorsqu'on les utilise pour frapper.
@@ -2006,8 +2006,8 @@ bouclier-en-argent-basse-qualité:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/1xUIdz23mIlYWGPL.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Silver Shield (Low-Grade).json
   type: shield
-  armure: 2
   bonus: 2
+  level: 2
   prix: 34 gp
   description: |
     Les boucliers en argent ne produisent généralement aucun effet supplémentaire mais ce sont des armes en argent lorsqu’on les utilise pour frapper.
@@ -2023,8 +2023,8 @@ bouclier-en-argent-qualité-standard:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/KVj9RP2qvpsHHGqE.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Silver Shield (Standard-Grade).json
   type: shield
-  armure: 2
-  bonus: 7
+  bonus: 2
+  level: 7
   prix: 340 gp
   description: |
     Les boucliers en argent ne produisent généralement aucun effet supplémentaire mais ce sont des armes en argent lorsqu’on les utilise pour frapper.
@@ -2040,8 +2040,8 @@ costume-de-chevaucheur-pailleté:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/Blp9Ha1YeIJOeFls.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Spangled Rider's Suit.json
   type: light
-  armure: 2
-  bonus: 9
+  bonus: 2
+  level: 9
   prix: 700 gp
   dexMax: 3
   malusTests: -1
@@ -2075,8 +2075,8 @@ bouclier-gardesort:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/OqDAx4HJ39ojVtvg.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Spellguard Shield.json
   type: shield
-  armure: 2
-  bonus: 6
+  bonus: 2
+  level: 6
   prix: 250 gp
   traits:
     - Abjuration
@@ -2093,8 +2093,8 @@ bouclier-de-la-manticore:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/WDh4fb9N86mNLfDV.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Spined Shield.json
   type: shield
-  armure: 2
-  bonus: 7
+  bonus: 2
+  level: 7
   prix: 360 gp
   traits:
     - Évocation
@@ -2117,8 +2117,8 @@ clibanion:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/6AhDKX1dwRwFpQsU.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Splint Mail.json
   type: heavy
-  armure: 5
-  bonus: 1
+  bonus: 5
+  level: 1
   prix: 13 gp
   dexMax: 1
   malusTests: -3
@@ -2134,8 +2134,8 @@ bouclier-en-acier:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/Yr9yCuJiAlFh3QEB.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Steel Shield.json
   type: shield
-  armure: 2
-  bonus: 0
+  bonus: 2
+  level: 0
   prix: 2 gp
   description: |
     Comme les boucliers en bois, les boucliers en acier sont de formes et de tailles variées. Plus coûteux que les boucliers en bois, ils sont cependant beaucoup plus résistants.
@@ -2162,8 +2162,8 @@ armure-de-cuir-clouté:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/ewQZ0VeL38v3qFnN.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Studded Leather Armor.json
   type: light
-  armure: 2
-  bonus: 0
+  bonus: 2
+  level: 0
   prix: 3 gp
   dexMax: 3
   malusTests: -1
@@ -2179,8 +2179,8 @@ bouclier-renforcé-supérieur:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/rrnWORxT2Ch4pUFb.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Sturdy Shield (Greater).json
   type: shield
-  armure: 2
-  bonus: 13
+  bonus: 2
+  level: 13
   prix: 3,000 gp
   traits:
     - Abjuration
@@ -2197,8 +2197,8 @@ bouclier-solide-inférieur:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/nDZX25OwoN0Imrq6.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Sturdy Shield (Lesser).json
   type: shield
-  armure: 2
-  bonus: 7
+  bonus: 2
+  level: 7
   prix: 360 gp
   traits:
     - Abjuration
@@ -2215,8 +2215,8 @@ bouclier-renforcé-majeure:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/BWQzaHbGVqlBuMww.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Sturdy Shield (Major).json
   type: shield
-  armure: 2
-  bonus: 16
+  bonus: 2
+  level: 16
   prix: 10,000 gp
   traits:
     - Abjuration
@@ -2233,8 +2233,8 @@ bouclier-renforcé-mineure:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/f9ygr5Cjrmop8LWV.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Sturdy Shield (Minor).json
   type: shield
-  armure: 2
-  bonus: 4
+  bonus: 2
+  level: 4
   prix: 100 gp
   traits:
     - Abjuration
@@ -2251,8 +2251,8 @@ bouclier-renforcé-modéré:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/pNQJ9PTOEHxEZCgp.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Sturdy Shield (Moderate).json
   type: shield
-  armure: 2
-  bonus: 10
+  bonus: 2
+  level: 10
   prix: 1,000 gp
   traits:
     - Abjuration
@@ -2269,8 +2269,8 @@ bouclier-renforcé-ultime:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/7Z8XXGiUiyyisKOD.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Sturdy Shield (Supreme).json
   type: shield
-  armure: 2
-  bonus: 19
+  bonus: 2
+  level: 19
   prix: 40,000 gp
   traits:
     - Abjuration
@@ -2287,8 +2287,8 @@ pavois:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/ltundBNFAnP7bgPr.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Tower Shield.json
   type: shield
-  armure: 2
-  bonus: 0
+  bonus: 2
+  level: 0
   prix: 10 gp
   description: |
     On peut utiliser ce bouclier imposant pour abriter presque la totalité du corps. En raison de sa taille, il est généralement fabriqué en bois renforcé de métal. Pour bénéficier du bonus le plus élevé avec un Pavois (+4), vous devez utiliser l’action Mise à l’abri (page 471) alors que le bouclier est levé.
@@ -2315,8 +2315,8 @@ harnois-de-la-victoire:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/nVlKU2et4EeReayr.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Victory Plate.json
   type: heavy
-  armure: 6
-  bonus: 9
+  bonus: 6
+  level: 9
   prix: 675 gp
   dexMax: 0
   malusTests: -3
@@ -2357,8 +2357,8 @@ harnois-de-la-victoire-supérieur:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/ed2F0L3R6UNSFUmS.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Victory Plate (Greater).json
   type: heavy
-  armure: 6
-  bonus: 15
+  bonus: 6
+  level: 15
   prix: 5,500 gp
   dexMax: 0
   malusTests: -3
@@ -2398,8 +2398,8 @@ bouclier-en-bois:
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/ezVp13Uw8cWW08Da.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Wooden Shield.json
   type: shield
-  armure: 2
-  bonus: 0
+  bonus: 2
+  level: 0
   prix: 1 gp
   description: |
     Même s’ils se présentent sous toute une variété de formes et de tailles, l’abri offert par les boucliers en bois provient de la robustesse des matériaux dans lesquels ils sont conçus. Le bouclier en bois est moins cher que le bouclier en acier, mais il se brise plus facilement.

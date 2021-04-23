@@ -1,9 +1,5 @@
-cd ..
-
-dotnet script _scripts/generate-ids.csx
-dotnet script _scripts/generate-actions.csx
-dotnet script _scripts/generate-ascendances.csx
-dotnet script _scripts/generate-dons.csx
-dotnet script _scripts/generate-Ã©tats.csx
-
-cd _scripts
+dotnet script generate-ids.csx
+dotnet script generate-actions.csx
+dotnet script generate-ascendances.csx
+dotnet script generate-dons.csx
+dotnet script generate-‚tats.csx

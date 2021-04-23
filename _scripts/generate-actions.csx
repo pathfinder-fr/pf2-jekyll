@@ -6,7 +6,9 @@
 
 using System.Text.Json;
 
-await GenerateCollection(DataGroup.Actions, ParseAction);
+var count = await GenerateCollection(DataPack.Actions, ParseAction);
+
+WriteLine($"Génération terminée : {count} actions traitées");
 
 static void ParseAction(JsonElement item, JsonDocument frJsonDoc, StreamWriter writer)
 {
@@ -15,7 +17,7 @@ static void ParseAction(JsonElement item, JsonDocument frJsonDoc, StreamWriter w
 
     // on détermine le nom de l'entrée du glossaire pour avoir le texte FR
     // pour le type d'action, on recherche ActionType + type d'action du json
-    var itemName = "ActionType" + FirstCharUpper(actionType);
+    var itemName = "ActionType" + actionType.FirstCharUpper();
 
     // à partir de ce nom ActionType... on recherche la traduction française dans le glossaire
     var actionTypeLang = frJsonDoc.RootElement.GetProperty("PF2E").GetProperty(itemName).GetString();
