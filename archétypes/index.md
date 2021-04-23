@@ -12,7 +12,7 @@ title: Archétypes
         </tr>
     </thead>
     <tbody>
-	{% for item in site.archétypes %}
+	{% for item in site['archétypes'] %}
 	  <tr>
 	  	<td><a href="{{ item.url | relative_url }}">{{item.title}}</a></td>
 	  	<td>{{item.titleEn}}</td>
