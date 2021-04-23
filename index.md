@@ -76,7 +76,8 @@ title: Bienvenue
     - effets de critique spécialisés
 - [Matériel d'aventurier](equipement/materiel.md)
     - [Tableaux des matériels](equipement/tableaux.md)
-    - 
+    - [Kits de classe](equipement/kits.md)
+- [Matériel alchimique](equipement/materiel-alchimique.md)
 
 ## Rubriques diverses
 - [Liste des actions](actions/index.html)
