@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous faites confiance à vos instincts et votre sens  de l'odorat, utilisant tous vos sens pour déterminer l'emplacement exact de votre adversaire.
 
-Faites une Frappe au corps-à-corps contre un adversaire qui ne cache pas son odeur avec un sort comme [Supprimer l'arôme](../sorts/supprimer-l'arôme.md). Cette attaque ignore tout test nu nécessaire qui serait lié au fait que la cible est Masquée ou Cachée.
+Faites une Frappe au corps-à-corps contre un adversaire qui ne cache pas son odeur avec un sort comme [Supprimer l'arôme](../sorts/supprimer-l'arôme.html). Cette attaque ignore tout test nu nécessaire qui serait lié au fait que la cible est Masquée ou Cachée.

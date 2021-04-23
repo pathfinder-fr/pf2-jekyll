@@ -10,6 +10,6 @@ layout: dons
 ---
 Vous avez appris quelque techniques magiques pour à la fois vous entrer et sortir des ennuis sans vous faire remarquer.
 
-Vous obtenez [Détection faussée](../sorts/détection-faussée.md) et [Silence](../sorts/silence.md) comme des sorts innés arcaniques ou occultes de niveau 2 .
+Vous obtenez [Détection faussée](../sorts/détection-faussée.html) et [Silence](../sorts/silence.html) comme des sorts innés arcaniques ou occultes de niveau 2 .
 
 La tradition de ces sorts doit correspondre à la tradition que vous utilisez pour vos options d'ascendance gnome. Vous pouvez les Lancer chacun une fois par jour et vous seul pouvez en être la cible.

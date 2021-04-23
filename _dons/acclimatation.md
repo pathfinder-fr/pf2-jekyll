@@ -10,6 +10,6 @@ layout: dons
 ---
 Votre temps passé dans les parties hostiles du monde vous a endurci face aux climats extrèmes.
 
-Sur votre [Terrain de prédilection](environnement-de-prédilection.md), vous obtenez une résistance égale à la moitié de votre niveau contre tous les effets des dégâts environnementaux et êtes affecté par les effets de température comme s'ils étaient d'un degré de sévérité inférieur (une chaleur ou un froid incroyable devient extrême, une chaleur ou un froid extrême devient sévère, etc).
+Sur votre [Terrain de prédilection](environnement-de-prédilection.html), vous obtenez une résistance égale à la moitié de votre niveau contre tous les effets des dégâts environnementaux et êtes affecté par les effets de température comme s'ils étaient d'un degré de sévérité inférieur (une chaleur ou un froid incroyable devient extrême, une chaleur ou un froid extrême devient sévère, etc).
 
-Lorsque d'autres créatures [Suivent l'expert](../actions/suivre-l-expert.md) avec vous comme guide surr votre terrain de répdilection, ils traitent aussi les effets de température comme d'un degré moins sévère.
+Lorsque d'autres créatures [Suivent l'expert](../actions/suivre-l-expert.html) avec vous comme guide surr votre terrain de répdilection, ils traitent aussi les effets de température comme d'un degré moins sévère.

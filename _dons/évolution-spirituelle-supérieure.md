@@ -8,8 +8,8 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/greater-spiritual-evolution.json
 layout: dons
 ---
-**Prérequis** [Évolution divine](évolution-divine.md) ou [Évolution occulte](évolution-occulte.md)
+**Prérequis** [Évolution divine](évolution-divine.html) ou [Évolution occulte](évolution-occulte.html)
 
 Votre sang magique est riche en essence spirituelle et cette imprégnation permet à vos sorts d'être pleinement efficaces contre les créatures incorporelles, les esprits et les créatures du Plan Éthéré.
 
-Vos sorts ont les effets d'une rune de propriété [spectrale](../équipements/spectrale-rune.md). Ils peuvent cibler ou affecter une créature utilisant projetant sa conscience (comme avec [Projection d'image](../sorts/projection-d-image.md)) ou possédant une autre créature, même si son corps est ailleurs, bien que vous deviez savoir que la créature est possédé ou de la projection et choisir de procéder de la sorte. Vos sorts peuvent affecter les créatures sur le Plan Éthéré, mais cela ne vous donne aucune capacité particulière pour les localiser.
+Vos sorts ont les effets d'une rune de propriété [spectrale](../équipements/spectrale-rune.html). Ils peuvent cibler ou affecter une créature utilisant projetant sa conscience (comme avec [Projection d'image](../sorts/projection-d-image.html)) ou possédant une autre créature, même si son corps est ailleurs, bien que vous deviez savoir que la créature est possédé ou de la projection et choisir de procéder de la sorte. Vos sorts peuvent affecter les créatures sur le Plan Éthéré, mais cela ne vous donne aucune capacité particulière pour les localiser.

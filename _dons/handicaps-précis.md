@@ -13,4 +13,4 @@ layout: dons
 Vous visez avec soin avant de distribuer gracieusement vos handicaps. Ajoutez les handicaps suivants à la liste de handicaps que vous utilisez avec Frappe incapacitante.
 
 - **Handicap:** Vos attaques infligent 2d6 dégâts de précision supplémentaires à la cible.
-- **Handicap:**  La cible devient [prise au dépourvu](../conditions/pris-au-dépourvu.md).
+- **Handicap:**  La cible devient [prise au dépourvu](../conditions/pris-au-dépourvu.html).

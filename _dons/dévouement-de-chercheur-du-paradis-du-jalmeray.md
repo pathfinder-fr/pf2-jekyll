@@ -10,6 +10,6 @@ layout: dons
 ---
 **Accès** entraîné par un membre actuel ou un ancien membre d'une Maison de la Perfection
 
-Votre compétence et votre dévotion vous ont tracé un chemin pour maîtriser les techniques des plus grands artistes martiaux du Jalmeray : les vainqueurs du Défi du Ciel et du Paradis. Vous devenez qualifié en Acrobaties ou en Occultisme. Vous obtenez soit le don de moine [Ruée ki](ruée-ki.md) soit [Frappe Ki](frappe-ki.md), ce qui vous accorde un sort de ki et une réserve de focalisation de 1 Point de focalisation que vous pouvez récupérer en utilisant l'activité [Refocaliser](../actions/refocaliser.md) comme le ferait un moine. Si vous possédez déjà ces deux dons, vous pouvez choisir un unique don de moine de niveau 1.
+Votre compétence et votre dévotion vous ont tracé un chemin pour maîtriser les techniques des plus grands artistes martiaux du Jalmeray : les vainqueurs du Défi du Ciel et du Paradis. Vous devenez qualifié en Acrobaties ou en Occultisme. Vous obtenez soit le don de moine [Ruée ki](ruée-ki.html) soit [Frappe Ki](frappe-ki.html), ce qui vous accorde un sort de ki et une réserve de focalisation de 1 Point de focalisation que vous pouvez récupérer en utilisant l'activité [Refocaliser](../actions/refocaliser.html) comme le ferait un moine. Si vous possédez déjà ces deux dons, vous pouvez choisir un unique don de moine de niveau 1.
 
 **Spécial** Vous ne pouvez pas choisir un autre don de dévouement avant d'avoir choisi deux autres dons de l'archétype de Chercheur du Paradis du Jalmeray.

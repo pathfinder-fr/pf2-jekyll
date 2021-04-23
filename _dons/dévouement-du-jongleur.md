@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/juggler-dedication.json
 layout: dons
 ---
-Vous devenez qualifié en Représentation ; si vous l'étiez déjà, vous devenez qualifié dans une compétence de votre choix. Vous obtenez aussi le don de compétence [Jonglage](jonglage.md), même si vous n'en remplissez pas les conditions.
+Vous devenez qualifié en Représentation ; si vous l'étiez déjà, vous devenez qualifié dans une compétence de votre choix. Vous obtenez aussi le don de compétence [Jonglage](jonglage.html), même si vous n'en remplissez pas les conditions.
 
 **Spécial** Vous ne pouvez obtenir un autre don de dévouement avant d'avoir obtenu un autre don de l'archétype Jongleur.

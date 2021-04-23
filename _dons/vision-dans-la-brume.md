@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/murksight.json
 layout: dons
 ---
-Votre vision perce les brumes, le brouillard, la pluie et la neige non magiques. Vos attaques à distance et vos tests de Perception ne subissent pas de pénalité de circonstances à cause de précipitations non magiques et vos attaques contre une cible [Masquée](../conditions/masqué.md) par un tel effet ne nécessitent pas de test nu non plus pour réussir.
+Votre vision perce les brumes, le brouillard, la pluie et la neige non magiques. Vos attaques à distance et vos tests de Perception ne subissent pas de pénalité de circonstances à cause de précipitations non magiques et vos attaques contre une cible [Masquée](../conditions/masqué.html) par un tel effet ne nécessitent pas de test nu non plus pour réussir.

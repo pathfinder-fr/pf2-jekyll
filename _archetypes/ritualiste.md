@@ -12,7 +12,7 @@ layout: archetypes
 
 Alors que certains apprennent l'art de l'incantation des rituels à travers une étude intense, d'autres individus doués peuvent trouver une combinaison de talent naturel et de chance qui leur donne une compétence surprenante pour accomplir des rituels, qu'ils veulent ou non de ce pouvoir.
 
-<h2 style="text-align: left;">[Dévouement de Ritualiste](../dons/dévouement-du-ritualiste.md) Don 2
+<h2 style="text-align: left;">[Dévouement de Ritualiste](../dons/dévouement-du-ritualiste.html) Don 2
 
 **Prérequis** expert en Arcanes, Nature, Occultisme ou Religion
 
@@ -20,33 +20,33 @@ Vous avez débuté la maîtrise de l'art difficile d'accomplir des rituels. Vous
 
 **Spécial** Vous ne pouvez choisir un autre don de dévouement avant d'avoir choisi deux autres dons de l'archétype de Ritualiste. Si vous utilisez le réapprentissage pour perdre ce don, vous perdez les rituels appris gràce à lui.
 
-## [Ritualiste polyvalent](../dons/ritualiste-polyvalent.md) Don 6
+## [Ritualiste polyvalent](../dons/ritualiste-polyvalent.html) Don 6
 
 **Prérequis** Dévouement du Ritualiste
 
 Vous pouvez accomplir deux parties d'un rituel par vous-même.
 
-Lorsque vous accomplissez un rituel, vous pouvez réduire le nombre d'incantateurs secondaires de 1. Lorsque vous le faites, vous devez remplir n'importe laquelle des conditions que doit remplir un incantateur secondaire et vous faites le test secondaire accompli habituellement par l'incantateur secondaire. Vous ne pouvez remplacer un incantateur secondaire qui est la cible du sort (comme dans le rituel [Pénitence](../sorts/pénitence.md)).
+Lorsque vous accomplissez un rituel, vous pouvez réduire le nombre d'incantateurs secondaires de 1. Lorsque vous le faites, vous devez remplir n'importe laquelle des conditions que doit remplir un incantateur secondaire et vous faites le test secondaire accompli habituellement par l'incantateur secondaire. Vous ne pouvez remplacer un incantateur secondaire qui est la cible du sort (comme dans le rituel [Pénitence](../sorts/pénitence.html)).
 
-## [Ritualiste plein de ressources](../dons/ritualiste-plein-de-ressources.md) Don 6
+## [Ritualiste plein de ressources](../dons/ritualiste-plein-de-ressources.html) Don 6
 
 **Prérequis** Dévouement du Ritualiste
 
 Vous pouvez accomplir des rituels difficiles qui pourraient autrement être juste au-delà de vos compétences. Vous pouvez tenter des tests pour lancer un rituel qui nécessite une maîtrise experte si vous êtes qualifié, maître si vous êtes un expert ou légendairesi vous êtes un maître.
 
-## [Rituels efficaces](../dons/rituels-efficaces.md) Don 8
+## [Rituels efficaces](../dons/rituels-efficaces.html) Don 8
 
 **Prérequis** Dévouement du Ritualiste
 
 Vous pouvez accomplir des rituels en moins de temps. Si le rituel nécessite normalement 1 jour pour être lancé, vous pouvez le lancer en 4 heures. Si cela devrait prendre plus d'un jour, il vous faut la moitié du nombre de jours arrondi à l'entier supérieur.
 
-## [Ritualiste assuré](../dons/ritualiste-assuré.md) Don 10
+## [Ritualiste assuré](../dons/ritualiste-assuré.html) Don 10
 
 **Prérequis** Ritualiste polyvalent
 
 Vous pouvez couvrir les erreur d'un incantateur secondaire. Si vous êtes l'incantateur principal, après avoir lancé les tests des incantateurs secondaires, choisissez un test sur lequel l'incantateur secondaire a obtenu un échec ou un échec critique et considérez le résultat comme d'un degré meilleur.
 
-## [Rituels rapides](../dons/rituels-rapides.md) Don 14
+## [Rituels rapides](../dons/rituels-rapides.html) Don 14
 
 **Prérequis** Rituels efficaces
 

@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous ne faites qu’un avec la nature sauvage.
 
-Vous changez et vous vous adaptez sans arrêt pour relever tous les défis. Vous obtenez le sort d’ordre [Morphologie sauvage](../sorts/morphologie-sauvage.md) qui vous permet de prendre diverses formes dont vous pouvez diversifier les possibilités avec des dons de druide.
+Vous changez et vous vous adaptez sans arrêt pour relever tous les défis. Vous obtenez le sort d’ordre [Morphologie sauvage](../sorts/morphologie-sauvage.html) qui vous permet de prendre diverses formes dont vous pouvez diversifier les possibilités avec des dons de druide.

@@ -8,10 +8,10 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/soaring-shape.json
 layout: dons
 ---
-Les ailes vous débarrassent des entraves qui vous clouent au sol. Ajoutez les formes oiseau et chauve-souris du sort [Forme aérienne](../sorts/forme-aérienne.md) à celles de votre morphologie sauvage.
+Les ailes vous débarrassent des entraves qui vous clouent au sol. Ajoutez les formes oiseau et chauve-souris du sort [Forme aérienne](../sorts/forme-aérienne.html) à celles de votre morphologie sauvage.
 
-Si vous avez [Morphologie d’insecte](morphologie-d-insecte.md), vous ajoutez aussi la forme de guêpe à celles de votre morphologie sauvage.
+Si vous avez [Morphologie d’insecte](morphologie-d-insecte.html), vous ajoutez aussi la forme de guêpe à celles de votre morphologie sauvage.
 
-Si vous avez [Morphologie féroce](morphologie-féroce.md), vous ajoutez également la forme de ptérosaure à celles de votre morphologie sauvage.
+Si vous avez [Morphologie féroce](morphologie-féroce.html), vous ajoutez également la forme de ptérosaure à celles de votre morphologie sauvage.
 
 Chaque fois que vous utilisez morphologie sauvage pour prendre une forme qui vous confère un modificateur d’Acrobaties particulier, vous bénéficiez d’un bonus de statut de +1 à vos tests d’Acrobaties.

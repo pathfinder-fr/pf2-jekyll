@@ -12,9 +12,9 @@ layout: archetypes
 
 Vous vous êtes engagé à respecter le pacte de l’épée aldori et vous étudiez l’art du duel aldori, une école réputée d’apprentissage des arts de l’épée. Ce savoir se base sur les enseignements du baron Sirian Aldori qui sont transmis de génération en génération depuis plus d’un millénaire. Vous espérez un jour pouvoir démontrer vos compétences dans le maniement de cette arme et être reconnu comme un vrai seigneur des épées.
 
-<h2 style="text-align: left;">[Dévouement de duelliste aldori](../dons/dévouement-de-duelliste-aldori.md) Don 2
+<h2 style="text-align: left;">[Dévouement de duelliste aldori](../dons/dévouement-de-duelliste-aldori.html) Don 2
 
-**Prérequis** être qualifié dans le maniement des [épées de duel Aldories](../équipements/épée-de-duel-aldorie.md)
+**Prérequis** être qualifié dans le maniement des [épées de duel Aldories](../équipements/épée-de-duel-aldorie.html)
 
 **Accès** Vous êtes originaire de la région des Terres brisées
 
@@ -22,7 +22,7 @@ Votre formation de duelliste aldori vous enseigne des techniques martiales et re
 
 **Spécial** Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype duelliste aldori.
  
-## [Avantage du duelliste](../dons/avantage-du-duelliste.md) Don 4
+## [Avantage du duelliste](../dons/avantage-du-duelliste.html) Don 4
 
 **Prérequis** Dévouement de Duelliste Aldori
 
@@ -30,7 +30,7 @@ Votre formation de duelliste aldori vous enseigne des techniques martiales et re
 
 Votre temps de réaction a été aiguisé par votre entraînement de duelliste et vous avez appris à dégainer votre épée et attaquer immédiatement dans un geste fluide. Vous gagnez un bonus de circonstances de +2 au jet d’initiative initial et vous pouvez Interagir immédiatement pour dégainer votre <a class="entity-link" data-pack="pf2e.equipment-srd" data-id="iSceAVMkVv1uKK7t" draggable="true">épée de duel aldorie</a>.
 
-## [Parade aldorie](../dons/parade-aldorie.md) Don 4
+## [Parade aldorie](../dons/parade-aldorie.html) Don 4
 
 **Prérequis** Dévouement de Duelliste Aldori
 
@@ -38,7 +38,7 @@ Votre temps de réaction a été aiguisé par votre entraînement de duelliste e
 
 Vous pouvez parer les attaques dont vous êtes la cible avec votre épée de duel aldorie. Vous gagnez un bonus de circonstances de +2 à votre CA jusqu’à votre prochain tour tant que vous répondez aux conditions.
 
-## [Riposte aldorie](../dons/riposte-aldorie.md) Don 6
+## [Riposte aldorie](../dons/riposte-aldorie.html) Don 6
 
 **Prérequis** Parade aldorie
 
@@ -48,15 +48,15 @@ Vous pouvez parer les attaques dont vous êtes la cible avec votre épée de due
 
 Vous ripostez avec votre <a class="entity-link" data-pack="pf2e.equipment-srd" data-id="iSceAVMkVv1uKK7t" draggable="true">épée de duel aldorie</a> dès que votre ennemi vous laisse une ouverture. Effectuez une Frappe au corps à corps ou une action <a class="entity-link" data-pack="pf2e.actionspf2e" data-id="Dt6B1slsBy8ipJu9" draggable="true">Désarmer</a> contre l’adversaire déclencheur en utilisant votre épée de duel aldorie.
 
-## [Prouesse désarçonnante](../dons/prouesse-désarçonnante.md) Don 6
+## [Prouesse désarçonnante](../dons/prouesse-désarçonnante.html) Don 6
 
 **Prérequis** Dévouement de duelliste aldori
 
 **Déclencheur** Vous obtenez une réussite critique en effectuant une Frappe ou une action <a class="entity-link" data-pack="pf2e.actionspf2e" data-id="Dt6B1slsBy8ipJu9" draggable="true">Désarmer</a> avec votre épée de duel aldorie
 
-Vous maniez votre épée avec une adresse si extraordinaire que vous désarçonnez vos ennemis. Vous pouvez essayer de  [Démoraliser](../actions/démoraliser.md) la cible de votre Frappe ou de votre action Désarmer. Cette tentative pour Démoraliser n’a pas le trait audible et vous ne prenez pas de malus à votre test si la cible ne comprend pas votre langue.
+Vous maniez votre épée avec une adresse si extraordinaire que vous désarçonnez vos ennemis. Vous pouvez essayer de  [Démoraliser](../actions/démoraliser.html) la cible de votre Frappe ou de votre action Désarmer. Cette tentative pour Démoraliser n’a pas le trait audible et vous ne prenez pas de malus à votre test si la cible ne comprend pas votre langue.
 
-## [Parade salvatrice](../dons/parade-salvatrice.md) Don 10
+## [Parade salvatrice](../dons/parade-salvatrice.html) Don 10
 
 **Prérequis** Dévouement de duelliste aldori
 

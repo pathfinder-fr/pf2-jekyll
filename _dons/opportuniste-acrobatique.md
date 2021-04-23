@@ -10,8 +10,8 @@ layout: dons
 ---
 **Fréquence** Une fois par minute
 
-**Conditions** Votre plus récente action a été un [Déplacement acrobatique](../actions/déplacement-acrobatique.md) ou une [Frappe acrobatique](frappe-acrobatique.md) et vous êtes parvenu à traverser la case d'un ennemi.
+**Conditions** Votre plus récente action a été un [Déplacement acrobatique](../actions/déplacement-acrobatique.html) ou une [Frappe acrobatique](frappe-acrobatique.html) et vous êtes parvenu à traverser la case d'un ennemi.
 
 Vous utilisez une poussée de vitalité pour accomplir un exploit acrobatique à couper le souffle lorsque vous passez à travers la case de l'ennemi, le faisant tomber à plat sur le dos.
 
-Vous tentez de faire un [Croc-en-jambe](../actions/croc-en-jambe.md) à l'ennemi dont vous avez traversé la case. Vous pouvez utiliser Acrobaties au lieu d'Athlétisme pour ce test.
+Vous tentez de faire un [Croc-en-jambe](../actions/croc-en-jambe.html) à l'ennemi dont vous avez traversé la case. Vous pouvez utiliser Acrobaties au lieu d'Athlétisme pour ce test.

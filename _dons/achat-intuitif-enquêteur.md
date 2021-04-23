@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/predictive-purchase-investigator.json
 layout: dons
 ---
-Vous avez juste la chose dont vous avez besoin pour faire face à la situation. Vous obtenez les dons [Planificateur prescient](planificateur-prescient.md) et [Consommable prescient](consommable-prescient.md).
+Vous avez juste la chose dont vous avez besoin pour faire face à la situation. Vous obtenez les dons [Planificateur prescient](planificateur-prescient.html) et [Consommable prescient](consommable-prescient.html).
 
 Lorsque vous utilisez Planificateur prescient, vous pouvez tirer de votre sac à dos (ou d'un conteneur équivalent) l'objet par une activité nécessitant 2 actions, plutôt qu'en y passant 1 minute.

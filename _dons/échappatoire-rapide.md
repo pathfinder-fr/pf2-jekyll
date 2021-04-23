@@ -12,4 +12,4 @@ layout: dons
 
 **Déclencheur** Un ennemi termine son déplacement adjacent à vous.
 
-Faites un test d'Acrobaties contre le DD de Réflexes de votre ennemi. Si vous réussissez, soit vous [Marchez rapidement](../actions/marcher-rapidement.md) vers une case différente adjacente à l'adversaire, soit vous déplacez l'ennemi vers une case différente adjacente à la vôtre.
+Faites un test d'Acrobaties contre le DD de Réflexes de votre ennemi. Si vous réussissez, soit vous [Marchez rapidement](../actions/marcher-rapidement.html) vers une case différente adjacente à l'adversaire, soit vous déplacez l'ennemi vers une case différente adjacente à la vôtre.

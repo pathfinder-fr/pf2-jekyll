@@ -14,9 +14,9 @@ Les Chevaliers récupérateurs ont passé beaucoup de temps parmi les horreurs d
 
 ## Archétypes de Chevalier de Dernier-rempart
 
-Les archétypes suivants sont peu courants mais ils sont accessibles aux membres des Chevaliers de Dernier Rempart. Les personnages qui disposent de l'archétype de Sentinelle de Dernier Rempart peuvent choisir un de ces dons de dévouement même sans avoir obtenu trois dons de l'archétype de Sentinelle de Dernier-Rempart et chacun des dons de cet archétype sert à remplir la condition spéciale du don de [Dévouement de Sentinelle de Dernier-Rempart](../dons/dévouement-de-sentinelle-de-dernier-rempart.md) même s'il ne s'agit pas de ceux de l'archétype de Sentinelle de Dernier-Rempart.
+Les archétypes suivants sont peu courants mais ils sont accessibles aux membres des Chevaliers de Dernier Rempart. Les personnages qui disposent de l'archétype de Sentinelle de Dernier Rempart peuvent choisir un de ces dons de dévouement même sans avoir obtenu trois dons de l'archétype de Sentinelle de Dernier-Rempart et chacun des dons de cet archétype sert à remplir la condition spéciale du don de [Dévouement de Sentinelle de Dernier-Rempart](../dons/dévouement-de-sentinelle-de-dernier-rempart.html) même s'il ne s'agit pas de ceux de l'archétype de Sentinelle de Dernier-Rempart.
 
-## [Dévouement de Chevalier récupérateur](../dons/dévouement-de-chevalier-récupérateur.md) Don 6
+## [Dévouement de Chevalier récupérateur](../dons/dévouement-de-chevalier-récupérateur.html) Don 6
 
 **Prérequis** qualifié en Survie et Discrétion, tout alignement non mauvais, membre des Chevaliers de Dernier rempart du rang de chevalier
 
@@ -24,19 +24,19 @@ Vous avez prêté le serment écarlate et êtes devenu un membre à part entièr
 
 **Spécial** Vous ne pouvez pas obtenir un autre don de dévouement avant d'avoir obtenu deux autres dons de l'archétype Chevalier récupérateur.
 
-## [Invoquer le Serment écarlate](../dons/invoquer-le-serment-écarlate.md) Don 8
+## [Invoquer le Serment écarlate](../dons/invoquer-le-serment-écarlate.html) Don 8
 
 **Prérequis** Dévouement de Chevalier récupérateur
 
-Vous pouvez invoquer le Serment écarlate pour relâcher des explosions d'énergie de couleur rubis à partir de votre arme. Vous obtenez le sort de focalisation [Invoquer le Serment écarlate](../sorts/invoquer-le-serment-écarlate.md). Si vous n'en possédiez pas déjà une, vous obtenez une réserve de focalisation avec 1 Point de focalisation, qui peut être regagné en utilisant l'activité [Refocaliser](../actions/refocaliser.md) en récitant le Serment écarlate et en méditant sur ses enseignements ; si vous possédiez déjà une réserve de focalisation, augmentez le nombre de Points de focalisation de votre réserve de focalisation de 1. Vos sorts de focalisation de Chevalier réclamateur sont des sorts divins ; Lorsque vous obtenez ce don, vous devenez qualifié dans les attaques de sorts divins et le DD des sorts.
+Vous pouvez invoquer le Serment écarlate pour relâcher des explosions d'énergie de couleur rubis à partir de votre arme. Vous obtenez le sort de focalisation [Invoquer le Serment écarlate](../sorts/invoquer-le-serment-écarlate.html). Si vous n'en possédiez pas déjà une, vous obtenez une réserve de focalisation avec 1 Point de focalisation, qui peut être regagné en utilisant l'activité [Refocaliser](../actions/refocaliser.html) en récitant le Serment écarlate et en méditant sur ses enseignements ; si vous possédiez déjà une réserve de focalisation, augmentez le nombre de Points de focalisation de votre réserve de focalisation de 1. Vos sorts de focalisation de Chevalier réclamateur sont des sorts divins ; Lorsque vous obtenez ce don, vous devenez qualifié dans les attaques de sorts divins et le DD des sorts.
 
-## [Survivant de la Désolation](../dons/survivant-de-la-désolation.md) Don 8
+## [Survivant de la Désolation](../dons/survivant-de-la-désolation.html) Don 8
 
 **Prérequis** Dévouement de Chevalier récupérateur
 
 Vous obtenez un bonus de circonstances de +2 sur les jets de sauvegarde contre les évènements liés à un climat non naturel ou contre les dangers environnementaux dans des zones dévastées ou d'autres régions artificiellement défigurées. Si vous obtenez un succès sur un jet de sauvegarde contre un tel effet, vous obtenez un succès critique à la place ; si vous obtenez un échec critique, vous obtenez un échec à la place. Cela ne s'applique pas aux évènements articiels crées ou dirigés par des effets actifs, tels que des sorts qui créent un climat anormal ou des zones de pièges.
 
-## [Tu ne faibliras pas, tu ne prendras pas la fuite](../dons/tu-ne-faibliras-pas,-tu-ne-prendras-pas-la-fuite.md) Don 10
+## [Tu ne faibliras pas, tu ne prendras pas la fuite](../dons/tu-ne-faibliras-pas,-tu-ne-prendras-pas-la-fuite.html) Don 10
 
 **Prérequis** Dévouement de Chevalier récupérateur
 
@@ -44,13 +44,13 @@ Vous obtenez le sort de focalisation <a class="entity-link" data-pack="pf2e.spel
 
 Si vous n'en aviez pas déjà une, vous obtenez une réserve de focalisation de 1 Point de focalisation que vous pouvez remplir en utilisant l'activité Refocaliser en récitant le Serment écarlate et en méditant sur ses enseignements. Si vous possédez déjà une réserve de focalisation, augmentez le nombre de Points de focalisation de 1. Vos sorts de focalisation de chevalier récupérateur sont des sorts divins ; Lorsque vous obtenez ce don, vous devenez qualifié en attaque de sort divin et en DD des sorts et cotre caractéristique d'incantation est le Charisme.
 
-## [Lame du Serment écarlate](../dons/lame-du-serment-écarlate.md) Don 12
+## [Lame du Serment écarlate](../dons/lame-du-serment-écarlate.html) Don 12
 
 **Prérequis** Dévouement de Chevalier récupérateur
 
 Vous invoquez le Serment écarlate pour châtier les morts-vivants et portez une Frappe avec une arme ou à mains nues contre un mort-vivant. La Frappe inflige deux dés de dégâts d’arme supplémentaires et vous pouvez convertir la totalité des dégâts physiques de l’attaque en dégâts d'énergie positive.
 
-## [Violeur de repos](../dons/violeur-de-repos.md) Don 12
+## [Violeur de repos](../dons/violeur-de-repos.html) Don 12
 
 **Prérequis** Dévouement de Chevalier récupérateur, maîtrise de maître avec une arme
 

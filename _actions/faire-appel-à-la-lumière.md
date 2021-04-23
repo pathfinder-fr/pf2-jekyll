@@ -10,6 +10,6 @@ layout: actions
 type: reaction
 typeFr: Réaction
 ---
-**Déclencheur** Vous faites un jet d'attaque, un test de compétence ou un jet de sauvegarde en accomplissant le plan d'action de votre incantation du sort [Augure](../sorts/augure.md), mais vous n'avez pas encore lancé le dé.
+**Déclencheur** Vous faites un jet d'attaque, un test de compétence ou un jet de sauvegarde en accomplissant le plan d'action de votre incantation du sort [Augure](../sorts/augure.html), mais vous n'avez pas encore lancé le dé.
 
 Vous obtenez un bonus de statut de +1 au jet déclencheur un de +2 si le résultat de l'augure était “malheur” mais que vous avez néanmoins persisté.

@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous n'autorisez pas les autres à vous entraver.
 
-Vous pouvez Lancer [Liberté de mouvement](../sorts/liberté-de-mouvement.md) sur vous-même comme un sort primordial inné une fois par jour.
+Vous pouvez Lancer [Liberté de mouvement](../sorts/liberté-de-mouvement.html) sur vous-même comme un sort primordial inné une fois par jour.

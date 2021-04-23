@@ -14,7 +14,7 @@ typeFr: Action Unique
 
 Vous tentez de faire tomber un adversaire. Effectuez un test <span data-pf2-action="trip" data-pf2-glyph="A">d’Athlétisme contre le DD de Réflexes de la cible.
 
-**Succès critique** La cible tombe [À terre](../conditions/à-terre.md) et subit 1d6 dégâts contondants.
+**Succès critique** La cible tombe [À terre](../conditions/à-terre.html) et subit 1d6 dégâts contondants.
 
 **Succès** La cible tombe À terre.
 

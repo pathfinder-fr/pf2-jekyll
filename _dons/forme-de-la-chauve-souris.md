@@ -12,4 +12,4 @@ layout: dons
 
 Vous pouvez vous transformer en une chauve-souris inoffensive.
 
-Vous obtenez les effets du sort [Forme de nuisible](../sorts/forme-de-nuisible.md) de niveau 4, sauf que vous vous transformez toujours en une chauve-souris.
+Vous obtenez les effets du sort [Forme de nuisible](../sorts/forme-de-nuisible.html) de niveau 4, sauf que vous vous transformez toujours en une chauve-souris.

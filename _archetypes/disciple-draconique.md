@@ -22,9 +22,9 @@ Les disciples des dragons métalliques ressentent aussi les tourments de la comp
 
 Les sentiments instinctifs draconiques peuvent être constants, bien qu'ils paraissent s'intensifier lorsque le disciple utilise ses pouvoirs draconiques. Durant les quelques secondes qui suivent l'utilisation du souffle ou d'une attaque avec les griffes ou lorsque le disciple déploie ses ailes, il pourrait subir un moment de transformation mentale. Cela peut lui apporter le plein éat d'esprit d'un dragon ou même donner à croire au disciple draconique qu'il est réellement un dragon et est souvent accompagné par un rugissement draconique, un gloussement ou une autre démonstration majestueuse.
 
-## [Dévouement du Disciple draconique](../dons/dévouement-du-disciple-draconique.md) Don 2
+## [Dévouement du Disciple draconique](../dons/dévouement-du-disciple-draconique.html) Don 2
 
-**Accès** Vous êtes un kobold avec l'héritage [kobold à écaille de dragon](../capacités-ascendances/kobold-à-écaille-de-dragon.md) or [kobold écailledesort](../capacités-ascendances/kobold-écaille-de-sort.md), un barbare avec l'[instinct du dragon](../capacité-classe/instinct-du-dragon.md) ou un ensorceleur au [lignage draconique](../capacité-classe/lignage-:-draconique.md).
+**Accès** Vous êtes un kobold avec l'héritage [kobold à écaille de dragon](../capacités-ascendances/kobold-à-écaille-de-dragon.html) or [kobold écailledesort](../capacités-ascendances/kobold-écaille-de-sort.html), un barbare avec l'[instinct du dragon](../capacité-classe/instinct-du-dragon.html) ou un ensorceleur au [lignage draconique](../capacité-classe/lignage-:-draconique.html).
 
 Vous avez choisi d'étudier ou de véérer un type de dragon et votre concentration vous accorde une part de son pouvoir. Choisissez une couleur de dragon lorsque vous choisissez ce don ; si vous êtes un ensorceleur avec le lignage draconique, cela doit être le même type que celui de votre lignage.
 
@@ -36,11 +36,11 @@ Vous obtenez une résistance égale à la moitié de votre niveau contre un type
 - **Noir ou Cuivre** Acide
 - **Vert** Poison
 
-Vous obtenez aussi un bonus de circonstances de +1 aux jets de sauvegarde contre les effets de sommeil et les effets qui auraient pour conséquence de vous [paralyser](../conditions/paralysé.md).
+Vous obtenez aussi un bonus de circonstances de +1 aux jets de sauvegarde contre les effets de sommeil et les effets qui auraient pour conséquence de vous [paralyser](../conditions/paralysé.html).
 
 **Spécial** Vous ne pouvez choisir un autre don de dévouement jusqu'à ce que vous ayiez obtenu deux autres dons de l'archétype de Disciple draconique. Si vous prenez plus tard l'archétype d'ensorceleur, vous devrez choisir le lignage draconique.
 
-## [Griffes de dragon](../dons/griffes-de-dragon.md) Don 4
+## [Griffes de dragon](../dons/griffes-de-dragon.html) Don 4
 
 **Prérequis**Dévouement du Disciple draconique
 
@@ -48,37 +48,37 @@ Les ongles de vos doigts se transforment en des griffes coupantes comme des raso
 
 If you're a draconic sorcerer, when you cast dragon claws, increase the spell's slashing damage die from d4 to d6 and increase the resistance to 10 at 1st level, 15 at 5th level, and 20 at 9th level.
 
-## [Odorat draconique](../dons/odorat-draconique.md) Don 4
+## [Odorat draconique](../dons/odorat-draconique.html) Don 4
 
 **Prérequis**Dévouement du Disciple draconique
 
 Votre sens de l'odorat est remarquable, ressemblant beaucoup à celui du dragon. Vous obtenez un odorat imprécis avec une portée de 9 m. Le MJ peut doubler la portée si vous êtes sous le vent par rapport à la créature ou diminuer de moitié la portée si vous êtes contre le vent, à sa discrétion.
 
-## [Arcanes de dragon](../dons/arcanes-de-dragon.md) Don 4
+## [Arcanes de dragon](../dons/arcanes-de-dragon.html) Don 4
 
 **Prerequisites** capacité de lancer des sorts à partir d'emplacements de sorts, Dévouement de disciple draconique
 
-Vous avez découvert comment ajouter la magie des dragons à votre tradition. Ajoutez les sorts accordés par le lignage draconique à votre liste de sorts ; Vous devez toujours les apprendre ou les ajouter à votre répertoire comme habituellement. Ces sorts sont  [Bouclier](../sorts/bouclier.md), [Coup au but](../sorts/coup-au-but.md), [Résistance à l'énergie](../sorts/résistance-à-l-énergie.md), [Rapidité](../sorts/rapidité.md), [Immunité contre les sorts](../sorts/immunité-contre-les-sorts.md), [Mur chromatique](../sorts/mur-chromatique.md), [Forme de dragon](../sorts/forme-de-dragon.md), [Masque terrifiant](../sorts/masque-terrifiant.md), [Mur prismatique](../sorts/mur-prismatique.md) et [Présence écrasante](../sorts/présence-écrasante.md).
+Vous avez découvert comment ajouter la magie des dragons à votre tradition. Ajoutez les sorts accordés par le lignage draconique à votre liste de sorts ; Vous devez toujours les apprendre ou les ajouter à votre répertoire comme habituellement. Ces sorts sont  [Bouclier](../sorts/bouclier.html), [Coup au but](../sorts/coup-au-but.html), [Résistance à l'énergie](../sorts/résistance-à-l-énergie.html), [Rapidité](../sorts/rapidité.html), [Immunité contre les sorts](../sorts/immunité-contre-les-sorts.html), [Mur chromatique](../sorts/mur-chromatique.html), [Forme de dragon](../sorts/forme-de-dragon.html), [Masque terrifiant](../sorts/masque-terrifiant.html), [Mur prismatique](../sorts/mur-prismatique.html) et [Présence écrasante](../sorts/présence-écrasante.html).
 
-## [Écaille de dragon](../dons/écailles-de-dragon.md) Don 4
+## [Écaille de dragon](../dons/écailles-de-dragon.html) Don 4
 
 **Prérequis**Dévouement du Disciple draconique
 
 Les écailles de dragon couvrent votre corps, vous protégeant contre les menaces physiques et magiques. Lorsque vous êtes sans armure, les écailles vous donnent un bonus de statut de +2 à la CA avec un maximum de Dextérité de +2. Votre résistance issue du Dévouement de Disciple draconique passe à 3 + la moitié de votre niveau.
 
-## [Souffle de Dragon](../dons/souffle-de-dragon.md) Don 8
+## [Souffle de Dragon](../dons/souffle-de-dragon.html) Don 8
 
 **Prérequis**Dévouement du Disciple draconique
 
-Vous pouvez faire usage d'une puissante arme de souffle, ressemblant fort au dragon auquel vous ressemblez. Vous obtenez le sort de lignage d'ensorceleur [Souffle de dragon](../sorts/souffle-de-dragon.md) et une réserve de focalisation de 1 Point de focalisation. Si vous avez déjà une réserve de focalisation, augmentez votre nombre de Points de focalisation de 1.
+Vous pouvez faire usage d'une puissante arme de souffle, ressemblant fort au dragon auquel vous ressemblez. Vous obtenez le sort de lignage d'ensorceleur [Souffle de dragon](../sorts/souffle-de-dragon.html) et une réserve de focalisation de 1 Point de focalisation. Si vous avez déjà une réserve de focalisation, augmentez votre nombre de Points de focalisation de 1.
 
-## [Ailes du Dragon](../dons/ailes-du-dragon.md) Don 12
+## [Ailes du Dragon](../dons/ailes-du-dragon.html) Don 12
 
 **Prérequis**Dévouement du Disciple draconique
 
 Vous pouvez faire sortir des ailes draconiques pour vous envoler dans les airs à grande vitesse. Vous obtenez le sort de lignage d'ensorceleur <a class="entity-link" data-pack="pf2e.spells-srd" data-id="HWJODX2zPg5cg34F" draggable="true">Ailes de dragon</a> et une réserve de focalisation de 1 Point de focalisation. Si vous possédez déjà une réserve de focalisation, augmentez votre nombre de Points de focalisation de 1.
 
-## [Forme de Dragon](../dons/forme-de-dragon.md) Don 14
+## [Forme de Dragon](../dons/forme-de-dragon.html) Don 14
 
 **Prérequis**Dévouement du Disciple draconique
 
@@ -86,14 +86,14 @@ Vous avez découvert comment vous transformer vous-même en un dragon. Une fois 
 
 Chaque fois que vous obtenez un coup critique avec une <a class="entity-link" data-pack="pf2e.actionspf2e" data-id="VjxZFuUXrCU94MWR" draggable="true">Frappe</a> à mains nues obtenue par le biais de *Forme de dragon*, vous rechargez immédiatement le sort de Souffle de dragon.
 
-## [Souffle du disciple](../dons/souffle-du-disciple.md) Don 16
+## [Souffle du disciple](../dons/souffle-du-disciple.html) Don 16
 
-**Prérequis** Dévouement de Disciple draconique, sort de lignage d'ensorceleur [Souffle de dragon](../sorts/souffle-de-dragon.md)
+**Prérequis** Dévouement de Disciple draconique, sort de lignage d'ensorceleur [Souffle de dragon](../sorts/souffle-de-dragon.html)
 
 Vous relâchez votre arme de souffle sans dépenser de focalisation. Cela donne les mêmes effets que votre sort de lignage Souffle de dragon, bien que cela inflige 9d6 dégâts à la place de ses dégâts habituels et vous n'avez pas à le lancer ou à dépenser de Point de focalisation. Vous ne pouvez plus utiliser Souffle du disciple pendant 1d4 rounds.
 
-## [Puissante forme de dragon](../dons/puissante-forme-de-dragon.md) Don 18
+## [Puissante forme de dragon](../dons/puissante-forme-de-dragon.html) Don 18
 
-**Prérequis** [Forme de Dragon](../dons/forme-de-dragon.md)
+**Prérequis** [Forme de Dragon](../dons/forme-de-dragon.html)
 
 Vous avez pratiqué et augmenté votre puissance draconique, vous permettant de prendre votre forme draconique plus souvent. Vous pouvez utiliser Forme de Dragon une fois par heure au lieu d'une fois par jour.

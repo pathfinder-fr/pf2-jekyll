@@ -14,6 +14,6 @@ Choisissez un tour de magie de composition et dépensez 10 minutes à répéter 
 
 Une fois que vous avez créer la rengaine, vous pouvez effectuer un test de Représentation par une action gratuite pour l'activer. Ce test utilise le DD très difficile d'un niveau égal à celui du plus haut niveau des cibles présentes au moment de l'activation de la rengaine.
 
-En cas de succès, vous lancez le tour de magie sur tous les alliés qui ont appris la rengaine et qui peuvent percevoir votre Représentation ; en cas d'échec, la rengaine est perdue et gâchée. Comme c'est basé sur de précédentes répétitions, vous ne pouvez pas utiliser davantaeg d'actions libres comme [Composition prolongée](../sorts/composition-prolongée.md) ou [Inspiration Héroïque](../sorts/inspiration-héroïque.md) pour modifier la rengaine activée.
+En cas de succès, vous lancez le tour de magie sur tous les alliés qui ont appris la rengaine et qui peuvent percevoir votre Représentation ; en cas d'échec, la rengaine est perdue et gâchée. Comme c'est basé sur de précédentes répétitions, vous ne pouvez pas utiliser davantaeg d'actions libres comme [Composition prolongée](../sorts/composition-prolongée.html) ou [Inspiration Héroïque](../sorts/inspiration-héroïque.html) pour modifier la rengaine activée.
 
 Les alliés oublient la rengaine après son activation, si vous passez 10 minutes pour en implanter une autre ou au cours de vos prochains préparatifs quotidient, selon l'évènement qui ce se produit en premier.

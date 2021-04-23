@@ -12,6 +12,6 @@ Choisissez un Mystère. Vous êtes qualifié en Religion et dans la compétence 
 
 Vous obtenez les effets constants légers de la malédiction du mystère décrite dans son premier paragraphe mais pas les autres effets que le mystère accorde habituellement.
 
-Vous lancez des sorts comme un oracle et obtenez l'activité [Lancer un sort](../actions/lancer-un-sort.md). Vous obtenez un répertoire de sorts avec deux tours de magie, soit des tours de magie courants divins ou des tours de magie divine que vous apprenez ou découvrez. Vous êtes qualifié avec les jets d'attaque des sorts divins et le DD des sorts divins. Votre caractéristique essentielle pour les sorts de l'archétype d'Oracle est le Charisme et il s'agit de sorts divins d'oracle.
+Vous lancez des sorts comme un oracle et obtenez l'activité [Lancer un sort](../actions/lancer-un-sort.html). Vous obtenez un répertoire de sorts avec deux tours de magie, soit des tours de magie courants divins ou des tours de magie divine que vous apprenez ou découvrez. Vous êtes qualifié avec les jets d'attaque des sorts divins et le DD des sorts divins. Votre caractéristique essentielle pour les sorts de l'archétype d'Oracle est le Charisme et il s'agit de sorts divins d'oracle.
 
 **Spécial** Vous ne pouvez choisir un autre don de dévouement avant d'avoir choisi deux autres dons de l'archétype d'oracle.

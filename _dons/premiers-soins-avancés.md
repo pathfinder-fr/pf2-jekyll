@@ -12,6 +12,6 @@ layout: dons
 
 Vous utilisez vos qualifications médicales pour améliorer les malades et pour dissiper les peurs.
 
-Lorsque vous utilisez Médecine pour [Prodiguer les premiers soins](../actions/prodiguer-les-premiers-soins.md), au lieu de Stabiliser un personnage ou d'Arrêter un saignement, vous pouvez réduire l'état d'un allié [Effrayé](../conditions/effrayé.md) ou [Malade](../conditions/malade.md) par 2 ou dissiper un de ces états en cas de réussite critique. Vous ne pouvez mettre un terme qu'à un état à la fois.
+Lorsque vous utilisez Médecine pour [Prodiguer les premiers soins](../actions/prodiguer-les-premiers-soins.html), au lieu de Stabiliser un personnage ou d'Arrêter un saignement, vous pouvez réduire l'état d'un allié [Effrayé](../conditions/effrayé.html) ou [Malade](../conditions/malade.html) par 2 ou dissiper un de ces états en cas de réussite critique. Vous ne pouvez mettre un terme qu'à un état à la fois.
 
 Le DD pour le test de Médecine est habituellement le DD de l'effet à l'origine de l'état.

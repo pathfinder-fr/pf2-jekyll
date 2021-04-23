@@ -10,6 +10,6 @@ layout: dons
 ---
 Vous avez appris à appliquer vos techniques démonstratives aux armes de jet aussi facilement qu'avec vos attaques au corps à corps.
 
-Lorsque vous avez du [Panache](../capacité-classe/panache.md), vous appliquez vos dégâts de Frappe précise sur les Frappes à distance que vous réalisez avec une arme de jet dans leur premier facteur de portée. L'arme de jet doit posséder les traits agile ou finesse.
+Lorsque vous avez du [Panache](../capacité-classe/panache.html), vous appliquez vos dégâts de Frappe précise sur les Frappes à distance que vous réalisez avec une arme de jet dans leur premier facteur de portée. L'arme de jet doit posséder les traits agile ou finesse.
 
-Cela vous permet aussi de faire une Frappe de jet à distance pour [Coup final assuré](../capacité-classe/coup-final-assuré.md) et toute autre botte qui inclut une Frappe qui peut bénéficier de votre Frappe précise.
+Cela vous permet aussi de faire une Frappe de jet à distance pour [Coup final assuré](../capacité-classe/coup-final-assuré.html) et toute autre botte qui inclut une Frappe qui peut bénéficier de votre Frappe précise.

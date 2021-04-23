@@ -12,4 +12,4 @@ layout: dons
 
 Vous combinez une attaque avec de rapides prises avec la main pour déséquilibrer un ennemi tant qu’il reste à portée.
 
-Effectuez une Frappe en gardant une main libre. Si cette Frappe touche, la cible est [Prise au dépourvu](../conditions/pris-au-dépourvu.md) jusqu’au début de votre prochain tour ou jusqu’à ce qu’elle sorte de l’allonge de votre main, selon ce qui se produit en premier.
+Effectuez une Frappe en gardant une main libre. Si cette Frappe touche, la cible est [Prise au dépourvu](../conditions/pris-au-dépourvu.html) jusqu’au début de votre prochain tour ou jusqu’à ce qu’elle sorte de l’allonge de votre main, selon ce qui se produit en premier.

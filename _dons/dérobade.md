@@ -14,4 +14,4 @@ layout: dons
 
 Vous esquivez un coup au dernier moment possible.
 
-Vous [Faites un pas](../actions/faire-un-pas.md) et obtenez une résistance à tous les dégâts égale à votre niveau contre l'effet déclencheur. Si votre Pas vous place en dehors de la zone de l'effet, alors cette résistance est égale à votre niveau auquel s'ajoute vontre modificateur de Dextérité.
+Vous [Faites un pas](../actions/faire-un-pas.html) et obtenez une résistance à tous les dégâts égale à votre niveau contre l'effet déclencheur. Si votre Pas vous place en dehors de la zone de l'effet, alors cette résistance est égale à votre niveau auquel s'ajoute vontre modificateur de Dextérité.

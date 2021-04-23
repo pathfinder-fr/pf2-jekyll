@@ -12,31 +12,31 @@ layout: archetypes
 
 Vous avez entendu les murmures d'un patron distant qui a envoyé un émissaire vous apprendre une puissante magie.
 
-<h2 style="text-align: left;">[Dévouement de Sorcière](../dons/dévouement-de-sorcière.md) Don 2
+<h2 style="text-align: left;">[Dévouement de Sorcière](../dons/dévouement-de-sorcière.html) Don 2
 
 **Prérequis** Intelligence 14
 
 Vous lancez des sorts comme une sorcière. Choisissez un patron ; vous obtenez un familier avec deux tours de magie courants de votre choix de la tradition correspondant au patron choisi, mais à part la tradition, vous n'obtenez aucun autre des effets que le patron aurait habituellement accordé. Votre familier possède une capacité de familier de moins que la normale.
 
-Vous obtenez l'activité [Lancer un sort](../actions/lancer-un-sort.md). Vous pouvez préparer un tour de magie chaque jour par le biais de votre familier. Vous êtes qualifié en  jet d'attaque de sort et en DD de sort dans la tradition de votre patron. Votre caractéristique d'incantation pour les sorts de l'archétype de sorcière est l'Intelligence et il s'agit de sorts de la tradition de votre patron.
+Vous obtenez l'activité [Lancer un sort](../actions/lancer-un-sort.html). Vous pouvez préparer un tour de magie chaque jour par le biais de votre familier. Vous êtes qualifié en  jet d'attaque de sort et en DD de sort dans la tradition de votre patron. Votre caractéristique d'incantation pour les sorts de l'archétype de sorcière est l'Intelligence et il s'agit de sorts de la tradition de votre patron.
 
 Vous devenez qualifié dans la compétence associée à la tradition de votre patron ; si vous étiez déjà qualifié dans cette compétence, vous devenez qualifié dans une autre compétence de votre choix.
 
 **Spécial** Vous ne pouvez choisir un autre don de dévouement avant d'avoir choisi deux autre dons de l'archétype de Sorcière.
 
-## [Incantation basique de la Sorcière](../dons/incantation-basique-de-la-sorcière.md) Don 4
+## [Incantation basique de la Sorcière](../dons/incantation-basique-de-la-sorcière.html) Don 4
 
 **Prérequis** Dévouement de Sorcière
 
 Vous obtenez les avantages de l'incantation basique. Chaque fois que vous obtenez un emplacement de sort d'un niveau de l'archétype de Sorcière, ajoutez deux sorts courants de ce niveau à votre familier.
 
-## [Sorcellerie Basique](../dons/sorcellerie-basique.md) Don 4
+## [Sorcellerie Basique](../dons/sorcellerie-basique.html) Don 4
 
 **Prérequis** Dévouement de Sorcière
 
 Vous obtenez un don de Sorcière de niveau 1 ou 2 de votre choix. Votre familier possède désormais le nombre habituel de capacités de familier.
 
-## [Sorcellerie avancée](../dons/sorcellerie-avancée.md) Don 6
+## [Sorcellerie avancée](../dons/sorcellerie-avancée.html) Don 6
 
 **Prérequis** Sorcellerie basique
 
@@ -44,19 +44,19 @@ Vous obtenez un don de sorcière. Pour les besoins d'en remplir les prérequis, 
 
 **Spécial** Vous pouvez choisir ce don plus d'une fois. Chaque fois que vous le choisissez, vous obtenez un don de sorcière différent.
 
-## [Amplitude du patron](../dons/amplitude-du-patron.md) Don 8
+## [Amplitude du patron](../dons/amplitude-du-patron.html) Don 8
 
 **Prérequis** Incantation basique de la sorcière
 
 Vous pouvez lancer davantage de sorts chaque jour. Augmentez les emplacements de sorts obtenus des dons de l'archétype de sorcière de 1 pour chaque niveau de sort autre que vos deux plus hauts niveaux de sort.
 
-## [Incantation de sorcière experte](../dons/incantation-de-sorcière-experte.md) Don 12
+## [Incantation de sorcière experte](../dons/incantation-de-sorcière-experte.html) Don 12
 
 **Prérequis** Incantation basique de sorcière, maître dans la compétence associée à la tradition de votre patron
 
 Vous obtenez les avantages de l'incantation experte.
 
-## [Incantation de sorcière maître](../dons/incantation-de-sorcière-maître.md) Don 18
+## [Incantation de sorcière maître](../dons/incantation-de-sorcière-maître.html) Don 18
 
 **Prérequis** Incantation de sorcière expert, légendaire  dans la compétence associée à la tradition de votre patron
 

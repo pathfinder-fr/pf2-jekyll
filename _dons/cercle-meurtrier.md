@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/murderer-s-circle.json
 layout: dons
 ---
-Vous Frappez une cible à portée et puis Faites un pasvers n'importe quelle autre case adjacente à la cible. Votre cible est alors [Prise au dépourvu](../conditions/pris-au-dépourvu.md) contre votre prochaine Frappe durant ce tour.
+Vous Frappez une cible à portée et puis Faites un pasvers n'importe quelle autre case adjacente à la cible. Votre cible est alors [Prise au dépourvu](../conditions/pris-au-dépourvu.html) contre votre prochaine Frappe durant ce tour.

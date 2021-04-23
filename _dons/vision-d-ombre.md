@@ -10,4 +10,4 @@ layout: dons
 ---
 **Fréquence** une fois par heure
 
-Vous tirez sur votre lien avec le Plan de l'Ombre pour voir à travers tout sauf l'obscurité la plus profonde. Vous obtenez [Vision dans le noir supérieure](../capacités-ascendances/vision-dans-le-noir-supérieure.md) pendant 1 minute.
+Vous tirez sur votre lien avec le Plan de l'Ombre pour voir à travers tout sauf l'obscurité la plus profonde. Vous obtenez [Vision dans le noir supérieure](../capacités-ascendances/vision-dans-le-noir-supérieure.html) pendant 1 minute.

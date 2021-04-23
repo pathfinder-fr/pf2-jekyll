@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous visez soigneusement avant de faire votre attaque afin d'éviter l'abri et la couverture de votre adversaire.
 
-Lors de votre prochaine Frappe avec une arme de jet avant la fin de votre tour, vous obtenez un bonus de circonstances de +1 à votre jet d'attaque et vous ignorez la condition [Masquée](../conditions/masqué.md) de votre cible, ainsi que les abris inféieures et normaux ; si la cible bénéficie d'un abri supérieur, elle n'a qu'un abri normal contre cette Frappe.
+Lors de votre prochaine Frappe avec une arme de jet avant la fin de votre tour, vous obtenez un bonus de circonstances de +1 à votre jet d'attaque et vous ignorez la condition [Masquée](../conditions/masqué.html) de votre cible, ainsi que les abris inféieures et normaux ; si la cible bénéficie d'un abri supérieur, elle n'a qu'un abri normal contre cette Frappe.

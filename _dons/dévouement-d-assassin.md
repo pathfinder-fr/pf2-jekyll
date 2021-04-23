@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/assassin-dedication.json
 layout: dons
 ---
-Vous vous êtes entraîné à assassiner vos ennemis et vous le faites avec ténacité et précision. Vous obtenez l'activité [Marquer pour mort](../actions/marquer-pour-mort.md).
+Vous vous êtes entraîné à assassiner vos ennemis et vous le faites avec ténacité et précision. Vous obtenez l'activité [Marquer pour mort](../actions/marquer-pour-mort.html).
 
 **Spécial** Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons d'assassin.

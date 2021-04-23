@@ -12,4 +12,4 @@ typeFr: Action Gratuite
 ---
 **Fréquence** une fois toutes les 10 minutes
 
-Vous observez et évaluez votre environnement très rapidement. Vous [Vous souvenez](se-souvenir-arcanes.md), [Fouillez](chercher.md) ou [Deviner les intentions](deviner-les-intentions.md).
+Vous observez et évaluez votre environnement très rapidement. Vous [Vous souvenez](se-souvenir-arcanes.html), [Fouillez](chercher.html) ou [Deviner les intentions](deviner-les-intentions.html).

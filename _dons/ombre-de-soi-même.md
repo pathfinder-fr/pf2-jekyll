@@ -10,8 +10,8 @@ layout: dons
 ---
 **Fréquence** Une fois par heure
 
-**Déclencheur** Vous réussissez à utiliser Discrétion pour vous [Cacher](../actions/se-cacher.md) et devenir [Caché](../conditions/caché.md) de tous vos adversaires actuels, ou utilisez Dicrétion pour [Être furtif](../actions/être-furtif.md) et devenir [Non détecté](../conditions/non-détecté.md) de tous vos adversaires actuels.
+**Déclencheur** Vous réussissez à utiliser Discrétion pour vous [Cacher](../actions/se-cacher.html) et devenir [Caché](../conditions/caché.html) de tous vos adversaires actuels, ou utilisez Dicrétion pour [Être furtif](../actions/être-furtif.html) et devenir [Non détecté](../conditions/non-détecté.html) de tous vos adversaires actuels.
 
-À l'aide d'un talent certain pour la tromperie, vous vous glissez hos de vue de vos adversaires si minutieusement que vous paraissez être autre part. Vous devenez [Invisible](../conditions/invisible.md) pendant 1 minute ou jusqu'à ce que vous entrepreniez une action hostile, en fonction de ce qui advient en premier.
+À l'aide d'un talent certain pour la tromperie, vous vous glissez hos de vue de vos adversaires si minutieusement que vous paraissez être autre part. Vous devenez [Invisible](../conditions/invisible.html) pendant 1 minute ou jusqu'à ce que vous entrepreniez une action hostile, en fonction de ce qui advient en premier.
 
 Choisissez un lieu dans les 3 m de vous. Jusqu'à ce que votre invisibilité cesse, vous semblez vous être caché à cet endroit pour quiconque essaie de vous trouver. Si celui qui vous cherche obtient la démonstration irréfutable que vous n'êtes pas caché à cet endroit, il ne pense plus que vous y êtes caché mais il ne découvre pas votre position actuelle.

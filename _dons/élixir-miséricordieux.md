@@ -12,4 +12,4 @@ layout: dons
 
 **Déclencheur** Vous fabriquez un élixir de vie à l’aide d’Alchimie rapide, qui est inférieur d’au moins 2 niveaux à votre niveau d’alchimie avancée
 
-Vous ajoutez une substance spéciale dans votre élixir qui calme le corps et l’esprit de celui qui le consomme. L’élixir de vie tente de contrer un effet de [terreur](../sorts/terreur.md) ou un effet causant l’état [paralysé](../sorts/paralysie.md).
+Vous ajoutez une substance spéciale dans votre élixir qui calme le corps et l’esprit de celui qui le consomme. L’élixir de vie tente de contrer un effet de [terreur](../sorts/terreur.html) ou un effet causant l’état [paralysé](../sorts/paralysie.html).

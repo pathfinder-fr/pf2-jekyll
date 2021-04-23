@@ -8,9 +8,9 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/never-tire.json
 layout: dons
 ---
-**Déclencheur** Vous devriez subir la condition [Fatigué](../conditions/fatigué.md)
+**Déclencheur** Vous devriez subir la condition [Fatigué](../conditions/fatigué.html)
 
-**Conditions** Vous êtes [Observé](../conditions/observé.md) par au moins trois créatures qui ne sont pas des ennemis
+**Conditions** Vous êtes [Observé](../conditions/observé.html) par au moins trois créatures qui ne sont pas des ennemis
 
 Tant que vous avez des spectateurs, vous pouvez continuer à vous produire. Enfin, vous le devez - vous avez une obligation envers vos fans !
 

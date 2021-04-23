@@ -10,6 +10,6 @@ layout: actions
 type: action
 typeFr: Action Unique
 ---
-Soit vous [Marchez rapidement](marcher-rapidement.md) deux fois, soit vous tentez un test d'Acrobaties (DD déterminé par le MJ, mais habituellement DD 20) pour vous balancer au bout d'une corde jusqu'à deux fois votre Vitesse.
+Soit vous [Marchez rapidement](marcher-rapidement.html) deux fois, soit vous tentez un test d'Acrobaties (DD déterminé par le MJ, mais habituellement DD 20) pour vous balancer au bout d'une corde jusqu'à deux fois votre Vitesse.
 
 Si vous êtes embarqué ou désembarqué d'un navire ou d'un véhicule similaire au cours de ce déplacement, vous pouvez porter une Frappe au corps-à-corps qui inflige un dé de dégâts d'arme supplémentaire.

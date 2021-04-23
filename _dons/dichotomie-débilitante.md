@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/debilitating-dichotomy.json
 layout: dons
 ---
-Vous pouvez donner aux autres des aperçus des impossibles conflits et du pouvoir non contrôlé qui court à travers votre corps. Vous apprenez le sort de révélation [Dichotomie débilitante](../sorts/dichotomie-débilitante.md). Augmentez le nombre de points de focalisation de votre réserve de focalisation de 1.
+Vous pouvez donner aux autres des aperçus des impossibles conflits et du pouvoir non contrôlé qui court à travers votre corps. Vous apprenez le sort de révélation [Dichotomie débilitante](../sorts/dichotomie-débilitante.html). Augmentez le nombre de points de focalisation de votre réserve de focalisation de 1.

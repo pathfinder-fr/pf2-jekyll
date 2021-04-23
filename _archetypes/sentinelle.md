@@ -14,10 +14,10 @@ Une armure procure une protection au combat solide et rassurante, et comme toute
 
 **Dons supplémentaires**
 
-- 10e [Armure sacrifiée](../dons/armure-sacrifiée.md) ;
--  16th [Interposition supérieure](../dons/interposition-supérieure.md)
+- 10e [Armure sacrifiée](../dons/armure-sacrifiée.html) ;
+-  16th [Interposition supérieure](../dons/interposition-supérieure.html)
 
-<h2 style="text-align: left;">[Dévouement de Sentinelle](../dons/dévouement-de-sentinelle.md) don 2
+<h2 style="text-align: left;">[Dévouement de Sentinelle](../dons/dévouement-de-sentinelle.html) don 2
 
 Vous vous êtes entraîné avec soin pour maximizer les qualités protectrices de votre armure.
 
@@ -25,29 +25,29 @@ Vous devenez qualifié avec les armures légères et les armures intermédiaires
 
 **Spécial** Vous ne pouvez choisir un autre don de dévouement avant d'avoir choisi deux autres dodons de l'archétype de Sentinelle.
 
-## [Peau d'acier](../dons/peau-d-acier.md) Don 4
+## [Peau d'acier](../dons/peau-d-acier.html) Don 4
 
 **Prérequis** qualifié en Survie, Dévouement de Sentinelle
 
 Vous portez votre armure comme une seconde peau. Vous pouvez vous reposer normalement lorsque vous portez une armure intermédiaire. Si vous êtes maître en armure lourde, vous pouvez aussi vous reposer en portant une armure lourde.
 
-## [Spécialiste de l'armure](../dons/spécialiste-de-l-armure.md) Don 6
+## [Spécialiste de l'armure](../dons/spécialiste-de-l-armure.html) Don 6
 
 **Prérequis** Dévouement de Sentinelle
 
 Vous vous êtes entraîné dur pour optimiser les qualités protectrices de votre armure. Vous obtenez les effets de spécialisation des armures intermédiaires et lourdes.
 
-## [Repousser avec l'armure](../dons/repousser-avec-l-armure.md) Don 8
+## [Repousser avec l'armure](../dons/repousser-avec-l-armure.html) Don 8
 
 **Prérequis** Dévouement de Sentinelle
 
-**Déclencheur** Un ennemi adjacent obtient un échec critique à un jet d'attaque pour vous [Frapper](../actions/frapper.md) avec une arme au corps-à-corps ou une attaque à mains nues.
+**Déclencheur** Un ennemi adjacent obtient un échec critique à un jet d'attaque pour vous [Frapper](../actions/frapper.html) avec une arme au corps-à-corps ou une attaque à mains nues.
 
 **Conditions** Vous portez une armure intermédiaire ou lourde.
 
-Vous repoussez les piètres attaques avec votre armure, rejetant votre adversaire en arrière. Faites un test d'Athlétisme pour [Pousser](../actions/pousser.md) l'adversaire déclencheur, même si vous n'avez pas de main libre. En cas de réussite, vous ne pouvez [Marcher rapidement](../actions/marcher-rapidement.md) pour suivre cet ennemi, puisque vous le rejetez avec le rebond de l'attaque et non pas en vous déplaçant physiquement vers lui.
+Vous repoussez les piètres attaques avec votre armure, rejetant votre adversaire en arrière. Faites un test d'Athlétisme pour [Pousser](../actions/pousser.html) l'adversaire déclencheur, même si vous n'avez pas de main libre. En cas de réussite, vous ne pouvez [Marcher rapidement](../actions/marcher-rapidement.html) pour suivre cet ennemi, puisque vous le rejetez avec le rebond de l'attaque et non pas en vous déplaçant physiquement vers lui.
 
-## [Rempart puissant](../dons/rempart-puissant.md) Don 10
+## [Rempart puissant](../dons/rempart-puissant.html) Don 10
 
 **Prérequis** Dévouement de Sentinelle
 

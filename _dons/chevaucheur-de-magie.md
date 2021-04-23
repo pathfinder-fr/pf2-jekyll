@@ -12,4 +12,4 @@ Votre peuple a utilisé une puissante magie pour voyager entre des mondes distan
 
 Lorsque vous êtes la cible d'un sort de téléportation qui transporte plus d'une personne, il peut affecter une personne supplémentaire au delà de sa limite normale choisie par le lanceur.
 
-De plus, lorsque vous êtes la cible d'un sort de [Téléportation](../sorts/téléportation.md), vous et les autres cibles n'arrivez pas à une distance de plus d'1,5 kilomètre de la destination, quelle que soit la distance parcourue.
+De plus, lorsque vous êtes la cible d'un sort de [Téléportation](../sorts/téléportation.html), vous et les autres cibles n'arrivez pas à une distance de plus d'1,5 kilomètre de la destination, quelle que soit la distance parcourue.

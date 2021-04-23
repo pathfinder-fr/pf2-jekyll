@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/brinesoul.json
 layout: dons
 ---
-L'héritage élémentaire de votre ancêtre affirme lui-même l'eau saumâtre, comme l'eau de mer l'océan. Vous obtenez la réaction [Saler la blessure](../actions/saler-les-blessures.md).
+L'héritage élémentaire de votre ancêtre affirme lui-même l'eau saumâtre, comme l'eau de mer l'océan. Vous obtenez la réaction [Saler la blessure](../actions/saler-les-blessures.html).

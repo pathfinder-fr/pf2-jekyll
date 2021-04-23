@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/ganzi-gaze.json
 layout: dons
 ---
-Vous avez des capacités sensorielles inhabituelles qui vous ont été transmises par vos ancêtres chaotiques. Vous obtenez [Vision nocturne](../capacités-ascendances/vision-nocturne.md). Si vous avez déjà vision nocturne, vous obtenez [Vision dans le noir](../capacités-ascendances/vision-dans-le-noir.md) à la place.
+Vous avez des capacités sensorielles inhabituelles qui vous ont été transmises par vos ancêtres chaotiques. Vous obtenez [Vision nocturne](../capacités-ascendances/vision-nocturne.html). Si vous avez déjà vision nocturne, vous obtenez [Vision dans le noir](../capacités-ascendances/vision-dans-le-noir.html) à la place.
 
 **Spécial** Vous pouvez choisir ce don une seconde fois pour obtenir Vision dans le noir en plus de vision nocturne.

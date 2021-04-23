@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/stealthy-companion.json
 layout: dons
 ---
-**Prérequis** [Camouflage](camouflage.md)
+**Prérequis** [Camouflage](camouflage.html)
 
 Vous avez dressé votre compagnon animal pour qu’il se fonde dans le décor. Votre compagnon animal bénéficie des avantages du don Camouflage. Si votre compagnon est un embusqueur spécialisé, son rang de maîtrise en Discrétion passe à maître (ou légendaire s’il était déjà maître).

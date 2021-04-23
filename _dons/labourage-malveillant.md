@@ -10,4 +10,4 @@ layout: dons
 ---
 **Conditions** Vous avez deux mians libres.
 
-Vos insctincts vous chantent une chanson pleine de malice et de malveillance et vous avez appris une astuce dévastatrice : viser les yeux. Vous faites une Frappe de griffe. Si vous touchez et infligez des dégâts, la cible est [Éblouie](../conditions/ébloui.md) pendant 1 round. Sur un coup critique, la cible est [Aveuglée](../conditions/aveuglé.md) à la place pendant 1 round et éblouie jusqu'à ce qu'eele récupère la totalité de ses points de vie.
+Vos insctincts vous chantent une chanson pleine de malice et de malveillance et vous avez appris une astuce dévastatrice : viser les yeux. Vous faites une Frappe de griffe. Si vous touchez et infligez des dégâts, la cible est [Éblouie](../conditions/ébloui.html) pendant 1 round. Sur un coup critique, la cible est [Aveuglée](../conditions/aveuglé.html) à la place pendant 1 round et éblouie jusqu'à ce qu'eele récupère la totalité de ses points de vie.

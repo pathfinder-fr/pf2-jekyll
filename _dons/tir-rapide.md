@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/quick-shot.json
 layout: dons
 ---
-Vous dégainez votre arc et attaquez dans le même mouvement. Vous [Intéragissez](../actions/interagir.md) pour tirer une arme du groupe des arcs qui est chargée ou qui possède rechargement 0, puis [Frappez](../actions/frapper.md) avec cet arc.
+Vous dégainez votre arc et attaquez dans le même mouvement. Vous [Intéragissez](../actions/interagir.html) pour tirer une arme du groupe des arcs qui est chargée ou qui possède rechargement 0, puis [Frappez](../actions/frapper.html) avec cet arc.

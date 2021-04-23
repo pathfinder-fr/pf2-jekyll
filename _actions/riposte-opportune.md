@@ -10,6 +10,6 @@ layout: actions
 type: reaction
 typeFr: Réaction
 ---
-**Déclencheur** Un ennemi situé à votre portée obtient un échec critique lors d’une [Frappe](frapper.md) contre vous.
+**Déclencheur** Un ennemi situé à votre portée obtient un échec critique lors d’une [Frappe](frapper.html) contre vous.
 
-Vous profitez de l’ouverture provoquée par l’échec de votre ennemi. Vous pouvez soit porter une Frappe de corps à corps contre l’ennemi déclencheur ou tenter de le [Désarmer](désarmer.md) de l’arme qu’il a utilisée pour sa Frappe.
+Vous profitez de l’ouverture provoquée par l’échec de votre ennemi. Vous pouvez soit porter une Frappe de corps à corps contre l’ennemi déclencheur ou tenter de le [Désarmer](désarmer.html) de l’arme qu’il a utilisée pour sa Frappe.

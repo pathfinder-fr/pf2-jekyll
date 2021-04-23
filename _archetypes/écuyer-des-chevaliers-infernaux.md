@@ -12,7 +12,7 @@ layout: archetypes
 
 Vous vous êtes présenté à une citadelle des Chevaliers infernaux afin de proposer votre candidature et devenir l’un de ces guerriers terrifiants. Vous pensez qu’il est nécessaire de forcer tous les êtres vivants à obéir à la loi et vous êtes parti à l’aventure pour prouver votre loyauté, votre discipline et votre courage. Un jour, vous passerez l’épreuve des Chevaliers infernaux et devrez battre un diable en combat singulier pour démontrer votre force et rejoindre leurs rangs. 
 
-## [Dévouement d'écuyer des chevaliers infernaux](../dons/dévouement-d-écuyer-des-chevaliers-infernaux.md) Don 2
+## [Dévouement d'écuyer des chevaliers infernaux](../dons/dévouement-d-écuyer-des-chevaliers-infernaux.html) Don 2
 
 **Prérequis** membre de l’ordre des Chevaliers infernaux, qualifié dans le port d’armures lourdes et le maniement de l’arme favorite de votre ordre
 
@@ -22,7 +22,7 @@ Votre formation de Chevalier infernal vous enseigne à vous faire obéir par la 
 
 **Spécial** Hormis des dons de dévouement d’un grade supérieur au sein de l’ordre des Chevaliers infernaux, vous ne pouvez pas choisir un autre don de dévouement avant d’avoir gagné deux autres dons de l’archétype écuyer des Chevaliers infernaux.
 
-## [Fervent écuyer](../dons/fervent-écuyer.md) Don 4
+## [Fervent écuyer](../dons/fervent-écuyer.html) Don 4
 
 **Prérequis** Dévouement de l'Écuyer des Chevaliers infernaux
 
@@ -30,7 +30,7 @@ Vous avez été formé pour résister aux manipulations des fiélons et votre di
 
 Si un effet mental est censé vous contraindre à agir de manière à violer les principes de l’ordre des Chevaliers infernaux (déterminés par le MJ), vous pouvez tenter de vous libérer de cet effet par une réaction déclenchée par l’ordre concerné et vous pouvez effectuer un nouveau jet de Volonté contre cet effet. Vous ne pouvez effectuer ce nouveau jet qu’une seule fois par effet, même si vous êtes forcé à violer les principes de votre ordre plusieurs fois.
 
-## [Certitude diabolique](../dons/certitude-diabolique.md) Don 4
+## [Certitude diabolique](../dons/certitude-diabolique.html) Don 4
 
 **Prérequis** Dévouement de l'Écuyer des Chevaliers infernaux
 
@@ -38,31 +38,31 @@ Si un effet mental est censé vous contraindre à agir de manière à violer les
 
 Votre formation de Chevalier infernal a gravé dans votre esprit d’innombrables informations détaillées à propos des habitants des Enfers. Tentez une action Se souvenir sur un diable que vous observez. Si vous obtenez un échec critique sur ce jet, il se transforme en simple échec.
 
-## [Mortification](../dons/mortification.md) Don 4
+## [Mortification](../dons/mortification.html) Don 4
 
 **Prérequis** Dévouement de l'Écuyer des Chevaliers infernaux
 
 Vos jugements ont préparé votre corps aux punitions physiques. Choisissez un type de dégâts (contondants, perforants ou tranchants) selon la nature de vos jugements physiques. Vous gagnez une résistante égale à votre nombre de dons d’archétype d’écuyer des Chevaliers infernaux et des autres archétypes de Chevalier infernal contre le type de dégâts choisi.
 
-## [Mobilité de l'Écuyer](../dons/mobilité-de-l-écuyer.md) Don 8
+## [Mobilité de l'Écuyer](../dons/mobilité-de-l-écuyer.html) Don 8
 
 **Prérequis** expert en armure lourde, Dévouement d'Écuyer des Chevaliers infernaux
 
 Vous avez appris à vous déplacer de la meilleure façon possible en armure lourde. Si vous répondez aux conditions de Force, vous pouvez réduire de 3 m votre malus de Déplacement (au lieu de 1,5 m) lorsque vous portez une armure lourde. Cela permet généralement d’annuler le malus. Si vous êtes un nain et que vous possédez le don <a class="entity-link" data-pack="pf2e.feats-srd" data-id="C1R4wd6G46CAVIn7" draggable="true">Fer allégé</a>, vous pouvez augmenter votre Vitesse de 1,5 m.
 
-## [Entraînement de l'Ordre](../dons/entraînement-de-l-ordre.md) Don 8
+## [Entraînement de l'Ordre](../dons/entraînement-de-l-ordre.html) Don 8
 
 **Prérequis** Dévouement d'Écuyer Chevalier infernal
 
 Vous obtenez le bénéfice inférieur de l'Ordre de Chevalier infernal auquel vous appartenez.
 
-## [Entraînement de l'Ordre avancé](../dons/entraînement-de-l-ordre-avancé.md) Don 12
+## [Entraînement de l'Ordre avancé](../dons/entraînement-de-l-ordre-avancé.html) Don 12
 
 **Prérequis** Dévouement d'Écuyer des Chevaliers infernaux ; Dévouement de Chevalier infernal ou Dévouement de Signifer
 
 Vous obtenez le bénéfice supérieur de l'Ordre de Chevalier infernal auquel vous appartenez.
 
-## [Entraînement croisé de l'ordre de Chevalier infernal](../dons/entraînement-croisé-de-l-ordre-de-chevalier-infernal.md) Don 12
+## [Entraînement croisé de l'ordre de Chevalier infernal](../dons/entraînement-croisé-de-l-ordre-de-chevalier-infernal.html) Don 12
 
 **Prérequis** Dévouement d'Écuyer des Chevaliers infernaux ; Dévouement de Chevalier infernal ou Dévouement du Signifer
 

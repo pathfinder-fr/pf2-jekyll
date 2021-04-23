@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/persistent-creation.json
 layout: dons
 ---
-Vous pouvez lancer [Création](../sorts/création.md) comme un sort inné à volonté, choisissant s'il est arcanique ou primordial à chaque fois. L'objet créé dure jusqu'à ce que vous passiez 1 heure sans être dans son voisinage immédiat ou jusqu'à ce qu'il soit détruit. De tels objets sont appelés des créations persistantes. Si vous lancez *Création* de nouveau, toute création persistante que vous avez précédemment créée avec le sort se désintègre immédiatement.
+Vous pouvez lancer [Création](../sorts/création.html) comme un sort inné à volonté, choisissant s'il est arcanique ou primordial à chaque fois. L'objet créé dure jusqu'à ce que vous passiez 1 heure sans être dans son voisinage immédiat ou jusqu'à ce qu'il soit détruit. De tels objets sont appelés des créations persistantes. Si vous lancez *Création* de nouveau, toute création persistante que vous avez précédemment créée avec le sort se désintègre immédiatement.

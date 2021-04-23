@@ -10,6 +10,6 @@ layout: actions
 type: free
 typeFr: Action Gratuite
 ---
-**Déclencheur** Vous utilisez l'action [Rage](rage.md) lors de votre tour.
+**Déclencheur** Vous utilisez l'action [Rage](rage.html) lors de votre tour.
 
 Utilisez une action qui a le trait rage. Alternativement, vous pouvez augmenter le nombre d’actions déclenchant ce pouvoir de rage à 2 afin d’utiliser un pouvoir qui requiert 2 actions et possède le trait rage.

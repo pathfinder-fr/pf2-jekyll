@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous êtes si suspicieux à l'égard de qui vous rencontrez que vous conservez des notes mentales sur la manière de les défaire — même vos propres alliés.
 
-Après avoir interagit avec une créature pendant au moins 1 minute, vous [Suivre une piste](../actions/suivre-une-piste.md) automatiquement avec cette créature comme sujet. Vous pouvez avoir n'importe quel nombre de pistes au même moment et lorsque vous Poursuivez une piste encore, vous n'abandonnez aucun de ces sujets automatiques.
+Après avoir interagit avec une créature pendant au moins 1 minute, vous [Suivre une piste](../actions/suivre-une-piste.html) automatiquement avec cette créature comme sujet. Vous pouvez avoir n'importe quel nombre de pistes au même moment et lorsque vous Poursuivez une piste encore, vous n'abandonnez aucun de ces sujets automatiques.

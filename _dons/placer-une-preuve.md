@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous pouvez placer un unique objet que vous tenez d'encombrement léger ou négligeable sur une personne sans qu'elle le remarque en réussissant un test de Vol contre son DD de Perception.
 
-Si vous avez le [trafic de roublard : voyou](../capacité-classe/trafic-de-roublard-:-voyou.md), vous pouvez le faire par une action libre quand vous réussissez à [Pousser](../actions/pousser.md) une cible.
+Si vous avez le [trafic de roublard : voyou](../capacité-classe/trafic-de-roublard-:-voyou.html), vous pouvez le faire par une action libre quand vous réussissez à [Pousser](../actions/pousser.html) une cible.

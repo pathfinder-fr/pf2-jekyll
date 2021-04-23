@@ -16,4 +16,4 @@ La pierre de ka vous donne un bonus d’objet de +1 aux jets de sauvegarde contr
 
 **Fréquence** chaque jour, un nombre de fois égal au nombre de dons que vous possédez grâce à l’archétype de monolithe vivant
 
-**Effet** Vous lancez [Agrandissement](../sorts/agrandissement.md) sur vous-même ou vous utilisez un autre pouvoir activable offert par un don de monolithe vivant obtenu ultérieurement.
+**Effet** Vous lancez [Agrandissement](../sorts/agrandissement.html) sur vous-même ou vous utilisez un autre pouvoir activable offert par un don de monolithe vivant obtenu ultérieurement.

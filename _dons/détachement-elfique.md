@@ -10,6 +10,6 @@ layout: dons
 ---
 Quel que soit le soin que vous puissiez prendre d'eux, vous êtes venu à accepter la nature éphémère des non elfes et cela rend leurs menaces moins problématiques.
 
-Si un non elfe obtient un échec pour vous [Contraindre](../actions/contraindre.md) en utilisant Intimidation, il obtient un échec critique à la place (et ainsi ne peut plus tenter de vous contraindre de nouveau pendant 1 semaine).
+Si un non elfe obtient un échec pour vous [Contraindre](../actions/contraindre.html) en utilisant Intimidation, il obtient un échec critique à la place (et ainsi ne peut plus tenter de vous contraindre de nouveau pendant 1 semaine).
 
-Lorsqu'un non elfe tente de vous [Démoraliser](../actions/démoraliser.md), vous êtes temporairement immunisé pendant 1 journée, au lieu de 10 minutes.
+Lorsqu'un non elfe tente de vous [Démoraliser](../actions/démoraliser.html), vous êtes temporairement immunisé pendant 1 journée, au lieu de 10 minutes.

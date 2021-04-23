@@ -10,6 +10,6 @@ layout: dons
 ---
 **Fréquence** une fois par heure
 
-**Déclencheur** Vous échouez à un test contre un piège, tel qu'un test de Vol pour [Désamorcer le piège](../actions/désamorcer-un-dispositif.md) ou un jet de Réflexes pour en éviter les effets.
+**Déclencheur** Vous échouez à un test contre un piège, tel qu'un test de Vol pour [Désamorcer le piège](../actions/désamorcer-un-dispositif.html) ou un jet de Réflexes pour en éviter les effets.
 
 Vous êtes plus que simplement compétent ; votre volonté de trouver les secrets du passé se manifeste comme un étrange forme de chance. Relancez le test manqué et utilisez le nouveau résultat.

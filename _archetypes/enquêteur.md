@@ -12,29 +12,29 @@ layout: archetypes
 
 Vous avez développé un œil affûté pour enquêter sur les mystères.
 
-<h2 style="text-align: left;">[Dévouement d'enquêteur](../dons/dévouement-d-enquêteur.md) Don 2
+<h2 style="text-align: left;">[Dévouement d'enquêteur](../dons/dévouement-d-enquêteur.html) Don 2
 
 **Prérequis** Intelligence 14
 
-vous obtenez la capacité de classe [Sur l'affaire](../capacité-classe/sur-l-affaire.md), qui vous accorde à la fois l'activité [Suivre une piste](../actions/suivre-une-piste.md) et la réaction [Partager les indices](../actions/partager-les-indices.md). Vous devenez qualifié en Société et une autre compétence de votre choix. Si vous étiez déjà qualifié en Société, vous devenez qualifié en une compétence supplémentaire de votre choix. Vous devenez qualifié en DD de classe d'Enquêteur.
+vous obtenez la capacité de classe [Sur l'affaire](../capacité-classe/sur-l-affaire.html), qui vous accorde à la fois l'activité [Suivre une piste](../actions/suivre-une-piste.html) et la réaction [Partager les indices](../actions/partager-les-indices.html). Vous devenez qualifié en Société et une autre compétence de votre choix. Si vous étiez déjà qualifié en Société, vous devenez qualifié en une compétence supplémentaire de votre choix. Vous devenez qualifié en DD de classe d'Enquêteur.
 
 **Spécial** Vous ne pouvez pas choisir un autre don de dévouement tant que vous n'avez pas choisi deux autres dons de l'archétype d'enquêteur.
 
-## [Déduction basique](../dons/déduction-basique.md) Don 4
+## [Déduction basique](../dons/déduction-basique.html) Don 4
 
 **Prérequis** Dévouement d'enquêteur
 
 Vous obtenez un don d'enquêteur de niveau 1 ou 2 de votre choix.
 
-## [Stratagème d'Enquêteur](../dons/stratagème-d-enquêteur.md) Don 4
+## [Stratagème d'Enquêteur](../dons/stratagème-d-enquêteur.html) Don 4
 
 **Prérequis** Dévouement d'enquêteur
 
-Vous simulez les combats dans votre tête, vous permettant de [Frapper](../actions/frapper.md) au bon moment. Vous obtenez l'action [Concevoir un stratagème](../actions/concevoir-un-stratagème.md) ; quoi qu'il en soit, lorsque vous substituez son résultat à votre jet d'attaque, vous ne pouvez utiliser votre modificateur d'Intelligence au lieu de votre modificateur de Force ou de Dextérité.
+Vous simulez les combats dans votre tête, vous permettant de [Frapper](../actions/frapper.html) au bon moment. Vous obtenez l'action [Concevoir un stratagème](../actions/concevoir-un-stratagème.html) ; quoi qu'il en soit, lorsque vous substituez son résultat à votre jet d'attaque, vous ne pouvez utiliser votre modificateur d'Intelligence au lieu de votre modificateur de Force ou de Dextérité.
 
-Vous ne pouvez pas davantage utiliser votre modificateur d'Intelligence sur d'autres jets provenant de capacités qui sont une extension de Concevoir un Stratagème, tel que le don [Stratège athlétique](../dons/stratège-athlétique.md).
+Vous ne pouvez pas davantage utiliser votre modificateur d'Intelligence sur d'autres jets provenant de capacités qui sont une extension de Concevoir un Stratagème, tel que le don [Stratège athlétique](../dons/stratège-athlétique.html).
 
-## @[Déduction avancé](../dons/déduction-avancée.md)} Don 6
+## @[Déduction avancé](../dons/déduction-avancée.html)} Don 6
 
 **Prérequis** Déduction basique
 
@@ -42,13 +42,13 @@ Vous obtenez un don d'enquêteur. Pour les besoin de remplir ses prérequis, vot
 
 **Spécial** Vous pouvez choisir ce don plus d'une fois. Chaque fois que vous le choisissez, vous obtenez un autre don d'enquêteur.
 
-## [Souvenirs affûtés](../dons/souvenirs-affûtés.md) Don 6
+## [Souvenirs affûtés](../dons/souvenirs-affûtés.html) Don 6
 
 **Prérequis** Dévouement d'enquêteur
 
-Vous pouvez vous souvenir de toutes sortes d'information. Vous obtenez la capacité de classe [Souvenirs affûtés](../capacité-classe/souvenirs-affûtés.md).
+Vous pouvez vous souvenir de toutes sortes d'information. Vous obtenez la capacité de classe [Souvenirs affûtés](../capacité-classe/souvenirs-affûtés.html).
 
-## [Maîtrise des compétences (Enquêteur)](../dons/maîtrise-des-compétences-enquêteur.md) Don 10
+## [Maîtrise des compétences (Enquêteur)](../dons/maîtrise-des-compétences-enquêteur.html) Don 10
 
 **Prérequis** Dévouement de l'enquêteur, qualifié dans au moins une compétence et expert dans au moins une autre
 
@@ -56,7 +56,7 @@ Augmentez le rang de maîtrise de l’une de vos compétences d’expert à maî
 
 **Spécial** Vous pouvez sélectionner ce don jusqu’à cinq fois.
 
-## [Dénicheur maître (Enquêteur)](../dons/dénicheur-maître-enquêteur.md) Don 12
+## [Dénicheur maître (Enquêteur)](../dons/dénicheur-maître-enquêteur.html) Don 12
 
 **Prérequis** Dévouement de l'enquêteur, expert en Perception
 

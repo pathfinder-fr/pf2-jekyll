@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous avez appris à masquer les auras magiques de votre équipement. Au cours de vos préparatifs quotidiens, vous camouflez soigneusement n'importe lequel de votre objets magiques pour qu'il semble ordinaire. Les objets maquillés de cette manière le restent jusqu'à vos prochains préparatifs.
 
-Un lanceur de sort utilisant [Détection de la Magie](../sorts/détection-de-la-magie.md) ou [Lecture d'aura](../sorts/lecture-de-l-aura.md) doit réussir un test de Perception contre votre DD de Duperie pour percer votre masquage.
+Un lanceur de sort utilisant [Détection de la Magie](../sorts/détection-de-la-magie.html) ou [Lecture d'aura](../sorts/lecture-de-l-aura.html) doit réussir un test de Perception contre votre DD de Duperie pour percer votre masquage.

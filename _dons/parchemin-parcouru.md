@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous pouvez activer la magie d'un parchemin par une simple lecture en diagonale lorsque vous le tirez de votre ceinture.
 
-Vous [Intéragissez](../actions/interagir.md) pour dérouler un parchemin puis utilisez [Usurper un objet magique](usurpation-d-objet-magique.md) sur le parchemin.
+Vous [Intéragissez](../actions/interagir.html) pour dérouler un parchemin puis utilisez [Usurper un objet magique](usurpation-d-objet-magique.html) sur le parchemin.

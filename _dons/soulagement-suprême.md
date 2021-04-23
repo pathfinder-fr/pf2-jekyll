@@ -10,4 +10,4 @@ layout: dons
 ---
 **Prérequis** Soulagement
 
-Votre pouvoir de soulagement outrepasse les limites de la vie et de la mort. Quand vous utilisez Soulagement, vous pouvez lancer [imposition des mains](../sorts/imposition-des-mains.md) sur une créature morte depuis votre dernier tour pour la ramener à la vie. La cible revient à la vie avec 1 point de vie et devient [blessée](../conditions/blessé.md) 1. Vous ne pouvez pas utiliser Soulagement suprême si l’effet déclencheur était une [désintégration](../sorts/désintégration.md) ou un effet de mort.
+Votre pouvoir de soulagement outrepasse les limites de la vie et de la mort. Quand vous utilisez Soulagement, vous pouvez lancer [imposition des mains](../sorts/imposition-des-mains.html) sur une créature morte depuis votre dernier tour pour la ramener à la vie. La cible revient à la vie avec 1 point de vie et devient [blessée](../conditions/blessé.html) 1. Vous ne pouvez pas utiliser Soulagement suprême si l’effet déclencheur était une [désintégration](../sorts/désintégration.html) ou un effet de mort.

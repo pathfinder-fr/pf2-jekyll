@@ -16,4 +16,4 @@ Par exemple, vous pourriez regarder une valise de flacons de potions et apprendr
 
 Vous ne pouvez utiliser cette capacité que sur des objets qui peuvent typiquement être comptés ; ainsi vous ne pouvez pas le faire avec des grains de sable ou avec les étoiles dans le ciel, par exemple.
 
-De plus, lorsque vous essayez de [Déchiffrer un texte](../actions/déchiffrer-un-texte.md) qui est essentiellement numérique ou mathématique, vous obtenez un bonus de circonstances de +2 à votre test.
+De plus, lorsque vous essayez de [Déchiffrer un texte](../actions/déchiffrer-un-texte.html) qui est essentiellement numérique ou mathématique, vous obtenez un bonus de circonstances de +2 à votre test.

@@ -18,4 +18,4 @@ Vous repoussez un adversaire loin de vous. Effectuez un test d’<span data-pf2-
 
 **Succès** Vous repoussez votre adversaire de 1,50 m. Vous pouvez Marcher rapidement après ça, mais votre déplacement doit être aussi long et doit se faire dans la même direction.
 
-**Échec critique** Vous perdez l'équilibre et tombez [À terre](../conditions/à-terre.md).
+**Échec critique** Vous perdez l'équilibre et tombez [À terre](../conditions/à-terre.html).

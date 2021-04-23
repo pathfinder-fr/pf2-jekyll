@@ -422,11 +422,11 @@ public static string CleanupDescription(string description, out bool hasErrors)
 
         if (CurrentGroup == dataGroup)
         {
-            return $"[{text}]({frName}.md)";
+            return $"[{text}]({frName}.html)";
         }
         else
         {
-            return $"[{text}](../{groupFolder}/{frName}.md)";
+            return $"[{text}](../{groupFolder}/{frName}.html)";
         }
     }
 }

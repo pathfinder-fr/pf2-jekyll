@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous êtes parmi les plus communs des changelins - ceux nés d'une guenaude verte - et un oeil vert vif marque cette parenté. La nature manipulatrice de votre mère naturelle et sa voix polyvalente vous donne l'avantage pour duper les autres.
 
-Vous obtenez le don de compétence [Menteur charismatique](menteur-charismatique.md). Si vous lancez un test de Duperie pour déterminer l'initiative, les adversaires dans cette rencontre qui n'ont pas agi avant vous sont [Pris au dépourvu](../conditions/pris-au-dépourvu.md) pour ce qui vous concerne.
+Vous obtenez le don de compétence [Menteur charismatique](menteur-charismatique.html). Si vous lancez un test de Duperie pour déterminer l'initiative, les adversaires dans cette rencontre qui n'ont pas agi avant vous sont [Pris au dépourvu](../conditions/pris-au-dépourvu.html) pour ce qui vous concerne.

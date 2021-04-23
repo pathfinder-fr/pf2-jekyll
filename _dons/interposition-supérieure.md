@@ -8,7 +8,7 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/greater-interpose.json
 layout: dons
 ---
-**Prérequis** [Armure sacrifiée](armure-sacrifiée.md)
+**Prérequis** [Armure sacrifiée](armure-sacrifiée.html)
 
 Votre grace divine vous permet d'éviter les coups lorsque vous ne pourriez pas autrement.
 

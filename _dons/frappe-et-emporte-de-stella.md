@@ -10,4 +10,4 @@ layout: dons
 ---
 **Conditions** Vous maniez une arme au corps à corps perçante ou tranchante.
 
-Vous foncez vers votre opposant, cherchant à le poignarder et à couper les cordons de leur bourse en un unique mouvement. [Marchez rapidement](../actions/marcher-rapidement.md) jusqu'à atteindre votre Vitesse de déplacement ; ce mouvement ne provoque pas de réactions déclenchées par le déplacement. À tout moment durant ce déplacement, vous pouvez [Frapper](../actions/frapper.md) un adversaire à portée. Si cette Frappe est réussie, vous pouvez faire un test de Vol pour voler la cible.
+Vous foncez vers votre opposant, cherchant à le poignarder et à couper les cordons de leur bourse en un unique mouvement. [Marchez rapidement](../actions/marcher-rapidement.html) jusqu'à atteindre votre Vitesse de déplacement ; ce mouvement ne provoque pas de réactions déclenchées par le déplacement. À tout moment durant ce déplacement, vous pouvez [Frapper](../actions/frapper.html) un adversaire à portée. Si cette Frappe est réussie, vous pouvez faire un test de Vol pour voler la cible.

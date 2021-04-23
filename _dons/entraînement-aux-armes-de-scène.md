@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/performative-weapons-training.json
 layout: dons
 ---
-Vous êtes compétent avec les armes qui en jettent. Vous êtes qualifié avec le [bo](../équipements/bô.md), la [cape de duel](../équipements/cape-de-duel.md), la [canne-épée](../équipements/canne-épée.md), la [chaine cloutée](../équipements/chaîne-cloutée.md) et le [fouet](../équipements/fouet.md).
+Vous êtes compétent avec les armes qui en jettent. Vous êtes qualifié avec le [bo](../équipements/bô.html), la [cape de duel](../équipements/cape-de-duel.html), la [canne-épée](../équipements/canne-épée.html), la [chaine cloutée](../équipements/chaîne-cloutée.html) et le [fouet](../équipements/fouet.html).
 
 Lorsqu'une capacité de classe vous accorderait une maîtrise experte ou supérieure avec une arme ou des armes données, vous obtenez également cette maîtrise avec les armes indiquées.

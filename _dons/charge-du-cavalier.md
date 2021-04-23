@@ -10,4 +10,4 @@ layout: dons
 ---
 **Conditions** Vous êtes sur le dos de votre monture.
 
-Vous [Dirigez un animal](../actions/diriger-un-animal.md) pour commander à votre monture de [Marcher rapidement](../actions/marcher-rapidement.md) deux fois. À tout moment durant ce déplacement, vous pouvez [Frapper](../actions/frapper.md) un ennemi à portée ou dans le premier facteur de portée d'une arme à distance. Vous obtenez un bonus de circonstances de +1 à votre jet d'attaque.
+Vous [Dirigez un animal](../actions/diriger-un-animal.html) pour commander à votre monture de [Marcher rapidement](../actions/marcher-rapidement.html) deux fois. À tout moment durant ce déplacement, vous pouvez [Frapper](../actions/frapper.html) un ennemi à portée ou dans le premier facteur de portée d'une arme à distance. Vous obtenez un bonus de circonstances de +1 à votre jet d'attaque.

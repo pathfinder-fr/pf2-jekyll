@@ -10,4 +10,4 @@ layout: dons
 ---
 Vos acrobaties prennent votre ennemi au dépourvu.
 
-Lorsque vous réussissez un [Déplacement acrobatique](../actions/déplacement-acrobatique.md), l'ennemi contre lequel vous avez réussi est [Pris au dépourvu](../conditions/pris-au-dépourvu.md) contre la prochaine attaque que vous lui portez avant la fin de votre tour.
+Lorsque vous réussissez un [Déplacement acrobatique](../actions/déplacement-acrobatique.html), l'ennemi contre lequel vous avez réussi est [Pris au dépourvu](../conditions/pris-au-dépourvu.html) contre la prochaine attaque que vous lui portez avant la fin de votre tour.

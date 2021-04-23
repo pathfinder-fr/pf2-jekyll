@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/genie-weapon-flourish.json
 layout: dons
 ---
-Lorsque vous obtenez un coup critique en utilisant une [Corsèque](../équipements/corsèque.md), un [Cimeterre](../équipements/cimeterre.md), un [Cimeterre à deux mains](../équipements/cimeterre-à-deux-mains.md) ou un [Trident](../équipements/trident.md) ou une arme de Génie, vous appliquez l'effet de critique spécialisé de l'arme.
+Lorsque vous obtenez un coup critique en utilisant une [Corsèque](../équipements/corsèque.html), un [Cimeterre](../équipements/cimeterre.html), un [Cimeterre à deux mains](../équipements/cimeterre-à-deux-mains.html) ou un [Trident](../équipements/trident.html) ou une arme de Génie, vous appliquez l'effet de critique spécialisé de l'arme.

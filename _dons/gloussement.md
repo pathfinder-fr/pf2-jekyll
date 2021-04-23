@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/cackle.json
 layout: dons
 ---
-Vous pouvez étendre un de vos sorts d'un brusque éclat de rire. Vous apprenez le maléfice [Gloussement](../sorts/gloussement.md). Augmentez le nombre de points de focalisation de votre réserve de focalisation de 1.
+Vous pouvez étendre un de vos sorts d'un brusque éclat de rire. Vous apprenez le maléfice [Gloussement](../sorts/gloussement.html). Augmentez le nombre de points de focalisation de votre réserve de focalisation de 1.

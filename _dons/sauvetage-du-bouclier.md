@@ -10,6 +10,6 @@ layout: dons
 ---
 Vous pouvez sauver votre bouclier de la destruction totale, même après une attaque dévastatrice.
 
-Si un bouclier devrait être détruit à cause des dégâts subis durant votre [Blocage au bouclier](blocage-au-bouclier.md), le bouclier reste intact avec 1 Point de vie à la place.
+Si un bouclier devrait être détruit à cause des dégâts subis durant votre [Blocage au bouclier](blocage-au-bouclier.html), le bouclier reste intact avec 1 Point de vie à la place.
 
 Sa construction est affaiblie jusqu'à ce que vous preniez le temps de le réparer, vous empêchant d'utiliser Sauvetage au bouclier sur le même bouclier jusqu'à vos prochains préparatifs quotidiens.

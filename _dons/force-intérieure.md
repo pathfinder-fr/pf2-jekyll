@@ -10,4 +10,4 @@ layout: dons
 ---
 Votre force est une part de votre rage, tant que votre colère persiste, vous pouvez rassembler votre force et votre rage pour franchir toute sorte d'affaiblissement.
 
-Vous réduisez la valeur de votre condition [Affaibli](../conditions/affaibli.md) de 1.
+Vous réduisez la valeur de votre condition [Affaibli](../conditions/affaibli.html) de 1.

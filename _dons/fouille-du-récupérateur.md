@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous êtes toujours à l'affût de fournitures ou de choses de valeur.
 
-Chaque fois que vous utilisez l'action [Fouiller](../actions/chercher.md) à la recherche d'objets (incluant des portes secrètes et des pièges), vous pouvez rechercher ces objets à votre choix soit dans une émanation de 3 m autour de vous soit dans une zone adjacente de 4,5 m sur 4,5 m, au lieu simplement d'une unique zone adjacente de 3 m sur 3 m.
+Chaque fois que vous utilisez l'action [Fouiller](../actions/chercher.html) à la recherche d'objets (incluant des portes secrètes et des pièges), vous pouvez rechercher ces objets à votre choix soit dans une émanation de 3 m autour de vous soit dans une zone adjacente de 4,5 m sur 4,5 m, au lieu simplement d'une unique zone adjacente de 3 m sur 3 m.

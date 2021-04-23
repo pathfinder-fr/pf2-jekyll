@@ -23,7 +23,7 @@ Que vous éclatiez un tabouret de bar sur la tête de quelqu'un, que vous balanc
 **Tribunal** marteau, gobelet, plume, lutrin
 **Taverne** bouteille, chope, plateau de service, tabouret
 
-<h2 style="text-align: left;">[Dévouement d'improvisateur d'arme](../dons/dévouement-d-improvisateur-d-arme.md) Don 2
+<h2 style="text-align: left;">[Dévouement d'improvisateur d'arme](../dons/dévouement-d-improvisateur-d-arme.html) Don 2
 
 **Prérequis** qualifié avec toutes les armes de guerre
 
@@ -31,31 +31,31 @@ Vous ne subissez pas la pénalité habituelle de -2 aux jets d'attaque avec les 
 
 **Spécial** Vous ne pouvez choisir un autre don de dévouement tant que vous n'avez pas choisi deux autres dons de l'archétype d'improvisateur d'arme.
 
-## [Tabassage improvisé](../dons/tabassage-improvisé.md) Don 4
+## [Tabassage improvisé](../dons/tabassage-improvisé.html) Don 4
 
 **Prérequis** Dévouement d'improvisateur d'arme
 
 **Conditions** Vous maniez une arme improvisée
 
-Vous portez une [Frappe](../actions/frapper.md) avec votre arme improvisée. Vous obtenez un bonus d'objet de +1 au jet d'attaque et la Frappe inflige deux dés de dégâts d'arme si elle en devrait en infliger moins.
+Vous portez une [Frappe](../actions/frapper.html) avec votre arme improvisée. Vous obtenez un bonus d'objet de +1 au jet d'attaque et la Frappe inflige deux dés de dégâts d'arme si elle en devrait en infliger moins.
 
 Si l'attaque est un coup critique, en plus des effets du coup critique, l'arme improvisée se brise. Si l'objet possède une solidité plus grande que votre niveau ou s'il s'agit d'un artefact, d'un objet maudit ou d'un autre objet qui est difficile à détruire ou à casser, l'objet ne se casse pas et l'attaque est un coup normal au lieu d'un coup critique.
 
 Au niveau 12, votre bonus d'objet à l'attaque passe à +2 à la place de +1, la Frappe inflige trois dés de dégâts d'arme si elle devrait en infliger moins au lieu de deux.
 
-## [Frappe surprise](../dons/frappe-surprise.md) Don 4
+## [Frappe surprise](../dons/frappe-surprise.html) Don 4
 
 **Prérequis** Dévouement d'improvisateur d'arme
 
 Lorsque vous portez une <a class="entity-link" data-pack="pf2e.actionspf2e" data-id="VjxZFuUXrCU94MWR" draggable="true">Frappe</a> avec une arme improvisée contre une créature qui ne vous a pas vu faire une Frappe en utilisant une arme improvisée ou qui est autrement ignorante de votre compétence avec les armes improvisées, la créature est <a class="entity-link" data-pack="pf2e.conditionitems" data-id="AJh5ex99aV6VTggg" draggable="true"><i class="fas fa-book-open"></i>Prise au dépourvu</a> contre cette Frappe.
 
-## [Critique improvisé](../dons/critique-improvisé.md) Don 8
+## [Critique improvisé](../dons/critique-improvisé.html) Don 8
 
 **Prérequis** Dévouement d'improvisateur d'arme
 
 Vous pouvez appliquer les effets spécialisés des coups critiques aux armes improvisées que vous maniez. Pour chaque arme improvisée donnée, le MJ détermine l'effet de critique spécialisé qui est le plus approprié en fonction du type d'objet.
 
-## [Frappe expéditive](../dons/frappe-expéditive.md) Don 8
+## [Frappe expéditive](../dons/frappe-expéditive.html) Don 8
 
 **Prérequis** Dévouement d'improvisateur d'arme
 
@@ -63,9 +63,9 @@ Vous attrapez rapidement un objet proche puis attaquez avec, en le transformant 
 
 Vous attrapez rapidement un objet proche puis attaquez avec, en le transformant en une arme improvisée.
 
-Vous [Interagissez](../actions/interagir.md) Pour récupérer un objet proche que vous pourriez utiliser comme arme imrovisée. Il doit être situé au niveau de votre tronc, tel qu'une choppe sur une table, plutôt qu'un objet laissé sur le sol. Vous pouvez soit [Frapper](../actions/frapper.md),soit Frapper un [Tabassage improvisé](../dons/tabassage-improvisé.md) avec l'arme improvisée.
+Vous [Interagissez](../actions/interagir.html) Pour récupérer un objet proche que vous pourriez utiliser comme arme imrovisée. Il doit être situé au niveau de votre tronc, tel qu'une choppe sur une table, plutôt qu'un objet laissé sur le sol. Vous pouvez soit [Frapper](../actions/frapper.html),soit Frapper un [Tabassage improvisé](../dons/tabassage-improvisé.html) avec l'arme improvisée.
 
-## [Frappe fracassante](../dons/frappe-fracassante.md) Don 10
+## [Frappe fracassante](../dons/frappe-fracassante.html) Don 10
 
 **Prérequis** Tabassage improvisé
 

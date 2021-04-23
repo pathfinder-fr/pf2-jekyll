@@ -10,7 +10,7 @@ layout: dons
 ---
 **Fréquence** une fois par jour
 
-Vous considérez avec soin votre affaire et éliminez certains des détails. Lorsque vous [Suivez une piste](../actions/suivre-une-piste.md), vous pouvez passer 10 minutes au lieu d'une minute pour poser deux questions au MJ lorsque vous terminez cette activité.
+Vous considérez avec soin votre affaire et éliminez certains des détails. Lorsque vous [Suivez une piste](../actions/suivre-une-piste.html), vous pouvez passer 10 minutes au lieu d'une minute pour poser deux questions au MJ lorsque vous terminez cette activité.
 
 Le MJ doit répondre loyalement par “oui” ou “non” mais si la réponse devrait être une fausse piste ou n'aurait pas d'application pratique pour votre enquête, le MJ peut répondre “immatériel.” Vous ne pouvez pas utiliser *Quiafaitçà ?* plus d'une fois pour la même piste, même au sur plusieurs jours différents.
 

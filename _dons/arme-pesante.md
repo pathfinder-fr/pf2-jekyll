@@ -10,4 +10,4 @@ layout: dons
 ---
 Votre expertise avec vos armes et votre engagement à mettre au tapis vos cibles vous accorde des pouvoirs magiques.
 
-Vous obtenez le sort de gardien [Arme pesante](../sorts/arme-pesante.md) et une réserve de points de focalisation de 1 point de focalisation.
+Vous obtenez le sort de gardien [Arme pesante](../sorts/arme-pesante.html) et une réserve de points de focalisation de 1 point de focalisation.

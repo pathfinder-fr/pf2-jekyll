@@ -12,7 +12,7 @@ layout: archetypes
 
 Que vous étudiez pour étendre vos propres ambitions ou simplement par fascination des subtilités du langage, votre manière avec les mots est hors pair.
 
-## [Dévouement du Linguiste](../dons/dévouement-du-linguiste.md) Don 2
+## [Dévouement du Linguiste](../dons/dévouement-du-linguiste.html) Don 2
 
 **Prérequis** Vous parlez au moins trois langues.
 
@@ -20,21 +20,21 @@ Vous avez étudié les langues et leurs développements. Vous devenez qualifié 
 
 **Spécial** Vous ne pouvez pas choisir un autre don de dévouement avant d'avoir choisi deux autres dons de l'archétype du Linguist.
 
-## [Chiffrage polyglotte](../dons/chiffrage-polyglotte.md) Don 4
+## [Chiffrage polyglotte](../dons/chiffrage-polyglotte.html) Don 4
 
 **Prérequis** Dévouement du Linguiste, expert en Société
 
-Vous utilisez plusieurs langues pour créer et casser des codes. Vous obtenez un bonus de circonstances de +1 pour [Déchiffrer un texte](../actions/déchiffrer-un-texte.md).
+Vous utilisez plusieurs langues pour créer et casser des codes. Vous obtenez un bonus de circonstances de +1 pour [Déchiffrer un texte](../actions/déchiffrer-un-texte.html).
 
 Si une autre créature tente de Déchiffrer un texte que vous avez encodé, ils subissent une pénalité de circonstance de -2 à moins qu'ils ne parlent toutes les langues que vous avez utilisé lorsque vous avez créer le texte.
 
-## [Entraînement phonétique](../dons/entraînement-phonétique.md) Don 4
+## [Entraînement phonétique](../dons/entraînement-phonétique.html) Don 4
 
 **Prérequis** Dévouement du Linguiste, expert en Société
 
 Vous pouvez prononcer et répéter des mots avec une exactitude proche de la perfection même si vous ne comprenez par leur signification et vous pouvez les mettre par écrit en alphabet phonétique qui vous permet ou une autre créature avec Entraînement phonétique de le lire plus tard. Même si les mots sont dans une langue avec des sons que vous ne pouvez pas prononcer, vous pouvez les transcrire fidèlement. Mémoriser des longues séquences de mots reste juste aussi difficile que cela l'est habituellement.
 
-## [Traduction simultanée](../dons/traduction-simultanée.md) Don 4
+## [Traduction simultanée](../dons/traduction-simultanée.html) Don 4
 
 **Prérequis** Dévouement du Linguiste
 
@@ -42,15 +42,15 @@ Vous pouvez prononcer et répéter des mots avec une exactitude proche de la per
 
 Vous traduisez les mots d'une créature, répétant leur message dans une langue différente que vous connaissez. Si les cibles de l'effet déclencheur parlent soit la langue originelle ou celle dans laquelle vous l'avez traduite, elles sont affectées.
 
-## [Analyser l'idiolecte](../dons/analyser-l-idiolecte.md) Don 6
+## [Analyser l'idiolecte](../dons/analyser-l-idiolecte.html) Don 6
 
 **Prérequis** Dévouement du Linguiste, expert en Duperie et en Société
 
 Vous décomposez l'idiolecte spécifique d'un individu, en mémorisant leurs manières de parler et leurs habitudes.
 
-Si vous intéragissez avec quelqu'un pendant au moins 10 minutes, lorsque vous essayez par la suite de [vous Déguiser](../actions/se-déguiser.md) en cet individu, vous obtenez un bonus de circonstances de +4 a vos tests de Duperie et à vos DD. Compte tenu de l'intense étude du personnage nécessaire, vous ne pouvez vous remémorer que d'un idiolecte au même moment.
+Si vous intéragissez avec quelqu'un pendant au moins 10 minutes, lorsque vous essayez par la suite de [vous Déguiser](../actions/se-déguiser.html) en cet individu, vous obtenez un bonus de circonstances de +4 a vos tests de Duperie et à vos DD. Compte tenu de l'intense étude du personnage nécessaire, vous ne pouvez vous remémorer que d'un idiolecte au même moment.
 
-## [Lire les signes distinctifs](../dons/lire-les-signes-distinctifs.md) Don 7
+## [Lire les signes distinctifs](../dons/lire-les-signes-distinctifs.html) Don 7
 
 **Prérequis** Dévouement du Linguiste, maître en Société
 
@@ -58,7 +58,7 @@ Toute communication est emplie de légers dits et signaux. Si vous intéragissez
 
 Une fois que vous avez glané un ou plus faits mineurs à propos d'une personne, vous pouvez alors incorporer ses maniérismes dans votre discours pour vous présenter vous-même d'une manière qu'elle pourrait trouver familière. Cela vous accorde un bonus de circonstances de +1 à vos tests de Diplomatie et de Duperie avec cette dernière.
 
-## [Ébauche de communication](../dons/ébauche-de-communication.md) Don 8
+## [Ébauche de communication](../dons/ébauche-de-communication.html) Don 8
 
 **Prérequis** Dévouement du Linguiste
 

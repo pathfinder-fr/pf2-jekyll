@@ -10,6 +10,6 @@ layout: dons
 ---
 Lorsque vous vous lâchez avec vos deux armes, vous ne laissez pas de place à la cible pour qu'elle puisse échapper à votre attaque.
 
-Lorsque vous utilisez [Double taille](double-taille.md), si vous ne touchez avec aucune de vos Frappes, choisissez une des deux armes et appliquez les effets d'une attaque réussie avec cette arme.
+Lorsque vous utilisez [Double taille](double-taille.html), si vous ne touchez avec aucune de vos Frappes, choisissez une des deux armes et appliquez les effets d'une attaque réussie avec cette arme.
 
 Vous ne pouvez pas choisir une arme si votre attaque avec cette arme a été un échec critique, ce qui signifie que vous manquez toujours complètement si les deux attaques étaient des échecs critiques.

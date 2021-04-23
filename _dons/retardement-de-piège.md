@@ -17,4 +17,4 @@ Vous pouvez bloquer le mécanisme du piège pour retarder ses effets. Vous tente
 
 **Échec** Aucun effet.
 
-**Échec critique** Vous êtes [Pris au dépourvu](../conditions/pris-au-dépourvu.md) jusqu’au début de votre prochain tour.
+**Échec critique** Vous êtes [Pris au dépourvu](../conditions/pris-au-dépourvu.html) jusqu’au début de votre prochain tour.

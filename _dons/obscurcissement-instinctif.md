@@ -12,4 +12,4 @@ layout: dons
 
 **Déclencheur** vous êtes attaqué par un adversaire.
 
-La magie en vous se manifeste sous la forme d'une réaction naturelle aux menaces. Vous obtenez les effets d' [Image miroir](../sorts/image-miroir.md) mais avec deux images au lieu de trois. La tradition de cette action correspond à la tradition des options de votre ascendance gnome.
+La magie en vous se manifeste sous la forme d'une réaction naturelle aux menaces. Vous obtenez les effets d' [Image miroir](../sorts/image-miroir.html) mais avec deux images au lieu de trois. La tradition de cette action correspond à la tradition des options de votre ascendance gnome.

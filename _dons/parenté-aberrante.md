@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/aberration-kinship.json
 layout: dons
 ---
-Les processus de pensée insondable que les aberrations inhumaines utilisent pour communiquer résonnent dans votre esprit. Vous pouvez lancer [Lien mental](../sorts/lien-mental.md) comme un sort inné occulte une fois par jour, mais vous ne pouvez cibler que des aberrations.
+Les processus de pensée insondable que les aberrations inhumaines utilisent pour communiquer résonnent dans votre esprit. Vous pouvez lancer [Lien mental](../sorts/lien-mental.html) comme un sort inné occulte une fois par jour, mais vous ne pouvez cibler que des aberrations.

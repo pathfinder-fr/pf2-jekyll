@@ -14,7 +14,7 @@ Vous murmurez une litanie de noms épouvantables, de prophéties et des descript
 
 Faites un test d'Occultisme et comparez le résultat au DD de Volonté d'un ennemi à 9 m ou au DD de Volonté de n'importe quel nombre d'ennemis dans les 9 m si vous êtes légendaire en Occultisme. Ces créatures sont ensuite temporairement immunisées pendant 24 heures.
 
-**Succès critique** La cible devient [Confuse](../conditions/confus.md) pendant 1 round et [Effrayée](../conditions/effrayé.md) 1.
+**Succès critique** La cible devient [Confuse](../conditions/confus.html) pendant 1 round et [Effrayée](../conditions/effrayé.html) 1.
 
 **Succès** La cible devient Effrayée 1.
 

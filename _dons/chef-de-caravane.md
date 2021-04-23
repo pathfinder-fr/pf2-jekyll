@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous savez comment tirer le plus gros effort de vos alliés sur la route.
 
-Lorsque vous vous [Empressez](../actions/s-empresser.md) dans un groupe pendant le mode d'exploration, votre groupe peut s'Empresser pendant aussi longtemps que le membre qui pourrait s'Empresser le plus longtemps s'il était seul, plus 20 minutes supplémentaires au delà de ce seuil.
+Lorsque vous vous [Empressez](../actions/s-empresser.html) dans un groupe pendant le mode d'exploration, votre groupe peut s'Empresser pendant aussi longtemps que le membre qui pourrait s'Empresser le plus longtemps s'il était seul, plus 20 minutes supplémentaires au delà de ce seuil.

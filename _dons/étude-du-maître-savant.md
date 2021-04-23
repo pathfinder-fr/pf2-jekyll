@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/loremaster-s-etude.json
 layout: dons
 ---
-Vous faites remonter par magie vos souvenirs à la surface pour vous en rappeler plus facilement. Vous apprenez le sort de composition [Étude du maître savant](../sorts/étude-du-maître-savant.md). Augmentez de 1 le nombre de points de focalisation de votre réserve.
+Vous faites remonter par magie vos souvenirs à la surface pour vous en rappeler plus facilement. Vous apprenez le sort de composition [Étude du maître savant](../sorts/étude-du-maître-savant.html). Augmentez de 1 le nombre de points de focalisation de votre réserve.

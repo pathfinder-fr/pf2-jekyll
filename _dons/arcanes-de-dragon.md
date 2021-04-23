@@ -14,13 +14,13 @@ Ajoutez les sorts accordés par le lignage draconique à votre liste de sorts ; 
 
 Ces sorts sont :
 
-    - [Bouclier](../sorts/bouclier.md),
-    - [Coup au but](../sorts/coup-au-but.md),
-    - [Résistance à l'énergie](../sorts/résistance-à-l-énergie.md),
-    - [Rapidité](../sorts/rapidité.md),
-    - [Immunité contre les sorts](../sorts/immunité-contre-les-sorts.md),
-    - [Mur chromatique](../sorts/mur-chromatique.md),
-    - [Forme de dragon](../sorts/forme-de-dragon.md),
-    - [Masque terrifiant](../sorts/masque-terrifiant.md),
-    - [Mur prismatique](../sorts/mur-prismatique.md) et
-    - [Présence écrasante](../sorts/présence-écrasante.md).
+    - [Bouclier](../sorts/bouclier.html),
+    - [Coup au but](../sorts/coup-au-but.html),
+    - [Résistance à l'énergie](../sorts/résistance-à-l-énergie.html),
+    - [Rapidité](../sorts/rapidité.html),
+    - [Immunité contre les sorts](../sorts/immunité-contre-les-sorts.html),
+    - [Mur chromatique](../sorts/mur-chromatique.html),
+    - [Forme de dragon](../sorts/forme-de-dragon.html),
+    - [Masque terrifiant](../sorts/masque-terrifiant.html),
+    - [Mur prismatique](../sorts/mur-prismatique.html) et
+    - [Présence écrasante](../sorts/présence-écrasante.html).

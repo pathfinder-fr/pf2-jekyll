@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous avez une profonde connection avec les royaumes célestes, vous permettant de convoquer un céleste allié.
 
-Une fois par jour, vous pouvez Lancer [Convocation de céleste](../sorts/convocation-de-céleste.md) comme un sort divin inné de niveau 5, mais le céleste que vous convoquez doit être de la même catégorie que celle de votre propre lignage, comme une créature ayant le trait ange si vous êtes de type ange.
+Une fois par jour, vous pouvez Lancer [Convocation de céleste](../sorts/convocation-de-céleste.html) comme un sort divin inné de niveau 5, mais le céleste que vous convoquez doit être de la même catégorie que celle de votre propre lignage, comme une créature ayant le trait ange si vous êtes de type ange.

@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous pouvez défendre votre compagnon au combat.
 
-Vous obtenez le sort de gardien [Peau magique](../sorts/peau-magique.md). Augmentez le nombre Points de focalisation de votre réserve de focalisation de 1.
+Vous obtenez le sort de gardien [Peau magique](../sorts/peau-magique.html). Augmentez le nombre Points de focalisation de votre réserve de focalisation de 1.

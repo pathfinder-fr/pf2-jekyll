@@ -10,4 +10,4 @@ layout: dons
 ---
 Lorsque vous grimpez, vous pouvez préparer la route pour que les autres vous suivent et vous pouvez assurer vos alliés pour éviter un désastre.
 
-Lorsque vos alliés tentent d'[Escalader](../actions/escalader.md) en suivant la route que vous avez tracée en utilisant l'activité d'exploration [Suivre l'expert](../actions/suivre-l-expert.md), en cas d'échec critique pour Escalader, vous pouvez tenter un test d'Athlétisme contre le même DD. Si vous réussissez, votre allié subit un échec au lieu d'un échec critique. Si vous obtenez aussi un échec critique, vous faites tous les deux l'expérience des conséquences de l'échec critique.
+Lorsque vos alliés tentent d'[Escalader](../actions/escalader.html) en suivant la route que vous avez tracée en utilisant l'activité d'exploration [Suivre l'expert](../actions/suivre-l-expert.html), en cas d'échec critique pour Escalader, vous pouvez tenter un test d'Athlétisme contre le même DD. Si vous réussissez, votre allié subit un échec au lieu d'un échec critique. Si vous obtenez aussi un échec critique, vous faites tous les deux l'expérience des conséquences de l'échec critique.

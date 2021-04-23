@@ -10,6 +10,6 @@ layout: dons
 ---
 **Déclencheur** Une créature à portée obtient un échec critique en effectuant une Frappe contre vous
 
-**Conditions** Vous bénéficiez des avantages de [Parade jumelée](parade-jumelée.md)
+**Conditions** Vous bénéficiez des avantages de [Parade jumelée](parade-jumelée.html)
 
-Après une parade judicieuse avec une arme, votre adversaire laisse une ouverture dans sa défense qui vous permet d’attaquer avec l’autre arme. Effectuez une Frappe au corps à corps ou une action [Désarmer](../actions/désarmer.md) contre l’adversaire déclencheur.
+Après une parade judicieuse avec une arme, votre adversaire laisse une ouverture dans sa défense qui vous permet d’attaquer avec l’autre arme. Effectuez une Frappe au corps à corps ou une action [Désarmer](../actions/désarmer.html) contre l’adversaire déclencheur.

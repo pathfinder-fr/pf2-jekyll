@@ -14,11 +14,11 @@ L'idéal d'un viking est de partir faire des raids par la mer et c'est ainsi que
 
 **Dons supplémentaires**
 
--  4e [Bouclier réactif](../dons/bouclier-réactif.md) ;
--  6e [Marche au bouclier](../dons/marche-au-bouclier.md) ;
--  10e [Blocage au bouclier éclair](../dons/blocage-au-bouclier-éclair.md)
+-  4e [Bouclier réactif](../dons/bouclier-réactif.html) ;
+-  6e [Marche au bouclier](../dons/marche-au-bouclier.html) ;
+-  10e [Blocage au bouclier éclair](../dons/blocage-au-bouclier-éclair.html)
 
-<h2 style="text-align: left;">[Dévouement de viking](../dons/dévouement-de-viking.md) Don 2
+<h2 style="text-align: left;">[Dévouement de viking](../dons/dévouement-de-viking.html) Don 2
 
 **Prérequis** qualifié en Athlétisme
 
@@ -26,39 +26,39 @@ Les vikings passent de longues périodes de temps en mer, bondissant seulement d
 
 Vous êtes qualifié en Connaissance de la navigation. Vous vous déplacez à travers l'eau en utilisant votre Vitesse, vous ignorez le terrain difficile résultant de l'eau peu profonde, comme celle de marais ou sur les plages.
 
-De plus, si vous obtenez un succès à votre test d'Athlétisme pour [Nager](../actions/nager.md), vous considérez qu'il s'agit d'un succès critique à la place.
+De plus, si vous obtenez un succès à votre test d'Athlétisme pour [Nager](../actions/nager.html), vous considérez qu'il s'agit d'un succès critique à la place.
 
 **Spécial** Vous ne pouvez choisir un autre don de dévouement avant d'avoir choisi deux autre dons de dévouement de l'archétype du Viking.
 
-## [Lancer en chargeant](../dons/lancer-en-chargeant.md) Don 4
+## [Lancer en chargeant](../dons/lancer-en-chargeant.html) Don 4
 
 **Prérequis** Dévouement de viking
 
-Vous portez une [Frappe](../actions/frapper.md) à distance avec une arme de jet que vous avez en main , [Marchez rapidement](../actions/marcher-rapidement.md) et alors [Interagissez](../actions/interagir.md) pour dégainer une autre arme.
+Vous portez une [Frappe](../actions/frapper.html) à distance avec une arme de jet que vous avez en main , [Marchez rapidement](../actions/marcher-rapidement.html) et alors [Interagissez](../actions/interagir.html) pour dégainer une autre arme.
 
-Si vous êtes [en Rage](../actions/rage.md), vous pouvez ajouter les dégâts supplémentaires que vous infligez avec les armes au corps-à-corps du fait d'être en rage à vos dégâts infligés avec l'arme de jet lancée.
+Si vous êtes [en Rage](../actions/rage.html), vous pouvez ajouter les dégâts supplémentaires que vous infligez avec les armes au corps-à-corps du fait d'être en rage à vos dégâts infligés avec l'arme de jet lancée.
 
-## [Familiarité avec les armes vikings](../dons/familiarité-avec-les-armes-vikings.md) Don 4
+## [Familiarité avec les armes vikings](../dons/familiarité-avec-les-armes-vikings.html) Don 4
 
 **Prérequis** Dévouement de viking
 
 Depuis l'enfance, vous avez été exposé aux armes traditionnelles des vikings et vous avez très tôt appris à les manier au combat. Désormais vous pouvez lancer des raids fièrement parmi vos camarades.
 
-Vous êtes qualifié avec la [Hache d'armes](../équipements/hache-d-armes.md), la [Hachette](../équipements/hachette.md), l'[Épée longue](../équipements/épée-longue.md) et l'[Épée courte](../équipements/épée-courte.md).
+Vous êtes qualifié avec la [Hache d'armes](../équipements/hache-d-armes.html), la [Hachette](../équipements/hachette.html), l'[Épée longue](../équipements/épée-longue.html) et l'[Épée courte](../équipements/épée-courte.html).
 
-De plus, vous obtenez la réaction [Blocage au bouclier](../dons/blocage-au-bouclier.md).
+De plus, vous obtenez la réaction [Blocage au bouclier](../dons/blocage-au-bouclier.html).
 
-## [Spécialiste des armes Vikings](../dons/spécialiste-des-armes-viking.md) Don 6
+## [Spécialiste des armes Vikings](../dons/spécialiste-des-armes-viking.html) Don 6
 
 **Prérequis** Familiarité avec les armes vikings
 
 Vous êtes plus habile avec les armes de votre peuple.
 
-Vous obtenez les effets des critiques de spécialisation de la [Hache d'armes](../équipements/hache-d-armes.md), de la [Hachette](../équipements/hachette.md), de l'[Épée longue](../équipements/épée-longue.md) et de l'[Épée courte](../équipements/épée-courte.md).
+Vous obtenez les effets des critiques de spécialisation de la [Hache d'armes](../équipements/hache-d-armes.html), de la [Hachette](../équipements/hachette.html), de l'[Épée longue](../équipements/épée-longue.html) et de l'[Épée courte](../équipements/épée-courte.html).
 
 Lorsque vous obtenez une capacité de classe qui accorde la maîtrise experte ou supérieure avec certaines armes, vous obtenez aussi ce rang de maîtrise avec les quatre armes ci-dessus.
 
-## [Second bouclier](../dons/second-bouclier.md) Don 6
+## [Second bouclier](../dons/second-bouclier.html) Don 6
 
 **Prérequis** Dévouement de Viking
 
@@ -66,6 +66,6 @@ Lorsque vous obtenez une capacité de classe qui accorde la maîtrise experte ou
 
 Vous êtes habitué à la casse de votre bouclier au milieu de la bataille et vous avez préparé à en avoir un autre ou à utiliser un objet à proximité comme substitut convenable pour vous défendre.
 
-Vous pouvez [Interagir](../actions/interagir.md) pour dégainer un bouclier sur votre personne ou un bouclier inemployé à proximité de votre allonge. S'il y a un objet à votre portée qui peut servir de bouclier improvisé - par exemple, une table ou une chaise - vous pouvez interagir pour l'utiliser dans le cadre de ce don. Le MJ apprécie si quelque chose peut être utilisée comme bouclier improvisé.
+Vous pouvez [Interagir](../actions/interagir.html) pour dégainer un bouclier sur votre personne ou un bouclier inemployé à proximité de votre allonge. S'il y a un objet à votre portée qui peut servir de bouclier improvisé - par exemple, une table ou une chaise - vous pouvez interagir pour l'utiliser dans le cadre de ce don. Le MJ apprécie si quelque chose peut être utilisée comme bouclier improvisé.
 
-Votre nouveau bouclier n'est pas levé jusqu'à ce que vous utilisiez l'action [Lever un bouclier](../actions/lever-un-bouclier.md) comme habituellement.
+Votre nouveau bouclier n'est pas levé jusqu'à ce que vous utilisiez l'action [Lever un bouclier](../actions/lever-un-bouclier.html) comme habituellement.

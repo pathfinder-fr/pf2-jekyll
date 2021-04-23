@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/elemental-eyes.json
 layout: dons
 ---
-Vous pouvez voir dans l'obscurité aussi aisément qu'un élémentaire. Vous obtenez [Vision dans le noir](../capacités-ascendances/vision-dans-le-noir.md).
+Vous pouvez voir dans l'obscurité aussi aisément qu'un élémentaire. Vous obtenez [Vision dans le noir](../capacités-ascendances/vision-dans-le-noir.html).
 
 **Spécial** Vous pouvez choisir ce don seulement au niveau 1 et vous ne pouvez utiliser le réapprentissage pour obtenir ou perdre ce don.

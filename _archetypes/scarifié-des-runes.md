@@ -12,7 +12,7 @@ layout: archetypes
 
 La magie des runes du Thassilon et des nations qui en ont hérité a laissé sa marque dans votre chair. En tant que scarifié des runes, vous entretenez un lien inhabituellement étroit avec cette antique magie qui forme à présent un domaine d’étude émergeant pour de petits groupes d’érudits de Varisie et du Nouveau Thassilon
 
-## [Dévouement de scarifié des runes](../dons/dévouement-de-scarifié-des-runes.md) Don 2
+## [Dévouement de scarifié des runes](../dons/dévouement-de-scarifié-des-runes.html) Don 2
 
 **Prérequis** qualifié en Arcanes
 
@@ -24,25 +24,25 @@ Choisissez un tour de magie dans la liste des sorts arcaniques. L’une des rune
 
 **Spécial** Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype scarifié des runes.
 
-## [Rune de sort](../dons/rune-de-sort.md) Don 4
+## [Rune de sort](../dons/rune-de-sort.html) Don 4
 
 **Prérequis** Dévouement de scarifié des runes
 
 Les runes de votre corps vous confèrent plusieurs pouvoirs magiques. Choisissez un sort arcanique de niveau 1. Une rune lui correspondant se dessine sur votre corps. Vous pouvez le lancer comme un sort inné une fois par jour. Au niveau 6, vous gagnez une rune de sort correspondant à un sort arcanique de niveau 2 et au niveau 8 une rune correspondant à un sort arcanique de niveau 3.
 
-## [Rune vivante](../dons/rune-vivante.md) Don 6
+## [Rune vivante](../dons/rune-vivante.html) Don 6
 
 **Prérequis** Dévouement de scarifié des runes
 
 Vous avez établi un lien entre les runes de votre corps et la magie des pierres runiques, ce qui vous permet de placer une rune d’armure dans votre chair. Votre corps ne peut recevoir qu’une seule rune de propriété. Vous ne pouvez pas y dessiner une rune ayant comme condition requise un type ou une catégorie d’armure, ni une rune affectant l’armure et non son porteur. Si vous portez une armure, vous gagnez les effets de la rune en plus des effets de cette armure.
 
-## [Rune de garde](../dons/rune-de-garde.md) Don 6
+## [Rune de garde](../dons/rune-de-garde.html) Don 6
 
 **Prérequis** Dévouement de scarifié des runes
 
 YVos runes génèrent un effet protecteur contre une école de magie spécifique. Choisissez-en une autre que la divination. Une rune correspondant à cette école se dessine sur votre corps et vous gagnez un bonus de circonstances de +2 à tous les jets de sauvegarde contre les effets de cette école.
 
-## [Rune de sort supérieure](../dons/rune-de-sort-supérieure.md) Don 10
+## [Rune de sort supérieure](../dons/rune-de-sort-supérieure.html) Don 10
 
 **Prérequiss** Rune de sort
 

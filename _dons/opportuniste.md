@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/opportunist.json
 layout: dons
 ---
-Vous gagnez la réaction [Attaque d’opportunité (Guerrier)](attaque-d'opportunité-guerrier.md).
+Vous gagnez la réaction [Attaque d’opportunité (Guerrier)](attaque-d'opportunité-guerrier.html).

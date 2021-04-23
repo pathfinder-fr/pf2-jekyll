@@ -15,9 +15,9 @@ Les aventuriers pillent les tombes pour en tirer un profit matériel, mais les v
 **Dons supplémentaires**
 
 - 4e Dénicheur de pièges ;
-- 10e [Retardement de piège](../dons/retardement-de-piège.md)
+- 10e [Retardement de piège](../dons/retardement-de-piège.html)
 
-<h2 style="text-align: left;">[Dévouement d'archéologue](../dons/dévouement-d-archéologue.md) Don 2
+<h2 style="text-align: left;">[Dévouement d'archéologue](../dons/dévouement-d-archéologue.html) Don 2
 
 **Prérequis **qualifié en Perception, Société et Vol
 
@@ -25,13 +25,13 @@ Vous étudiez les peuples et leurs histoires et êtes sans arrêt à la poursuit
 
 **Spécial** Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype d'archéologue.
 
-## [Études magiques](../dons/études-magiques.md) Don 4
+## [Études magiques](../dons/études-magiques.html) Don 4
 
 **Prérequis** Dévouement d'Archéologue
 
-Alors que l'étude est la clé de votre succès, un peu de magie est toujours un outil utile lorsqu'il s'agit de découvrir les secrets du passé. Vous obtenez les tours de magie innés occultes [Assistance divine](../sorts/assistance-divine.md), [Détection de la magie](../actions/détection-de-la-magie.md) et [Lecture de l'aura](../sorts/lecture-de-l-aura.md).
+Alors que l'étude est la clé de votre succès, un peu de magie est toujours un outil utile lorsqu'il s'agit de découvrir les secrets du passé. Vous obtenez les tours de magie innés occultes [Assistance divine](../sorts/assistance-divine.html), [Détection de la magie](../actions/détection-de-la-magie.html) et [Lecture de l'aura](../sorts/lecture-de-l-aura.html).
 
-## [Études d'une implantation](../dons/études-d-une-implantation.md) Don 6
+## [Études d'une implantation](../dons/études-d-une-implantation.html) Don 6
 
 **Prérequis** Dévouement d'archéologue
 
@@ -39,7 +39,7 @@ Vos études vous ont ouvert de nouveaux horizons. Vous devenez un expert dans un
 
 **Spécial** pous pouvez prendre ce don à plusieurs reprises. Lorsque vous le faites, choisissez à chaque fois une implantation différente.
 
-## [Études de l'identification](../dons/études-de-l-identification.md) Don 7
+## [Études de l'identification](../dons/études-de-l-identification.html) Don 7
 
 **Prérequis** Dévouement d'archéologue, Maître en Société
 
@@ -49,7 +49,7 @@ Vous pouvez utiliser Société lorsque vous <a class="entity-link" data-pack="pf
 
 Vous pouvez également utiliser Société pour <a class="entity-link" data-pack="pf2e.actionspf2e" data-id="eReSHVEPCsdkSL4G" draggable="true">Identifier la magie</a> Lorsque vous examinez un objet ou un lieu magique porteur d'une signification culturelle.
 
-## [Chance de l'archéologue](../dons/chance-de-l-archéologue.md) Don 8
+## [Chance de l'archéologue](../dons/chance-de-l-archéologue.html) Don 8
 
 **Prérequis** Dévouement d'archéologue
 
@@ -59,8 +59,8 @@ Vous pouvez également utiliser Société pour <a class="entity-link" data-pack=
 
 Vous êtes plus que simplement compétent ; votre volonté de trouver les secrets du passé se manifeste comme un étrange forme de chance. Relancez le test manqué et utilisez le nouveau résultat.
 
-## [Études magiques supérieures](../dons/études-magiques-supérieures.md) Don 10
+## [Études magiques supérieures](../dons/études-magiques-supérieures.html) Don 10
 
 **Prérequis** Dévouement d'archéologue, Études magiques
 
-Vous élargissez vos études magiques, vous permettant de trouver le bon chemin, de détecter les objets et de les cacher de vos rivaux peu scrupuleux. Vous pouvez lancer [Augure](../sorts/augure.md), [Localisation](../sorts/localisation.md) et [Antidétection](../sorts/antidétection.md) comme des sorts occultes innés, chacun une fois par jour. Vous pouvez lancez ce sort Antidétection seulement sur un objet et il est automatiquement intensifié au même niveau que les tours de magie d'Études magiques.
+Vous élargissez vos études magiques, vous permettant de trouver le bon chemin, de détecter les objets et de les cacher de vos rivaux peu scrupuleux. Vous pouvez lancer [Augure](../sorts/augure.html), [Localisation](../sorts/localisation.html) et [Antidétection](../sorts/antidétection.html) comme des sorts occultes innés, chacun une fois par jour. Vous pouvez lancez ce sort Antidétection seulement sur un objet et il est automatiquement intensifié au même niveau que les tours de magie d'Études magiques.

@@ -10,6 +10,6 @@ layout: dons
 ---
 Lorsque vous lancez des sorts d'énergie, vous conservez une part de cette énergie pour former une barrière protectrice.
 
-Si votre prochaine action est de [Lancer un sort](../actions/lancer-un-sort.md) qui inflige des dégâts d'énergie, que vous réussissiez ou non à infliger des dégâts, vous obtenez une résistance à ce type d'énergie égal au niveau du sort (minimum 1) jusqu'à la fin de votre prochain tour.
+Si votre prochaine action est de [Lancer un sort](../actions/lancer-un-sort.html) qui inflige des dégâts d'énergie, que vous réussissiez ou non à infliger des dégâts, vous obtenez une résistance à ce type d'énergie égal au niveau du sort (minimum 1) jusqu'à la fin de votre prochain tour.
 
 Si le sort inflige plus d'un type de dégâts d'énergie, choisissez en une et obtenez une résistance de ce type.

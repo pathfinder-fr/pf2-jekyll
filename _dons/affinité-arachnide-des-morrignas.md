@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/morrigna-s-spider-affinity.json
 layout: dons
 ---
-Comme les Morrignas, vous ressentez une affinité avec les araignées. Vous pouvez lancer [Messager animal (araignées seulement)](../sorts/messager-animal.md), [Communication avec les animaux (araignées seulement)](../sorts/communication-avec-les-animaux.md) et [Escalade d'araignée](../sorts/pattes-d-araignée.md) chacun une fois par jour comme des sorts divins innés de niveau 2.
+Comme les Morrignas, vous ressentez une affinité avec les araignées. Vous pouvez lancer [Messager animal (araignées seulement)](../sorts/messager-animal.html), [Communication avec les animaux (araignées seulement)](../sorts/communication-avec-les-animaux.html) et [Escalade d'araignée](../sorts/pattes-d-araignée.html) chacun une fois par jour comme des sorts divins innés de niveau 2.

@@ -12,4 +12,4 @@ En tant que membre du genre draconique, vous faites montre d'une confiance imper
 
 Lorsque vous obtenez un succès à un jet de sauvegarde contre un effet de peur, vous obtenez un succès critique à la place. Lorsque vous obtenez un Échec contre un effet de peur, vous obtenez un échec critique à la place.
 
-De plus, lorsque vous tentez de [Démoraliser](../actions/démoraliser.md) un ennemi de votre niveau ou inférieur, vous obtenez un bonus de circonstances de +1 au test d'Intimidation check.
+De plus, lorsque vous tentez de [Démoraliser](../actions/démoraliser.html) un ennemi de votre niveau ou inférieur, vous obtenez un bonus de circonstances de +1 au test d'Intimidation check.

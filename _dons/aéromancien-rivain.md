@@ -10,4 +10,4 @@ layout: dons
 ---
 Vos ancêtres sont originaires des Cités volantes des Rivains et quelques unes de leurs astuces vous ont été transmises à travers les âges.
 
-Vous pouvez lancer le sort [Vol](../sorts/vol.md) au niveau 4 sur vous-même comme un sort inné arcanique une fois par jour.
+Vous pouvez lancer le sort [Vol](../sorts/vol.html) au niveau 4 sur vous-même comme un sort inné arcanique une fois par jour.

@@ -10,7 +10,7 @@ layout: dons
 ---
 **Déclencheur** Vous réduisez un ennemi à 0 Points de vie durant une rencontre de combat non trivial avec des spectateurs.
 
-Vous frimez devant la foule. Faites un test de Représentation ; le DD est déterminé par le MJ mais il s'agit typiquement du plus élevé entre le DD standard pour votre niveau ou le DD pour [Faire bonne impression](../actions/faire-bonne-impression.md) sur les spectateurs. En cas de succès, choisissez un des avantages suivants ; sur un succès critique, choisissez deux avantages :
+Vous frimez devant la foule. Faites un test de Représentation ; le DD est déterminé par le MJ mais il s'agit typiquement du plus élevé entre le DD standard pour votre niveau ou le DD pour [Faire bonne impression](../actions/faire-bonne-impression.html) sur les spectateurs. En cas de succès, choisissez un des avantages suivants ; sur un succès critique, choisissez deux avantages :
 
 - Un nombre de Points de vie temporaires égaux à votre niveau de personnage ; ils durent pendant 1 minute.
 - Un bonus de circonstances de +1 à la CA jusqu'à la fin de votre prochain tour.

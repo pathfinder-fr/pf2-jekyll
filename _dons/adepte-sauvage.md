@@ -10,6 +10,6 @@ layout: dons
 ---
 Les murmures de la jungle vous accordent un accès plus diversifié à la magie primordiale simple.
 
-Vous pouvez lancer [Destruction de mort-vivant](../sorts/destruction-de-mort-vivant.md), [Entrave](../sorts/entrave.md) et [Lumières dansantes](../sorts/lumières-dansantes.md) comme des sorts primordiaux innés à volonté.
+Vous pouvez lancer [Destruction de mort-vivant](../sorts/destruction-de-mort-vivant.html), [Entrave](../sorts/entrave.html) et [Lumières dansantes](../sorts/lumières-dansantes.html) comme des sorts primordiaux innés à volonté.
 
 Si un de ces sorts était déjà le sort choisi avec Magie sauvage, vous pouvez choisir un nouveau sort pour ce dernier.

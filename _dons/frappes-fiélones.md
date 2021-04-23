@@ -10,4 +10,4 @@ layout: dons
 ---
 Le lien suppurant que vous avez avec les forces du mal imprègne vos armes d'une malveillance débilitante, faisant davantage souffrir les créatures du bien à chacune de vos attaques.
 
-Toutes vos [Frappes](../actions/frapper.md) avec des armes ou des attaques à mains nues infligent 1 dégât de mal supplémentaire et possèdent les trait mal et magique.
+Toutes vos [Frappes](../actions/frapper.html) avec des armes ou des attaques à mains nues infligent 1 dégât de mal supplémentaire et possèdent les trait mal et magique.

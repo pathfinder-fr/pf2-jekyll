@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/kitsune-spell-familiarity.json
 layout: dons
 ---
-Vous avez ramassé quelques astuces magiques. Au cours de vos préparatifs quotidiens, choisissez [Hébètement](../sorts/hébétement.md), [Sceau d'interdiction](../sorts/sceau-d-interdiction.md) ou [Son fantômatique](../sorts/son-imaginaire.md). Jusqu'à vos prochains préparatifs quotidiens, vous pouvez lancer ce tour de magie comme un sort divin inné à volonté. Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi au supérieur.
+Vous avez ramassé quelques astuces magiques. Au cours de vos préparatifs quotidiens, choisissez [Hébètement](../sorts/hébétement.html), [Sceau d'interdiction](../sorts/sceau-d-interdiction.html) ou [Son fantômatique](../sorts/son-imaginaire.html). Jusqu'à vos prochains préparatifs quotidiens, vous pouvez lancer ce tour de magie comme un sort divin inné à volonté. Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi au supérieur.

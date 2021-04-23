@@ -10,7 +10,7 @@ layout: dons
 ---
 Votre expertise rend vos pièges artisanaux plus puissants et vous pouvez les positionner rapidement et efficacement.
 
-Chaque jour durant vos préparatifs quotidiens, vous pouvez préparez trois pièges artisanaux de votre formulaire pour un déploiement rapide ; si le piège artisanal nécessite normalement 1 minute à [Fabriquer](../actions/fabriquer.md), vous pouvez le Fabriquer en 3 actions Interagir.
+Chaque jour durant vos préparatifs quotidiens, vous pouvez préparez trois pièges artisanaux de votre formulaire pour un déploiement rapide ; si le piège artisanal nécessite normalement 1 minute à [Fabriquer](../actions/fabriquer.html), vous pouvez le Fabriquer en 3 actions Interagir.
 
 Fabriquer les pièges artisanaux préparés de cette façon ne vous coûte pas de ressources. Le nombres de pièges artisanaux que vous pouvez préparer de cette manière passe à quatre si vous êtes maître en Artisanat et à cinq si vous êtes légendaire.
 

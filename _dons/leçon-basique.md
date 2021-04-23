@@ -10,4 +10,4 @@ layout: dons
 ---
 Votre patron vous accorde une leçon spéciale, vous révélant une facette cachée de sa nature.
 
-Choisissez une [Leçon basique](../capacité-classe/leçons-de-sorcière.md). Vous obtenez son maléfice associé et votre familier apprend le sort associé. Augmentez le nombre de Points de Focalisation de votre réserve de focalisation de 1.
+Choisissez une [Leçon basique](../capacité-classe/leçons-de-sorcière.html). Vous obtenez son maléfice associé et votre familier apprend le sort associé. Augmentez le nombre de Points de Focalisation de votre réserve de focalisation de 1.

@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/reach-spell.json
 layout: dons
 ---
-Vous pouvez augmenter la portée de vos sorts. Si la prochaine action que vous utilisez consiste à [Lancer un sort](../actions/lancer-un-sort.md) disposant d’une portée, elle augmente de 9 m. Comme pour toute augmentation de portée, si la portée de base du sort était « contact », elle passe à 9 m.
+Vous pouvez augmenter la portée de vos sorts. Si la prochaine action que vous utilisez consiste à [Lancer un sort](../actions/lancer-un-sort.html) disposant d’une portée, elle augmente de 9 m. Comme pour toute augmentation de portée, si la portée de base du sort était « contact », elle passe à 9 m.

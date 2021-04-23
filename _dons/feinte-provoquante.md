@@ -10,7 +10,7 @@ layout: dons
 ---
 Lorsque vous trompez un ennemi, pour pouvez le provoquer pour qu'il porte trop loin sa prochaine attaque.
 
-Sur une [Feinte](../actions/feinter.md), vous pouvez utiliser les effets de susccès et de succès critique suivants au lieu de tout autre effext que vous pourriez obtenir lorsque vous Feintez ; si vous le faites, les autres capacités qui ajustent les effets de vos effets normaux de Feinte ne s'appliquent plus. Vous pouvez choisir soit d'utiliser les avantages de Feinte provocatrice ou les effets normaux à chaque fois que vous Feintez en unnemi donné.
+Sur une [Feinte](../actions/feinter.html), vous pouvez utiliser les effets de susccès et de succès critique suivants au lieu de tout autre effext que vous pourriez obtenir lorsque vous Feintez ; si vous le faites, les autres capacités qui ajustent les effets de vos effets normaux de Feinte ne s'appliquent plus. Vous pouvez choisir soit d'utiliser les avantages de Feinte provocatrice ou les effets normaux à chaque fois que vous Feintez en unnemi donné.
 
 **Succès critique** La cible subit une pénalité de circonstance de –2  à tous les jets d'attaque acontre vous avant la fin de son prochain tour.
 

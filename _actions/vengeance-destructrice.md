@@ -12,7 +12,7 @@ typeFr: Réaction
 ---
 **déclencheur **Un ennemi dans les 4,5 m vous fait subir des dégâts.
 
-Le sang appelle le sang lorsque vous menez votre ennemi à son anéantissement. Vous augmentez le montant des dégâts que vous subissez de 1d6 et vous infligez 1d6 dégâts à l'énnemi déclencheur, en choisissant entre mal ou négatif avant de les infliger à chaque fois que vous utilisez cette réaction. De plus, jusqu'à la fin de votre prochain tour, vos [Frappes](frapper.md) contre la créature déclencheuse infligent 2 dégâts supplémentaires du type que vous avez choisi.
+Le sang appelle le sang lorsque vous menez votre ennemi à son anéantissement. Vous augmentez le montant des dégâts que vous subissez de 1d6 et vous infligez 1d6 dégâts à l'énnemi déclencheur, en choisissant entre mal ou négatif avant de les infliger à chaque fois que vous utilisez cette réaction. De plus, jusqu'à la fin de votre prochain tour, vos [Frappes](frapper.html) contre la créature déclencheuse infligent 2 dégâts supplémentaires du type que vous avez choisi.
 
 Les dégâts que vous subissez et que vous infligez lorsque vous utilisez cette réaction passent à 2d6 au niveau 5, 3d6 au niveau 9, 4d6 au niveau 12, 5d6 au niveau 16 et 6d6 au niveau 19.
 

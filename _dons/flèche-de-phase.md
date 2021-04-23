@@ -10,8 +10,8 @@ layout: dons
 ---
 **Fréquence** une fois par jour
 
-Vous pouvez concentrer un important montant de magie pour créer une munition qui franchit tous les obstacles sauf votre cible. Faites une [Frappe](../actions/frapper.md) contre un ennemi qui est [Observé](../conditions/observé.md) ou [Caché](../conditions/caché.md) (mais n'est pas [Non détecté](../conditions/non-détecté.md)).
+Vous pouvez concentrer un important montant de magie pour créer une munition qui franchit tous les obstacles sauf votre cible. Faites une [Frappe](../actions/frapper.html) contre un ennemi qui est [Observé](../conditions/observé.html) ou [Caché](../conditions/caché.html) (mais n'est pas [Non détecté](../conditions/non-détecté.html)).
 
 La munition voyage vers votre cible en droite ligne, passant à travers toute barrière ou mur non magique de cette manière, bien que des barrières magiques stoppent la flèche. Le tir ignore tout abri, la condition Masquée, la condition Cachée et les bonus de circonstance à la CA des boucliers. Elle possède un bonus de statut de +4 pour toucher tout ennemi portant n'importe quel type d'armure.
 
-Les dégâts de la Frappe ne peuvent être réduits par une réaction de [Blocage au bouclier](blocage-au-bouclier.md) en utilisant un bouclier non magique.
+Les dégâts de la Frappe ne peuvent être réduits par une réaction de [Blocage au bouclier](blocage-au-bouclier.html) en utilisant un bouclier non magique.

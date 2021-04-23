@@ -12,4 +12,4 @@ layout: dons
 
 Vous frappez votre adversaire et l’empoignez avec l’autre main.
 
-Effectuez une Frappe au corps à corps en gardant une main libre. Si la Frappe touche, vous empoignez la cible avec la main libre. La créature reste [Empoignée](../conditions/agrippé-empoigné.md) jusqu’à la fin de votre prochain tour ou jusqu’à ce qu’elle [S’échappe](../actions/s-échapper.md), selon ce qui se produit en premier.
+Effectuez une Frappe au corps à corps en gardant une main libre. Si la Frappe touche, vous empoignez la cible avec la main libre. La créature reste [Empoignée](../conditions/agrippé-empoigné.html) jusqu’à la fin de votre prochain tour ou jusqu’à ce qu’elle [S’échappe](../actions/s-échapper.html), selon ce qui se produit en premier.

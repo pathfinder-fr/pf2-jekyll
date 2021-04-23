@@ -12,7 +12,7 @@ layout: archetypes
 
 Vous êtes l'un des Lions radieux, à la fois combattant de la révolution et espion sous couverture.
 
-<h2 style="text-align: left;">[Dévouement du Lion radieux](../dons/dévouement-de-lion-radieux.md) Don 2
+<h2 style="text-align: left;">[Dévouement du Lion radieux](../dons/dévouement-de-lion-radieux.html) Don 2
 
 **Prérequis** membre des Lions radieux, pas un suivant de Walkena, qualifié en Discrétion
 
@@ -22,21 +22,21 @@ Vous devenez qualifié à votre choix en Duperie ou en Diplomatie et en connaiss
 
 **Spécial** Vous ne pouvez choisir un nouveau don de Dévouement jusqu'à ce que vous ayiez obtenu deux dons supplémentaires de l'archétype de Lion radieux.
 
-## [Lumière protectrice](../dons/lumière-protectrice.md) Don 4
+## [Lumière protectrice](../dons/lumière-protectrice.html) Don 4
 
 **Prérequis** Dévouement de Lion radieux
 
 Vous obtenez un tatouage qui vous sert comme une protection spéciale pour vous défendre contre les forces de Walkena.
 
-Le tatouage vous permet de Lancer le tour de magie [Lumière](../sorts/lumière.md) comme un sort divin inné à volonté. Le tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi à l'entier supérieur. Si vous mourrez, le tatouage lance immédiatement [Préservation des morts](../sorts/préservation-des-morts.md) sur votre corps, intensifié au même niveau de sort.
+Le tatouage vous permet de Lancer le tour de magie [Lumière](../sorts/lumière.html) comme un sort divin inné à volonté. Le tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi à l'entier supérieur. Si vous mourrez, le tatouage lance immédiatement [Préservation des morts](../sorts/préservation-des-morts.html) sur votre corps, intensifié au même niveau de sort.
 
-## [Sun's Fury](../dons/furie-du-soleil.md) Feat 6
+## [Sun's Fury](../dons/furie-du-soleil.html) Feat 6
 
 **Prérequis** Dévouement de Lion radieux
 
-Les anciens dieux du soleil vous ont accordé un don  pour combattre contre Walkena. Vous obtenz le sort de focalisation [Furie du soleil](../sorts/furie-du-soleil.md). Si vous n'en possédez pas déjà une, vous obtenez une réserve de focalisation de 1 Point de focalisation, que vous pouvez regagner en utilisant l'activité Refocaliser pour prier les anciens dieux du soleil ; si vous possédez déjç une réserve de focalisation, augmentez le nombre de points de focalisation de votre réserve de focalisation de 1. Vos sorts de focalisation de Lion radieux sont des sorts divins ; lorsque vous obtenez ce don, si vous ne l'êtes pas déjà, vous devenez qualifié en attaque de sorts divins et en DD de sort, en utilisant votre Charisme comme score de caractéristique d'incantation.
+Les anciens dieux du soleil vous ont accordé un don  pour combattre contre Walkena. Vous obtenz le sort de focalisation [Furie du soleil](../sorts/furie-du-soleil.html). Si vous n'en possédez pas déjà une, vous obtenez une réserve de focalisation de 1 Point de focalisation, que vous pouvez regagner en utilisant l'activité Refocaliser pour prier les anciens dieux du soleil ; si vous possédez déjç une réserve de focalisation, augmentez le nombre de points de focalisation de votre réserve de focalisation de 1. Vos sorts de focalisation de Lion radieux sont des sorts divins ; lorsque vous obtenez ce don, si vous ne l'êtes pas déjà, vous devenez qualifié en attaque de sorts divins et en DD de sort, en utilisant votre Charisme comme score de caractéristique d'incantation.
 
-## [Éluder le divin](../dons/éluder-le-divin.md) Don 8
+## [Éluder le divin](../dons/éluder-le-divin.html) Don 8
 
 **Prérequis** Dévouement de Lion radieux
 

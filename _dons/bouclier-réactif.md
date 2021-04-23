@@ -14,4 +14,4 @@ layout: dons
 
 Vous levez brusquement votre bouclier pour intercepter un coup qui devait vous toucher, ce qui vous permet de le bloquer à la dernière seconde.
 
-Vous utilisez immédiatement l’action [Lever un bouclier](../actions/lever-un-bouclier.md) et bénéficiez du bonus de votre bouclier à la CA. Le bonus de circonstances du bouclier s’applique à votre CA quand vous déterminez le résultat de l’attaque à l’origine du déclenchement.
+Vous utilisez immédiatement l’action [Lever un bouclier](../actions/lever-un-bouclier.html) et bénéficiez du bonus de votre bouclier à la CA. Le bonus de circonstances du bouclier s’applique à votre CA quand vous déterminez le résultat de l’attaque à l’origine du déclenchement.

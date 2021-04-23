@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/invisible-trickster.json
 layout: dons
 ---
-Vous avez appris comment devenir invisible et à le rester. Vous pouvez lancer [Invisibilité](../sorts/invisibilité.md) au niveau 4 comme un sort inné primordial une fois par heure.
+Vous avez appris comment devenir invisible et à le rester. Vous pouvez lancer [Invisibilité](../sorts/invisibilité.html) au niveau 4 comme un sort inné primordial une fois par heure.

@@ -10,4 +10,4 @@ layout: dons
 ---
 **Conditions** Vous maniez votre bâton.
 
-Vous pouvez tenter de [Pousser](../actions/pousser.md) ou de faire un [Croc-en-jambe](../actions/croc-en-jambe.md) à des créatures qui font jusqu'à deux tailles de plus que la vôtre. Si vous être maître dans le maniement de votre bâton, vous pouvez Pousser ou faire un Croc-en-jambe à des créatures de trois tailles supérieures à la vôtre.
+Vous pouvez tenter de [Pousser](../actions/pousser.html) ou de faire un [Croc-en-jambe](../actions/croc-en-jambe.html) à des créatures qui font jusqu'à deux tailles de plus que la vôtre. Si vous être maître dans le maniement de votre bâton, vous pouvez Pousser ou faire un Croc-en-jambe à des créatures de trois tailles supérieures à la vôtre.

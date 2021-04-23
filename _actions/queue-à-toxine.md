@@ -14,4 +14,4 @@ typeFr: Action Unique
 
 **Conditions** Vous maniez une arme perforante ou tranchante.
 
-Vous appliquez le venin sécrété par votre queue sur une arme perforante ou tranchante. Si votre prochaine [Frappe](frapper.md) avec cette arme touche et inflige des dégâts avant la fin de votre prochain tour, vous infligez des [dégâts de poison persistants](../conditions/dégâts-persistants.md) égaux à votre niveau sur la cible.
+Vous appliquez le venin sécrété par votre queue sur une arme perforante ou tranchante. Si votre prochaine [Frappe](frapper.html) avec cette arme touche et inflige des dégâts avant la fin de votre prochain tour, vous infligez des [dégâts de poison persistants](../conditions/dégâts-persistants.html) égaux à votre niveau sur la cible.

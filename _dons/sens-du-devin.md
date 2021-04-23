@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/diviner-sense.json
 layout: dons
 ---
-Vous ressentez les dangers magiques. Lorsque vous utilisez l'activité d'exploration [Détection de la magie](../actions/détection-de-la-magie.md), vous pouvez lancer l'initiative deux fois et utiliser le meilleur résultat tant qu'au moins un des adversaires possède un effet magique ou un objet magique et qu'il est dans la portée de votre Détection de la Magie.
+Vous ressentez les dangers magiques. Lorsque vous utilisez l'activité d'exploration [Détection de la magie](../actions/détection-de-la-magie.html), vous pouvez lancer l'initiative deux fois et utiliser le meilleur résultat tant qu'au moins un des adversaires possède un effet magique ou un objet magique et qu'il est dans la portée de votre Détection de la Magie.

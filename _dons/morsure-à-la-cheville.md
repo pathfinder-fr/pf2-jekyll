@@ -8,7 +8,7 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/ankle-bite.json
 layout: dons
 ---
-**Déclencheur** Un adversaire vous inflige la condition [Saisi](../conditions/agrippé-empoigné.md) ou [Entravé](../conditions/entravé.md) en utilisant une partie de son corps.
+**Déclencheur** Un adversaire vous inflige la condition [Saisi](../conditions/agrippé-empoigné.html) ou [Entravé](../conditions/entravé.html) en utilisant une partie de son corps.
 
 Lorsque quelqu'un vous saisit, vous le mordez instinctivement très fort. Quelques fois, cela vous permet de partir, d'autres fois, cela les met juste davantage en colère mais, dans les deux cas, cela vous satisfait et c'est goûtu.
 

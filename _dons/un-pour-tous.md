@@ -10,6 +10,6 @@ layout: dons
 ---
 Avec précisément les bons mots d'encouragement, vous soutenez les efforts d'un allié.
 
-Désignez un allié dans les 9 m ; cette action compte comme une préparation suffisante pour [Aider](../actions/aider.md) cet allié. Lorsque vous utilisez la réaction Aider pour aider cet allié, vous pouvez lancer un test de Diplomatie au lieu du test habituel.
+Désignez un allié dans les 9 m ; cette action compte comme une préparation suffisante pour [Aider](../actions/aider.html) cet allié. Lorsque vous utilisez la réaction Aider pour aider cet allié, vous pouvez lancer un test de Diplomatie au lieu du test habituel.
 
-Si votre style de bretteur est [Esprit](../capacité-classe/style-:-esprit.md) et que votre test de Diplomatie pour Aider atteint ou est supérieur au DD très difficile de votre niveau, vous obtenez du [Panache](../capacité-classe/panache.md).
+Si votre style de bretteur est [Esprit](../capacité-classe/style-:-esprit.html) et que votre test de Diplomatie pour Aider atteint ou est supérieur au DD très difficile de votre niveau, vous obtenez du [Panache](../capacité-classe/panache.html).

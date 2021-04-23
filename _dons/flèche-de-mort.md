@@ -10,4 +10,4 @@ layout: dons
 ---
 **Fréquence**Une fois par jour
 
-Vous modifiez une flèche ou un carreau pour porter la mort à votre cible en un unique tir puissant. Faites une [Frappe](../actions/frapper.md) à l'arc. Si vous touchez, vous infligez 10d10 dégâts de précision supplémentaires. En cas de coup critique, la cible doit également réussir un test de Vigueur contre le plus élevé entre votre DD de classe et votre DD de sort ou être immédiatement tuée ; ce jet possède le trait mort et mise hors de combat.
+Vous modifiez une flèche ou un carreau pour porter la mort à votre cible en un unique tir puissant. Faites une [Frappe](../actions/frapper.html) à l'arc. Si vous touchez, vous infligez 10d10 dégâts de précision supplémentaires. En cas de coup critique, la cible doit également réussir un test de Vigueur contre le plus élevé entre votre DD de classe et votre DD de sort ou être immédiatement tuée ; ce jet possède le trait mort et mise hors de combat.

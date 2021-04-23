@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/heal-mount.json
 layout: dons
 ---
-Votre dévotion envers votre monture se manifeste par un déferlement d’énergie positive. Quand vous lancez [Imposition des mains](../sorts/imposition-des-mains.md) sur votre monture, vous pouvez lui faire récupérer 10 points de vie, plus 10 par niveau intensifié.
+Votre dévotion envers votre monture se manifeste par un déferlement d’énergie positive. Quand vous lancez [Imposition des mains](../sorts/imposition-des-mains.html) sur votre monture, vous pouvez lui faire récupérer 10 points de vie, plus 10 par niveau intensifié.

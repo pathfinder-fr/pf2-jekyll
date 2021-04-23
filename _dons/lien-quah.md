@@ -10,7 +10,7 @@ layout: dons
 ---
 **Accès** ethnie Shoanti
 
-Vous avez grandi parmi les tribus Shoanti, avec les esprits veillent sur vous et ils vous offrent leurs conseils. Vous devenez qualifié dans la compétence listée pour votre quah (ou une autre compétence de votre choix, si vous êtes déjà qualifié dans cette compétence). Vous obtenez le don de compétence [Assurance](assurance.md) dans cette compétence, parce que l'aide des esprits guident vos actions.
+Vous avez grandi parmi les tribus Shoanti, avec les esprits veillent sur vous et ils vous offrent leurs conseils. Vous devenez qualifié dans la compétence listée pour votre quah (ou une autre compétence de votre choix, si vous êtes déjà qualifié dans cette compétence). Vous obtenez le don de compétence [Assurance](assurance.html) dans cette compétence, parce que l'aide des esprits guident vos actions.
 
 - **Lyrune-Quah** Religion
 - **Shadde-Quah** Athlétisme

@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous tirez avantage des ouvertures de votre adversaire avec des probabilités extraordinaires.
 
-Lorsque vous faites une [Riposte oppotune](../capacité-classe/riposte-opportune.md), lancez deux fois le jet d'attaque et conservez le meilleur résultat.
+Lorsque vous faites une [Riposte oppotune](../capacité-classe/riposte-opportune.html), lancez deux fois le jet d'attaque et conservez le meilleur résultat.

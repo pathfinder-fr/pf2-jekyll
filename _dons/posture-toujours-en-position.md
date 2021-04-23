@@ -10,4 +10,4 @@ layout: dons
 ---
 **Conditions** Vous portez un bouclier
 
-Vous renforcez votre bouclier avec vos deux mains, augmentant son potentiel pour la défense comme pour l'attaque. Dans cette posture, vous tenez le bouclier avec vos deux mains. Lorsque vous le tenez de cette façon, vous augmentez le dé de dégât de l'embossement ou des piques du bouclier d'une catégorie et vous augmentez la Solidité du bouclier de 2 lorsque vous utilisez la réaction [Blocage au bouclier](blocage-au-bouclier.md).
+Vous renforcez votre bouclier avec vos deux mains, augmentant son potentiel pour la défense comme pour l'attaque. Dans cette posture, vous tenez le bouclier avec vos deux mains. Lorsque vous le tenez de cette façon, vous augmentez le dé de dégât de l'embossement ou des piques du bouclier d'une catégorie et vous augmentez la Solidité du bouclier de 2 lorsque vous utilisez la réaction [Blocage au bouclier](blocage-au-bouclier.html).

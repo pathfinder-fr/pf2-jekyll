@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous savez mieux manier votre arme non conventionnelle.
 
-À chaque fois que vous obtenez une capacité de classe qui vous confère une maîtrise experte ou supérieure avec certaines armes, vous gagnez également cette maîtrise avec l’arme que vous avez choisie avec le don [Armement non conventionnel](armement-non-conventionnel.md).
+À chaque fois que vous obtenez une capacité de classe qui vous confère une maîtrise experte ou supérieure avec certaines armes, vous gagnez également cette maîtrise avec l’arme que vous avez choisie avec le don [Armement non conventionnel](armement-non-conventionnel.html).

@@ -10,4 +10,4 @@ layout: actions
 type: action
 typeFr: Action Unique
 ---
-Vous vous laissez tomber [À terre](../conditions/à-terre.md).
+Vous vous laissez tomber [À terre](../conditions/à-terre.html).

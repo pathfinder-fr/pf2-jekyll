@@ -12,6 +12,6 @@ layout: dons
 
 Vous autorisez vos adversaires à faire le premier mouvement dans une démonstration incroyable de confiance en vos talents.
 
-Vous ne tirez pas l'initiative ; au lieu de quoi vous acceptez d'être le dernier. Vous obtenez du [Panache](../capacité-classe/panache.md).
+Vous ne tirez pas l'initiative ; au lieu de quoi vous acceptez d'être le dernier. Vous obtenez du [Panache](../capacité-classe/panache.html).
 
 Si plus d'un personnage utilise cette faculté, utilisez les règles normales pour résoudre une égalité : PNJ et monstres agissent avant les PJ et, au sein de ces groupes, les créatures peuvent choisir dans quel ordre elles agissent.

@@ -10,4 +10,4 @@ layout: dons
 ---
 Lorsque vous partez en reconnaissance, vous êtes particulièrement alerte face au danger, accordant à vos alliés de précieux moments pour se préparer à combattre.
 
-Lorsque vous utilisez l'activité d'exploration [Reconnaître](../actions/reconnaître.md), vous accordez à vos alliés un bonus de circonstances de +2 à leurs jets d'initiative au lieu d'un bonus de circonstances de +1.
+Lorsque vous utilisez l'activité d'exploration [Reconnaître](../actions/reconnaître.html), vous accordez à vos alliés un bonus de circonstances de +2 à leurs jets d'initiative au lieu d'un bonus de circonstances de +1.

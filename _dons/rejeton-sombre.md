@@ -10,4 +10,4 @@ layout: dons
 ---
 Votre lignage remonte à celui d'un daemon, une des manifestations des horribles formes de la mort qui dévore les âmes au sein du royaume dément d'Abaddon. Il en résulte que vous vous cramponnez avec ténacité aux derniers lambeaux de votre force vitale.
 
-Vous obtenez le don [Dur à cuir](dur-à-cuir.md).
+Vous obtenez le don [Dur à cuir](dur-à-cuir.html).

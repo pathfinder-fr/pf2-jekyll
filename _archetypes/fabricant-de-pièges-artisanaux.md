@@ -14,11 +14,11 @@ Vous êtes capable de prendre des matériaux ordinaires et de les utiliser pour 
 
 Dons supplémentaires :
 
-- 8e [Pose rapide de pièges artisanaux](../dons/pose-rapide-de-pièges-artisanaux.md);
-- 10e [Redoutables pièges artisanaux](../dons/redoutables-pièges-artisanaux.md);
-- 14e [Pose éclair de pièges artisanaux](../dons/pose-éclair-de-pièges-artisanaux.md)
+- 8e [Pose rapide de pièges artisanaux](../dons/pose-rapide-de-pièges-artisanaux.html);
+- 10e [Redoutables pièges artisanaux](../dons/redoutables-pièges-artisanaux.html);
+- 14e [Pose éclair de pièges artisanaux](../dons/pose-éclair-de-pièges-artisanaux.html)
 
-## [Dévouement de Fabricant de pièges artisanaux](../dons/dévouement-de-fabricant-de-pièges-artisanaux.md) Don 2
+## [Dévouement de Fabricant de pièges artisanaux](../dons/dévouement-de-fabricant-de-pièges-artisanaux.html) Don 2
 
 **Prérequis** qualifié en Artisanat, Fabrication de pièges artisanaux
 
@@ -26,23 +26,23 @@ Vous avez appris à créer un nombre limité de pièges artisanaux sans aucun co
 
 **Spécial** Le don compte comme <a class="entity-link" data-pack="pf2e.feats-srd" data-id="0haS0qXR9xTYKoTG" draggable="true">Spécialiste des pièges artisanaux</a> lorsqu'il s'agit de remplir des prérequis d'un don. Si vous possédez aussi le don de rôdeur Spécialiste des pièges artisanaux, les pièges de ces deux dons sont cumulables. Vous ne pouvez choisir un autre don de dévouement avant d'avoir choisi deux autres dons de l'archétype de Fabricant de pièges artisanaux.
 
-## [Piège artisanal surprise](../dons/piège-artisanal-surprise.md) Don 4
+## [Piège artisanal surprise](../dons/piège-artisanal-surprise.html) Don 4
 
 **Prérequis** Dévouement de Fabricant de pièges artisanaux
 
-Vous installez un de vos pièges artisanaux préparé pour un déploiement rapide sur une case qui est occupée par un de vos adversaires. Cela doit être un piège qui prend normalement 1 minute ou moins à [Fabriquer](../actions/fabriquer.md).
+Vous installez un de vos pièges artisanaux préparé pour un déploiement rapide sur une case qui est occupée par un de vos adversaires. Cela doit être un piège qui prend normalement 1 minute ou moins à [Fabriquer](../actions/fabriquer.html).
 
 Le piège artisanal se déclenche automatiquement, mais il subit une pénalité de circonstance de -2 à n'importe quel DD de jet de sauvegarde applicable, ainsi qu'à n'importe quel jet ou à tout autre test nécessaire lié à la tentative du piège artisanal.
 
-## [Déclenchement à distance](../dons/déclenchement-à-distance.md) Don 6
+## [Déclenchement à distance](../dons/déclenchement-à-distance.html) Don 6
 
 **Prérequis** Dévouement de Fabricant de pièges artisanaux
 
 Vous avez appris comment déclencher les pièges artisanaux de loin, créant des dangers à distance qui peuvent assaillir vos adversaires et vous permettant de désarmer les pièges de vos ennemis de manière inoffensive.
 
-Vous pouvez [Frapper](../actions/frapper.md) un piège artisanal pour le déclencher prématurément. Si vous avez fabriqué le piège artisanal, vous le touchez automatiquement. Si quelqu'un d'autre l'a fabriqué, tentez une Frappe à distance contre le DD de Fabrication, déclenchant le piège artisanal seulement si vous le touchez.
+Vous pouvez [Frapper](../actions/frapper.html) un piège artisanal pour le déclencher prématurément. Si vous avez fabriqué le piège artisanal, vous le touchez automatiquement. Si quelqu'un d'autre l'a fabriqué, tentez une Frappe à distance contre le DD de Fabrication, déclenchant le piège artisanal seulement si vous le touchez.
 
-## [Piège artisanal géant](../dons/piège-artisanal-géant.md) Don 10
+## [Piège artisanal géant](../dons/piège-artisanal-géant.html) Don 10
 
 **Prérequis** Dévouement de Fabricant de pièges artisanaux
 
@@ -50,7 +50,7 @@ Vous pouvez créer des pièges artisanaux plus gros pour les déployer rapidemen
 
 Lorsque vous préparez un piège pour un déploiement rapide, pous pouvez préparer certains de vos pièges comme des pièges artisanaux géant. Un piège artisanal géant occupe une zone de 3m sur 3m mais compte pour deux de vos pièges artisanaux à déploiement rapide. Un piège artisanal géant peut se déclencher dès lors qu'une créature entre dans n'importe quelle portion de la zone qu'il occupe et tous ses effets s'appliquent à la zone entière.
 
-## [Pièges artisanaux nombreux](../dons/pièges-artisanaux-nombreux.md) Don 12
+## [Pièges artisanaux nombreux](../dons/pièges-artisanaux-nombreux.html) Don 12
 
 **Prérequis** Dévouement de Fabricant de pièges artisanaux
 

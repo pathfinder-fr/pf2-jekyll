@@ -10,4 +10,4 @@ layout: dons
 ---
 Achever un ennemi vous permet de conserver une posture arrogante.
 
-Vous obtenez du [Panache](../capacité-classe/panache.md) si votre botte amène la cible à 0 PV (ou la cible de plus haut niveau à 0 PV, si votre botte cible plusieurs adversaires).
+Vous obtenez du [Panache](../capacité-classe/panache.html) si votre botte amène la cible à 0 PV (ou la cible de plus haut niveau à 0 PV, si votre botte cible plusieurs adversaires).

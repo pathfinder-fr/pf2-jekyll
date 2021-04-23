@@ -10,6 +10,6 @@ layout: dons
 ---
 Il est plus difficile pour vos adversaires de raffermir leur prise lorsque vous parvenez à ébranler l'arme qu'ils tiennent en main.
 
-Lorsque vous obtenez un succès à un test d'Athlétisme pour [Désarmer](../actions/désarmer.md), le bonus de circonstance et la pénalité du Désarmement dure jusqu'à la fin de votre prochain tour, au lieu de se terminer au début du prochain tour de la cible. la cible peut utiliser une action Interagir pour ajuster sa prise et mettre un terme à cet effet.
+Lorsque vous obtenez un succès à un test d'Athlétisme pour [Désarmer](../actions/désarmer.html), le bonus de circonstance et la pénalité du Désarmement dure jusqu'à la fin de votre prochain tour, au lieu de se terminer au début du prochain tour de la cible. la cible peut utiliser une action Interagir pour ajuster sa prise et mettre un terme à cet effet.
 
-Si votre style de bretteur est celui du [Gymnaste](../capacité-classe/style-:-gymnaste.md) et que vous réussissez votre test d'Athlétisme pour Désarmer un adversaire, vous obtenez du [Panache](../capacité-classe/panache.md).
+Si votre style de bretteur est celui du [Gymnaste](../capacité-classe/style-:-gymnaste.html) et que vous réussissez votre test d'Athlétisme pour Désarmer un adversaire, vous obtenez du [Panache](../capacité-classe/panache.html).

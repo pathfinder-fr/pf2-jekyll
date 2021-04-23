@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/battle-medicine-forensic-medicine.json
 layout: dons
 ---
-Vous pouvez vous rafistoler vous-même ou un allié adjacent, même en combat. Faites un test de Médecine avec le même DD que [Soigner les blessures](../actions/soigner-les-blessures.md) et restaurez un montant de points de vie correspondant. Ceci ne retire pas l’état [Blessé](../conditions/blessé.md). La cible est ensuite temporairement immunisée à votre Médecine militaire pendant 1 jour.
+Vous pouvez vous rafistoler vous-même ou un allié adjacent, même en combat. Faites un test de Médecine avec le même DD que [Soigner les blessures](../actions/soigner-les-blessures.html) et restaurez un montant de points de vie correspondant. Ceci ne retire pas l’état [Blessé](../conditions/blessé.html). La cible est ensuite temporairement immunisée à votre Médecine militaire pendant 1 jour.

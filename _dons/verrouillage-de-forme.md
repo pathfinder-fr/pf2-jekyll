@@ -8,7 +8,7 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/form-lock.json
 layout: dons
 ---
-**Conditions** vous avez [Saisi](../conditions/agrippé-empoigné.md) ou [Entravé](../conditions/entravé.md) un adversaire.
+**Conditions** vous avez [Saisi](../conditions/agrippé-empoigné.html) ou [Entravé](../conditions/entravé.html) un adversaire.
 
 Votre capacité à contrôler votre ki vous donne la puissance pour obliger les autres créatures à revenir à leur véritable forme.
 

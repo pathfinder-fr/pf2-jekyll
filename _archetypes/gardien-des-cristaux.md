@@ -12,7 +12,7 @@ layout: archetypes
 
 Avant la Chute, le peuple elfique de Golarion connaissait de nombreuses manières de maîtriser la magie. Une secte formée d’elfes dévoués à la déesse Yuelral développa l’art des gardiens des cristaux, mais cette tradition est tombée dans l’oubli depuis bien longtemps. Pourtant, de rares personnes s’en souviennent encore. Les PJ peuvent accéder à l’archétype gardien des cristaux grâce à la rencontre poignante avec l’esprit qui hante le relais du portail des Joyaux dans Les flammes de la cité hantée.
 
-## [Dévouement de Gardien des cristaux](../dons/dévouement-de-gardien-du-cristal.md) Don 4
+## [Dévouement de Gardien des cristaux](../dons/dévouement-de-gardien-du-cristal.html) Don 4
 
 **Prérequis**  qualifié en Connaisance des elfes ou Société
 
@@ -22,7 +22,7 @@ De plus, vous gagnez une résistance de 10 contre les dégâts issus de dangers 
 
 **Spécial** Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir gagné deux autres dons de l’archétype gardien de cristaux
 
-## [Magie des glyphes de cristal](../dons/magie-des-glyphes-de-cristal.md) Don 4
+## [Magie des glyphes de cristal](../dons/magie-des-glyphes-de-cristal.html) Don 4
 
 **Prérequis** Dévouement de Gardien des cristaux
 
@@ -30,13 +30,13 @@ Vos études des cristaux et des énergies qu’ils renferment vous permettent d�
 
 Un sort focalisé est automatiquement intensifié à la moitié de votre niveau arrondi à l’entier supérieur. Certains dons accordent d’autres sorts focalisés et augmentent la taille de votre réserve de focalisation, bien que cette dernière ne puisse jamais contenir plus de 3 points. Vous gagnez le sort focalisé glyphe de cristal électrique et vous êtes qualifié pour les jets d’attaque de sort arcanique et DD de sorts. L’Intelligence est votre caractéristique d’incantation.
 
-## [Magie des cristaux basiques](../dons/magie-des-cristaux-basique.md) Don 6
+## [Magie des cristaux basiques](../dons/magie-des-cristaux-basique.html) Don 6
 
 **Prérequis** Dévouement de Gardien des cristaux
 
 Si vous avez médité devant une pierre précieuse d’une valeur d’au moins 10 po lors de vos préparatifs quotidiens, vous êtes capable de percevoir la magie sous la forme d’un flux de runes qui vous révèlent des informations à propos d’objets magiques et vous pouvez tracer une rune personnelle qui vous représente. Vous gagnez les tours de magie Lecture de l’aura et Symbole. Vous pouvez lancer ces tours de magie comme des sorts innés arcaniques à volonté. Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi à l’entier supérieur.
 
-## [Changerune d'armure](../dons/changerune-d-armure.md) Don 10
+## [Changerune d'armure](../dons/changerune-d-armure.html) Don 10
 
 **Prérequis** Dévouement de Gardien des cristaux
 
@@ -44,7 +44,7 @@ Vous apprenez les secrets des runes d’armure en les observant à travers des g
 
 La rune reste modifiée jusqu’à ce que vous effectuiez vos préparatifs quotidiens suivants. L’armure doit répondre aux prérequis de la rune temporaire et toute rune qui avait pour prérequis la rune effacée est également effacée tant que la rune est modifiée. Les modifications effectuées sur la rune sont visibles, empêchant de revendre l’armure comme si elle bénéficiait de la rune temporaire.
 
-## [Changerune d'arme](../dons/changerune-d-arme.md) Don 10
+## [Changerune d'arme](../dons/changerune-d-arme.html) Don 10
 
 **Prérequis** Dévouement de Gardien des cristaux
 

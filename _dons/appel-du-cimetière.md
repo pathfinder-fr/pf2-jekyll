@@ -10,6 +10,6 @@ layout: dons
 ---
 Vous disposez d'un lien puissant avec le Cimetière et ses cours, vous faisant bénéficier de la capacité de voyager jusqu'au Cimetière et d'en revenir.
 
-Vous obtenez [Changement de plan](../sorts/changement-de-plan.md) comme sort divin inné. Vous pouvez le lancer deux fois par semaine.
+Vous obtenez [Changement de plan](../sorts/changement-de-plan.html) comme sort divin inné. Vous pouvez le lancer deux fois par semaine.
 
 Ce sort peut seulement être utilisé pour voyager vers le Cimetière ou du Cimetière vers le Plan Matériel. Compte tenu de votre connection unique avec le Cimetière, votre corps sert de focalisateur et vous n'avez pas besoin d'un diapason.

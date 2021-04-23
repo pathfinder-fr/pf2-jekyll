@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous convoquez des créatures sauvages pour qu’elles vous viennent en aide.
 
-Vous pouvez passer dix minutes en lien avec la nature pour remplacer l’un des sorts que vous avez préparés dans l’un de vos emplacements de sort de druide par un sort de [Convocation d’animal](../sorts/convocation-d-animal.md) ou de [convocation de plantes et de champignons](../sorts/convocation-de-plante-ou-de-champignon.md) du même niveau.
+Vous pouvez passer dix minutes en lien avec la nature pour remplacer l’un des sorts que vous avez préparés dans l’un de vos emplacements de sort de druide par un sort de [Convocation d’animal](../sorts/convocation-d-animal.html) ou de [convocation de plantes et de champignons](../sorts/convocation-de-plante-ou-de-champignon.html) du même niveau.

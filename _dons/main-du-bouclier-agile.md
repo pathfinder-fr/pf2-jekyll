@@ -10,6 +10,6 @@ layout: dons
 ---
 Vous êtes si habitué à manier un bouclier que vous pouvez le faire lorsque vous utilisez la main qui est en train de le tenir pour d'autres besoins.
 
-La main que vous utilisez pour manier le bouclier compte comme une main libre pour les besoins de l'action [Interagir](../actions/interagir.md). Vous pouvez aussi tenir un autre objet dans sa main (mais vous ne pouvez toujours pas l'utiliser pour manier une arme).
+La main que vous utilisez pour manier le bouclier compte comme une main libre pour les besoins de l'action [Interagir](../actions/interagir.html). Vous pouvez aussi tenir un autre objet dans sa main (mais vous ne pouvez toujours pas l'utiliser pour manier une arme).
 
-Cet avantage ne s'applique pas au [pavois](../équipements/pavois.md), lequel est toujours trop encombrant.
+Cet avantage ne s'applique pas au [pavois](../équipements/pavois.html), lequel est toujours trop encombrant.

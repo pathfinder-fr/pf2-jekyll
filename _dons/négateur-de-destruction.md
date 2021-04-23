@@ -10,7 +10,7 @@ layout: dons
 ---
 **Prérequis** source de guérison
 
-**Conditions** Vous avez préparé un sort de [Guérison](../sorts/guérison.md) et vous n'êtes pas [Pris au dépourvu](../conditions/pris-au-dépourvu.md) par rapport à la source des dégâts.
+**Conditions** Vous avez préparé un sort de [Guérison](../sorts/guérison.html) et vous n'êtes pas [Pris au dépourvu](../conditions/pris-au-dépourvu.html) par rapport à la source des dégâts.
 
 **Déclencheur** Tout allié dans les 9 m que vous pouvez soigner avec votre sort de *Guérison* devrait subir les dégâts d'une attaque ou d'un effet provenant d'une source que vous pouvez observer.
 

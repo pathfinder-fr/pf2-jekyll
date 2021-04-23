@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/slip-with-the-breeze.json
 layout: dons
 ---
-Vous créez des bourrasques de vent lorsque vous sautez, vous permettant de vous transporter sur de plus grandes distances. Vous obtenez les dons de compétence [Saut rapide](saut-rapide.md) et [Bond puissant](bond-puissant.md) comme dons supplémentaires.
+Vous créez des bourrasques de vent lorsque vous sautez, vous permettant de vous transporter sur de plus grandes distances. Vous obtenez les dons de compétence [Saut rapide](saut-rapide.html) et [Bond puissant](bond-puissant.html) comme dons supplémentaires.

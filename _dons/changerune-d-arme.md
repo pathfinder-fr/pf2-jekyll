@@ -10,15 +10,15 @@ layout: dons
 ---
 Vous apprenez à modifier la magie des runes d’armes en utilisant un cristal comme composant de focalisation. Une fois par jour, lorsque vous effectuez vos préparatifs quotidiens, vous pouvez vous concentrer sur les énergies magiques d’une rune en l’observant à travers les facettes d’un cristal. Vous pouvez alors changer une seule rune de propriété sur une arme en votre possession pour supprimer ses effets habituels et la faire agir comme une autre rune de propriété. Vous pouvez modifier temporairement la rune et la faire fonctionner comme l’une des runes suivantes :
 
-- [boomerang](../équipements/boomerang-rune.md),
-- [corrosive](../équipements/corrosive-rune.md),
-- [douloureuse](../équipements/douloureuse-rune.md),
-- [enflammée](../équipements/enflammée-rune.md),
-- [foudre](../équipements/foudre-rune.md),</Li>
-- [froide](../équipements/froid-rune.md),</Li>
+- [boomerang](../équipements/boomerang-rune.html),
+- [corrosive](../équipements/corrosive-rune.html),
+- [douloureuse](../équipements/douloureuse-rune.html),
+- [enflammée](../équipements/enflammée-rune.html),
+- [foudre](../équipements/foudre-rune.html),</Li>
+- [froide](../équipements/froid-rune.html),</Li>
 <Li>@Compendium[pf2e.equipment-srd.fo6Yhq5mbQXsnZs0][sanglante},</Li>
-- [spectrale](../équipements/spectrale-rune.md) ou
-- [tonnerre](../équipements/tonnerre-rune.md).
+- [spectrale](../équipements/spectrale-rune.html) ou
+- [tonnerre](../équipements/tonnerre-rune.html).
 
 ul>
 La rune reste modifiée jusqu’à ce que vous effectuiez vos préparatifs quotidiens suivants. L’arme doit répondre aux prérequis de la rune temporaire et toute rune qui avait pour prérequis la rune effacée est également effacée tant que la rune est modifiée. Les modifications effectuées sur la rune sont visibles, empêchant de revendre l’arme comme si elle bénéficiait de la rune temporaire.

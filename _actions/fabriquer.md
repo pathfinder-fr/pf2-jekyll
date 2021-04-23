@@ -10,7 +10,7 @@ layout: actions
 type: passive
 typeFr: Passive
 ---
-Vous pouvez fabriquer un objet avec des matières premières. Vous devez avoir le don de compétence [Artisanat alchimique](../dons/artisanat-alchimique.md) pour créer des objets alchimiques, le don de compétence [Artisanat magique](../dons/artisanat-magique.md) pour créer des objets magiques et le don [Fabrication de pièges](../dons/fabrication-de-pièges-artisanaux.md) pour créer des pièges.
+Vous pouvez fabriquer un objet avec des matières premières. Vous devez avoir le don de compétence [Artisanat alchimique](../dons/artisanat-alchimique.html) pour créer des objets alchimiques, le don de compétence [Artisanat magique](../dons/artisanat-magique.html) pour créer des objets magiques et le don [Fabrication de pièges](../dons/fabrication-de-pièges-artisanaux.html) pour créer des pièges.
 
 Pour fabriquer un objet, vous devez satisfaire aux conditions suivantes :
 

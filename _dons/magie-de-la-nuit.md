@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous pouvez puiser dans la magie qui court dans votre sang.
 
-Vous obtenez [Forme animale](../sorts/forme-animale.md) (loup seulement, en utilisant les statistiques d'un canidé) et [Brume de dissimulation](../sorts/brume-de-dissimulation.md) comme des sorts divins innés de niveau 2. Vous pouvez lancer chacun de ces sorts une fois par jour.
+Vous obtenez [Forme animale](../sorts/forme-animale.html) (loup seulement, en utilisant les statistiques d'un canidé) et [Brume de dissimulation](../sorts/brume-de-dissimulation.html) comme des sorts divins innés de niveau 2. Vous pouvez lancer chacun de ces sorts une fois par jour.

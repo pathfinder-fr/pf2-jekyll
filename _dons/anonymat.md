@@ -10,4 +10,4 @@ layout: dons
 ---
 Votre masque vous protège de tout acte de divination.
 
-Une fois par jour, vous pouvez lancer sur vous le sort  [Antidétection](../sorts/antidétection.md), intensifié au plus haut niveau de sort que vous pouvez lancer ; le sort prend immédiatement fin si votre masque est ôté, même pour un bref instant.
+Une fois par jour, vous pouvez lancer sur vous le sort  [Antidétection](../sorts/antidétection.html), intensifié au plus haut niveau de sort que vous pouvez lancer ; le sort prend immédiatement fin si votre masque est ôté, même pour un bref instant.

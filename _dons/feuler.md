@@ -14,4 +14,4 @@ layout: dons
 
 Vous lancez un miaulement d'avertissement au visage de l'adversité, rappelant votre compagnon du bord de l'inconscience.
 
-Votre allié ne tombe pas et reste à 1 Point de vie. La condition [Blessé](../conditions/blessé.md) de votre allié augmente néanmoins de 1 comme s'il avait été mourant et avait récupéré.
+Votre allié ne tombe pas et reste à 1 Point de vie. La condition [Blessé](../conditions/blessé.html) de votre allié augmente néanmoins de 1 comme s'il avait été mourant et avait récupéré.

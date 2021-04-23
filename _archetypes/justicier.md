@@ -12,9 +12,9 @@ layout: archetypes
 
 En tant que Justicier, vous possédez deux visages : une personnalité publique et une identité secrète qui vous permet de cacher  vos actions illégales de la bonne société. Votre identité secrète vous permet de vous aventurer et d'entreprendre des missions clandestines tout en conservant les proches que vous connaissez en sécurité. Quel que soit votre objectif - combattre le crime, inciter à la rebellion, semer le chaos - votre identité de Justicier vous rend difficile à identifier et un sujet mystérieux et intrigant de ragots.
 
-**Don supplémentaire** 4e [Arme en main](../dons/arme-en-main.md)
+**Don supplémentaire** 4e [Arme en main](../dons/arme-en-main.html)
 
-<h2 style="text-align: left;">[Dévouement du Justicier](../dons/dévouement-de-justicier.md) Don 2
+<h2 style="text-align: left;">[Dévouement du Justicier](../dons/dévouement-de-justicier.html) Don 2
 
 **Prérequis** qualifié en Duperie
 
@@ -30,7 +30,7 @@ Pour manitenir la séparation entre vos identités, certaines de vos capacités 
 
 **Spécial** Vous ne pouvez pas choisir un autre don de dévouement avant d'avoir pris deux autres dons de l'archétype de Justicier.
 
-## [Magie cachée](../dons/magie-cachée.md) Don 4
+## [Magie cachée](../dons/magie-cachée.html) Don 4
 
 **Prérequis** expert en Arcanes, en Nature, en Occultisme ou en Religion, Dévouement de Justicier
 
@@ -38,7 +38,7 @@ Vous avez appris à masquer les auras magiques de votre équipement. Au cours de
 
 Un lanceur de sort utilisant <a class="entity-link" data-pack="pf2e.spells-srd" data-id="gpzpAAAJ1Lza2JVl" draggable="true">Détection de la Magie</a> ou <a class="entity-link" data-pack="pf2e.spells-srd" data-id="OhD2Z6rIGGD5ocZA" draggable="true">Lecture d'aura</a> doit réussir un test de Perception contre votre DD de Duperie pour percer votre masquage.
 
-## [Aspect du sbire](../dons/aspect-de-sbire.md) Don 4
+## [Aspect du sbire](../dons/aspect-de-sbire.html) Don 4
 
 **Prérequis** compagnon animal ou familier, expert en Duperie, Dévouement de justicier
 
@@ -48,7 +48,7 @@ Lorsque vous prenez votre identité sociale, vous changez aussi l'apparence de v
 
 Ordonnez à votre sbire ou à votre compagnons d'utiliser une magie inhabituelle ou des capacités de combat qu'il a obtenu par vos capacités de classe ou vos dons alors qu'il est sous cette identité sociale risque de vous exposer à révéler votre identité de Justicier.
 
-## [Planque sûre](../dons/planque-sûre.md) Don 4
+## [Planque sûre](../dons/planque-sûre.html) Don 4
 
 **Prérequis** Dévouement de Justicier
 
@@ -56,13 +56,13 @@ Vous préparez une planque sûre - un lieu où vous êtes en sécurité dans leq
 
 Cette planque est approximativement de la taille d'un cube de 3 m de côté. Il est dans un lieu auquel vous avez accès et il peut être une partie d'une construction plus grande ou d'une structure, comme une sale cachée dans une cave en sous-sol.
 
-La planque sûre protège les objets et les gens à l'intérieur de toute détection magique. Cela possède les effets d'[Antidétection](../sorts/antidétection.md), en utilisant votre modificateur de Duperie comme DD de contre et la moitié de votre niveau arrondi au niveau supérieur comme niveau de contre.
+La planque sûre protège les objets et les gens à l'intérieur de toute détection magique. Cela possède les effets d'[Antidétection](../sorts/antidétection.html), en utilisant votre modificateur de Duperie comme DD de contre et la moitié de votre niveau arrondi au niveau supérieur comme niveau de contre.
 
 Installer ou déplacer votre planque sûre prend une semaine d'Intermède.
 
 La taille de la planque sûre s'étend à quatre cubes de 3 m de côté si vous êtes un expert en Duperie, huit cubes si vous êtes un maître et seize cubes si vous êtes légendaire.
 
-## [Identité notoire](../dons/identité-notoire.md) Don 4
+## [Identité notoire](../dons/identité-notoire.html) Don 4
 
 **Prérequis** Dévouement de Justicier
 
@@ -70,7 +70,7 @@ Vous vous êtes construit une réputation propre sous votre identité sociale. C
 
 Ces dons deviennent une partie de votre identité sociale et obtiennent le trait social - par exemple un guerrier Justicier pourrait prendre le dévouement de magicien et avoir l'identité sociale d'un magicien. Utiliser ces dons sous votre identité sociale ne risque pas d'exposer votre identité de Justicier mais les utiliser sous votre identité de Justicier pourrait vous faire courir le risque de révéler votre identité.
 
-## [Apparition surprenante](../dons/apparition-surprenante-justicier.md) Don 6
+## [Apparition surprenante](../dons/apparition-surprenante-justicier.html) Don 6
 
 **Prérequis** Dévouement de Justicier
 
@@ -78,9 +78,9 @@ Ces dons deviennent une partie de votre identité sociale et obtiennent le trait
 
 Vous pouvez surprendre les ennemis qui sont inconscients de votre présence.
 
-Faites une [Frappe](../actions/frapper.md) contre votre cible. Cette créature est [Prise au dépourvu](../conditions/pris-au-dépourvu.md) contre cette Frappel, comme d'habitude. Si votre Frappe touche, la cible reste Prise au dépourvu pendant le reste de votre tour et elle est [Effayée](../conditions/effrayé.md) 1 (Effrayée 2 sur un coup critique).
+Faites une [Frappe](../actions/frapper.html) contre votre cible. Cette créature est [Prise au dépourvu](../conditions/pris-au-dépourvu.html) contre cette Frappel, comme d'habitude. Si votre Frappe touche, la cible reste Prise au dépourvu pendant le reste de votre tour et elle est [Effayée](../conditions/effrayé.html) 1 (Effrayée 2 sur un coup critique).
 
-## [Changement rapide](../dons/changement-rapide-justicier.md) Don 7
+## [Changement rapide](../dons/changement-rapide-justicier.html) Don 7
 
 **Prérequis** maître en Duperie, Dévouement de Justicier
 
@@ -88,15 +88,15 @@ Vous pouvez passer d'une identité à l'autre avec facilité.
 
 Au lieu de passer 1 minute à changer d'idtentité, vous pouvez maintenant le faire par une activité à 3 actions. Si vous êtes légendaire en Duperie, vous pouvez effectuer ce changement en une activité à 1 action.
 
-## [Vérité subjective](../dons/vérité-subjective.md) Don 7
+## [Vérité subjective](../dons/vérité-subjective.html) Don 7
 
 **Prérequis** maître en Duperie, Dévouement de Justicier
 
 Vos identités différentes vous permettent de tromper la magie qui détecte les mensonges.
 
-Tant que ce que vous dites est vrai du point de vue de votre identité actuelle, vous pouvez la dire même sous les effets de [Zone de Vérité](../sorts/zone-de-vérité.md) qui vous oblige à dire la vérité.
+Tant que ce que vous dites est vrai du point de vue de votre identité actuelle, vous pouvez la dire même sous les effets de [Zone de Vérité](../sorts/zone-de-vérité.html) qui vous oblige à dire la vérité.
 
-## [Aspects nombreux](../dons/aspects-nombreux.md) Don 8
+## [Aspects nombreux](../dons/aspects-nombreux.html) Don 8
 
 **Prérequis** maître en Duperie, Dévouement de Justicier
 
@@ -106,15 +106,15 @@ Cette identité n'est pas celle d'un individu spécifique - plutôt, vous devene
 
 Les sorts et capacités qui vous détectent comme si vous étiez sous cette identité ordinaire, au lieu d'une des deux identités réelles, à moins qu'elles ne réussissent un test de contre contre votre DD de Duperie. Vous ne poouvez utiliser aucune des capacités sociales ou de Justicier lorsque vous êtes sous cette identité.
 
-## [Apparition effrayante](../dons/apparition-effrayante.md) Don 12
+## [Apparition effrayante](../dons/apparition-effrayante.html) Don 12
 
 **Prérequis** expert en Intimidation, Apparition surprenante
 
 <Vos apparitions dramatiques peuvent effrayer les témoins.
 
-Lorsque vous faites une Apparition surprenante, vous pouvez essayer de [Démoraliser](../actions/démoraliser.md) chaque adversaire dans les 3 m qui ne vous avaient pas remarquer avant que vous ne [Frappiez](../actions/frapper.md).
+Lorsque vous faites une Apparition surprenante, vous pouvez essayer de [Démoraliser](../actions/démoraliser.html) chaque adversaire dans les 3 m qui ne vous avaient pas remarquer avant que vous ne [Frappiez](../actions/frapper.html).
 
-## [Apparition Étourdissante](../dons/apparition-étourdissante.md) Don 16
+## [Apparition Étourdissante](../dons/apparition-étourdissante.html) Don 16
 
 **Prérequis** Apparition surprenante
 

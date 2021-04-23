@@ -10,7 +10,7 @@ layout: dons
 ---
 Vous puisez dans le savoir collecté du divin, accédant à une multiplicité d'information potentiellement utile.
 
-Faites un test de Religion pour comprendre l'information que vous obtenez. Le MJ fixe le DD (similaire au DD de [Se souvenir](../actions/se-souvenir-connaissance.md)), en ajustant potentiellement le DD pour des sujets fort éloignés de votre mystère.
+Faites un test de Religion pour comprendre l'information que vous obtenez. Le MJ fixe le DD (similaire au DD de [Se souvenir](../actions/se-souvenir-connaissance.html)), en ajustant potentiellement le DD pour des sujets fort éloignés de votre mystère.
 
 **Succès critique** Vous comprenez le savoir précisément ou obtenez un indice utile du divin au sujet de votre situation.
 

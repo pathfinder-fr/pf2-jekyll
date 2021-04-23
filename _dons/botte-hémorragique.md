@@ -10,4 +10,4 @@ layout: dons
 ---
 Votre coup provoque une abondante hémorragie.
 
-Faites une [Frappe](../actions/frapper.md) tranchante ou perforante avec une arme ou une attaque à mains nues qui vous permet d'ajouter les dégâts de votre Frappe précise. Si vous touchez, la cible subit aussi des dégâts de saignement persistants égaux aux dégats de votre botte de Frappe précise.
+Faites une [Frappe](../actions/frapper.html) tranchante ou perforante avec une arme ou une attaque à mains nues qui vous permet d'ajouter les dégâts de votre Frappe précise. Si vous touchez, la cible subit aussi des dégâts de saignement persistants égaux aux dégats de votre botte de Frappe précise.

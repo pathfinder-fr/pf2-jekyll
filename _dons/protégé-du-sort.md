@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/safeguarded-spell.json
 layout: dons
 ---
-Vous synchronisez les longueurs d'ondes magiques de votre sort avec celles produites par votre propre corps. Si votre prochaine action consiste à [Lancer un sort](../actions/lancer-un-sort.md) avec une zone, vous ne serez pas affecté par le sort, même si vous vous trouvez dans cette zone.
+Vous synchronisez les longueurs d'ondes magiques de votre sort avec celles produites par votre propre corps. Si votre prochaine action consiste à [Lancer un sort](../actions/lancer-un-sort.html) avec une zone, vous ne serez pas affecté par le sort, même si vous vous trouvez dans cette zone.

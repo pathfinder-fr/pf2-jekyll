@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous pouvez faire remonter votre arbre généalogique jusqu'à une des Reines d'Irrisen et ainsi jusqu'à Baba Yaga elle-même.
 
-Votre résistance au froid augmente de 5 + la moitié de votre niveau et vous pouvez lancer [Mur de glace](../sorts/mur-de-glace.md) au niveau 5 comme un sort inné arcanique une fois par jour.
+Votre résistance au froid augmente de 5 + la moitié de votre niveau et vous pouvez lancer [Mur de glace](../sorts/mur-de-glace.html) au niveau 5 comme un sort inné arcanique une fois par jour.

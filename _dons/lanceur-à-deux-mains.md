@@ -8,7 +8,7 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/dual-thrower.json
 layout: dons
 ---
-Vous savez comment lancer deux armes aussi facilement que vous savez [Frapper](../actions/frapper.md) avec elles.
+Vous savez comment lancer deux armes aussi facilement que vous savez [Frapper](../actions/frapper.html) avec elles.
 
 Lorsqu'un don de combattant à deux armes vous permet de porter une Frappe au corps-à-corps, vous pouvez à la place porter une Frappe à distance avec une arme de jet ou une arme à une main que vous êtes en train de manier.
 

@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/rokoan-arts.json
 layout: dons
 ---
-Les esprits ancestraux ont commencé à se lier à vous, vous accordant les pouvoirs caractéristiques d'un Rokoa. Vous pouvez lancer [Communication avec les animaux](../sorts/communication-avec-les-animaux.md) et [Statut](../sorts/rapport.md) comme des sorts innés primordiaux chacun une fois par jour.
+Les esprits ancestraux ont commencé à se lier à vous, vous accordant les pouvoirs caractéristiques d'un Rokoa. Vous pouvez lancer [Communication avec les animaux](../sorts/communication-avec-les-animaux.html) et [Statut](../sorts/rapport.html) comme des sorts innés primordiaux chacun une fois par jour.

@@ -12,4 +12,4 @@ Votre physique rebonidssant rend plus facile pour vous de vous enfoncer dans des
 
 Vous devenez qualifié en Acrobaties. Si vous devriez automatiquement être qualifié en Acrobaties (du fait de votre héritage ou de votre classe, par example), vous devenez qualifié dans une compétence de votre choix à la place.
 
-Si vous obtenez un succès pour [vous Faufiler](../actions/se-faufiler.md), vous obtenez un succès critique à la place. Lorsque vous vous faufilez, vous obtenez un bonus de circonstances de +4 au DD de vos jets de Vigueur et de Réflexes contre les tentatives de vous [Pousser](../actions/pousser.md) ou vous faire bouger de l'espace que vous occupez.
+Si vous obtenez un succès pour [vous Faufiler](../actions/se-faufiler.html), vous obtenez un succès critique à la place. Lorsque vous vous faufilez, vous obtenez un bonus de circonstances de +4 au DD de vos jets de Vigueur et de Réflexes contre les tentatives de vous [Pousser](../actions/pousser.html) ou vous faire bouger de l'espace que vous occupez.

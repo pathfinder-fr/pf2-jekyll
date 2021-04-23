@@ -12,4 +12,4 @@ layout: dons
 
 **Déclencheur** Vous réussissez à saisir une créature de la même taille que vous ou plus petite.
 
-Vous Marchez rapidement de 3 mètres pour rentrer dans l'eau, emportant la créature [Agrippée](../conditions/agrippé-empoigné.md) avec vous dans l'eau.
+Vous Marchez rapidement de 3 mètres pour rentrer dans l'eau, emportant la créature [Agrippée](../conditions/agrippé-empoigné.html) avec vous dans l'eau.

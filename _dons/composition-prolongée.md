@@ -10,4 +10,4 @@ layout: dons
 ---
 Vos compositions durent plus longtemps grâce à l’ajout de fioritures.
 
-Vous apprenez le sort focalisé [Composition prolongée](../sorts/composition-prolongée.md). Augmentez de 1 le nombre de points de focalisation de votre réserve.
+Vous apprenez le sort focalisé [Composition prolongée](../sorts/composition-prolongée.html). Augmentez de 1 le nombre de points de focalisation de votre réserve.

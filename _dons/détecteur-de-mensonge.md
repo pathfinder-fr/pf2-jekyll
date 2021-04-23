@@ -10,6 +10,6 @@ layout: dons
 ---
 Vous êtes habitué à remarquer les racontars d'un menteur — qu'il s'agisse d'une suée, d'un rougissement, une voix tremblante ou un pouls qui s'accélère.
 
-Vous obtenez un bonus de circonstances de +1 aux tests de pour [Deviner les intentions](../actions/deviner-les-intentions.md) et aux DD de Perception contre les tentatives de vous [Mentir](../actions/mentir.md).
+Vous obtenez un bonus de circonstances de +1 aux tests de pour [Deviner les intentions](../actions/deviner-les-intentions.html) et aux DD de Perception contre les tentatives de vous [Mentir](../actions/mentir.html).
 
 Lorsque vous déterminez que quelqu'un vous ment, vous pouvez utiliser sa duperie à votre avantage pour gagner un bonus de circonstances de +1 au prochain test de Duperie, de Diplomatie, d'Intimidation ou de Représentation que vous tentez contre cette créature durant la minute suivante.

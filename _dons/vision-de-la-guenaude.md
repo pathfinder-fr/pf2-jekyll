@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/hag-s-sight.json
 layout: dons
 ---
-Vous avez fait grandir les capacités surnaturelles données par votre mère guenaude, plus particulièrement votre vision. Vous obtenez [Vision dans le noir](../capacités-ascendances/vision-dans-le-noir.md).
+Vous avez fait grandir les capacités surnaturelles données par votre mère guenaude, plus particulièrement votre vision. Vous obtenez [Vision dans le noir](../capacités-ascendances/vision-dans-le-noir.html).

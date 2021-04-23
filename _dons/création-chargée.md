@@ -10,4 +10,4 @@ layout: dons
 ---
 Votre magie est tirée de vos créations persistantes.
 
-Tant que vous vous trouvez à moins de 9 mètres et que vous avez une ligne d'effet sur votre création persistante, vous pouvez l'utiliser comme point d'origine pour vos sorts de ligne ou de cône. Par exemple, un [Éclair](../sorts/éclair.md) pourrait provenir de la création persistante plutôt que de vous.
+Tant que vous vous trouvez à moins de 9 mètres et que vous avez une ligne d'effet sur votre création persistante, vous pouvez l'utiliser comme point d'origine pour vos sorts de ligne ou de cône. Par exemple, un [Éclair](../sorts/éclair.html) pourrait provenir de la création persistante plutôt que de vous.

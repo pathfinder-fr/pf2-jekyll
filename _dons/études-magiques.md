@@ -10,4 +10,4 @@ layout: dons
 ---
 Alors que l'étude est la clé de votre succès, un peu de magie est toujours un outil utile lorsqu'il s'agit de découvrir les secrets du passé.
 
-Vous obtenez les tours de magie innés occultes [Assistance divine](../sorts/assistance-divine.md), [Détection de la magie](../actions/détection-de-la-magie.md) et [Lecture de l'aura](../sorts/lecture-de-l-aura.md).
+Vous obtenez les tours de magie innés occultes [Assistance divine](../sorts/assistance-divine.html), [Détection de la magie](../actions/détection-de-la-magie.html) et [Lecture de l'aura](../sorts/lecture-de-l-aura.html).

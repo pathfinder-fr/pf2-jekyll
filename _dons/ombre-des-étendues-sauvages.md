@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/shadow-of-the-wilds.json
 layout: dons
 ---
-Il est difficile de remarquer votre passage à travers les zones sauvages. Tant que vous n'êtes pas dans un  environnement urbain, vous êtes toujours considéré comme [Dissimuler les traces](../actions/dissimuler-des-traces.md), même si vous choisissez une activité différente en mode exploration.
+Il est difficile de remarquer votre passage à travers les zones sauvages. Tant que vous n'êtes pas dans un  environnement urbain, vous êtes toujours considéré comme [Dissimuler les traces](../actions/dissimuler-des-traces.html), même si vous choisissez une activité différente en mode exploration.

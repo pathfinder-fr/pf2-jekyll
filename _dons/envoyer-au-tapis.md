@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/shove-down.json
 layout: dons
 ---
-**Conditions** Votre dernière action était une [Poussée](../actions/pousser.md) réussie.
+**Conditions** Votre dernière action était une [Poussée](../actions/pousser.html) réussie.
 
-Vous utilisez votre poids pour faire trébucher les ennemis que vous déplacez. Vous tentez de faire un [Croc-en-jambe](../actions/croc-en-jambe.md) à la cible, même si la cible n'est plus dans votre allonge.
+Vous utilisez votre poids pour faire trébucher les ennemis que vous déplacez. Vous tentez de faire un [Croc-en-jambe](../actions/croc-en-jambe.html) à la cible, même si la cible n'est plus dans votre allonge.

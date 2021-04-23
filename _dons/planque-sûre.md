@@ -12,7 +12,7 @@ Vous préparez une planque sûre - un lieu où vous êtes en sécurité dans leq
 
 Cette planque est approximativement de la taille d'un cube de 3 m de côté. Il est dans un lieu auquel vous avez accès et il peut être une partie d'une construction plus grande ou d'une structure, comme une pièce cachée dans une cave en sous-sol.
 
-La planque sûre protège les objets et les gens à l'intérieur de toute détection magique. Elle possède les effets d'[Antidétection](../sorts/antidétection.md), en utilisant votre modificateur de Duperie comme DD de contre et la moitié de votre niveau arrondi au niveau supérieur comme niveau de contre.
+La planque sûre protège les objets et les gens à l'intérieur de toute détection magique. Elle possède les effets d'[Antidétection](../sorts/antidétection.html), en utilisant votre modificateur de Duperie comme DD de contre et la moitié de votre niveau arrondi au niveau supérieur comme niveau de contre.
 
 Installer ou déplacer votre planque sûre nécessite une semaine d'Intermède.
 

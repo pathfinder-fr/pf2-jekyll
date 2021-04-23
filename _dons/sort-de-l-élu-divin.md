@@ -12,6 +12,6 @@ layout: dons
 
 Lorsque vous focalisez votre magie sur un allié, vous pouvez retirer les conditions néfastes.
 
-Si votre prochaine action est de [Lancer un sort](../actions/lancer-un-sort.md) provenant d'un emplacement de sort et que ce sort ne cible qu'un unique allié, vous pouvez aussi tenter de délivrer cet allié d'une condition néfaste. La condition doit être une de celle qui pourrait être retirée en utilisant votre don Soulagement,incluant celles accordées par des dons plus tardifs comme [Soulagement supérieur](soulagement-supérieur.md).
+Si votre prochaine action est de [Lancer un sort](../actions/lancer-un-sort.html) provenant d'un emplacement de sort et que ce sort ne cible qu'un unique allié, vous pouvez aussi tenter de délivrer cet allié d'une condition néfaste. La condition doit être une de celle qui pourrait être retirée en utilisant votre don Soulagement,incluant celles accordées par des dons plus tardifs comme [Soulagement supérieur](soulagement-supérieur.html).
 
 Faites un test de contre basé sur le DD du sort et son niveau. Cet effet s'ajoute aux effets normaux de votre sort.

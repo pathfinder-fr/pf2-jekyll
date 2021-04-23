@@ -10,4 +10,4 @@ layout: dons
 ---
 **Fréquence** une fois toutes les 10 min
 
-Votre maîtrise de l’alchimie vous permet de ressusciter des morts récents. Vous pouvez administrer un élixir de vie ultime à une créature qui n’est pas morte depuis plus de 2 rounds. Quand vous effectuez cela, la créature revient immédiatement à la vie avec 1 point de vie et se trouve dans l’état [blessé](../conditions/blessé.md) 1.
+Votre maîtrise de l’alchimie vous permet de ressusciter des morts récents. Vous pouvez administrer un élixir de vie ultime à une créature qui n’est pas morte depuis plus de 2 rounds. Quand vous effectuez cela, la créature revient immédiatement à la vie avec 1 point de vie et se trouve dans l’état [blessé](../conditions/blessé.html) 1.

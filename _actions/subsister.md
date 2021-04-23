@@ -16,7 +16,7 @@ Vous tentez d’obtenir de la nourriture et un abri pour vous et potentiellement
 
 **Succès** Vous trouvez de la nourriture et un abri simple qui vous protège contre les éléments afin de bénéficier du strict minimum en matière de subsistance.
 
-**Échec** Vous êtes exposé aux éléments et n’obtenez pas assez de nourriture. Vous êtes [Fatigué](../conditions/fatigué.md) tant que vous n’obtenez pas suffisamment de nourriture et un abri convenable.
+**Échec** Vous êtes exposé aux éléments et n’obtenez pas assez de nourriture. Vous êtes [Fatigué](../conditions/fatigué.html) tant que vous n’obtenez pas suffisamment de nourriture et un abri convenable.
 
 **Échec critique** Vous rencontrez des problèmes, vous mangez quelque chose qui ne passe pas ou votre situation se détériore d’une façon ou d’une autre. Vous subissez un malus de circonstances de −2 aux tests pour Subsister pendant une semaine. Vous ne trouvez aucune nourriture ; si vous n’en avez pas en réserve, vous risquez de mourir de faim ou de soif si vous continuez à rater vos tests pour Subsister.
 

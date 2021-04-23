@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/unimpeded-step.json
 layout: dons
 ---
-Grâce à un apport soudain d’énergie divine libératrice, le déplacement de votre allié conféré par le [Pas libérateur](../actions/pas-libérateur.md) n’est pas affecté par les terrains difficiles ou très difficiles, les surfaces étroites et les terrains accidentés
+Grâce à un apport soudain d’énergie divine libératrice, le déplacement de votre allié conféré par le [Pas libérateur](../actions/pas-libérateur.html) n’est pas affecté par les terrains difficiles ou très difficiles, les surfaces étroites et les terrains accidentés

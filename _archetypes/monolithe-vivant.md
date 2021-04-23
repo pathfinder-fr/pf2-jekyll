@@ -12,7 +12,7 @@ layout: archetypes
 
 Vous avez puisé dans l’antique magie des sphinx pour imprégner votre corps et votre âme de la patience et de la force de la pierre tout en créant une pierre de ka magique spéciale pour sceller votre serment.
 
-## [Dévouement de Monolithe vivant](../dons/dévouement-de-monolithe-vivant.md) Don 2
+## [Dévouement de Monolithe vivant](../dons/dévouement-de-monolithe-vivant.html) Don 2
 
 **Prérequis** Connaître l’ancien osirien et la langue des sphinx, qualifié en Artisanat
 
@@ -22,7 +22,7 @@ Vous avez commencé la confection d’une pierre magique appelée pierre de ka q
 
 **Spécial** Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype monolithe vivant.
 
-## [Rituel de la pierre ka](../dons/rituel-de-la-pierre-ka.md) Don 4
+## [Rituel de la pierre ka](../dons/rituel-de-la-pierre-ka.html) Don 4
 
 **Prérequis** Dévouement de monolithe vivant, un sphinx ou un monolithe vivant doté de ce don accomplit un rituel avec vous
 
@@ -36,32 +36,32 @@ La pierre de ka vous donne un bonus d’objet de +1 aux jets de sauvegarde contr
 
 **Effet** Vous lancez <a class="entity-link" data-pack="pf2e.spells-srd" data-id="wzctak6BxOW8xvFV" draggable="true">Agrandissement</a> sur vous-même ou vous utilisez un autre pouvoir activable offert par un don de monolithe vivant obtenu ultérieurement.
 
-## [Sang de pierre](../dons/sang-de-pierre.md) Don 6
+## [Sang de pierre](../dons/sang-de-pierre.html) Don 6
 
 **Prérequis** Rituel de la pierre ka
 
-Vous mettez facilement fin à une hémorragie vous affectant. Faites passer le DD des tests nus pour arrêter un saignement persistant de 15 à 10. Vous pouvez utiliser une action unique dotée du trait concentration pour avoir le droit de faire un test nu rapidement, sans panser physiquement la plaie. Vous vous remettez de l’état [Drainé](../conditions/drainé.md) deux fois plus vite que la normale.
+Vous mettez facilement fin à une hémorragie vous affectant. Faites passer le DD des tests nus pour arrêter un saignement persistant de 15 à 10. Vous pouvez utiliser une action unique dotée du trait concentration pour avoir le droit de faire un test nu rapidement, sans panser physiquement la plaie. Vous vous remettez de l’état [Drainé](../conditions/drainé.html) deux fois plus vite que la normale.
 
-## [Renforcement de la chair](../dons/renforcement-de-la-chair.md) Don 8
+## [Renforcement de la chair](../dons/renforcement-de-la-chair.html) Don 8
 
 **Prérequis** Rituel de la pierre ka
 
 Votre chair devient aussi dure que de la pierre. Vous gagnez un montant de résistance contre les dégâts physiques (sauf ceux en adamantium) égal au nombre de dons que vous possédez grâce à l’archétype de monolithe vivant.
 
-## [Harmonisation avec la pierre](../dons/harmonisation-avec-la-pierre.md) Don 10
+## [Harmonisation avec la pierre](../dons/harmonisation-avec-la-pierre.html) Don 10
 
 **Prérequis** Rituel de la pierre ka
 
 Vous vous harmonisez avec la pierre qui vous entoure. Lorsque vous êtes en contact avec une surface de pierre, vous gagnez perception des vibrations (imprécise) dans un rayon de 1,5 m sur cette surface. Vous pouvez activer votre pierre de ka pour lancer <a class="entity-link" data-pack="pf2e.spells-srd" data-id="vh1RpbWfqdNC4L3P" draggable="true">Fusion dans la pierre</a>.
 
-## [Jugement du Monolithe](../dons/jugement-du-monolithe.md) Don 12
+## [Jugement du Monolithe](../dons/jugement-du-monolithe.html) Don 12
 
 **Prérequis** Rituel de la pierre ka
 
-Vous pouvez utiliser les serments liés dans votre pierre de ka pour obliger les vivants et les morts à révéler la vérité. Vous pouvez activer la pierre de ka pour viser une unique créature vivante et la soumettre aux effets d’une [Zone de vérité](../sorts/zone-de-vérité.md). Vous pouvez aussi l’activer à l’aide d’une activation (imaginer) de 10 minutes pour lancer [Cadavre loquace](../sorts/cadavre-loquace.md).
+Vous pouvez utiliser les serments liés dans votre pierre de ka pour obliger les vivants et les morts à révéler la vérité. Vous pouvez activer la pierre de ka pour viser une unique créature vivante et la soumettre aux effets d’une [Zone de vérité](../sorts/zone-de-vérité.html). Vous pouvez aussi l’activer à l’aide d’une activation (imaginer) de 10 minutes pour lancer [Cadavre loquace](../sorts/cadavre-loquace.html).
 .
-## [Communion avec la pierre](../dons/communion-avec-la-pierre.md) Don 14
+## [Communion avec la pierre](../dons/communion-avec-la-pierre.html) Don 14
 
 **Prérequis** Rituel de la pierre ka
 
-Vous entrez en communion avec la terre et les pierres. Vous apprenez le terreux et pouvez activer votre pierre de ka avec une activation de 10 minutes (imaginer) pour lancer [Pierre commère](../sorts/pierre-commère.md).
+Vous entrez en communion avec la terre et les pierres. Vous apprenez le terreux et pouvez activer votre pierre de ka avec une activation de 10 minutes (imaginer) pour lancer [Pierre commère](../sorts/pierre-commère.html).

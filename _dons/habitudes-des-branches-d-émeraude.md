@@ -10,6 +10,6 @@ layout: dons
 ---
 Vous vous sentez socialement à l'aise et capable dans la plupart des contextes culturels.
 
-Lorsque vous effectuez un test de compétence de Société pour [Subsister](../actions/subsister.md), si vous obtenez un échec critique, vous obtenez un échec à la place ; si vous obtenez un succès, vous obtenez un succès critique à la place ; et si vous obtenez un succès critique, vous pouvez fournir à une créature supplémentaire de quoi subsister.
+Lorsque vous effectuez un test de compétence de Société pour [Subsister](../actions/subsister.html), si vous obtenez un échec critique, vous obtenez un échec à la place ; si vous obtenez un succès, vous obtenez un succès critique à la place ; et si vous obtenez un succès critique, vous pouvez fournir à une créature supplémentaire de quoi subsister.
 
-De plus, lorsque vous tentez un test de Société pour [vous Souvenir](../actions/se-souvenir-société.md) de pratiques culturelles et obtenez un échec critique, vous obtenez un échec à la place.
+De plus, lorsque vous tentez un test de Société pour [vous Souvenir](../actions/se-souvenir-société.html) de pratiques culturelles et obtenez un échec critique, vous obtenez un échec à la place.

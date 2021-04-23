@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/devil-magic.json
 layout: dons
 ---
-Tirant sur le pouvoir infernal de vos sinistres ancêtres, vous trompez vos ennemis par des moyens magiques. Vous pouvez lancer [Invisibilité](../sorts/invisibilité.md) et [Détection faussée](../sorts/détection-faussée.md) chacun une fois par jour comme des sorts innés divins de niveau 2.
+Tirant sur le pouvoir infernal de vos sinistres ancêtres, vous trompez vos ennemis par des moyens magiques. Vous pouvez lancer [Invisibilité](../sorts/invisibilité.html) et [Détection faussée](../sorts/détection-faussée.html) chacun une fois par jour comme des sorts innés divins de niveau 2.

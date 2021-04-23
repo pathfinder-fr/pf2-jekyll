@@ -10,6 +10,6 @@ layout: actions
 type: action
 typeFr: Action Unique
 ---
-Vous portez une attaque incroyablement élégante qui transperce les défenses de votre ennemi. Effectuez une [Frappe](frapper.md) à l’aide d’une arme ou d’une attaque à mains nues qui permet d’appliquer vos dégâts de frappe précise, avec l’effet suivant en cas d’échec.
+Vous portez une attaque incroyablement élégante qui transperce les défenses de votre ennemi. Effectuez une [Frappe](frapper.html) à l’aide d’une arme ou d’une attaque à mains nues qui permet d’appliquer vos dégâts de frappe précise, avec l’effet suivant en cas d’échec.
 
-**Échec** Vous infligez la moitié de vos dégâts de [Frappe précise](../capacité-classe/frappe-précise.md) à la cible. Le type de ces dégâts est le même que celui de l’arme ou de l’attaque sans arme utilisée pour la Frappe.
+**Échec** Vous infligez la moitié de vos dégâts de [Frappe précise](../capacité-classe/frappe-précise.html) à la cible. Le type de ces dégâts est le même que celui de l’arme ou de l’attaque sans arme utilisée pour la Frappe.

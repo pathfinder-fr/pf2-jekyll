@@ -8,10 +8,10 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/gruesome-strike.json
 layout: dons
 ---
-**Prérequis** réaction de champion qui accorde des dégâts supplémentaires avec vos [Frappes](../actions/frapper.md), préceptes du mal
+**Prérequis** réaction de champion qui accorde des dégâts supplémentaires avec vos [Frappes](../actions/frapper.html), préceptes du mal
 
 **Conditions** Vos frappes infligent actuellement des dégâts supplémentaires du fait de votre réaction de champion.
 
-Portez une Frappe contre la créature qui a déclenché votre réaction de champion. Si vous touchez, la cible subit le double des dégâts supplémentaires de votre réaction et doit réussir un jet de Vigueur contre votre DD de classe ou être [Drainée](../conditions/drainé.md) 1.
+Portez une Frappe contre la créature qui a déclenché votre réaction de champion. Si vous touchez, la cible subit le double des dégâts supplémentaires de votre réaction et doit réussir un jet de Vigueur contre votre DD de classe ou être [Drainée](../conditions/drainé.html) 1.
 
 Quel que soit le résultat, la créature est temporairement immunisée à votre Frappe horrible pendant 24 heures.

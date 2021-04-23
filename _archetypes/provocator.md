@@ -12,7 +12,7 @@ layout: archetypes
 
 Le provocator est un gladiateur qui mélange une représentation brillante à la maîtrise des armes.
 
-## [ Dévouement du Provocator](../dons/dévouement-du-provocator.md) Don 10
+## [ Dévouement du Provocator](../dons/dévouement-du-provocator.html) Don 10
 
 **Prérequis** Force 14, Charisme 14
 
@@ -22,17 +22,17 @@ Pour vous, combattre est davantage une affaire de style que de compétence. Vous
 
 **Spécial** Vous ne pouvez choisir un autre don de dévouement avant d'avoir d'abord choisi deux autre dons de l'Archétype du Provocator.
 
-## [Esquive des chars](../dons/esquive-des-chars.md) Don 12
+## [Esquive des chars](../dons/esquive-des-chars.html) Don 12
 
 **Prérequis** Dévouement du Provocator
 
-**Conditions** Vous n'êtes pas [Surchargé](../conditions/surchargé.md) ou encombré.
+**Conditions** Vous n'êtes pas [Surchargé](../conditions/surchargé.html) ou encombré.
 
 **Déclencheur** Vous obtenez un succès ou un succès critique à un jet de Réflexes.
 
-Vous [Faites un pas](../actions/faire-un-pas.md) de 3 m.
+Vous [Faites un pas](../actions/faire-un-pas.html) de 3 m.
 
-## [Mise à mort spectaculaire](../dons/mise-à-mort-spectaculaire.md) Don 12
+## [Mise à mort spectaculaire](../dons/mise-à-mort-spectaculaire.html) Don 12
 
 **Prérequis** Dévouement du Provocator
 
@@ -40,23 +40,23 @@ Vous [Faites un pas](../actions/faire-un-pas.md) de 3 m.
 
 Faites un test de Représentation, en comparant le résultats au DD de Volonté de chaque adversaire dans les 9 m qui peut vous voir. Quel que soit le résultat, chaque cible est immunisée à votre Mise à mort sophistiquéependant 10 minutes.
 
-**Succès critique** La cible est [Effrayée](../conditions/effrayé.md) 2.
+**Succès critique** La cible est [Effrayée](../conditions/effrayé.html) 2.
 
 **Succès** LA cible est Effrayée 1.
 
-## [Cercle meurtrier](../dons/cercle-meurtrier.md) Don 14
+## [Cercle meurtrier](../dons/cercle-meurtrier.html) Don 14
 
 **Prérequis** dévouement du Provocator
 
-Vous Frappez une cible à portée et puis Faites un pasvers n'importe quelle autre case adjacente à la cible. Votre cible est alors [Prise au dépourvu](../conditions/pris-au-dépourvu.md) contre votre prochaine Frappe durant ce tour.
+Vous Frappez une cible à portée et puis Faites un pasvers n'importe quelle autre case adjacente à la cible. Votre cible est alors [Prise au dépourvu](../conditions/pris-au-dépourvu.html) contre votre prochaine Frappe durant ce tour.
 
-## [Épingler sur place](../dons/épingler-sur-place.md) Don 14
+## [Épingler sur place](../dons/épingler-sur-place.html) Don 14
 
 **Prérequis** Dévouement du Provocator
 
-Vous Frappez une cible à portée. Si vous touchez et infligez des dégâts, la cible est aussi [Entravée](../conditions/entravé.md) comme si vous aviez obtenu un succès critique avec un test d'Athlétisme pour la [Saisir](../actions/saisir.md).
+Vous Frappez une cible à portée. Si vous touchez et infligez des dégâts, la cible est aussi [Entravée](../conditions/entravé.html) comme si vous aviez obtenu un succès critique avec un test d'Athlétisme pour la [Saisir](../actions/saisir.html).
 
-## [Expert avec les armes de scène](../dons/expert-avec-les-armes-de-scène.md) Don 16
+## [Expert avec les armes de scène](../dons/expert-avec-les-armes-de-scène.html) Don 16
 
 **Prérequis** Dévouement du Provocator, expert avec n'importe quelle arme ou attaque à mains nues
 

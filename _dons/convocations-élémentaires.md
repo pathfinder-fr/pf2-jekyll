@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous pouvez faire appel aux quatre éléments.
 
-Vous pouvez passer 10 minutes en symbiose avec la nature pour remplacer un des sorts que vous avez préparé dans un des emplacements de sort de druide avec un sort de [Convocation d'élémentaire](../sorts/convocation-d-élémentaire.md) de même niveau.
+Vous pouvez passer 10 minutes en symbiose avec la nature pour remplacer un des sorts que vous avez préparé dans un des emplacements de sort de druide avec un sort de [Convocation d'élémentaire](../sorts/convocation-d-élémentaire.html) de même niveau.

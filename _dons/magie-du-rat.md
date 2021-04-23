@@ -10,4 +10,4 @@ layout: dons
 ---
 Il semble toujours y avoir un rat aux alentours pour transmettre vos messages.
 
-Vous pouvez lancer [Messager animal](../sorts/messager-animal.md) une fois par jour comme un sort primordial inné. Lorsque vous le faites, l'animal qui répond est toujours un rat. S'il n'y a pas de rats à portée, le sort est perdu.
+Vous pouvez lancer [Messager animal](../sorts/messager-animal.html) une fois par jour comme un sort primordial inné. Lorsque vous le faites, l'animal qui répond est toujours un rat. S'il n'y a pas de rats à portée, le sort est perdu.

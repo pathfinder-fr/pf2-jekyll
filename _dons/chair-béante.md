@@ -12,4 +12,4 @@ layout: dons
 
 **Déclencheur** Une créature dont vous êtes conscient vous fait subir des dégâts avec une Frappe au corps-à-corps.
 
-Vos blessures sont grandes ouvertes, révolntant votre agresseur. L'agresseur doit réussir un jet de Vigueur contre le plus élevé entre votre DD de classe ou un DD de sort ou devient [Malade](../conditions/malade.md) 1 (Malade 2 sur un échec critique). Il ne peut récupérer de la condition Malade tant qu'il est adjacent à vous.
+Vos blessures sont grandes ouvertes, révolntant votre agresseur. L'agresseur doit réussir un jet de Vigueur contre le plus élevé entre votre DD de classe ou un DD de sort ou devient [Malade](../conditions/malade.html) 1 (Malade 2 sur un échec critique). Il ne peut récupérer de la condition Malade tant qu'il est adjacent à vous.

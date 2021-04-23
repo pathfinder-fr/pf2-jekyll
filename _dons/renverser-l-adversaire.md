@@ -10,4 +10,4 @@ layout: dons
 ---
 **Déclencheur** Un allié réussit une Frappe au corps-à-corps contre un adversaire dont vous êtes tous deux adjacents.
 
-Vous profitez de l'ouverture créée par votre allié pour le renverser. Faites un test d'Athlétisme pour faire un [Croc-en-jambe](../actions/croc-en-jambe.md) à la cible de l'attaque déclencheuse.
+Vous profitez de l'ouverture créée par votre allié pour le renverser. Faites un test d'Athlétisme pour faire un [Croc-en-jambe](../actions/croc-en-jambe.html) à la cible de l'attaque déclencheuse.

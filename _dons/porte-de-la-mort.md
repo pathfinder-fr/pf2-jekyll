@@ -12,4 +12,4 @@ layout: dons
 
 **Déclencheur** Vous subissez des dégâts qui devrient vous faire passer à 0 Points de Vie.
 
-Vous continuez à vous battre là où d'autres succomberaient. Juste avant de subir les dégâts déclencheurs, vous obtenez temporairement des Points de vie égaux à deux fois votre niveau. S'il vous reste des Points de vie restants après avoir reçu ces points de vie temporaires, vous ne sombrez pas dans l'[inconscience](../conditions/inconscient.md), ni ne souffrez des autres effets d'être réduit à 0 Points de Vie. Tous Points de Vie temporaires qui vous resteraient après avoir appliqué les dégâts durent 4 rounds au mxaimum.
+Vous continuez à vous battre là où d'autres succomberaient. Juste avant de subir les dégâts déclencheurs, vous obtenez temporairement des Points de vie égaux à deux fois votre niveau. S'il vous reste des Points de vie restants après avoir reçu ces points de vie temporaires, vous ne sombrez pas dans l'[inconscience](../conditions/inconscient.html), ni ne souffrez des autres effets d'être réduit à 0 Points de Vie. Tous Points de Vie temporaires qui vous resteraient après avoir appliqué les dégâts durent 4 rounds au mxaimum.

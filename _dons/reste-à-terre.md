@@ -10,6 +10,6 @@ layout: dons
 ---
 **Prérequis** maître en Athlétisme
 
-**Déclencheur** Un adversaire [À terre](../conditions/à-terre.md) dans votre allonge [Se relève](../actions/se-relever.md).
+**Déclencheur** Un adversaire [À terre](../conditions/à-terre.html) dans votre allonge [Se relève](../actions/se-relever.html).
 
 Vous avez les moyens de garder vos adversaires à terre. Faites un test d'Athlétisme contre le DD de Vigueur de l'adversaire déclencheur. En cas de succès, il ne se relève pas et reste À terre. En cas de réussite critique, il ne peut se relever jusqu'à son prochain tour.

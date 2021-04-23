@@ -12,7 +12,7 @@ layout: archetypes
 
 Vous mêlez l’art de la magie aux prouesses martiales selon la tradition des Dix guerriers magiques du vieux mage Jatembe.
 
-## [Dévouement du guerrier magique](../dons/dévouement-du-guerrier-magique.md) Don 2
+## [Dévouement du guerrier magique](../dons/dévouement-du-guerrier-magique.html) Don 2
 
 **Prérequis** pouvoir lancer des sorts focalisés
 
@@ -29,20 +29,20 @@ vous avez des sorts de différentes traditions.)
 
 **Spécial** Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype guerrier magique.
 
-## [Aspect du Guerrier magique](../dons/aspect-du-guerrier-magique.md) Don 4
+## [Aspect du Guerrier magique](../dons/aspect-du-guerrier-magique.html) Don 4
 
 **Prérequis** Dévouement du Guerrier magique
 
 Vous pouvez changer votre apparence pour gagner un aspect de l’animal représenté sur votre masque. Vous gagnez le sort focalisé @Compendium[pf2e.spells-srd.b6UnLNikoq2Std1f][Aspect du guerrier magique}.
 
-## [Transformation du Guerrier magique](../dons/transformation-de-guerrier-magique.md) Don 4
+## [Transformation du Guerrier magique](../dons/transformation-de-guerrier-magique.html) Don 4
 
 **Prérequis** Dévouement du Guerrier magique
 
-Vous pouvez vous transformer entièrement en l’animal représenté sur votre masque. Vous gagnez le sort focalisé [Transformation du guerrier magique](../sorts/transformation-du-guerrier-magique.md).
+Vous pouvez vous transformer entièrement en l’animal représenté sur votre masque. Vous gagnez le sort focalisé [Transformation du guerrier magique](../sorts/transformation-du-guerrier-magique.html).
 
-## [Anonymat](../dons/anonymat.md) Don 6
+## [Anonymat](../dons/anonymat.html) Don 6
 
 **Prérequis** Dévouement du Guerrier magique
 
-Votre masque vous protège de tout acte de divination. Une fois par jour, vous pouvez lancer sur vous le sort  [Antidétection](../sorts/antidétection.md), intensifié au plus haut niveau de sort que vous pouvez lancer ; le sort prend immédiatement fin si votre masque est ôté, même pour un bref instant.
+Votre masque vous protège de tout acte de divination. Une fois par jour, vous pouvez lancer sur vous le sort  [Antidétection](../sorts/antidétection.html), intensifié au plus haut niveau de sort que vous pouvez lancer ; le sort prend immédiatement fin si votre masque est ôté, même pour un bref instant.

@@ -12,6 +12,6 @@ layout: dons
 
 Votre proie ne peut s'échapper.
 
-[Marchez rapidement](../actions/marcher-rapidement.md) jusqu'à votre Vitesse maximale, en suivant l'ennemi, en le gardant à portée malgré son déplacement jusqu'à ce qu'il arrête de se déplacer ou que vous ayez atteint votre Vitesse maximale.
+[Marchez rapidement](../actions/marcher-rapidement.html) jusqu'à votre Vitesse maximale, en suivant l'ennemi, en le gardant à portée malgré son déplacement jusqu'à ce qu'il arrête de se déplacer ou que vous ayez atteint votre Vitesse maximale.
 
-Vous pouvez Conserver le rythme pour [Creuser](../actions/creuser.md), [Grimper](../actions/escalader.md), [Nager](../actions/nager.md) ou [Voler](../actions/voler.md) au lieu de Marcher rapidement si vous possédez le type de déplacement correspondant.
+Vous pouvez Conserver le rythme pour [Creuser](../actions/creuser.html), [Grimper](../actions/escalader.html), [Nager](../actions/nager.html) ou [Voler](../actions/voler.html) au lieu de Marcher rapidement si vous possédez le type de déplacement correspondant.

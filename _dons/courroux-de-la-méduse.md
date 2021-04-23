@@ -10,4 +10,4 @@ layout: dons
 ---
 **Prérequis** sorts ki
 
-Vous apprenez une technique ki monstrueuse qui imprègne vos coups du pouvoir de pétrification du regard de la méduse. Vous obtenez le sort ki [Courroux de la méduse](../sorts/courroux-de-la-méduse.md). Augmentez le nombre de Points de focalisation de votre réserve de focalisation de 1.
+Vous apprenez une technique ki monstrueuse qui imprègne vos coups du pouvoir de pétrification du regard de la méduse. Vous obtenez le sort ki [Courroux de la méduse](../sorts/courroux-de-la-méduse.html). Augmentez le nombre de Points de focalisation de votre réserve de focalisation de 1.

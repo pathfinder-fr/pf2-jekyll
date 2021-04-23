@@ -12,4 +12,4 @@ layout: dons
 
 Inspiré par la légende d'Arnisant, vous transformez votre bouclier en protection magique.
 
-Jusqu'au début de votre prochain tour, vous obtenez la réaction [Absorber dans l'égide](../actions/absorber-dans-l-égide.md)
+Jusqu'au début de votre prochain tour, vous obtenez la réaction [Absorber dans l'égide](../actions/absorber-dans-l-égide.html)

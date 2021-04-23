@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous pouvez utiliser la magie pour montrer aux autres l'hospitalité du désert.
 
-Vous pouvez lancer [Création de nourriture](../sorts/création-de-nourriture.md) au niveau 2 une fois par jour et [Création d'eau](../sorts/création-d-eau.md) deux fois par jour comme des sorts arcaniques innés.
+Vous pouvez lancer [Création de nourriture](../sorts/création-de-nourriture.html) au niveau 2 une fois par jour et [Création d'eau](../sorts/création-d-eau.html) deux fois par jour comme des sorts arcaniques innés.

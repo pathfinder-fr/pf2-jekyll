@@ -14,14 +14,14 @@ Les gens sont si délicieusement fragiles lorsqu'ils sont exposés aux miracles 
 
 Dons supplémentaires :
 
-- 4e [Libération subtile](../dons/libération-subtile.md), [Résistance au poison](../dons/résistance-au-poison.md) 
-- 6e [Arme empoisonnée](../dons/arme-empoisonnée.md), [Toxines tenaces](../dons/toxines-tenaces.md)
-- 8e [Poison collant](../dons/poison-collant.md)
-- 10e [Arme empoisonnée améliorée](../dons/arme-empoisonnée-améliorée.md), [Empoisonneur opportun](../dons/empoisonneur-opportun.md)
-- 12e [Arme empoisonnée mortelle](../dons/arme-empoisonnée-mortelle.md)
-- 18th [Contagion chimique](../dons/contagion-chimique.md)
+- 4e [Libération subtile](../dons/libération-subtile.html), [Résistance au poison](../dons/résistance-au-poison.html) 
+- 6e [Arme empoisonnée](../dons/arme-empoisonnée.html), [Toxines tenaces](../dons/toxines-tenaces.html)
+- 8e [Poison collant](../dons/poison-collant.html)
+- 10e [Arme empoisonnée améliorée](../dons/arme-empoisonnée-améliorée.html), [Empoisonneur opportun](../dons/empoisonneur-opportun.html)
+- 12e [Arme empoisonnée mortelle](../dons/arme-empoisonnée-mortelle.html)
+- 18th [Contagion chimique](../dons/contagion-chimique.html)
 
-## [Dévouement d'Empoisonneur](../dons/dévouement-d-empoisonneur.md) Don 2
+## [Dévouement d'Empoisonneur](../dons/dévouement-d-empoisonneur.html) Don 2
 
 **Prérequis** qualifié en Artisanat
 
@@ -31,7 +31,7 @@ Vous obtenez les avantages d'alchimie basique, bien que vous ne puissiez l'utili
 
 **Spécial** Vous ne pouvez choisir un autre don  de dévouement avant d'avoir obtenu au moins deux autres dons de l'archétype d'Empoisonneur.
 
-## [Ajout de l'Empoisonneur](../dons/ajout-de-l-empoisonneur.md) Don 4
+## [Ajout de l'Empoisonneur](../dons/ajout-de-l-empoisonneur.html) Don 4
 
 **Prérequis** Dévouement d'Empoisonneur, qualifié en Médecine
 
@@ -43,17 +43,17 @@ Vous infligez <a class="inline-roll roll" data-mode="roll" data-flavor="" data-f
 
 Si vous êtes au moins au niveau 18, vous infligez <a class="inline-roll roll" data-mode="roll" data-flavor="" data-formula="2d6" title="2d6"><i class="fas fa-dice-d20"></i> 2d6</a> dégâts de chaque type.
 
-## [Empoisonneur expert](../dons/empoisonneur-expert.md) Don 6
+## [Empoisonneur expert](../dons/empoisonneur-expert.html) Don 6
 
 **Prérequis** Dévouement d'Empoisonneur, expert en Artisanat
 
 <Votre niveau d'<a class="entity-link" data-pack="pf2e.classfeatures" data-id="Pe0zmIqyTBc2Td0I" draggable="true">Alchimie avancée</a> pour le poison passe à votre niveau –3.
 
-## [Recouvert de Poison](../dons/recouvert-de-poison.md) Don 6
+## [Recouvert de Poison](../dons/recouvert-de-poison.html) Don 6
 
 **Prérequis** Dévouement d'empoisonneur
 
-**Déclencheur** Une créature qui vous est adjacente vous touche avec une [Frappe](../actions/frapper.md) d'attaque à mains nues.
+**Déclencheur** Une créature qui vous est adjacente vous touche avec une [Frappe](../actions/frapper.html) d'attaque à mains nues.
 
 **Conditions** Vous avez préparé vos vêtements pour qu'ils empoisonnent ceux qui vous attaquent (voir ci-dessous).
 
@@ -61,7 +61,7 @@ Dans la nature, certains animaux sont couverts d'épines venimeuses, de sorte qu
 
 Lorsque vous utilisez cette réaction, la créature déclencheuse est exposée au poison diffusé.
 
-## [Tolérance acquise](../dons/tolérance-acquise.md) Don 8
+## [Tolérance acquise](../dons/tolérance-acquise.html) Don 8
 
 **Prérequis** Dévouement d'Empoisonneur
 
@@ -71,4 +71,4 @@ Un petit peu de poison, pris à des doses non mortelles, peuvent aider le corps 
 
 Une fois que vous avez utilisé Tolérance acquise, vous pouvez continuez à l'utiliser contre le même type de poison durant cette journée, mais plus contre un type différent de poison jusqu'à ce que vous accomplissiez vos préparatifs quotidiens.
 
-Par exemple, si vous avez utilisé la réaction sur un jet contre le [Venin de scorpion géant](../équipements/venin-de-scorpion-géant.md), vous pourriez l'utiliser contre le venin de scorpion géant même s'il est issu d'une source différente, mais vous ne epourriez par l'utiliser contre la [Nettleweed Residue](../équipements/résidu-de-lierrortie.md), [Poussière de liche](../équipements/poussière-de-liche.md) ou un autre poison.
+Par exemple, si vous avez utilisé la réaction sur un jet contre le [Venin de scorpion géant](../équipements/venin-de-scorpion-géant.html), vous pourriez l'utiliser contre le venin de scorpion géant même s'il est issu d'une source différente, mais vous ne epourriez par l'utiliser contre la [Nettleweed Residue](../équipements/résidu-de-lierrortie.html), [Poussière de liche](../équipements/poussière-de-liche.html) ou un autre poison.

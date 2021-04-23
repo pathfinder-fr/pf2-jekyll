@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous pouvez entendre les déplacements de l'air comme de légers murmures.
 
-Vous obtenez le sort de ki [Ciel parlant](../sorts/ciel-parlant.md). Augmentez le nombre de Points de focalisation de votre réserve de focalisation de 1.
+Vous obtenez le sort de ki [Ciel parlant](../sorts/ciel-parlant.html). Augmentez le nombre de Points de focalisation de votre réserve de focalisation de 1.

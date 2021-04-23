@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/distracting-feint.json
 layout: dons
 ---
-Vos Feintes sont bien plus efficaces que la normale et attirent l’attention de vos ennemis, ce qui les rend plus vulnérables à vous et vos alliés. Quand une créature devient [prise au dépourvu](../conditions/pris-au-dépourvu.md) suite à votre Feinte, elle subit également un malus de circonstances de −2 à ses tests de Perception et à ses jets de Réflexes.
+Vos Feintes sont bien plus efficaces que la normale et attirent l’attention de vos ennemis, ce qui les rend plus vulnérables à vous et vos alliés. Quand une créature devient [prise au dépourvu](../conditions/pris-au-dépourvu.html) suite à votre Feinte, elle subit également un malus de circonstances de −2 à ses tests de Perception et à ses jets de Réflexes.

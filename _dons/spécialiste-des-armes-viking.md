@@ -10,6 +10,6 @@ layout: dons
 ---
 Vous êtes plus habile avec les armes de votre peuple.
 
-Vous obtenez les effets des critiques de spécialisation de la [Hache d'armes](../équipements/hache-d-armes.md), de la [Hachette](../équipements/hachette.md), de l'[Épée longue](../équipements/épée-longue.md) et de l'[Épée courte](../équipements/épée-courte.md).
+Vous obtenez les effets des critiques de spécialisation de la [Hache d'armes](../équipements/hache-d-armes.html), de la [Hachette](../équipements/hachette.html), de l'[Épée longue](../équipements/épée-longue.html) et de l'[Épée courte](../équipements/épée-courte.html).
 
 Lorsque vous obtenez une capacité de classe qui accorde la maîtrise experte ou supérieure avec certaines armes, vous obtenez aussi ce rang de maîtrise avec les quatre armes ci-dessus.

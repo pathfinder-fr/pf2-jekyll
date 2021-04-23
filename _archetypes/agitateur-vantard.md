@@ -12,7 +12,7 @@ layout: archetypes
 
 Beaucoup d'agitateurs voyagent dans la Mer intérieure en attirant l'attention sur eux-mêmes, faisant de grandes démonstrations de leurs exploits et proclamant leur hauts-faits.
 
-## [Dévouement d'Agitateur vantard](../dons/dévouement-d-agitateur-vantard.md) Don 4
+## [Dévouement d'Agitateur vantard](../dons/dévouement-d-agitateur-vantard.html) Don 4
 
 **Prérequis** Charisme 14, membre de second rang des Agitateurs vantards
 
@@ -24,19 +24,19 @@ Typiquement une tâche qui constitue un défi est une tâche ayant au moins un D
 
 **Spécial** Vous ne pouvez sélectionner un autre don de dévouement avant d'avoir choisi deux autres dons de l'archétype d'Agitateur vantard.
 
-## [Défi de vantardise](../dons/défi-de-vantardise.md) Don 6
+## [Défi de vantardise](../dons/défi-de-vantardise.html) Don 6
 
 **Prérequis** expert en Duperie, Diplomatie ou Intimidation ; Dévouement d'Agitateur vantard
 
 Vous interpellez un adversaire, provoquant son irritation et le rendant plus facile à battre. Choisissez une créature que vous pouvez voir et à qui vous pouvez lancer un défi. Pour votre défi, faites un test de Duperie, de Diplomatie ou d'Intimidation contre le DD de Volonté de cette créature. Votre défi doit inclure une composante linguistique, audible ou visuelle et obtient le trait correspondant. Si vous obtenez un succès, vous gagnez un bonus de statut de +2 aux dégâts de Frappe avec votre arme ou avec votre attaque à mains nues contre cet adversaire jusqu'à la fin de votre prochain tour ; si vous êtes maître dans la compétence que vous avez utilisée, vous obtenez un bonus de statut de +4 à la place et si vous êtes légendaire, vous obtenez un bonus de statut de +6. Sur un succès critique, le bonus de statut dure 3 rounds à la place. En cas de succès comme en cas d'échec, les créatures qui ont été les témoins de votre défi obtiennent un bonus de circonstances de +4 à leur DD de Volonté contre vos tentatives de les défier pendant 1 minute.
 
-## [Acte culotté](../dons/acte-culotté.md) Don 6
+## [Acte culotté](../dons/acte-culotté.html) Don 6
 
 **Prérequis** qualifié en Acrobaties ou en Athlétisme ; Dévouement d'Agitateur vantard
 
-Vous effectuez une manœuvre défiant la mort pour distraire vos ennemis. Choisissez un ennemi à portée dallonge et tentez soit un test d'Acrobaties ou d'Athlétisme contre le DD de Réflexes de votre cible. Si vous obtenez un succès, vous pôuvez [Marcher rapidement](../actions/marcher-rapidement.md) de la moitié de votre vitesse (ou de votre vitesse entière si vous avez obtenu un succès critique) sans déclencher de réaction de la part de votre cible liée à votre déplacement et la cible est [Prise au dépourvu](../conditions/pris-au-dépourvu.md) contre la prochaine attaque au corps à corps que vous tentez contre elle avant la fin de votre tour.
+Vous effectuez une manœuvre défiant la mort pour distraire vos ennemis. Choisissez un ennemi à portée dallonge et tentez soit un test d'Acrobaties ou d'Athlétisme contre le DD de Réflexes de votre cible. Si vous obtenez un succès, vous pôuvez [Marcher rapidement](../actions/marcher-rapidement.html) de la moitié de votre vitesse (ou de votre vitesse entière si vous avez obtenu un succès critique) sans déclencher de réaction de la part de votre cible liée à votre déplacement et la cible est [Prise au dépourvu](../conditions/pris-au-dépourvu.html) contre la prochaine attaque au corps à corps que vous tentez contre elle avant la fin de votre tour.
 
-## [Détermination du bravache](../dons/détermination-du-bravache.md) Don 8
+## [Détermination du bravache](../dons/détermination-du-bravache.html) Don 8
 
 **Prérequis** expert en Duperie, dévouement d'Agitateur vantard
 
@@ -46,9 +46,9 @@ Votre confiance frôle l'auto-persuasion, mais elle vous préserve du destins le
 
 **Succès critique** Vous évitez d'être abattu et restez à 1 Point de vie.
 
-**Succès** Vous évitez d'être abattu et restez à 1 Point de vie, mais vous augmentez vontre valeur de [Blessé](../conditions/blessé.md) de 1.
+**Succès** Vous évitez d'être abattu et restez à 1 Point de vie, mais vous augmentez vontre valeur de [Blessé](../conditions/blessé.html) de 1.
 
-## [Grande vantardise](../dons/grande-vantardise.md) Don 10
+## [Grande vantardise](../dons/grande-vantardise.html) Don 10
 
 **Prérequis** Charisme 16, Dévouement d'Agitateur
 
@@ -58,20 +58,20 @@ Une grande vantardise utilise l'action de dévouement de l'Agitateur vantard, à
 
 Une fois que vous avez lancé une grande vantardise à propos d'une action particulière, vous ne pouvez plus lancer de grande vantardise concernant la même action jusqu'à ce que vous fassiez vos préparatifs quotidiens, que ce soit un échec ou une réussite. Le minimum de la tâche à accomplir pour une grande vantardise est une tâche qui comporte au moins un DD difficile pour votre niveau.
 
-## [Sophistication culottée](../dons/sophistication-culottée.md) Don 10
+## [Sophistication culottée](../dons/sophistication-culottée.html) Don 10
 
 **Prérequis** Acte culotté
 
-Vous savez utiliser rapidement une ouverture créée par vos cascades insensées. À la fin de votre [Acte culotté](../dons/acte-culotté.md), vous pouvez porter une Frappe au corps à corps contre la cible ou tenter de la [Désarmer](../actions/désarmer.md). La cible est [Prise au dépourvue](../conditions/pris-au-dépourvu.md) contre la Frappe que vous portez durant l'Acte culotté ainsi que celle qui la suit tentée à son encontre avant la fin de votre tour.
+Vous savez utiliser rapidement une ouverture créée par vos cascades insensées. À la fin de votre [Acte culotté](../dons/acte-culotté.html), vous pouvez porter une Frappe au corps à corps contre la cible ou tenter de la [Désarmer](../actions/désarmer.html). La cible est [Prise au dépourvue](../conditions/pris-au-dépourvu.html) contre la Frappe que vous portez durant l'Acte culotté ainsi que celle qui la suit tentée à son encontre avant la fin de votre tour.
 
-## [Défi exigeant](../dons/défi-exigeant.md) Don 10
+## [Défi exigeant](../dons/défi-exigeant.html) Don 10
 
 **Prérequis** Défi de vantardise
 
 Si votre test de compétence pour défier un adversaire est un succès, la cible de votre défi subit une pénalité de circonstance de –1 à ses jets d'attaque (ou –2 si vous obtenez une réussite critique) jusqu'à la fin de votre prochain tour.
 
-## [Manœuvre téméraire](../dons/manœuvre-téméraire.md) Don 12
+## [Manœuvre téméraire](../dons/manœuvre-téméraire.html) Don 12
 
-**Prérequis** [Acte culotté](../dons/acte-culotté.md)
+**Prérequis** [Acte culotté](../dons/acte-culotté.html)
 
-Si le résultat de votre Acte culotté est un succès critique, vous pouvez pénétrer la case de votre adversaire et y rester jusqu'au début de votre prochain tour ou jusqu'à ce que votre adversaire se déplace, selon ce qui advient en premier. Vous obtenez un bonus de circonstances de +2 à la CA et votre cible est [Prise au dépourvue](../conditions/pris-au-dépourvu.md) contre vos attaques tant que vous partagez sa case de cette manière. Si une créature autre que votre cible vous touche sur un jet d'attaque alors que vous partagez la case de votre cible, faites un test nu contre un DD 15. Sur un succès, résolvez l'attaque contre votre cible au lieu de vous, en utilisant le même résultat que celui du jet d'attaque qui vous a touché.
+Si le résultat de votre Acte culotté est un succès critique, vous pouvez pénétrer la case de votre adversaire et y rester jusqu'au début de votre prochain tour ou jusqu'à ce que votre adversaire se déplace, selon ce qui advient en premier. Vous obtenez un bonus de circonstances de +2 à la CA et votre cible est [Prise au dépourvue](../conditions/pris-au-dépourvu.html) contre vos attaques tant que vous partagez sa case de cette manière. Si une créature autre que votre cible vous touche sur un jet d'attaque alors que vous partagez la case de votre cible, faites un test nu contre un DD 15. Sur un succès, résolvez l'attaque contre votre cible au lieu de vous, en utilisant le même résultat que celui du jet d'attaque qui vous a touché.

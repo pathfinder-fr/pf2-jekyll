@@ -14,39 +14,39 @@ Les arcs de tous les types sont des armes puissantes. Les généraux comme mes c
 
 **Dons supplémentaires**
 
-- 4e [Tir à bout portant](../dons/tir-à-bout-portant.md), [Tir de soutien](../dons/tir-de-soutien.md) ;
-- 6e [Double Tir](../dons/double-tir.md), [Rechargement en courant](../dons/rechargement-en-courant.md), [Tir en partant](../dons/tir-en-partant.md) ;
-- 8e [Triple Tir](../dons/triple-tir.md) ;
-- 10e [Posture de tir mobile](../dons/posture-de-tir-mobile.md) ;
-- 18e [Posture de tirs multiples](../dons/posture-de-tirs-multiples.md)
+- 4e [Tir à bout portant](../dons/tir-à-bout-portant.html), [Tir de soutien](../dons/tir-de-soutien.html) ;
+- 6e [Double Tir](../dons/double-tir.html), [Rechargement en courant](../dons/rechargement-en-courant.html), [Tir en partant](../dons/tir-en-partant.html) ;
+- 8e [Triple Tir](../dons/triple-tir.html) ;
+- 10e [Posture de tir mobile](../dons/posture-de-tir-mobile.html) ;
+- 18e [Posture de tirs multiples](../dons/posture-de-tirs-multiples.html)
 
-<h2 style="text-align: left;">[Dévouement de l'archer](../dons/dévouement-de-l-archer.md) Don 2
+<h2 style="text-align: left;">[Dévouement de l'archer](../dons/dévouement-de-l-archer.html) Don 2
 
 Vous êtes qualifié avec toutes les armes simples et de guerre figurant dans le groupe des arcs. Lorsque vous obtenez une capacité de classe qui vous accorde une maîtrise experte ou supérieure avec certaines armes, vous obtenez également ce rang de maîtrise avec toutes les armes simples et de guerre du groupe des arcs. Si vous êtes au moins expert dans l'arc que vous maniez, vous obtenez accès à l'effet de spécialisation critique avec cet arc.
 
 **Spécial** Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype d'Archer.
  
-## [Tir rapide](../dons/tir-rapide.md) Don 4
+## [Tir rapide](../dons/tir-rapide.html) Don 4
 
 **Prérequis** Dévouement de l'archer
 
 Vous dégainez votre arc et attaquez dans le même mouvement. Vous Intéragissez pour tirer une arme du groupe des arcs qui est chargée ou qui possède rechargement 0, puis Frappez avec cet arc.
 
-## [Entraînement à l'arc avancé](../dons/entraînement-à-l-arc-avancé.md) Don 6
+## [Entraînement à l'arc avancé](../dons/entraînement-à-l-arc-avancé.html) Don 6
 
 **Prérequis** Dévouement de l'archer
 
 À travers la pratique constante et le creuset de l'expérience, vous augmentez votre compétence avec les arcs avancés. Vous obtenez la maîtrise de tous les acrs avancés comme s'il s'agissait d'armes de guerre du groupe des arcs.
 
-## [Terreur à l'arbalète](../dons/terreur-à-l-arbalète.md) Don 6
+## [Terreur à l'arbalète](../dons/terreur-à-l-arbalète.html) Don 6
 
 **Prérequis** Dévouement de l'archer
 
 Vous êtes une machine avec une arbalète.
 
-Vous obtenez un bonus de circonstances de +2 aux dégâts avec l'arbalète. Si l'arbalète est une arme simple, vous augmentez aussi la taille de son dé de dégâts pour les attaques que vous portez avec cette arbalète d'un degré. Comme d'habitude, cette augmentation du dé de dégats ne peut être combinée avec d'autres capacités qui augmentent le dé de dégâts de l'arme (tel que le don de rôdeur [Arbalétrier émérite](../dons/arbalétrier-émérite.md)).
+Vous obtenez un bonus de circonstances de +2 aux dégâts avec l'arbalète. Si l'arbalète est une arme simple, vous augmentez aussi la taille de son dé de dégâts pour les attaques que vous portez avec cette arbalète d'un degré. Comme d'habitude, cette augmentation du dé de dégats ne peut être combinée avec d'autres capacités qui augmentent le dé de dégâts de l'arme (tel que le don de rôdeur [Arbalétrier émérite](../dons/arbalétrier-émérite.html)).
 
-## [Visée de l'archer](../dons/visée-de-l-archer.md) Don 8
+## [Visée de l'archer](../dons/visée-de-l-archer.html) Don 8
 
 **Prérequis** Dévouement de l'archer
 

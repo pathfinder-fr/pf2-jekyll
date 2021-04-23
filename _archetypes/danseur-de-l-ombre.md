@@ -18,10 +18,10 @@ Quelles que soient leurs raisons d'embrasser les ombres, les ombres embrassent e
 
 **Dons supplémentaires**
 
-- 10e [Esquive instinctive](../dons/esquive-instinctive.md)
-- 14e [Bondir depuis les ombres](../dons/bondir-depuis-les-ombres.md)
-- 16e [Percevoir l'inaperçu](../dons/percevoir-l-inaperçu.md)
-- 18e [Échappatoire cognitive](../dons/échappatoire-cognitive.md)
+- 10e [Esquive instinctive](../dons/esquive-instinctive.html)
+- 14e [Bondir depuis les ombres](../dons/bondir-depuis-les-ombres.html)
+- 16e [Percevoir l'inaperçu](../dons/percevoir-l-inaperçu.html)
+- 18e [Échappatoire cognitive](../dons/échappatoire-cognitive.html)
 
 ### **Appel des ombres
 
@@ -33,10 +33,10 @@ Bien qu'il soit dur de convaincre de nombreuses personnes autrement, étant donn
 
 ### **Sorts de focalisation des danseurs de l'ombre
 
-- 5e [Danse de l'ombre](../sorts/danse-de-ténèbre.md) ; [Saut de l'ombre](../sorts/saut-de-l-ombre.md); 
-- 6e [Illusion de l'ombre](../sorts/illusion-de-l-ombre.md)
+- 5e [Danse de l'ombre](../sorts/danse-de-ténèbre.html) ; [Saut de l'ombre](../sorts/saut-de-l-ombre.html); 
+- 6e [Illusion de l'ombre](../sorts/illusion-de-l-ombre.html)
 
-## [Dévouement de Danseur de l'ombre](../dons/dévouement-de-danseur-de-l-ombre.md) Don 8
+## [Dévouement de Danseur de l'ombre](../dons/dévouement-de-danseur-de-l-ombre.html) Don 8
 
 **Prérequis** maître en Discrétion, expert en Représentation
 
@@ -44,7 +44,7 @@ Vous vous dédiez aux ombres. Votre coloration devient grise et sombre, vos sens
 
 **Spécial** Vous ne pouvez pas choisir un autre don de dévouement avant d'avoir choisi deux autres dons de l'archétype de Danseur de l'ombre.
 
-## [Attaque sournoise de l'ombre](../dons/attaque-sournoise-de-l-ombre.md) Don 10
+## [Attaque sournoise de l'ombre](../dons/attaque-sournoise-de-l-ombre.html) Don 10
 
 **Prérequis** Dévouement de Danseur de l'ombre
 
@@ -52,44 +52,44 @@ Vous obtenez la capacité de classe <a class="entity-link" data-pack="pf2e.class
 
 L'attaque sournoise issue de plusieurs sources n'est pas cumulative. Si vous possédez une attaque sournoise de plus d'une source, utilisez seulement le plus haut nombre de dé lorsque vous portez une attaque sournoise au lieu d'ajouter les montants les uns aux autres.
 
-## [Magie de l'ombre](../dons/magie-de-l-ombre.md) Don 10
+## [Magie de l'ombre](../dons/magie-de-l-ombre.html) Don 10
 
 **Prérequis** Dévouement de Danseur de l'ombre
 
 Vous obtenez la capacité de vous fondre et de jouer avec les ombres en utilisant les sorts de focalisation spécifiques aux Danseurs de l'ombre.
 
-Vous apprenez un sort de focalisation de danseur de l'ombre de votre choix entre : [Danse de l'ombre](../sorts/danse-de-ténèbre.md) ou [Saut de l'ombre](../sorts/saut-de-l-ombre.md). Si vous n'en possédez pas déjà une, vous obtenez une réserve de focalisation de 1 Point de focalisation, que vous pouvez [Refocalisers en méditant dans une zone de lumière faible ou d'obscurité.
+Vous apprenez un sort de focalisation de danseur de l'ombre de votre choix entre : [Danse de l'ombre](../sorts/danse-de-ténèbre.html) ou [Saut de l'ombre](../sorts/saut-de-l-ombre.html). Si vous n'en possédez pas déjà une, vous obtenez une réserve de focalisation de 1 Point de focalisation, que vous pouvez [Refocalisers en méditant dans une zone de lumière faible ou d'obscurité.
 
 Les sorts de focalisation du Danseur de l'ombre sont des sorts occultes. Vous devenez qualifié en jets d'attaque des sorts occulteset en DD des sorts occultes et votre caractéristique d'incanttation avec ces sorts est le Charisme.
 
-## @Compendium[pf2e.feats-srd.NM5a1tF0OW5mVYdR]{Magie de l'ombre supplémentaire](../actions/refocaliser.md) Don 12
+## @Compendium[pf2e.feats-srd.NM5a1tF0OW5mVYdR]{Magie de l'ombre supplémentaire](../actions/refocaliser.html) Don 12
 
 **Prérequis** Magie de l'ombre
 
 Choisissez un sort de focalisation de danseur de l'ombre que vous n'avez pas déjà choisi issu de Magie de l'ombre. Augmentez le nombre de points de focalisation de votre réserve de focalisation de 1.
 
-## [Illusion de l'ombre](../dons/illusion-de-l-ombre.md) Don 12
+## [Illusion de l'ombre](../dons/illusion-de-l-ombre.html) Don 12
 
 **Prérequis** Magie de l'ombre
 
 Avec une touche artistique, vous façonnez les ombres en formes illusoires.
 
-Vous obtenez le sort de focalisation [Illusion de l'ombre](../sorts/illusion-de-l-ombre.md). Augmentez le nombre de points focalisation de votre réserve de focalisation de 1. Vous devenez un expert en attaque de sort occulte et aux DD des sorts occultes.
+Vous obtenez le sort de focalisation [Illusion de l'ombre](../sorts/illusion-de-l-ombre.html). Augmentez le nombre de points focalisation de votre réserve de focalisation de 1. Vous devenez un expert en attaque de sort occulte et aux DD des sorts occultes.
 
-## [Pouvoir de l'ombre](../dons/pouvoir-de-l-ombre.md) Don 14
+## [Pouvoir de l'ombre](../dons/pouvoir-de-l-ombre.html) Don 14
 
 **Prérequis** Magie de l'ombre
 
 Vous pouvez concentrer les ombres en une explosion puissante.
 
-Vous pouvez lancer [Explosion d'ombre](../sorts/explosion-d-ombre.md) comme un sort occulte inné une fois par jour. Son niveau est toujours de 1 niveau inférieur au niveau de vos sorts de focalisation de danseur de l'ombre. Vous devenez un expert en jet d'attaque de sorts occultes et en DD de sorts occultes.
+Vous pouvez lancer [Explosion d'ombre](../sorts/explosion-d-ombre.html) comme un sort occulte inné une fois par jour. Son niveau est toujours de 1 niveau inférieur au niveau de vos sorts de focalisation de danseur de l'ombre. Vous devenez un expert en jet d'attaque de sorts occultes et en DD de sorts occultes.
 
-## [Maître de l'ombre](../dons/maître-de-l-ombre.md) Don 18
+## [Maître de l'ombre](../dons/maître-de-l-ombre.html) Don 18
 
 **Prérequis** Magie de l'ombre
 
 Les ombres vous protègent mieux que n'importe quelle armure et elles vous donnent le pouvoir de plonger les autres dans l'obscurité.
 
-Lorsque vous vous trouvez dans une zone de lumière faible ou dans l'obscurité, vous obtenez une résistance 5 contre tous les dégâts sauf ceux de force et les dégâts des [Frappes](../actions/frapper.md) avec la rune de propriété [Spectrale](../équipements/spectrale-rune.md).
+Lorsque vous vous trouvez dans une zone de lumière faible ou dans l'obscurité, vous obtenez une résistance 5 contre tous les dégâts sauf ceux de force et les dégâts des [Frappes](../actions/frapper.html) avec la rune de propriété [Spectrale](../équipements/spectrale-rune.html).
 
 Lorsque vous effectuez un jet de Réflexes dans une zone de lumière faible ou d'obscurité, vous pouvez lancer deux fois les dés et prendre le meilleur résultat ; c'est un effet de chance.

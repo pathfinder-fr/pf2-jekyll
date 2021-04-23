@@ -8,7 +8,7 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/poison-coat.json
 layout: dons
 ---
-**Déclencheur** Une créature qui vous est adjacente vous touche avec une [Frappe](../actions/frapper.md) à mains nues.
+**Déclencheur** Une créature qui vous est adjacente vous touche avec une [Frappe](../actions/frapper.html) à mains nues.
 
 **Conditions** Vous avez préparé vos vêtements pour qu'ils empoisonnent ceux qui vous attaquent (voir ci-dessous).
 

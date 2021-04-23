@@ -12,4 +12,4 @@ layout: dons
 
 Vous avez appris à contrecarrer quelque peu les effets de votre malédiction.
 
-Si votre prochaine action consiste à [Lancer un sort](../actions/lancer-un-sort.md) de révélation, la sévérité de votre malédiction n'augmente pas.
+Si votre prochaine action consiste à [Lancer un sort](../actions/lancer-un-sort.html) de révélation, la sévérité de votre malédiction n'augmente pas.

@@ -10,4 +10,4 @@ layout: dons
 ---
 **Déclencheur** vous obtenez un coup critique sur un ennemi adjacent.
 
-Votre [Frappe](../actions/frapper.md) incroyablement vicieuse attire votre ennemi à proximité, vous donnant l'opportunité de l'attraper. Essayez de [Saisir](../actions/saisir.md) l'ennemi déclencheur.
+Votre [Frappe](../actions/frapper.html) incroyablement vicieuse attire votre ennemi à proximité, vous donnant l'opportunité de l'attraper. Essayez de [Saisir](../actions/saisir.html) l'ennemi déclencheur.

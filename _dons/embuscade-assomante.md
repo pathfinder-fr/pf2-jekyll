@@ -10,6 +10,6 @@ layout: dons
 ---
 **Accès** être aux côtés des Chiens de la laverie dans le conflit entre bandes.
 
-**Conditions** Vous maniez une arme au corps à corps qui inflige des dégâts contondants et et vous êtes [Caché](../conditions/caché.md) ou [Non détecté](../conditions/non-détecté.md) par un ennemi.
+**Conditions** Vous maniez une arme au corps à corps qui inflige des dégâts contondants et et vous êtes [Caché](../conditions/caché.html) ou [Non détecté](../conditions/non-détecté.html) par un ennemi.
 
-Vous sortez de votre cachette et délivrez un coup qui peut envoyez un ennemi s'affaler sur le sol. Vous Marchez rapidement jusqu'à la moitié de votre Vitesse de déplacement, mais vous devez terminer votre déplacement près d'un ennemi dont vous êtes caché ou non détecté. Vous Frappez alors avec l'arme requise ; si vous touchez, la cible est mise [À terre](../conditions/à-terre.md).
+Vous sortez de votre cachette et délivrez un coup qui peut envoyez un ennemi s'affaler sur le sol. Vous Marchez rapidement jusqu'à la moitié de votre Vitesse de déplacement, mais vous devez terminer votre déplacement près d'un ennemi dont vous êtes caché ou non détecté. Vous Frappez alors avec l'arme requise ; si vous touchez, la cible est mise [À terre](../conditions/à-terre.html).

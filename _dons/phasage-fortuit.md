@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous êtes devenu plus à l'aise avec votre penchant pour la disparition surnaturelle.
 
-Le DD du test nu de votre don Phasage inattendu descend à 11 et vous n'être plus [ébloui](../conditions/ébloui.md) si vous réussissez.
+Le DD du test nu de votre don Phasage inattendu descend à 11 et vous n'être plus [ébloui](../conditions/ébloui.html) si vous réussissez.

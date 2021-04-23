@@ -8,7 +8,7 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/reflecting-riposte.json
 layout: dons
 ---
-**Prérequis** [Riposte en duel](riposte-en-duel.md), [Bouclier miroir](bouclier-miroir.md) ou [Riposte jumelée](riposte-jumelée.md)
+**Prérequis** [Riposte en duel](riposte-en-duel.html), [Bouclier miroir](bouclier-miroir.html) ou [Riposte jumelée](riposte-jumelée.html)
 
 **Déclencheur** Un adversaire lance un sort et vous obtenez une réussite critique au jet de sauvegarde contre lui.
 

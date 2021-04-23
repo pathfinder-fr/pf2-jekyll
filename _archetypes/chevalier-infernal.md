@@ -14,9 +14,9 @@ Les Chevaliers infernaux sont parmi les plus féroces combattants de la Mer Int�
 
 ## Archétypes de Chevaliers infernaux
 
-Les archétypes suivants représentent des membres à part entière d'un ordre de Chevaliers infernaux. Vous pouvez choisir les dons de Dévouement pour ces archétypes même si vous n'avez pas déjà obtenu trois dons issus de l'archétype d'[Écuyer infernal](écuyer-des-chevaliers-infernaux.md). Un personnage ne peut pas avoir à la fois l'archétype de Chevalier infernal et celui de [Signifer](signifer.md).
+Les archétypes suivants représentent des membres à part entière d'un ordre de Chevaliers infernaux. Vous pouvez choisir les dons de Dévouement pour ces archétypes même si vous n'avez pas déjà obtenu trois dons issus de l'archétype d'[Écuyer infernal](écuyer-des-chevaliers-infernaux.html). Un personnage ne peut pas avoir à la fois l'archétype de Chevalier infernal et celui de [Signifer](signifer.html).
 
-## [Dévouement de Chevalier infernal](../dons/dévouement-de-chevalier-infernal.md) Don 6
+## [Dévouement de Chevalier infernal](../dons/dévouement-de-chevalier-infernal.html) Don 6
 
 **Prérequis** Dévouement d'Écuyer Chevalier infernal, alignement loyal, membre d'un ordre de Chevalier infernal, Réussir le test de Chevalier infernal
 
@@ -24,20 +24,20 @@ Vous avez forgé votre corps pour respecter les injonctions de votre esprit - de
 
 **Spécial** Vous ne pouvez obtenir de nouveau don de dévouement avant d'avoir obtenu deux autres dons d'archétypes de Chevalier infernal ou d'Écuyer chevalier infernal.
 
-## [Perception du chaos](../dons/perception-du-chaos.md) Don 8
+## [Perception du chaos](../dons/perception-du-chaos.html) Don 8
 
 **Prérequis** Dévouement de Chevalier infernal
 
 Vous sentez le chaos comme une sensation troublante d'énergie nerveuse. Lorsque vous êtes en présence d'une aura de chaos qui est puissante ou surpuissante, vous finissez par en ressentir l'aura et, bien que vous ne puissiez pas le faire instantanément, vous pouvez localiser le lieu de sa provenance. C'est un sens imprécis, similaire à celui de l'odorat chez un humain. Une créature chaotique utilisant un déguisement ou tentant autrement de cacher sa présence doit tenter un test de Duperie contre votre DD de Perception pour cacher son aura auprès de vous. Si la créature obtient un succès à son test, elle est temporairement immunisée contre votre Perception du chaos pendant 1 jour.
 
-## [Lame de Loi](../dons/lame-de-la-loi.md) Don 12
+## [Lame de Loi](../dons/lame-de-la-loi.html) Don 12
 
 **Prérequis** Dévouement de Chevalier infernal
 
 Vous invoquez la puissance de la loi et faites une Frappe avec une arme ou à mains nues contre un adversaire que vous avez vu violer ou ne pas respecter la Loi ou agir de manière désordonnée. La Frappe inflige deux dés de dégâts d’arme supplémentaires si la cible est d’alignement chaotique. Que la cible soit d’alignement chaotique ou non, vous pouvez convertir la totalité des dégâts physiques de l’attaque en dégâts de loi.
 
-## [Arsenal infernal](../dons/arsenal-infernal.md) Don 12
+## [Arsenal infernal](../dons/arsenal-infernal.html) Don 12
 
 **Prérequis** Dévouement de Chevalier infernal
 
-Vous vous êtes entrainé avec l'arme de votre ordre et votre [armure de Chevalier infernal](../équipements/armure-de-chevalier-infernal.md) suffisamment longtemps pour appliquer l'expertise martiale acquise avec d'autres armes et armures. Si vous avez la maîtrise experte avec n'importe quelle arme ou attaque à mains nues, vous êtes également expert avec l'arme de votre ordre. Si vous êtes expert avec n'importe quelle armure ou la défense sans armure, vous devenez également expert avec l'Armure de Chevalier infernal.
+Vous vous êtes entrainé avec l'arme de votre ordre et votre [armure de Chevalier infernal](../équipements/armure-de-chevalier-infernal.html) suffisamment longtemps pour appliquer l'expertise martiale acquise avec d'autres armes et armures. Si vous avez la maîtrise experte avec n'importe quelle arme ou attaque à mains nues, vous êtes également expert avec l'arme de votre ordre. Si vous êtes expert avec n'importe quelle armure ou la défense sans armure, vous devenez également expert avec l'Armure de Chevalier infernal.

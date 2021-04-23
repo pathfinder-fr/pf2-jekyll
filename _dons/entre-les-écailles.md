@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous sous-estimez est une grave erreur, mais c'est une de celle que les autres ne peuvent plus refaire. Vous avez appris à tirer parti des ouvertures dans les défenses de vos ennemis.
 
-Lorsque vous [Frappez](../actions/frapper.md) une créature [Prise au dépourvu](../conditions/pris-au-dépourvu.md) en utilisant une arme au corps-à-corps ou une attaque à mains nues qui possède les traits agile et finesse, elle obtient le trait traître.
+Lorsque vous [Frappez](../actions/frapper.html) une créature [Prise au dépourvu](../conditions/pris-au-dépourvu.html) en utilisant une arme au corps-à-corps ou une attaque à mains nues qui possède les traits agile et finesse, elle obtient le trait traître.

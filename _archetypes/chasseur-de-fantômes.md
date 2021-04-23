@@ -14,7 +14,7 @@ Les fantômes ont une large variété de capacités et de caractéristiques ; ja
 1
 Le chasseur de fantômes sait que les fantômes et les apparitions partagent nombre de caractéristiques. En se concentrant sur ces similitudes, ils peuvent les traquer, les confronter et vaincre toutes sortes d'esprits errants en les aidant à trouver la paix et à rejoindre l'après-vie.
 
-<h2 style="text-align: left;">[Dévouement de chasseur de fantômes](../dons/dévouement-de-chasseur-de-fantômes.md) Don 2
+<h2 style="text-align: left;">[Dévouement de chasseur de fantômes](../dons/dévouement-de-chasseur-de-fantômes.html) Don 2
 
 **Prérequis** Qualifié en Occultisme ou Religion
 
@@ -24,19 +24,19 @@ Choisissez deux tours de magie de la liste des sorts occultes. Chaque tour de ma
 
 **Spécial** Vous ne pouvez choisir d'autre don de dévouement avant d'avoir choisi deux autres dons de l'archétype de chasseur de fantômes.
 
-## [Voix du Tombeau](../dons/voix-du-tombeau.md) Don 4
+## [Voix du Tombeau](../dons/voix-du-tombeau.html) Don 4
 
 **Prérequis** Dévouement de chasseur de fantômes
 
 Vous pouvez utiliser à votre choix votre Connaissance des esprits ou votre Connaissance des apparitions pour Faire bonne impression ou Solliciter des choses des créatures intangibles. À la discrétion du MJ, un esprit intangible devrait vouloir vous entendre parler.
 
-## [Enquêter sur les apparititions](../dons/enquêter-sur-les-apparitions.md) Don 4
+## [Enquêter sur les apparititions](../dons/enquêter-sur-les-apparitions.html) Don 4
 
 **Prérequis** Dévouement de chasseur de fantômes
 
 Vous êtes compétent pour remarquer les signes de l'existence de fantômes et d'apparitions dans les histoires. Même lorsque vous n'êtes pas en train d'enquêter pas en mode exploration, vous obtenez un test pour Vous souvenir à propos des morts-vivants intangibles ou des apparititions actives dans la zone. Vous obtenez aussi un bonus de circonstances dee +2 aux tests de coméptence pour désamorcer les apparitions.
 
-## [Sorts spirituels](../dons/sorts-spirituels.md) Don 4
+## [Sorts spirituels](../dons/sorts-spirituels.html) Don 4
 
 **Prérequis** Dévouement de chasseur de fantômes
 
@@ -44,7 +44,7 @@ Votre capacité à vous confronter aux menaces intangibles se développe en une 
 
 Choisissez un sort occulte de niveau 1. Vous pouvez lancer ce sort comme un sort inné occulte. Au niveau 6, vous obtenez un sort occulte de niveau 2 et au niveau 8, vous obtenez un sort occulte de niveau 3. Chacun de ces sorts doit posséder les traits divination, enchantement ou nécromancie. Vous pouvez lancer chacun de ces sorts une fois par jour.
 
-## [Frappe spectrale](../dons/frappe-spectrale.md) Don 6
+## [Frappe spectrale](../dons/frappe-spectrale.html) Don 6
 
 **Prérequis** Dévouement de chasseur de fantômes
 
@@ -52,7 +52,7 @@ Une fois par jour, vous pouvez imprégner une arme que vous transportez avec des
 
 L'arme obtient les effets de la rune de propriété spectrale pendant 10 minutes. Au niveau 10, vous pouvez appliquer cet effet à deux armes au lieu d'une.
 
-## [Vision de l'au-delà](../dons/vision-de-l-au-delà.md) Don 8
+## [Vision de l'au-delà](../dons/vision-de-l-au-delà.html) Don 8
 
 **Prérequis** Dévouement de chasseur de fantômes
 

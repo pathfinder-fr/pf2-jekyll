@@ -14,17 +14,17 @@ Vous vivez une vie de liberté, prenant par la force et l'intimidation tout ce q
 
 Les pirates ont beaucoup en commun avec les bretteurs et beaucoup de pirates ont des niveaux de classe ou l'archétype de bretteur. A l'image des hauts faits d'un bretteur, les manœuvres du pirate classique sont souvent des dons démonstratifs dont l'objet est d'impressionner, d'intimider et dobtenir du panache. Par example, si vous avez la capacité de classe panache et que votre test d'Acrobaties pour un Assaut d'abordage excède le DD très difficile de votre niveau, vous devriez obtenir du panache.
 
-<h2 style="text-align: left;">[Dévouement du Pirate](../dons/dévouement-du-pirate.md) Don 2
+<h2 style="text-align: left;">[Dévouement du Pirate](../dons/dévouement-du-pirate.html) Don 2
 
 **Prérequis** qualifié en Intimidation
 
 En qualité de pirate, vous naviguez sur les océans à la recherche de navires ennemis à piller. Vous êtes qualifié en Connaissance de la Navigation ou devenez expert si vous étiez déjà qualifié.
 
-Vous ignorez les effets du terrain difficile ou d'un sol inégal provoqué par les déplacements d'un bateau. De plus, vous obtenez l'action [Assaut d'abordage](../actions/assaut-d-abordage.md).
+Vous ignorez les effets du terrain difficile ou d'un sol inégal provoqué par les déplacements d'un bateau. De plus, vous obtenez l'action [Assaut d'abordage](../actions/assaut-d-abordage.html).
 
 **Spécial** Vous ne pouvez choisir un autre don de Dévouement avant d'avoir choisi deux autres dont de l'archétype de pirate.
 
-## [Entraînement avec les armes de pirate](../dons/entraînement-avec-les-armes-de-pirate.md) Don 4
+## [Entraînement avec les armes de pirate](../dons/entraînement-avec-les-armes-de-pirate.html) Don 4
 
 **Prérequis** Dévouement du Pirate
 
@@ -32,7 +32,7 @@ Vous êtes particulièrement doué en maniant les armes de pirates traditionnell
 
 Lorsque vous obtenez une capacité de classe qui vous accorde la maîtrise experte ou supérieure avec une ou des armes données, vous obtenez aussi ce rang de maîtrise avec ces armes.
 
-## [Gabier éprouvé](../dons/gabier-éprouvé.md) Don 4
+## [Gabier éprouvé](../dons/gabier-éprouvé.html) Don 4
 
 **Prérequis** qualifié en Acrobaties et en Athlétisme, Dévouement de Pirate
 
@@ -40,12 +40,12 @@ Vous courez et grimpez en empruntant des cordes et en montant aux gréements aus
 
 Lorsque vous obtenez un succès lors d'un test d'Athlétisme pour grimper à une corde ou à un test d'Acrobaties pour <a class="entity-link" data-pack="pf2e.actionspf2e" data-id="M76ycLAqHoAgbcej" draggable="true">Garder l'équilibre</a> sur une corde, vous considérez qu'il s'agit d'un succès critique. Vous n'êtes pas <a class="entity-link" data-pack="pf2e.conditionitems" data-id="AJh5ex99aV6VTggg" draggable="true"><i class="fas fa-book-open"></i>Pris au dépourvu</a> lorsque vous Escaladez ou Gardez l'équilibre sur une corde.
 
-## [Marcher sur la planche](../dons/marcher-sur-la-planche.md) Don 8
+## [Marcher sur la planche](../dons/marcher-sur-la-planche.html) Don 8
 
 **Prérequis** Dévouement du Pirate
 
-Vous effrayez un adversaire et le déplacez là où vous voulez qu'il soit, traditionnellement en lui demandant de marcher sur la planche. Tentez de [Démoraliser](../actions/démoraliser.md) un adversaire ; ce test obtient le trait mise hors de combat.
+Vous effrayez un adversaire et le déplacez là où vous voulez qu'il soit, traditionnellement en lui demandant de marcher sur la planche. Tentez de [Démoraliser](../actions/démoraliser.html) un adversaire ; ce test obtient le trait mise hors de combat.
 
-En cas de succès, en plus des effets normaux, vous pouvez aussi forcer la cible à [Marcher rapidement](../actions/marcher-rapidement.md) jusqu'à sa Vitesse. Vous choisissez le chemin qu'emprunte la cible et elle le fait comme une composante de votre action Marcher sur la planche. Vous ne pouvez pas forcer la cible à se déplacer dans une case dangereuse (une dans laquelle elle pourrait subir des dégâts, tomber, provoquer des réactions ou similaires) à moins que le résultat de votre test pour la [Démoraliser](../actions/démoraliser.md) soit un succès critique.
+En cas de succès, en plus des effets normaux, vous pouvez aussi forcer la cible à [Marcher rapidement](../actions/marcher-rapidement.html) jusqu'à sa Vitesse. Vous choisissez le chemin qu'emprunte la cible et elle le fait comme une composante de votre action Marcher sur la planche. Vous ne pouvez pas forcer la cible à se déplacer dans une case dangereuse (une dans laquelle elle pourrait subir des dégâts, tomber, provoquer des réactions ou similaires) à moins que le résultat de votre test pour la [Démoraliser](../actions/démoraliser.html) soit un succès critique.
 
 La cible devient ensuite immunisée contre Marcher sur la planche pendant 24 heures.

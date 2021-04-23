@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous menez un assaut démonstratif qui laisse votre cible en déséquilibre.
 
-Faites une [Frappe](../actions/frapper.md) au corps-à-corps. Si vous touchez et infligez des dégâts, la cible est [Prise au dépourvu](../conditions/pris-au-dépourvu.md) jusqu'à la fin de son prochain tour.
+Faites une [Frappe](../actions/frapper.html) au corps-à-corps. Si vous touchez et infligez des dégâts, la cible est [Prise au dépourvu](../conditions/pris-au-dépourvu.html) jusqu'à la fin de son prochain tour.

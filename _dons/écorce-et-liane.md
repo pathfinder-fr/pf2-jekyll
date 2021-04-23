@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous êtes un réceptacle de la magie primordiale.
 
-Vous pouvez lancer [Peau d'écorce](../sorts/peau-d-écorce.md) et [Enchevêtrement](../sorts/enchevêtrement.md) comme sorts innés primordiaux de niveau 2 une fois par jour chacun.
+Vous pouvez lancer [Peau d'écorce](../sorts/peau-d-écorce.html) et [Enchevêtrement](../sorts/enchevêtrement.html) comme sorts innés primordiaux de niveau 2 une fois par jour chacun.

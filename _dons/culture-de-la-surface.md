@@ -10,4 +10,4 @@ layout: dons
 ---
 **Accès** n'importe quelle ethnie de nain vivant à la surface
 
-Vos interactions avec les autres cultures de la surface ne vous ont pas seulement appris des choses sur l'héritage culturel des autres, mais vous ont surtout aidé à réaliser la valeur de la vôtre. Vous devenez qualifié en Société (ou une autre compétence de votre choix si vous l'étiez déjà) et vous obtenez le don de compétence [Connaissances Supplémentaires](connaissances-supplémentaires.md) pour la Connaissance correspondant à votre culture (par exemple, Connaissance des Ouat ou Connaissance des Pahmet).
+Vos interactions avec les autres cultures de la surface ne vous ont pas seulement appris des choses sur l'héritage culturel des autres, mais vous ont surtout aidé à réaliser la valeur de la vôtre. Vous devenez qualifié en Société (ou une autre compétence de votre choix si vous l'étiez déjà) et vous obtenez le don de compétence [Connaissances Supplémentaires](connaissances-supplémentaires.html) pour la Connaissance correspondant à votre culture (par exemple, Connaissance des Ouat ou Connaissance des Pahmet).

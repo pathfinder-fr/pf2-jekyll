@@ -12,7 +12,7 @@ layout: archetypes
 
 Les plantes qui vous entourent peuvent procurer plus de remèdes que le plus réputé des hôpitaux ou des temples et vous êtes compétent dans leur utilisation.
 
-<h2 style="text-align: left;">[Dévouement d'herboriste](../dons/dévouement-d-herboriste.md) Don 2
+<h2 style="text-align: left;">[Dévouement d'herboriste](../dons/dévouement-d-herboriste.html) Don 2
 
 **Prérequis** qualifié en Nature, Médecine naturelle
 
@@ -22,21 +22,21 @@ Vous devenez un expert en Nature et pouvez utiliser Nature au lieu d'Artisanat p
 
 **Spécial** Vous ne pouvez pas choisir un autre don de dévouement avant d'avoir obtenu deux autres dons de l'archétype d'Herboriste.
 
-## [Ingrédients frais](../dons/ingrédients-frais.md) Don 4
+## [Ingrédients frais](../dons/ingrédients-frais.html) Don 4
 
 **Prérequis** Dévouement d'Herboriste, expert en Nature
 
-Lorsque vous utilisez [Médecine naturelle](../dons/médecine-naturelle.md) pour [Soigner les blessures](../actions/soigner-les-blessures.md), vous pouvez utiliser un lot d'herbes pour obtenir le bonus de circonstances de +2 lorsque vous disposez d'ingrédients frais, même si vous n'êtes pas dans la nature. Si vous dépensez un lot d'herbes dans la nature, vous obtenez un bonus de circonstances de +4 à la place.
+Lorsque vous utilisez [Médecine naturelle](../dons/médecine-naturelle.html) pour [Soigner les blessures](../actions/soigner-les-blessures.html), vous pouvez utiliser un lot d'herbes pour obtenir le bonus de circonstances de +2 lorsque vous disposez d'ingrédients frais, même si vous n'êtes pas dans la nature. Si vous dépensez un lot d'herbes dans la nature, vous obtenez un bonus de circonstances de +4 à la place.
 
-## [Préparation de cataplasme](../dons/préparation-de-cataplasme.md) Don 4
+## [Préparation de cataplasme](../dons/préparation-de-cataplasme.html) Don 4
 
 **Prérequis** Dévouement d'herboriste
 
-Lorsque vous créez un élixir avec des herbes, pour pouvez le préparer sous forme de cataplasme à la place. Un cataplasme obtient le trait huile (mais reste alchimique et non magique) et perd les traits élixir et ingéré. Vous pouvez appliquer un cataplasme en [Intéragissant](../actions/interagir.md) avec unee main.
+Lorsque vous créez un élixir avec des herbes, pour pouvez le préparer sous forme de cataplasme à la place. Un cataplasme obtient le trait huile (mais reste alchimique et non magique) et perd les traits élixir et ingéré. Vous pouvez appliquer un cataplasme en [Intéragissant](../actions/interagir.html) avec unee main.
 
 Lorsque vous appliquez un cataplasme, en plus des effetts normaux de l'objet, le bénéficiaire peut tenter un test nu immédiat pour récupérer d'une unique source de dégâts persistants d'acide, de feu ou de saignement avec la réduction au DD liée à une aide appropriée.
 
-## [Herbes endémiques](../dons/herbes-endémiques.md) Don 6
+## [Herbes endémiques](../dons/herbes-endémiques.html) Don 6
 
 **Prérequis** Dévouement d'herboriste, qualifié en Survie
 
@@ -53,10 +53,10 @@ L'avantage des herbes spécifiques affecte la créature sur laquelle l'objet est
 - **Marais** Retire une source de dégâts de saignement persistants.
 - **Souterrain** Obtient un bonus de circonstances de +1 à la Perception.
 
-## [Herboriste expert](../dons/herboriste-expert.md) Don 6
+## [Herboriste expert](../dons/herboriste-expert.html) Don 6
 
 **Prérequis** Dévouement d'herboriste, expert en Nature
 
-Votre niveau d'[Alchimie avancé](../capacité-classe/alchimie-avancée.md) pour l'herboristerie augmente jusqu'à votre niveau -3.
+Votre niveau d'[Alchimie avancé](../capacité-classe/alchimie-avancée.html) pour l'herboristerie augmente jusqu'à votre niveau -3.
 
-Vous obtenez les formules pour les élixirs de vie dès que votre niveau d'Alchimie avancé est suffisamment haut pour les créer : [inférieur](../équipements/élixir-de-vie-inférieur.md) au niveau 8, [modéré](../équipements/elixir-de-vie-modéré.md) au niveau 12, [supérieur](../équipements/elixir-de-vie-supérieur.md) au niveau 16 et [majeure](../équipements/elixir-de-vie-majeur.md) au niveau 18.
+Vous obtenez les formules pour les élixirs de vie dès que votre niveau d'Alchimie avancé est suffisamment haut pour les créer : [inférieur](../équipements/élixir-de-vie-inférieur.html) au niveau 8, [modéré](../équipements/elixir-de-vie-modéré.html) au niveau 12, [supérieur](../équipements/elixir-de-vie-supérieur.html) au niveau 16 et [majeure](../équipements/elixir-de-vie-majeur.html) au niveau 18.

@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/hymn-of-healing.json
 layout: dons
 ---
-Vous apprenez le sort de composition [Hymne de guérison](../sorts/hymne-de-guérison.md), qui imprègne votre magie de riches mélodies qui aident vos alliés à récupérer de leurs blessures.
+Vous apprenez le sort de composition [Hymne de guérison](../sorts/hymne-de-guérison.html), qui imprègne votre magie de riches mélodies qui aident vos alliés à récupérer de leurs blessures.

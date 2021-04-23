@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous êtes en harmonie avec les moindres sons et sensations des esprits qui n'ont pas trouvé le repos.
 
-Même si vous n'êtes pas en train de [Chercher](../actions/fouiller.md), vous pouvez essayer de tenter de trouver les apparitions qui nécessitent normalement que vous les Cherchiez activement. Vous avez toujours besoin de remplir les autres conditions pour trouver l'apparition.
+Même si vous n'êtes pas en train de [Chercher](../actions/fouiller.html), vous pouvez essayer de tenter de trouver les apparitions qui nécessitent normalement que vous les Cherchiez activement. Vous avez toujours besoin de remplir les autres conditions pour trouver l'apparition.

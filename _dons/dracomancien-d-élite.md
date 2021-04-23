@@ -10,6 +10,6 @@ layout: dons
 ---
 Votre magie rivalise avec celui des dragons inférieurs.
 
-Choisissez un sort de niveau 3 et un sort de niveau 4 parmi ceux listés pour un type de dragon incantateur du type de votre modèle tels qu'ils figurent dans le bestiaire (comme [Paralysie](../sorts/paralysie.md) et [Nuage puant](../sorts/nuage-nauséabond.md) pour un modèle dragon noir).
+Choisissez un sort de niveau 3 et un sort de niveau 4 parmi ceux listés pour un type de dragon incantateur du type de votre modèle tels qu'ils figurent dans le bestiaire (comme [Paralysie](../sorts/paralysie.html) et [Nuage puant](../sorts/nuage-nauséabond.html) pour un modèle dragon noir).
 
 Vous pouvez Lancer chacun de ces sorts une fois par jour comme un sort arcanique inné.

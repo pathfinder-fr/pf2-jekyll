@@ -12,4 +12,4 @@ layout: dons
 
 Vous pouvez surprendre les ennemis qui sont inconscients de votre présence.
 
-Faites une [Frappe](../actions/frapper.md) contre votre cible. Cette créature est [Prise au dépourvu](../conditions/pris-au-dépourvu.md) contre cette Frappe, comme à l'ordinaire. Si votre Frappe touche, la cible reste Prise au dépourvu pendant le reste de votre tour et elle est [Effrayée](../conditions/effrayé.md) 1 (Effrayée 2 sur un coup critique).
+Faites une [Frappe](../actions/frapper.html) contre votre cible. Cette créature est [Prise au dépourvu](../conditions/pris-au-dépourvu.html) contre cette Frappe, comme à l'ordinaire. Si votre Frappe touche, la cible reste Prise au dépourvu pendant le reste de votre tour et elle est [Effrayée](../conditions/effrayé.html) 1 (Effrayée 2 sur un coup critique).

@@ -12,7 +12,7 @@ layout: dons
 
 Vous utilisez les sens de votre familier aussi facilement que les vôtres.
 
-Vous projetez vos sens dans votre familier. Lorsque vous le faites, vous perdez toutes les informations sensorielles de votre propre corps mais vous pouvez ressentir à travers le corps de votre familier jusqu'à ce que vous [Révoquiez](../actions/révoquer.md) l'effet.
+Vous projetez vos sens dans votre familier. Lorsque vous le faites, vous perdez toutes les informations sensorielles de votre propre corps mais vous pouvez ressentir à travers le corps de votre familier jusqu'à ce que vous [Révoquiez](../actions/révoquer.html) l'effet.
 
 En projetant vos sens de cette manière, vous pouvez converser télépathiquement avec votre familier s'il comprend une langue.
 

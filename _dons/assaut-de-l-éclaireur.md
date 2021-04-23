@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous serpentez autour de vos ennemis de manière imprévisible et les faites tomber dans une embuscade sans le moindre avertissement.
 
-Choisissez un ennemi. [Marchez rapidement](../actions/marcher-rapidement.md), [Feintez](../actions/feinter.md) contre cet adversaire, puis faites une [Frappe](../actions/frapper.md) contre ce même adversaire. Pour effectuer votre Feinte, vous pouvez faire un test de Discrétion au lieu du test de Duperie habituellement requis car vous utilisez le terrain autour de vous pour surprendre votre adversaire sans défense.
+Choisissez un ennemi. [Marchez rapidement](../actions/marcher-rapidement.html), [Feintez](../actions/feinter.html) contre cet adversaire, puis faites une [Frappe](../actions/frapper.html) contre ce même adversaire. Pour effectuer votre Feinte, vous pouvez faire un test de Discrétion au lieu du test de Duperie habituellement requis car vous utilisez le terrain autour de vous pour surprendre votre adversaire sans défense.

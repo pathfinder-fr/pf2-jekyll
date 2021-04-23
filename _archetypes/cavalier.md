@@ -14,9 +14,9 @@ Vous êtes un combattant compétent et dévoué sur le champ de bataille qui se 
 
 ## Vœux du cavalier
 
-Beaucoup de cavaliers se vouent eux-mêmes au service d'une organisation spécifique ou un individu tel qu'une famille noble ou un souverain dirigeant, un ordre de chevalier ou une autre organisation, voire un idéal particulier. Un cavalier voué à un ordreou un idéal doit respecter ses édits et au respect des anathèmes qu'il possède ; par exemple, un cavalier voué à une cabale de druide de l'ordre de l'animal serait lié à cet anathème, alors qu'un cavalier voué à l'église d'Abadar serait tenu aux même règles qu'un prêtre de ce dieu. Si vous vous vouez vous-même à une entité ou une causesans un anathème défini, vous devriez voir avec le MJ à déterminer les édits et les anathèmes associés à votre vœu. Les cavaliers qui se sont voués eux-mêmes peuvent obtenir accès à certaines capacités en lien avec ce vœu, comme la bannière du Cavalier. Si vous violez l'anathème de votre vœu, vous perdez l'accès à ces dons  jusqu'à ce que vous puissiez bénéficier d'un rituel de [Pénitence](../sorts/pénitence.md). Changer l'objet de votre vœu est équivalent à un Réapprentissage d'une capacité de classe.
+Beaucoup de cavaliers se vouent eux-mêmes au service d'une organisation spécifique ou un individu tel qu'une famille noble ou un souverain dirigeant, un ordre de chevalier ou une autre organisation, voire un idéal particulier. Un cavalier voué à un ordreou un idéal doit respecter ses édits et au respect des anathèmes qu'il possède ; par exemple, un cavalier voué à une cabale de druide de l'ordre de l'animal serait lié à cet anathème, alors qu'un cavalier voué à l'église d'Abadar serait tenu aux même règles qu'un prêtre de ce dieu. Si vous vous vouez vous-même à une entité ou une causesans un anathème défini, vous devriez voir avec le MJ à déterminer les édits et les anathèmes associés à votre vœu. Les cavaliers qui se sont voués eux-mêmes peuvent obtenir accès à certaines capacités en lien avec ce vœu, comme la bannière du Cavalier. Si vous violez l'anathème de votre vœu, vous perdez l'accès à ces dons  jusqu'à ce que vous puissiez bénéficier d'un rituel de [Pénitence](../sorts/pénitence.html). Changer l'objet de votre vœu est équivalent à un Réapprentissage d'une capacité de classe.
 
-<span style="font-size: 1.5em;">[dévouement du cavalier](../dons/dévouement-de-cavalier.md) Don 2
+<span style="font-size: 1.5em;">[dévouement du cavalier](../dons/dévouement-de-cavalier.html) Don 2
 
 **Prérequis** qualifié en Nature ou Société
 
@@ -24,37 +24,37 @@ Vous obtenz un compagnon animal jeune qui vous sert de monture. Vous pouvez choi
 
 **Spécial** Vous ne pouvez choisir un autre don de dévouement avant d'avoir pris deux autres dons dans l'archétype de cavalier. Cette restriction est levée si vous vous êtes voué à l'organisation associée avec un autre don de dévouement. Par exemple, si vous vous vouez à un ordre de Chevalier infernal, vous pourriez prendre les dons de dévouement des Chevaliers infernaux sans avoir besoin de prendre en premier d'autres dons de l'archétype de cavalier.
 
-## [Bannière du Cavalier](../dons/bannière-du-cavalier.md) Don 4
+## [Bannière du Cavalier](../dons/bannière-du-cavalier.html) Don 4
 
 **Prérequis** Dévouement du cavalier
 
 **Conditions** Vous vous êtes voué au service d'une organisation spécifique ou à un idéal (vois les vœux du cavalier ci-dessous).
 
-Vous déployez la bannière correspondant à votre vœu depuis votre monture, pour soutenir le moral de vos alliés. Vous et tous vos alliés dans les 9 m obtenez un bonus de circonstances de +1 aux jets de Volonté et au DD contre les effets de terreur. Si votre bannière est détruite ou ôtée, vos alliés dans les 9 m deviennent [Effrayés](../conditions/effrayé.md) 1.
+Vous déployez la bannière correspondant à votre vœu depuis votre monture, pour soutenir le moral de vos alliés. Vous et tous vos alliés dans les 9 m obtenez un bonus de circonstances de +1 aux jets de Volonté et au DD contre les effets de terreur. Si votre bannière est détruite ou ôtée, vos alliés dans les 9 m deviennent [Effrayés](../conditions/effrayé.html) 1.
 
-## [Charge du cavalier](../dons/charge-du-cavalier.md) Don 4
+## [Charge du cavalier](../dons/charge-du-cavalier.html) Don 4
 
 **Prérequis** Dévouement du cavalier
 
 **Conditions** Vous montez votre monture.
 
-Vous [Dirigez un animal](../actions/diriger-un-animal.md) pour commander à votre monture de [Marcher rapidement](../actions/marcher-rapidement.md) deux fois. À tout endroit durant ce déplacement, vous pouvez [Frapper](../actions/frapper.md) un ennemi à portée ou dans le premier facteur de portée d'une arme à distance. Vous obtenez un bonus de circonstances de +1 à votre jet d'attaque.
+Vous [Dirigez un animal](../actions/diriger-un-animal.html) pour commander à votre monture de [Marcher rapidement](../actions/marcher-rapidement.html) deux fois. À tout endroit durant ce déplacement, vous pouvez [Frapper](../actions/frapper.html) un ennemi à portée ou dans le premier facteur de portée d'une arme à distance. Vous obtenez un bonus de circonstances de +1 à votre jet d'attaque.
 
-## [Monture impressionnante](../dons/monture-impressionnante.md) Don 4
+## [Monture impressionnante](../dons/monture-impressionnante.html) Don 4
 
 **Prérequis** Dévouement de cavalier
 
 <Vous avez entraîné votre monture à devenir une force puissante sur le champ de bataille. La monture que vous avez obtenue par le Dévouement de cavalier devient un compagnon animal adulte, lui accordant des capacités supplémentaires. Durant une rencontre, même si vous n'utilisez pas l'action Diriger un animal, votre compagnon animal peut toujours utiliser 1 action lors de votre tour pour <a class="entity-link" data-pack="pf2e.actionspf2e" data-id="Bcxarzksqt9ezrs6" draggable="true">Marcher rapidement</a> ou <a class="entity-link" data-pack="pf2e.actionspf2e" data-id="VjxZFuUXrCU94MWR" draggable="true">Frapper</a>.
 
-## [Vite en selle](../dons/vite-en-selle.md) Don 4
+## [Vite en selle](../dons/vite-en-selle.html) Don 4
 
 **Prérequis** Dévouement de cavalier, expert en Nature
 
 **Conditions** Vous êtes ajacent à une créature qui est d'au moins une taille de plus que vous et qui accepte d'être votre monture.
 
-Vous et votre monture pouvez passer à l'action en l'espace d'un instant. Vous [Montez](../actions/se-mettre-en-selle.md) la créature et [Dirigez un animal](../actions/diriger-un-animal.md) pour lui donner un ordre de votre choix.
+Vous et votre monture pouvez passer à l'action en l'espace d'un instant. Vous [Montez](../actions/se-mettre-en-selle.html) la créature et [Dirigez un animal](../actions/diriger-un-animal.html) pour lui donner un ordre de votre choix.
 
-## [Defendre sa monture](../dons/défendre-sa-monture.md) Don 6
+## [Defendre sa monture](../dons/défendre-sa-monture.html) Don 6
 
 **Prérequis** Dévouement de cavalier
 
@@ -62,7 +62,7 @@ Vous et votre monture pouvez passer à l'action en l'espace d'un instant. Vous [
 
 Vous vous interposez entre un attaquant et votre monture, protégeant votre monture contre les blessures. Utilisez votre propre CA contre l'attaque déclencheuse au lieu de la CA de votre monture. Si l'attque décelencheuse touche, vous subissez les effetts de l'attaque à la place de votre monture.
 
-## [Bouclier monté](../dons/bouclier-monté.md) Don 6
+## [Bouclier monté](../dons/bouclier-monté.html) Don 6
 
 **Prérequis** Dévouement de cavalier
 
@@ -70,7 +70,7 @@ Vous vous êtes entraîné avec votre bouclier à défendre à la fois votre mon
 
 Si vous avez la réaction <a class="entity-link" data-pack="pf2e.feats-srd" data-id="jM72TjJ965jocBV8" draggable="true">Blocage au bouclier</a>, vous pouvez l'utiliser en réponse aux dégâts subis par votre monture, tant que vous chevauchez votre monture. Si vous le faites, le bouclier empêche votre monture de subir des dégâts au lieu d'empêcher que vous subissiez les dégâts en suivant les règles habituelles de Blocage au bouclier.
 
-## [Formidable monture](../dons/formidable-monture.md) Don 8
+## [Formidable monture](../dons/formidable-monture.html) Don 8
 
 **Prérequis** Dévouement de cavalier
 
@@ -78,15 +78,15 @@ Si vous avez la réaction <a class="entity-link" data-pack="pf2e.feats-srd" data
 
 Grâce à vos soins et votre entraînement, votre monture a réalisé son potentiel inné. La monture que vous avez obtenue grâce à votre don de Dévouement de Cavalier devient un compagnon animal agile ou sauvage (à votre choix), obtenant des capacités supplémentaires déterminées par le type de compagnon animal.
 
-## [Charge piétinante](../dons/charge-piétinante.md) Don 10
+## [Charge piétinante](../dons/charge-piétinante.html) Don 10
 
 **Prérequis** Dévouement du cavalier
 
 **Conditions** Vous chevauchez une monture qui a une Frappe au corps à corps en utilisant ses pattes (des griffes, des ergots, des sabots,etc.).
 
-Vous poussez votre monture en avant, en piétinant les ennemis qui se trouvent sur son chemin. Vous ordonnez à votre monture de [Marcher rapidement](../actions/marcher-rapidement.md) jusqu'à sa Vitesse maximale (ou de [Creuser](../actions/creuser.md), [Grimper](../actions/escalader.md),  [Nager](../actions/nager.md) ou de @Compendium[pf2e.actionspf2e.cS9nfDRGD83bNU1p] {Voler} si elle a le type de déplacement correspondant), en se déplaçant à travers les cases de chaque adversaire dans son passage qui a jusqu'à une taille de moins que celle de votre monture. Votre monture inflige des dégâts égaux à ceux de la Frappe au corps à corps en utilisant ses pattes à chaque créature dont vous traversez la case, sujette à un jet de réflexes basique contre le DD d'Athlétisme de votre monture Sur un échec critique, la créature devient également Prise au dépourvu jusqu'à la fin de votre prochain tour. Vous ne pouvez blesser une créature donnée qu'une fois seulement durant ce déplacement.
+Vous poussez votre monture en avant, en piétinant les ennemis qui se trouvent sur son chemin. Vous ordonnez à votre monture de [Marcher rapidement](../actions/marcher-rapidement.html) jusqu'à sa Vitesse maximale (ou de [Creuser](../actions/creuser.html), [Grimper](../actions/escalader.html),  [Nager](../actions/nager.html) ou de @Compendium[pf2e.actionspf2e.cS9nfDRGD83bNU1p] {Voler} si elle a le type de déplacement correspondant), en se déplaçant à travers les cases de chaque adversaire dans son passage qui a jusqu'à une taille de moins que celle de votre monture. Votre monture inflige des dégâts égaux à ceux de la Frappe au corps à corps en utilisant ses pattes à chaque créature dont vous traversez la case, sujette à un jet de réflexes basique contre le DD d'Athlétisme de votre monture Sur un échec critique, la créature devient également Prise au dépourvu jusqu'à la fin de votre prochain tour. Vous ne pouvez blesser une créature donnée qu'une fois seulement durant ce déplacement.
 
-## [Désarçonner](../dons/désarçonner.md) Don 10
+## [Désarçonner](../dons/désarçonner.html) Don 10
 
 **Prérequis** Dévouement du cavalier
 
@@ -94,7 +94,7 @@ Vous poussez votre monture en avant, en piétinant les ennemis qui se trouvent s
 
 Vous tentez de faire tomber un adversaire de sa monture. Faites une <a class="entity-link" data-pack="pf2e.actionspf2e" data-id="VjxZFuUXrCU94MWR" draggable="true">Frappe</a> au corps à corps contre un adversaire monté. Si votre attaque touche, faites un test d'Athlétisme contre le DD de Vigueur de votre adversaire. En cas de réussite, l'adversaire est désarçonné de sa monturedans un espace de son choix adjacent à sa monture. En cas de réussite critique, il tombe <a class="entity-link" data-pack="pf2e.conditionitems" data-id="j91X7x0XSomq8d60" draggable="true"><i class="fas fa-book-open"></i>À terre</a>.
 
-## [Monture spécialisée](../dons/monture-spécialisée.md) Don 14
+## [Monture spécialisée](../dons/monture-spécialisée.html) Don 14
 
 **Prérequis** Dévouement du cavalier
 
@@ -104,8 +104,8 @@ Vous avez entraîné votre monture à se produire dans des circonstances inhabit
 
 **Spécial** Vous pouvez choisir ce don jusqu'à trois fois. Chaque fois, ajoutez une spécialisation différente à votre monture. Votre monture ne peut avoir plus de trois spécialisations.
 
-## [Chevaucheur légendaire](../dons/chevaucheur-légendaire.md) Don 20
+## [Chevaucheur légendaire](../dons/chevaucheur-légendaire.html) Don 20
 
 **Prérequis** Dévouement du cavalier
 
-Vous et votre monture ne formez qu'un être, lisant sans effort les signaux envoyés par l'autre. Lorsque vous chevauchez votre monture, vous êtes [Accéléré](../conditions/accéléré.md) ; vous ne pouvez utiliser la réaction supplémentaire que pour donner des ordres à votre monture en utilisant l'action de compétence [Diriger un animal](../actions/diriger-un-animal.md).
+Vous et votre monture ne formez qu'un être, lisant sans effort les signaux envoyés par l'autre. Lorsque vous chevauchez votre monture, vous êtes [Accéléré](../conditions/accéléré.html) ; vous ne pouvez utiliser la réaction supplémentaire que pour donner des ordres à votre monture en utilisant l'action de compétence [Diriger un animal](../actions/diriger-un-animal.html).

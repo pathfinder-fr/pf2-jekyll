@@ -10,6 +10,6 @@ layout: dons
 ---
 Vous êtes exceptionnel dans votre utilisation de deux armes.
 
-Vous obtenez le don de guerrier [Double taille](double-taille.md). Cela compte comme Double taille lorsque que vous avez besoin de remplir des prérequis.
+Vous obtenez le don de guerrier [Double taille](double-taille.html). Cela compte comme Double taille lorsque que vous avez besoin de remplir des prérequis.
 
 **Spécial** Vous ne pouvez choisir un autre don de dévouement tant que vous n'avez pas choisi deux autres dons de l'archétype de Combattant à deux armes.

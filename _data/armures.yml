@@ -88,7 +88,7 @@ bouclier-intercepteur-de-projectiles:
     
     **Déclencheur**Une Frappe avec une arme à distance prend pour cible une créature à 4,50 m ou moins de vous quand vous avez ce bouclier levé, et l’attaquant n’a pas encore fait son jet d’attaque;
     
-    **Effet** La Frappe qui déclenche l’effet vous prend pour cible à la place de celle prévue. Si elle touche, vous bénéficiez des effets de la réaction [Blocage au bouclier](../dons/blocage-au-bouclier.md)
+    **Effet** La Frappe qui déclenche l’effet vous prend pour cible à la place de celle prévue. Si elle touche, vous bénéficiez des effets de la réaction [Blocage au bouclier](../dons/blocage-au-bouclier.html)
 
 cuirasse:
   id: r0ifJfoz8aqf0mwk
@@ -530,7 +530,7 @@ armure-démoniaque:
     
     Si vous n’êtes pas d’alignement mauvais, vous êtes drainé 2 et ne pouvez pas vous débarrasser de cet état tant que vous portez l’*armure démoniaque*.
     
-    **Activation**<span style="font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;">D Sur ordre; **Fréquence** 1/jour; **Effet**  Vous lancez  [Porte dimensionnelle](../sorts/porte-dimensionnelle.md).
+    **Activation**<span style="font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;">D Sur ordre; **Fréquence** 1/jour; **Effet**  Vous lancez  [Porte dimensionnelle](../sorts/porte-dimensionnelle.html).
     
     **Conditions de fabrication** Vous êtes d’alignement mauvais ; fournir une incantation de *porte dimensionnelle*.
 
@@ -817,7 +817,7 @@ peau-d-anguille-électrique:
     
     **Fréquence** 1/heure;
     
-    **Effet** Vous lancez  [Décharge électrique](../sorts/décharge-électrique.md) au niveau 2 avec un DD de 29.
+    **Effet** Vous lancez  [Décharge électrique](../sorts/décharge-électrique.html) au niveau 2 avec un DD de 29.
     
     **Conditions de fabrication** Fournir une incantation de *décharge électrique*.
     
@@ -1018,15 +1018,15 @@ coquille-oubliée:
     - Magique
     - Rempart
   description: |
-    Cet harnois de résilience +2, fabriquée à partir de sinistres plaques de fer, couvre tout le corps à l'exception de petits trous pour les yeux et la bouche. Lorsque vous portez cette armure, vous bénéficiez des avantages du sort [Antidétection](../sorts/antidétection.md). De plus, les créatures qui tentent de Se souvenir d'un sujet vous impliquant doivent réussir une sauvegarde de Volonté DD 30. En cas de succès, elles peuvent tenter le test normalement. En cas d'échec, elles peuvent toujours tenter le test, mais même si elles réussissent à Se souvenir des connaissances, elles ne se souviennent pas de vous (bien qu'elles puissent se souvenir d'autres détails de l'événement). Les créatures qui échouent à leur jet de sauvegarde peuvent faire une autre tentative de Se souvenir à votre sujet, mais elles doivent attendre 24 heures pour le faire.
+    Cet harnois de résilience +2, fabriquée à partir de sinistres plaques de fer, couvre tout le corps à l'exception de petits trous pour les yeux et la bouche. Lorsque vous portez cette armure, vous bénéficiez des avantages du sort [Antidétection](../sorts/antidétection.html). De plus, les créatures qui tentent de Se souvenir d'un sujet vous impliquant doivent réussir une sauvegarde de Volonté DD 30. En cas de succès, elles peuvent tenter le test normalement. En cas d'échec, elles peuvent toujours tenter le test, mais même si elles réussissent à Se souvenir des connaissances, elles ne se souviennent pas de vous (bien qu'elles puissent se souvenir d'autres détails de l'événement). Les créatures qui échouent à leur jet de sauvegarde peuvent faire une autre tentative de Se souvenir à votre sujet, mais elles doivent attendre 24 heures pour le faire.
     
     Vous pouvez passer 1 heure à utiliser des outils de forgeron pour lier un humanoïde de taille Moyenne sans défense à l'intérieur de la combinaison, ce qui soude la combinaison et la rend impossible à enlever sans la casser (Solidé 9, PV 36, SR 18). L'humanoïde à l'intérieur de la combinaison est considéré comme investi tant qu'il est lié de cette manière et ne peut pas s'en libérer par lui-même. Si la combinaison est soudée, la créature bénéficie des avantages ci-dessus mais aussi des pénalités suivantes :
     
     - Chaque fois que l'humanoïde tente un test de Duperie, de Diplomatie, d'Intimidation ou de Performance, il doit lancer deux fois le dé et utiliser le plus mauvais résultat,
-    - De plus, les créatures que l'humanoïde rencontre ont une attitude initiale à leur égard qui est d'un degré pire que celle qu'elles auraient normalement (par exemple, [Inamical](../conditions/inamical.md) au lieu de [Indifférent](../conditions/indifférent.md)).
-    - Les créatures d'alignement bon sont [Affaibli](../conditions/affaibli.md) 2 lorsqu'elles transportent, manient ou portent cet objet fabriqué par les sorcières des mers.
+    - De plus, les créatures que l'humanoïde rencontre ont une attitude initiale à leur égard qui est d'un degré pire que celle qu'elles auraient normalement (par exemple, [Inamical](../conditions/inamical.html) au lieu de [Indifférent](../conditions/indifférent.html)).
+    - Les créatures d'alignement bon sont [Affaibli](../conditions/affaibli.html) 2 lorsqu'elles transportent, manient ou portent cet objet fabriqué par les sorcières des mers.
     
-    Conditions de fabrication : Fournir une incantation de Antidétection et [Malédiction du paria](../sorts/malédiction-du-paria.md).
+    Conditions de fabrication : Fournir une incantation de Antidétection et [Malédiction du paria](../sorts/malédiction-du-paria.html).
 
 harnois:
   id: Gq1cZWSKOtJhKd2p
@@ -1148,7 +1148,7 @@ harnois-glorieux:
     
     **Activation** <span style="font-family : 'Pathfinder2eActions' ; font-size : 1.8em ; display : inline;">D Sur ordre, Interagir
     
-    **Effet** L'armure vous lance [Sanctuaire](../sorts/sanctuaire.md).
+    **Effet** L'armure vous lance [Sanctuaire](../sorts/sanctuaire.html).
 
 armure-de-plates:
   id: pRoikbRo5HFW6YUB
@@ -1183,7 +1183,7 @@ armure-de-chevalier-infernal:
   traits:
     - Rempart
   description: |
-    <span>Peu d'armures au sein de la Région de la Mer Intérieure sont aussi mémorables que l'iconique Armure d'un Chevalier infernal. Bien que chaque ordre dispose de ses propres ornementations, l'armure de Chevalier infernal est instantanément reconnaissable pour n'importe qui a connaissance de l'existence des Chevaliers infernaux. Les Chevaliers infernaux prennent des mesures extrêmes pour punir les non Chevaliers infernaux qui mettent la main sur une armure de Chevalier infernal et cette récompense ne vaut souvent pas qu'on prenne ce risque, car pour ceux qui ne sont pas Chevaliers infernaux, l'armure fonctionne de manière similaire à un [Harnois](harnois.md).
+    <span>Peu d'armures au sein de la Région de la Mer Intérieure sont aussi mémorables que l'iconique Armure d'un Chevalier infernal. Bien que chaque ordre dispose de ses propres ornementations, l'armure de Chevalier infernal est instantanément reconnaissable pour n'importe qui a connaissance de l'existence des Chevaliers infernaux. Les Chevaliers infernaux prennent des mesures extrêmes pour punir les non Chevaliers infernaux qui mettent la main sur une armure de Chevalier infernal et cette récompense ne vaut souvent pas qu'on prenne ce risque, car pour ceux qui ne sont pas Chevaliers infernaux, l'armure fonctionne de manière similaire à un [Harnois](harnois.html).
 
 armure-de-peau:
   id: AnwzlOs0njF9Jqnr
@@ -1222,7 +1222,7 @@ armure-impénétrable:
     - Magique
   description: |
     <section class="content">
-    Cette armure d’écailles en adamantium de [Fortification](fortification-rune.md) de résilience supérieure +2 est faite d’écailles noires et lustrées en adamantium de qualité standard qui se chevauchent et semblent s’épaissir momenta‑ nément au point d’impact lorsqu’elle encaisse un coup.
+    Cette armure d’écailles en adamantium de [Fortification](fortification-rune.html) de résilience supérieure +2 est faite d’écailles noires et lustrées en adamantium de qualité standard qui se chevauchent et semblent s’épaissir momenta‑ nément au point d’impact lorsqu’elle encaisse un coup.
     
     Quand la rune de fortification remporte un succès en transformant un coup critique en coup normal, l’une des écailles devient violette. Vous gagnez une résistance aux dégâts physiques égale au nombre d’écailles violettes, sans dépasser 8.
     
@@ -1268,7 +1268,7 @@ bouclier-brise-mâchoire:
   description: |
     Ce lourd bouclier d'os est composé d'une plaque massive d'os de dinosaure avec des crêtes dentelées en forme de dent qui entourent son bord. Il a une Solidité de 12, 48 PV et un SR de 24. Les crêtes sont des pointes de bouclier de +1 inamovibles qui infligent des dégâts tranchants au lieu de dégâts perforants.
     
-    Lorsque vous tenez le bouclier brise-mâchoire, vous gagnez un bonus d'objet de +3 à votre DD de Réflexes pour résister aux attaques [Gober](../capacités-monstres/gober.md).
+    Lorsque vous tenez le bouclier brise-mâchoire, vous gagnez un bonus d'objet de +3 à votre DD de Réflexes pour résister aux attaques [Gober](../capacités-monstres/gober.html).
     
     **Activation** <span style="font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;">R Interagir
     
@@ -1486,7 +1486,7 @@ cri-de-méduse-supérieur:
     
     **Fréquence** une fois par heure;
     
-    **Effet** Vous révélez le visage de la méduse, concentrant son regard sur une créature dans un rayon de 9 mètres. Le bouclier lance [Chair en pierre](../sorts/chair-en-pierre.md) avec une portée de 9 mètres et un DD de 35.
+    **Effet** Vous révélez le visage de la méduse, concentrant son regard sur une créature dans un rayon de 9 mètres. Le bouclier lance [Chair en pierre](../sorts/chair-en-pierre.html) avec une portée de 9 mètres et un DD de 35.
     
     **Conditions de fabrication** Les matières premières initiales doivent inclure la tête d'une méduse.
     
@@ -1776,7 +1776,7 @@ bouclier-réfléchissant:
     
     **Conditions** Le *bouclier réfléchissant* est levé ;
     
-    **Effet** Vous tentez de renvoyer le sort sur son incantateur, avec les effets d’un [renvoi de sorts](../sorts/renvoi-de-sorts.md) de niveau 9 et un modificateur de contre de [[/r 1d20+40]].
+    **Effet** Vous tentez de renvoyer le sort sur son incantateur, avec les effets d’un [renvoi de sorts](../sorts/renvoi-de-sorts.html) de niveau 9 et un modificateur de contre de [[/r 1d20+40]].
     
     **Conditions de fabrication**  Fournir une incantation de *renvoi de sorts* et les matières premières initiales doivent inclure au moins 2 750 po d’argent.
 
@@ -2054,7 +2054,7 @@ costume-de-chevaucheur-pailleté:
   description: |
     Cette *armure de cuir clouté de résilience +1 *est ornée de paillettes colorées qui scintillent même dans la plus faible lumière.
     
-    Lorsque vous portez le costume de chevaucheur pailleté, vous gagnez un bonus d'objet de +2 pour [Diriger un animal](../capacités-monstres/gober.md) que vous montez.
+    Lorsque vous portez le costume de chevaucheur pailleté, vous gagnez un bonus d'objet de +2 pour [Diriger un animal](../capacités-monstres/gober.html) que vous montez.
     
     Tout animal que vous montez connaît automatiquement les actions de base Se jeter à terre et Faire un pas, en plus de toutes les autres actions de base qu'il connaît (normalement seulement Bondir, Chercher, Se relever, Marcher rapidement et Frapper).
     

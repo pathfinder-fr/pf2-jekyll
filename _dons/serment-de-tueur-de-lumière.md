@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous avez juré d'éradiquer le monde des êtres célestes emplis de suffisance. Ajoutez le précepte suivant à votre code, après les autres préceptes. “Vous devez bannir ou massacrer les célestes que vous rencontrez tant que vous avez une chance raisonnable de succès ; dans l'éventualité incroyable qui vous ferait découvrir un céleste maléfique, vous n'avez ni à le bannir, ni à le tuer.”
 
-Lorsque vous utilisez votre réaction de champion contre un céleste, les dégâts supplémentaires que vous infligez avec vos [Frappes](../actions/frapper.md) augmentent de 1 (ou de 2 au niveau 9 et de 3 au niveau 16).
+Lorsque vous utilisez votre réaction de champion contre un céleste, les dégâts supplémentaires que vous infligez avec vos [Frappes](../actions/frapper.html) augmentent de 1 (ou de 2 au niveau 9 et de 3 au niveau 16).

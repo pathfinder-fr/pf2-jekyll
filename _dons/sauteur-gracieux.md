@@ -10,4 +10,4 @@ layout: dons
 ---
 La masse et les muscles sont sans intérêt lorsque vous sautez ; seuls la grâce et l'équilibre importent.
 
-Vous pouvez faire un test d'Acrobaties au lieu d'un test d'Athlétisme lorsque vous effectuez un [Saut en hauteur](../actions/sauter-en-hauteur.md) ou un [Saut en longueur](../actions/sauter-en-longueur.md).
+Vous pouvez faire un test d'Acrobaties au lieu d'un test d'Athlétisme lorsque vous effectuez un [Saut en hauteur](../actions/sauter-en-hauteur.html) ou un [Saut en longueur](../actions/sauter-en-longueur.html).

@@ -12,15 +12,15 @@ layout: archetypes
 
 Vous êtes un artiste compétent avec un équilibre et une coordination impressionnantes qui vous aide considérablement durant la bataille
 
-## [Dévouement de Jongleur](../dons/dévouement-du-jongleur.md) Don 2
+## [Dévouement de Jongleur](../dons/dévouement-du-jongleur.html) Don 2
 
 **Prérequis** Dextérité 14
 
-Vous devenez qualifié en Représentation ; si vous l'étiez déjà, vous devenez qualifié dans une compétence de votre choix. Vous obtenez aussi le don de compétence [Jonglage](../dons/jonglage.md), même si vous n'en remplissez pas les conditions.
+Vous devenez qualifié en Représentation ; si vous l'étiez déjà, vous devenez qualifié dans une compétence de votre choix. Vous obtenez aussi le don de compétence [Jonglage](../dons/jonglage.html), même si vous n'en remplissez pas les conditions.
 
 **Spécial** Vous ne pouvez obtenir un autre don de dévouement avant d'avoir obtenu un autre don de l'archétype Jongleur.
 
-## [Jongleur concentré](../dons/jongleur-concentré.md) Don 4
+## [Jongleur concentré](../dons/jongleur-concentré.html) Don 4
 
 **Prérequis** Dévouement de Jongleur
 
@@ -28,13 +28,13 @@ Vous devenez qualifié en Représentation ; si vous l'étiez déjà, vous devene
 
 Vous continuez à Jongler jusqu'à la fin de votre prochain tour. Augmentez le nombre d'objets maximum avec lequel vous pouvez Jongler de un.
 
-## [Jongleur rapide](../dons/jongleur-rapide.md) Don 4
+## [Jongleur rapide](../dons/jongleur-rapide.html) Don 4
 
 **Prerequisites** expert en Représentation, Dévouement de Jongleur
 
 Lorsque vous commencez à Jongler ou que vous ajoutez un autre objet à ceux avec lesquels vous êtes en train de Jongler, vous ajoutez deux objets au lieu d'un. Augmentez le nombre maximum d'objets avec lesquels vous pouvez Jongler de un.
 
-## [Réception instinctive](../dons/réception-instinctive.md) Don 4
+## [Réception instinctive](../dons/réception-instinctive.html) Don 4
 
 **Prérequis** expert en Acrobaties, Dévouement de Jongleur
 
@@ -45,7 +45,7 @@ Lorsque vous commencez à Jongler ou que vous ajoutez un autre objet à ceux ave
 
 Vous attrapez l'objet déclencheur. Si vous étiez en train de Jongler, vous pouvez immédiatement l'ajouter aux objets avec lesquels vous êtes en train de jongler par une action libre, laquelle a les traits concentration et manipulation
 
-## [Attaque lobbée](../dons/attaque-lobbée.md) Don 8
+## [Attaque lobbée](../dons/attaque-lobbée.html) Don 8
 
 **Prérequis** maître en Représentation, Dévouement de Jongleur
 
@@ -53,7 +53,7 @@ Vous attrapez l'objet déclencheur. Si vous étiez en train de Jongler, vous pou
 
 Vous faites une Frappe à distance avec une arme de jet avec l'arme requise, en utilisant le facteur de portée habituel. Cette attaque ne déclenche pas de réaction et si la cible ne vous a jamais vu utiliser ce don auparavant, elle est Prise au dépourvu contre cette attaque.
 
-## [Lancer opportun](../dons/lancer-opportun.md) Don 16
+## [Lancer opportun](../dons/lancer-opportun.html) Don 16
 
 **Prérequis** légendaire en Représentation, Dévouement de Jongleur
 
