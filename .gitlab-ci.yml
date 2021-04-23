@@ -12,6 +12,7 @@ variables:
 # public/ et /pf-org/ : fichiers en sortie du site, pour la gestion de --incremental
 cache:
   key: "$CI_JOB_NAME-$CI_COMMIT_REF_SLUG"
+  when: always
   paths:
     - .jekyll-cache/
     - .vendor/
@@ -38,7 +39,7 @@ pf-org:
   stage: deploy
   script:
   - bundle exec jekyll build -d pf-org --incremental
-  - lftp -e "set ssl:verify-certificate no; set ftps:initial-prot P; set mirror:overwrite true; set mirror:parallel-transfer-count 5; open pathfinder-fr.org; user $ftp_username $ftp_password; mirror -R -e --use-cache --ignore-time pf-org/ /; bye"
+  - lftp -e "set ssl:verify-certificate no; set mirror:overwrite true; set mirror:parallel-transfer-count 5; open pathfinder-fr.org; user $ftp_username $ftp_password; mirror --reverse --delete --use-cache --no-perms --no-umask --overwrite --only-newer pf-org/ /; bye"
   artifacts:
     paths:
     - pf-org
