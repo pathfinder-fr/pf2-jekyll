@@ -2791,6 +2791,558 @@
       "English": "Engulf"
     }
   },
+  "boons-and-curses": {
+    "0PMqydlsIjj8GNnl": {
+      "French": "Norgorber - Mal\u00E9diction mod\u00E9r\u00E9e",
+      "English": "Norgorber - Moderate Curse"
+    },
+    "0vmwZrIhm5rWHkYh": {
+      "French": "Pharasma - B\u00E9n\u00E9diction mineure",
+      "English": "Pharasma - Minor Boon"
+    },
+    "1hdWNyedYvuZgtPr": {
+      "French": "Pharasma - Mal\u00E9diction mod\u00E9r\u00E9e",
+      "English": "Pharasma - Moderate Curse"
+    },
+    "1nALC8yWtjBDEaOC": {
+      "French": "Rovagug - Mal\u00E9diction mineure",
+      "English": "Rovagug - Minor Curse"
+    },
+    "2EKgNifq3ozzKYfI": {
+      "French": "Norgorber - B\u00E9n\u00E9diction mineure",
+      "English": "Norgorber - Minor Boon"
+    },
+    "30Xdyvplx7MfX1nA": {
+      "French": "Torag - B\u00E9n\u00E9diction mod\u00E9r\u00E9e",
+      "English": "Torag - Moderate Boon"
+    },
+    "3u3vav6qfAW6hPKE": {
+      "French": "\u00C9rastil - Mal\u00E9diction mod\u00E9r\u00E9e",
+      "English": "Erastil - Moderate Curse"
+    },
+    "4FkVB4uQK4eHZJ6Z": {
+      "French": "Rovagug - B\u00E9n\u00E9diction mineure",
+      "English": "Rovagug - Minor Boon"
+    },
+    "4m2dQ2fvVWxtokVe": {
+      "French": "Desna - B\u00E9n\u00E9diction mod\u00E9r\u00E9e",
+      "English": "Desna - Moderate Boon"
+    },
+    "4sZ9tpmPj4LIgPvU": {
+      "French": "N\u00E9thys - Mal\u00E9diction majeure",
+      "English": "Nethys - Major Curse"
+    },
+    "5x0wEbgxYmXonBuN": {
+      "French": "Lamashtu - Mal\u00E9diction mineure",
+      "English": "Lamashtu - Minor Curse"
+    },
+    "6f8zTNIs5XXzkhkR": {
+      "French": "Lamashtu - B\u00E9n\u00E9diction mineure",
+      "English": "Lamashtu - Minor Boon"
+    },
+    "845vvISfgkk6sei0": {
+      "French": "Torag - Mal\u00E9diction mineure",
+      "English": "Torag - Minor Curse"
+    },
+    "8G0USrxM7d4B4EVI": {
+      "French": "Gorum - B\u00E9n\u00E9diction majeure",
+      "English": "Gorum - Major Boon"
+    },
+    "8ZNtiMxoJIP1DJ9Q": {
+      "French": "N\u00E9thys - B\u00E9n\u00E9diction majeure",
+      "English": "Nethys - Major Boon"
+    },
+    "9EMaYf6odFEyjdSr": {
+      "French": "Urgathoa - Mal\u00E9diction Mod\u00E9r\u00E9e",
+      "English": "Urgathoa - Moderate Curse"
+    },
+    "a1OZtMQSzjYOm0P3": {
+      "French": "Rovagug - B\u00E9n\u00E9diction mod\u00E9r\u00E9e",
+      "English": "Rovagug - Moderate Boon"
+    },
+    "AdNAeWhnq5Is3AZb": {
+      "French": "Torag - B\u00E9n\u00E9diction majeure",
+      "English": "Torag - Major Boon"
+    },
+    "AfuH02H6ib4KYS6C": {
+      "French": "Torag - Mal\u00E9diction mod\u00E9r\u00E9e",
+      "English": "Torag - Moderate Curse"
+    },
+    "AohWtOzgk2Qr9ADl": {
+      "French": "Gozreh - Mal\u00E9diction mod\u00E9r\u00E9e",
+      "English": "Gozreh - Moderate Curse"
+    },
+    "aOVXhHVkLw9dLCdR": {
+      "French": "Zon-Kuthon - Mal\u00E9diction mod\u00E9r\u00E9e",
+      "English": "Zon-Kuthon - Moderate Curse"
+    },
+    "aV1I9VmMQBaFU9M9": {
+      "French": "Asmod\u00E9us - B\u00E9n\u00E9diction mod\u00E9r\u00E9e",
+      "English": "Asmodeus - Moderate Boon"
+    },
+    "AvjRCVzLmxapFOLV": {
+      "French": "Gozreh - B\u00E9n\u00E9diction mod\u00E9r\u00E9e",
+      "English": "Gozreh - Moderate Boon"
+    },
+    "c2wwILmpgyXIjlfe": {
+      "French": "Torag - Mal\u00E9diction majeure",
+      "English": "Torag - Major Curse"
+    },
+    "C6Ercv1ugcTsbVA9": {
+      "French": "\u00C9rastil - Mal\u00E9diction majeure",
+      "English": "Erastil - Major Curse"
+    },
+    "cFz09CWKzff2cC73": {
+      "French": "Rovagug - B\u00E9n\u00E9diction majeure",
+      "English": "Rovagug - Major Boon"
+    },
+    "CjRUOscsOwCmai8D": {
+      "French": "Desna - Mal\u00E9diction mod\u00E9r\u00E9e",
+      "English": "Desna - Moderate Curse"
+    },
+    "CL8lLQJWd4N89QIm": {
+      "French": "\u00C9rastil - B\u00E9n\u00E9diction mod\u00E9r\u00E9e",
+      "English": "Erastil - Moderate Boon"
+    },
+    "CmHQGVyNZ7aOmMcd": {
+      "French": "N\u00E9thys - Mal\u00E9diction mod\u00E9r\u00E9e",
+      "English": "Nethys - Moderate Curse"
+    },
+    "d198p8UBPK3VcKi9": {
+      "French": "Rovagug - Mal\u00E9diction mod\u00E9r\u00E9e",
+      "English": "Rovagug - Moderate Curse"
+    },
+    "DfXlr5qqbcjJN3gh": {
+      "French": "Abadar - B\u00E9n\u00E9diction mod\u00E9r\u00E9e",
+      "English": "Abadar - Moderate Boon"
+    },
+    "dHcGihuimtCf1NOs": {
+      "French": "Iom\u00E9dae - B\u00E9n\u00E9diction majeure",
+      "English": "Iomedae - Major Boon"
+    },
+    "dL6r0VfFIWlAazDW": {
+      "French": "Sarenrae - B\u00E9n\u00E9diction majeure",
+      "English": "Saranrae - Major Boon"
+    },
+    "dLudHCFcj4p7KG3j": {
+      "French": "Asmod\u00E9us - Mal\u00E9diction mineure",
+      "English": "Asmodeus - Minor Curse"
+    },
+    "DnlAmlrrKv3jwaOq": {
+      "French": "Pharasma - Mal\u00E9diction majeure",
+      "English": "Pharasma - Major Curse"
+    },
+    "DSfHCm8PDL5hLzZ0": {
+      "French": "Irori - Mal\u00E9diction mineure",
+      "English": "Irori - Minor Curse"
+    },
+    "dTJP2Hg4ZJu4Ck2y": {
+      "French": "Iom\u00E9dae - B\u00E9n\u00E9diction mineure",
+      "English": "Iomedae - Minor Boon"
+    },
+    "DuGA57MDiwEKp7Y1": {
+      "French": "Sarenrae - Mal\u00E9diction majeure",
+      "English": "Saranrae - Major Curse"
+    },
+    "dZU3HdI2oO8LFjGq": {
+      "French": "Urgathoa - B\u00E9n\u00E9diction majeure",
+      "English": "Urgathoa - Major Boon"
+    },
+    "e7Y4jKHQ3ptbSuxc": {
+      "French": "Torag - B\u00E9n\u00E9diction mineure",
+      "English": "Torag - Minor Boon"
+    },
+    "e9bdt8UH7ZvpRrLz": {
+      "French": "Sarenrae - B\u00E9n\u00E9diction mineure",
+      "English": "Saranrae - Minor Boon"
+    },
+    "eibN2Uf0dsHCU5rE": {
+      "French": "Zon-Kuthon - B\u00E9n\u00E9diction majeure",
+      "English": "Zon-Kuthon - Major Boon"
+    },
+    "eVRjDKt0N0qSmpCn": {
+      "French": "Ugathoa - Mal\u00E9diction majeure",
+      "English": "Urgathoa - Major Curse"
+    },
+    "FeCcooyIb1JDQhd7": {
+      "French": "Calistria - B\u00E9n\u00E9diction Majeure",
+      "English": "Calistria - Major Boon"
+    },
+    "fLBNXULLPalAKlYe": {
+      "French": "Cayden Cailean - Mal\u00E9diction mineure",
+      "English": "Cayden Cailean - Minor Curse"
+    },
+    "fsKVskUhWwMgvUaT": {
+      "French": "Cayden Cailean - B\u00E9n\u00E9diction mod\u00E9r\u00E9e",
+      "English": "Cayden Cailean - Moderate Boon"
+    },
+    "fV0t8xagcbqwvTpQ": {
+      "French": "Asmod\u00E9us - B\u00E9n\u00E9diction mineure",
+      "English": "Asmodeus - Minor Boon"
+    },
+    "fV0Xa1Bd3BoWACgT": {
+      "French": "Irori - B\u00E9n\u00E9diction mineure",
+      "English": "Irori - Minor Boon"
+    },
+    "fV940VM5RCsNwUvA": {
+      "French": "Calistria - Mal\u00E9diction majeure",
+      "English": "Calistria - Major Curse"
+    },
+    "fXEeTSVINdWaKHhw": {
+      "French": "Abadar - B\u00E9n\u00E9diction mineure",
+      "English": "Abadar - Minor Boon"
+    },
+    "gDBa72Y2jokr8Zzg": {
+      "French": "Lamashtu - Mal\u00E9diction mod\u00E9r\u00E9e",
+      "English": "Lamashtu - Moderate Curse"
+    },
+    "HdPVL76QiDhsLCA9": {
+      "French": "N\u00E9thys - B\u00E9n\u00E9diction mod\u00E9r\u00E9e",
+      "English": "Nethys - Moderate Boon"
+    },
+    "hrTl9kfSNrOQeNze": {
+      "French": "\u00C9rastil - B\u00E9n\u00E9diction mineure",
+      "English": "Erastil - Minor Boon"
+    },
+    "HrV31rAkNjV4KfCU": {
+      "French": "Gorum - B\u00E9n\u00E9diction Mineure",
+      "English": "Gorum - Minor Boon"
+    },
+    "hUSknn3LYmT7eKzT": {
+      "French": "Norgorber - B\u00E9n\u00E9diction mod\u00E9r\u00E9e",
+      "English": "Norgorber - Moderate Boon"
+    },
+    "ILtU0TAUZcOcwkkG": {
+      "French": "Sh\u00E9lyn - Mal\u00E9diction majeure",
+      "English": "Shelyn - Major Curse"
+    },
+    "IOaepssdwTanFooc": {
+      "French": "Iom\u00E9dae - Mal\u00E9diction mineure",
+      "English": "Iomedae - Minor Curse"
+    },
+    "jfWeNqYj3rn9EysM": {
+      "French": "Urgathoa - B\u00E9n\u00E9diction mineure",
+      "English": "Urgathoa - Minor Boon"
+    },
+    "jhixjUJZlCetNRjH": {
+      "French": "Sh\u00E9lyn - Mal\u00E9diction mineure",
+      "English": "Shelyn - Minor Curse"
+    },
+    "jVeuBZsa4iFg0wC6": {
+      "French": "N\u00E9thys - B\u00E9n\u00E9diction mineure",
+      "English": "Nethys - Minor Boon"
+    },
+    "kCCrjskDIbG0e74O": {
+      "French": "Irori - B\u00E9n\u00E9diction majeure",
+      "English": "Irori - Major Boon"
+    },
+    "kEAw5PMLdX2gHlwR": {
+      "French": "Gozreh - Mal\u00E9diction majeure",
+      "English": "Gozreh - Major Curse"
+    },
+    "KjPTFfxMAqCngQFB": {
+      "French": "N\u00E9thys - Mal\u00E9diction mineure",
+      "English": "Nethys - Minor Curse"
+    },
+    "Ks1HaYEuSRybaq8U": {
+      "French": "Calistria - B\u00E9n\u00E9diction mod\u00E9r\u00E9e",
+      "English": "Calistria - Moderate Boon"
+    },
+    "kstqMWge32n0Lfdz": {
+      "French": "Gorum - B\u00E9n\u00E9diction mod\u00E9r\u00E9e",
+      "English": "Gorum - Moderate Boon"
+    },
+    "l7n8n4fAoRLIn95W": {
+      "French": "Sh\u00E9lyn - B\u00E9n\u00E9diction majeure",
+      "English": "Shelyn - Major Boon"
+    },
+    "La6t4fVId26PkmYk": {
+      "French": "Cayden Cailean - B\u00E9n\u00E9diction mineure",
+      "English": "Cayden Cailean - Minor Boon"
+    },
+    "lI7bDExxA2zQq1sP": {
+      "French": "Zon-Kuthon - Mal\u00E9diction mineure",
+      "English": "Zon-Kuthon - Minor Curse"
+    },
+    "lOIu9jYDAR2rDe4p": {
+      "French": "Norgorber - B\u00E9n\u00E9diction majeure",
+      "English": "Norgorber - Major Boon"
+    },
+    "LOlv11WEGUQWYKna": {
+      "French": "Desna - B\u00E9n\u00E9diction mineure",
+      "English": "Desna - Minor Boon"
+    },
+    "lR9KS3pQ4gGKNspP": {
+      "French": "Gorum - Mal\u00E9diction mod\u00E9r\u00E9e",
+      "English": "Gorum - Moderate Curse"
+    },
+    "m33aOQij1BDcArN9": {
+      "French": "Abadar - B\u00E9n\u00E9diction majeure",
+      "English": "Abadar - Major Boon"
+    },
+    "M78A7uQaa4Ig8pGU": {
+      "French": "Gorum - Mal\u00E9diction majeure",
+      "English": "Gorum - Major Curse"
+    },
+    "mcVlGufQ8rQRe61Y": {
+      "French": "Desna - B\u00E9n\u00E9diction majeure",
+      "English": "Desna - Major Boon"
+    },
+    "N29LCwYfRWHtEqrS": {
+      "French": "Urgathoa - B\u00E9n\u00E9diction mod\u00E9r\u00E9e",
+      "English": "Urgathoa - Moderate Boon"
+    },
+    "n5p8QfZdptRZp0ii": {
+      "French": "Abadar - Mal\u00E9diction mod\u00E9r\u00E9e",
+      "English": "Abadar - Moderate Curse"
+    },
+    "NeAA1BHGGkRAmBDe": {
+      "French": "Abadar - Mal\u00E9diction mineure",
+      "English": "Abadar - Minor Curse"
+    },
+    "nFrCY6tT2B8uxaO3": {
+      "French": "\u00C9rastil - B\u00E9n\u00E9diction majeure",
+      "English": "Erastil - Major Boon"
+    },
+    "NgwW7Wt2gO9SEwPX": {
+      "French": "Gorum - Mal\u00E9diction mineure",
+      "English": "Gorum - Minor Curse"
+    },
+    "nqOoUH4r8NEi1i2g": {
+      "French": "Calistria - Mal\u00E9diction mod\u00E9r\u00E9e",
+      "English": "Calistria - Moderate Curse"
+    },
+    "OaUt41v2OrQkHpM4": {
+      "French": "Abadar - Mal\u00E9diction majeure",
+      "English": "Abadar - Major Curse"
+    },
+    "ParIWsb6B4fdhrHF": {
+      "French": "Pharasma - Mal\u00E9diction mineure",
+      "English": "Pharasma - Minor Curse"
+    },
+    "PoHos7qriDzQN7Gw": {
+      "French": "Rovagug - Mal\u00E9diction majeure",
+      "English": "Rovagug - Major Curse"
+    },
+    "pwmFrNkLscXrDSPN": {
+      "French": "\u00C9rastil - Mal\u00E9diction mineure",
+      "English": "Erastil - Minor Curse"
+    },
+    "py9v5HfCIzCoyC0C": {
+      "French": "Lamashtu - Mal\u00E9diction majeure",
+      "English": "Lamashtu - Major Curse"
+    },
+    "QGUFWuz9uF49EIhy": {
+      "French": "Cayden Cailean - Mal\u00E9diction majeure",
+      "English": "Cayden Cailean - Major Curse"
+    },
+    "qhVfbZCxZJS8NmB3": {
+      "French": "Irori - Mal\u00E9diction mod\u00E9r\u00E9e",
+      "English": "Irori - Moderate Curse"
+    },
+    "qTmjEC528YnvPgXE": {
+      "French": "Iom\u00E9dae - B\u00E9n\u00E9diction mod\u00E9r\u00E9e",
+      "English": "Iomedae - Moderate Boon"
+    },
+    "QVEkEdxCnoGxMo9l": {
+      "French": "Zon Kuthon - B\u00E9n\u00E9diction mod\u00E9r\u00E9e",
+      "English": "Zon-Kuthon - Moderate Boon"
+    },
+    "rA7ZM6WGnJNrWTmo": {
+      "French": "Iom\u00E9dae - Mal\u00E9diction mod\u00E9r\u00E9e",
+      "English": "Iomedae - Moderate Curse"
+    },
+    "S1qGyGG25YImRhmS": {
+      "French": "Sarenrae - B\u00E9n\u00E9dicition mod\u00E9r\u00E9e",
+      "English": "Saranrae - Moderate Boon"
+    },
+    "SaiJX9KBN3lC0RUy": {
+      "French": "Zon-Kuthon - Mal\u00E9diction majeure",
+      "English": "Zon-Kuthon - Major Curse"
+    },
+    "sy5UyOvxitqX244D": {
+      "French": "Asmod\u00E9us - B\u00E9n\u00E9diction majeure",
+      "English": "Asmodeus - Major Boon"
+    },
+    "tFnPBYcAZ0X3GbI5": {
+      "French": "Lamashtu - B\u00E9n\u00E9diction mod\u00E9r\u00E9e",
+      "English": "Lamashtu - Moderate Boon"
+    },
+    "tilqIbJZLqeknTYo": {
+      "French": "Sh\u00E9lyn - B\u00E9n\u00E9diction mineure",
+      "English": "Shelyn - Minor Boon"
+    },
+    "U7ZJfuPLQPyoaj4M": {
+      "French": "Pharasma - B\u00E9n\u00E9diction majeure",
+      "English": "Pharasma - Major Boon"
+    },
+    "Up7nUIT42zwhgZf4": {
+      "French": "Desna - Mal\u00E9diction mineure",
+      "English": "Desna - Minor Curse"
+    },
+    "uVZrqxtOOutr4Ss9": {
+      "French": "Gozreh - B\u00E9n\u00E9diction mineure",
+      "English": "Gozreh - Minor Boon"
+    },
+    "V7FYIgphCCkYsEXF": {
+      "French": "Sarenrae - Mal\u00E9diction mod\u00E9r\u00E9e",
+      "English": "Saranrae - Moderate Curse"
+    },
+    "vfQ7TsScMBTNiznn": {
+      "French": "Gozreh - B\u00E9n\u00E9diction majeure",
+      "English": "Gozreh - Major Boon"
+    },
+    "vU5leGDNAZSfPgTz": {
+      "French": "Sh\u00E9lyn - Mal\u00E9diction mod\u00E9r\u00E9e",
+      "English": "Shelyn - Moderate Curse"
+    },
+    "VZodqtMF3qrMl8a7": {
+      "French": "Sarenrae - B\u00E9n\u00E9diction mineure",
+      "English": "Saranrae - Minor Curse"
+    },
+    "wEqPbkQMuqlL2TPn": {
+      "French": "Irori - Mal\u00E9diction majeure",
+      "English": "Irori - Major Curse"
+    },
+    "wIjqVRP0Hm2bIfyc": {
+      "French": "Calistria - Mal\u00E9diction mineure",
+      "English": "Calistria - Minor Curse"
+    },
+    "wlBiDpWvjKiw9k2z": {
+      "French": "Zon-Kuthon - B\u00E9n\u00E9diction mineure",
+      "English": "Zon-Kuthon - Minor Boon"
+    },
+    "wREsKC8CTifEyj6v": {
+      "French": "Norgorber - Mal\u00E9diction majeure",
+      "English": "Norgorber - Major Curse"
+    },
+    "x1QrKuvZ2TbTvLUY": {
+      "French": "Cayden Cailean - Mal\u00E9diction mod\u00E9r\u00E9e",
+      "English": "Cayden Cailean - Moderate Curse"
+    },
+    "XFd7rnb9cchNw0WN": {
+      "French": "Norgorber - Mal\u00E9diction mineure",
+      "English": "Norgorber - Minor Curse"
+    },
+    "XFiI9qC4MNX4WUdh": {
+      "French": "Lamashtu - B\u00E9n\u00E9diction majeure",
+      "English": "Lamashtu - Major Boon"
+    },
+    "XfMZ83VA7dtF7fL5": {
+      "French": "Urgathoa - Mal\u00E9diction mineure",
+      "English": "Urgathoa - Minor Curse"
+    },
+    "xrczhivVmi7MrEfz": {
+      "French": "Irori - B\u00E9n\u00E9diction mod\u00E9r\u00E9e",
+      "English": "Irori - Moderate Boon"
+    },
+    "xrSgGobm5QtTcABQ": {
+      "French": "Pharasma - B\u00E9n\u00E9diction mod\u00E9r\u00E9e",
+      "English": "Pharasma - Moderate Boon"
+    },
+    "XYM7v72doPR3LwgA": {
+      "French": "Gozreh - Mal\u00E9diction mineure",
+      "English": "Gozreh - Minor Curse"
+    },
+    "y9DNpX7krUiOq0YI": {
+      "French": "Asmod\u00E9us - Mal\u00E9diction mod\u00E9r\u00E9e",
+      "English": "Asmodeus - Moderate Curse"
+    },
+    "yoXU4CqZtzgKXdlB": {
+      "French": "Asmod\u00E9us - Mal\u00E9diction majeure",
+      "English": "Asmodeus - Major Curse"
+    },
+    "yWASKzumwmv4TgSe": {
+      "French": "Calistria - B\u00E9n\u00E9diction mineure",
+      "English": "Calistria - Minor Boon"
+    },
+    "z4GfG3GatAOELKyA": {
+      "French": "Desna - Mal\u00E9diction majeure",
+      "English": "Desna - Major Curse"
+    },
+    "zoJjzir97Ie7tbp0": {
+      "French": "Sh\u00E9lyn - B\u00E9n\u00E9diction mod\u00E9r\u00E9e",
+      "English": "Shelyn - Moderate Boon"
+    },
+    "ZPlvqkjEv9a7J76T": {
+      "French": "Cayden Cailean - B\u00E9n\u00E9diction majeure",
+      "English": "Cayden Cailean - Major Boon"
+    },
+    "zWshZRICuzP7DfFV": {
+      "French": "Iom\u00E9dae - Mal\u00E9diction majeure",
+      "English": "Iomedae - Major Curse"
+    }
+  },
+  "classes": {
+    "15Yc1r6s9CEhSTMe": {
+      "French": "Ensorceleur",
+      "English": "Sorcerer"
+    },
+    "3gweRQ5gn7szIWAv": {
+      "French": "Barde",
+      "English": "Bard"
+    },
+    "4wrSCyX6akmyo7Wj": {
+      "French": "Enqu\u00EAteur",
+      "English": "Investigator"
+    },
+    "7s57JDCaiYYCAdFx": {
+      "French": "Druide",
+      "English": "Druid"
+    },
+    "84SZGVNLXhLKG6gL": {
+      "French": "_Classe vierge",
+      "English": "[Empty Class]"
+    },
+    "8zn3cD6GSmoo1LW4": {
+      "French": "Guerrier",
+      "English": "Fighter"
+    },
+    "bYDXk9HUMKOuym9h": {
+      "French": "Sorci\u00E8re",
+      "English": "Witch"
+    },
+    "EizrWvUPMS67Pahd": {
+      "French": "Pr\u00EAtre",
+      "English": "Cleric"
+    },
+    "LO9STvskJemPkiAI": {
+      "French": "Roublard",
+      "English": "Rogue"
+    },
+    "pWHx4SXcft9O2udP": {
+      "French": "Oracle",
+      "English": "Oracle"
+    },
+    "RwjIZzIxzPpUglnK": {
+      "French": "Magicien",
+      "English": "Wizard"
+    },
+    "uJ5aCzlw34GGdWjp": {
+      "French": "Bretteur",
+      "English": "Swashbuckler"
+    },
+    "x8iwnpdLbfcoZkHA": {
+      "French": "Champion",
+      "English": "Champion"
+    },
+    "XwfcJuskrhI9GIjX": {
+      "French": "Alchimiste",
+      "English": "Alchemist"
+    },
+    "YDRiP7uVvr9WRhOI": {
+      "French": "Barbare",
+      "English": "Barbarian"
+    },
+    "Yix76sfxrIlltSTJ": {
+      "French": "R\u00F4deur",
+      "English": "Ranger"
+    },
+    "YPxpk9JbMnKjbNLc": {
+      "French": "Moine",
+      "English": "Monk"
+    }
+  },
   "class-features": {
     "0Aocw3igLwna9cjp": {
       "French": "Pr\u00EAtre combattant",
@@ -22295,6 +22847,400 @@
     "ZZzgqFTOtUgnzSLZ": {
       "French": "M\u00E9diateur monstrueux",
       "English": "Monstrous Peacemaker"
+    }
+  },
+  "gmg": {
+    "2cyhXgGkmoFe3Phw": {
+      "French": "Form\u00E9 par un Mentor",
+      "English": "Trained by a Mentor"
+    },
+    "3g3uXFsHbfcad8eA": {
+      "French": null,
+      "English": "The Fool"
+    },
+    "3Uwfn0ui7tS277iE": {
+      "French": "M\u00E9tropole",
+      "English": "Metropolis"
+    },
+    "5KDGPcdZpdZumUYy": {
+      "French": "Itin\u00E9rant",
+      "English": "Itinerant"
+    },
+    "652cIWAXc8zAxkac": {
+      "French": null,
+      "English": "Matter of Might"
+    },
+    "6NOZe9gUfVEedECW": {
+      "French": null,
+      "English": "Star"
+    },
+    "7qsQBWD5sSGz7Fik": {
+      "French": null,
+      "English": "Mercantile Expertise"
+    },
+    "8NKe8N5NsULPShPX": {
+      "French": null,
+      "English": "The Dead One"
+    },
+    "a0mJO7io1hcwMAjJ": {
+      "French": null,
+      "English": "Lost in the Wilderness"
+    },
+    "AL562TPAhLCFX62S": {
+      "French": "Sous terre",
+      "English": "Underground"
+    },
+    "Alf16WU6qK8w1jmq": {
+      "French": null,
+      "English": "Sun"
+    },
+    "amEb5dGmSvvAJz7J": {
+      "French": "Balance",
+      "English": "Balance"
+    },
+    "BAs1fCaUTmvRjvVT": {
+      "French": "Idiot",
+      "English": "Dullard"
+    },
+    "BbgtR5LmB9ZdPpx1": {
+      "French": null,
+      "English": "Timely Cure"
+    },
+    "bNmSwKSFk6SWWrlj": {
+      "French": "Abandonn\u00E9 dans un pays lointain",
+      "English": "Abandoned in a Distant Land"
+    },
+    "bRQz8uVlYtQ1cwwI": {
+      "French": null,
+      "English": "Wasteland Survivors"
+    },
+    "bvhckAGjcCJVs0jn": {
+      "French": "B\u00E9n\u00E9ficiaire d\u0027un h\u00E9ritage",
+      "English": "Claimed an Inheritance"
+    },
+    "C4KgMYzmyWVpe721": {
+      "French": "Fou",
+      "English": "Fool"
+    },
+    "c8bBOo2RPxStZozM": {
+      "French": null,
+      "English": "Moon"
+    },
+    "ccG9pxYQ9Gg6262b": {
+      "French": "Clef",
+      "English": "Key"
+    },
+    "cD51eAUtbGlp5UKr": {
+      "French": null,
+      "English": "Slander"
+    },
+    "Cfd7ndT61VjR52OZ": {
+      "French": null,
+      "English": "The Mercenary"
+    },
+    "CfD81LilQAtGuvyx": {
+      "French": null,
+      "English": "The Void"
+    },
+    "cIlNXxPJuy8MtaDM": {
+      "French": null,
+      "English": "Vizier"
+    },
+    "CW53y8R730XoNQSG": {
+      "French": null,
+      "English": "The Champion"
+    },
+    "CwyYDIAAuRll2i5R": {
+      "French": null,
+      "English": "The Seer"
+    },
+    "dcP3oqjsl85p6R2Z": {
+      "French": null,
+      "English": "Kidnapped"
+    },
+    "Dyg3vJnEnReKyYHU": {
+      "French": null,
+      "English": "The Fates"
+    },
+    "e4nkDjB1Y6nqaK2G": {
+      "French": "Trahi",
+      "English": "Betrayed"
+    },
+    "eADadfrHPkGNTjEB": {
+      "French": "Chute accidentelle",
+      "English": "Accidental Fall"
+    },
+    "eCB10E0MSvD9s008": {
+      "French": "Confins",
+      "English": "Frontier"
+    },
+    "ejRPZwAlci3jTli9": {
+      "French": null,
+      "English": "The Liege Lord"
+    },
+    "Erqgqv8WEtnzBtTu": {
+      "French": null,
+      "English": "The Mystic"
+    },
+    "F7Tf6APgUKjnCZgv": {
+      "French": null,
+      "English": "The Crafter"
+    },
+    "fojjq3VXShnNSOsZ": {
+      "French": "Communaut\u00E9 universitaire",
+      "English": "Academic Community"
+    },
+    "FOs2eLbehUzPh9p9": {
+      "French": "D\u00E9positaire d\u0027un talent magique",
+      "English": "Attained a Magical Gift"
+    },
+    "G9058881e1ci9X1C": {
+      "French": "Intimidation d\u00E9sesp\u00E9r\u00E9e",
+      "English": "Desperate Intimidation"
+    },
+    "Gm4AtuFNRgOnzsmF": {
+      "French": null,
+      "English": "Simple Village"
+    },
+    "Gr4v8ROPCxi4hvAO": {
+      "French": null,
+      "English": "Religious Community"
+    },
+    "HkMzwjBTGgQgsOCW": {
+      "French": "Cit\u00E9 cosmopolite",
+      "English": "Cosmopolitan City"
+    },
+    "iA9QWuYATBPB6thI": {
+      "French": null,
+      "English": "Knight"
+    },
+    "idZxjeEv8B3x44r1": {
+      "French": "Captur\u00E9 par des g\u00E9ants",
+      "English": "Captured by Giants"
+    },
+    "IJ3nFDu2YcoP6ynd": {
+      "French": "Tr\u00F4ne",
+      "English": "Throne"
+    },
+    "Ip6kSKGhl3XHQZ93": {
+      "French": null,
+      "English": "Robbed"
+    },
+    "j9kx5CzfulaFTMOE": {
+      "French": "Formation universitaire",
+      "English": "Academy Trained"
+    },
+    "JHQI2skcksaLMPqA": {
+      "French": null,
+      "English": "Kindly Witch"
+    },
+    "jtgfTYpcv4FFpWsL": {
+      "French": "Mort",
+      "English": "Died"
+    },
+    "jVh90bfsC6w6iVyy": {
+      "French": "Euryale (mal\u00E9diction)",
+      "English": "Euryale (curse)"
+    },
+    "KtkDaTrkBwwupKcE": {
+      "French": null,
+      "English": "The Wanderer"
+    },
+    "LekxXsOgEwMODqCS": {
+      "French": "Amis des animaux",
+      "English": "Animal Helpers"
+    },
+    "llfG8iMTFMzVIF9s": {
+      "French": "Donjon",
+      "English": "Donjon"
+    },
+    "MCIp76IWZ2pk7dyz": {
+      "French": null,
+      "English": "The Criminal"
+    },
+    "mg7oMp0cNa0GJMCS": {
+      "French": null,
+      "English": "The Lover"
+    },
+    "mHocbJQKBzbHM790": {
+      "French": null,
+      "English": "The Confidante"
+    },
+    "niZPxqupDMfIXxJs": {
+      "French": "Vagabondage",
+      "English": "Homelessness"
+    },
+    "NSG1YxOYAtSowNJa": {
+      "French": "Com\u00E8te",
+      "English": "Comet"
+    },
+    "nsZ93vUEFucsLwRz": {
+      "French": null,
+      "English": "Privileged Position"
+    },
+    "nzOpdMVLPhoNTxzR": {
+      "French": "Fr\u00E9res d\u0027armes",
+      "English": "Comrade-in-Arms"
+    },
+    "OdD3NuxI5hNAEOVx": {
+      "French": null,
+      "English": "Trade Town"
+    },
+    "oDhTOO1WjEZk1qfD": {
+      "French": null,
+      "English": "Witnessed War"
+    },
+    "OHKKQ7zTf61vz35h": {
+      "French": null,
+      "English": "Liberators"
+    },
+    "pd6ZzGL5TA58Fa3p": {
+      "French": null,
+      "English": "The Hunter"
+    },
+    "PVdcBHjBVySBchG1": {
+      "French": "S\u00E9minaristes",
+      "English": "Religious Students"
+    },
+    "pwn7lPcwqyGNZyOo": {
+      "French": "Survivant d\u0027un d\u00E9sastre",
+      "English": "Survived a Disaster"
+    },
+    "qFgPiHDBVa3VSNgC": {
+      "French": "Gemme",
+      "English": "Gem"
+    },
+    "QhNWhs0isjxE67lu": {
+      "French": "Le fi\u00E9lon",
+      "English": "The Fiend"
+    },
+    "QxQ0PheFSIJU9rfH": {
+      "French": "Serres",
+      "English": "Talons"
+    },
+    "rDbdifseYxfEWgKg": {
+      "French": "Bienfaiteur des arts",
+      "English": "Patron of the Arts"
+    },
+    "re8nmHRiQdU63AYk": {
+      "French": "Le patron",
+      "English": "The Boss"
+    },
+    "Rh5XWscABJ43TLme": {
+      "French": "Le mentor",
+      "English": "The Mentor"
+    },
+    "Runwg9xhNrN79JBN": {
+      "French": "Enfance ordinaire",
+      "English": "Had an Ordinary Childhood"
+    },
+    "SbfCzPannCdZEB7c": {
+      "French": "Bouffon",
+      "English": "Jester"
+    },
+    "sHC4quiLAzdUe2uT": {
+      "French": "Accusation de vol",
+      "English": "Accusation of Theft"
+    },
+    "SyEl079jcULQp7Ra": {
+      "French": "Ligne de Front",
+      "English": "Front Lines"
+    },
+    "TG9L9JvKpomFQUfl": {
+      "French": "Flammes",
+      "English": "Flames"
+    },
+    "tmrnZkUzHVC0s6D9": {
+      "French": "Premier meurtre",
+      "English": "Had Your First Kill"
+    },
+    "TNruMcXK4wizclQc": {
+      "French": "Pillage",
+      "English": "Raided"
+    },
+    "UGxZ6vhfq7vQFXTt": {
+      "French": "Magicien",
+      "English": "Magician"
+    },
+    "uK1fqqsUNk7FZsOk": {
+      "French": "Le paria",
+      "English": "The Pariah"
+    },
+    "upnKpiEflAhhFLNQ": {
+      "French": "Enfant perdu",
+      "English": "Missing Child"
+    },
+    "vD1y8mIHxxw7c8J1": {
+      "French": "Communaut\u00E9 c\u00F4ti\u00E8re",
+      "English": "Coastal Community"
+    },
+    "VEFcfA4NnWdJSRtp": {
+      "French": "Espion",
+      "English": "Spy"
+    },
+    "vMTOwBTqs8JeE8bH": {
+      "French": "Pisteurs rivaux",
+      "English": "Rival Trackers"
+    },
+    "VnrGXdVthTceOlXV": {
+      "French": "Une communaut\u00E9 d\u0027une autre ascendance",
+      "English": "Another Ancestry\u0027s Settlement"
+    },
+    "W2ccu0zeLNHDlCXe": {
+      "French": "Pers\u00E9cut\u00E9",
+      "English": "Bullied"
+    },
+    "wIGRRmXtzed74qQq": {
+      "French": "Mauvaises fr\u00E9quentations",
+      "English": "Fell In with a Bad Crowd"
+    },
+    "WXQbdAmQM9HBjc0R": {
+      "French": "Briseur de relations",
+      "English": "Relationship Ender"
+    },
+    "x0vU6WsHcXUNY20y": {
+      "French": "Ruine",
+      "English": "Ruin"
+    },
+    "xe0iqQ3XSnDV4tLp": {
+      "French": "Tra\u00EEtre",
+      "English": "Rogue"
+    },
+    "xGkT6QZGfYE3kBqn": {
+      "French": "Cr\u00E2ne",
+      "English": "Skull"
+    },
+    "Xi5nvMNJrzsy09ws": {
+      "French": "L\u0027ami aux nombreuses relations",
+      "English": "The Well-Connected"
+    },
+    "xmgvqyfwYPBXVELo": {
+      "French": "Rencontre avec une cr\u00E9ature fantastique",
+      "English": "Met a Fantastic Creature"
+    },
+    "y4quheEoo2bcmM6g": {
+      "French": "Chercheur d\u0027attention",
+      "English": "Seeking Accolades"
+    },
+    "yqCZWcX9e3iwmvSS": {
+      "French": "Manipulations sociales",
+      "English": "Social Maneuvering"
+    },
+    "YR0uxB5CPPueFjBs": {
+      "French": "Le parent",
+      "English": "The Relative"
+    },
+    "YsY9euHOGCGc3mTE": {
+      "French": "Vainqueur d\u0027une comp\u00E9tition",
+      "English": "Won a Competition"
+    },
+    "yZUZDw8TXX1MvZ4P": {
+      "French": "Convoqu\u00E9 devant les juges",
+      "English": "Called Before Judges"
+    },
+    "ziWhyyygUG3Lemdu": {
+      "French": "Le professeur",
+      "English": "The Academic"
     }
   },
   "spell-effects": {

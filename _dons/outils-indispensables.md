@@ -10,6 +10,6 @@ layout: dons
 ---
 Vous êtes particulièrement habiles à l'utilisation des armes qui vous permettent de ramener vos proies vivantes.
 
-Vous êtes qualifié avec les armes suivantes : [bolas](../équipements/bolas.md), [fouet](../équipements/fouet.md) et [matraque](../équipements/matraque.md). Vous obtenez l'accès aux bolas. Lorsque vous obtenez une capacité de classe qui vous accorde une maîtrise experte ou supérieure dans une arme ou des armes données, vous obtenez aussi ce rang de maîtrise dans les armes listées.
+Vous êtes qualifié avec les armes suivantes : [bolas](../équipements/bolas.html), [fouet](../équipements/fouet.html) et [matraque](../équipements/matraque.html). Vous obtenez l'accès aux bolas. Lorsque vous obtenez une capacité de classe qui vous accorde une maîtrise experte ou supérieure dans une arme ou des armes données, vous obtenez aussi ce rang de maîtrise dans les armes listées.
 
 De plus, vous ne subissez pas de pénalité lorsque vous faites une attaque non létale avec une arme qui n'a pas le trait non létal.

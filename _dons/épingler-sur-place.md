@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/pin-to-the-spot.json
 layout: dons
 ---
-Vous Frappez une cible à portée. Si vous touchez et infligez des dégâts, la cible est aussi [Entravée](../conditions/entravé.md) comme si vous aviez obtenu un succès critique avec un test d'Athlétisme pour la [Saisir](../actions/saisir.md).
+Vous Frappez une cible à portée. Si vous touchez et infligez des dégâts, la cible est aussi [Entravée](../conditions/entravé.html) comme si vous aviez obtenu un succès critique avec un test d'Athlétisme pour la [Saisir](../actions/saisir.html).

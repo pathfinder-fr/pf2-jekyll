@@ -12,6 +12,6 @@ layout: dons
 
 Vous battez des bras sur votre poitrine avant de porter des coups à vos ennemis.
 
-Effectuez un test d'Intimidation pour [Démoraliser](../actions/démoraliser.md), puis portez une [Frappe](../actions/frapper.md) de coup du gorille contre la même cible. Si votre Frappe touche, vous obtenez un bonus de circonstance aux jet de dégâts égal au triple de la valeur de la condition [Effrayée](../conditions/effrayé.md) de la cibles.
+Effectuez un test d'Intimidation pour [Démoraliser](../actions/démoraliser.html), puis portez une [Frappe](../actions/frapper.html) de coup du gorille contre la même cible. Si votre Frappe touche, vous obtenez un bonus de circonstance aux jet de dégâts égal au triple de la valeur de la condition [Effrayée](../conditions/effrayé.html) de la cibles.
 
-**Spécial** Si vous possédez ce don, lorsque vous êtes dans la Posture du gorille, vous obtenez une vitesse [d'Escalade](../actions/escalader.md) de 4,5 m.
+**Spécial** Si vous possédez ce don, lorsque vous êtes dans la Posture du gorille, vous obtenez une vitesse [d'Escalade](../actions/escalader.html) de 4,5 m.

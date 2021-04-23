@@ -12,6 +12,6 @@ layout: dons
 
 Vous adoptez une cadence rapide, guidant vos alliés vers un rythme plus efficace.
 
-Chaque allié volontaire dans votre aura de capitaine est [Accéléré](../conditions/accéléré.md) jusqu'à la fin de son prochain tour ; il ne peut utiliser l'action supplémentaire que pour Marcher rapidement.
+Chaque allié volontaire dans votre aura de capitaine est [Accéléré](../conditions/accéléré.html) jusqu'à la fin de son prochain tour ; il ne peut utiliser l'action supplémentaire que pour Marcher rapidement.
 
-À la fin du tour de chaque allié, lorsque ce dernier a utilisé l'action supplémentaire, il devient alors [Ralenti](../conditions/ralenti.md) 1 jusqu'à la fin de votre prochain tour.
+À la fin du tour de chaque allié, lorsque ce dernier a utilisé l'action supplémentaire, il devient alors [Ralenti](../conditions/ralenti.html) 1 jusqu'à la fin de votre prochain tour.

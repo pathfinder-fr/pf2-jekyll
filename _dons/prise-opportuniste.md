@@ -12,4 +12,4 @@ layout: dons
 
 **Déclencheur** Votre proie obtient un échec critique sur une Frappe au corps à corps contre vous.
 
-Vous faites un test d'Athlétisme pour [Saisir](../actions/saisir.md) votre proie.
+Vous faites un test d'Athlétisme pour [Saisir](../actions/saisir.html) votre proie.

@@ -10,7 +10,7 @@ layout: actions
 type: passive
 typeFr: Passive
 ---
-Grâce aux étoiles, à la position du soleil, aux attributs géographiques, à la flore ou au comportement des animaux, vous savez toujours vous orienter en pleine nature. Vous faites généralement un test de Survie une seule fois par jour mais certains environnements ou changements peuvent nécessiter d’autres tests. Le MJ détermine le DD et le temps que vous prend cette activité (une minute environ, le plus souvent). Parfois, il vous faudra posséder un rang de maîtrise minimum pour Vous orienter si vous évoluez dans des régions plus inhabituelles ou que vous ne connaissez pas. Sans [boussole](../équipements/boussole.md), vous subissez un malus d’objet de −2 aux tests pour S’orienter.
+Grâce aux étoiles, à la position du soleil, aux attributs géographiques, à la flore ou au comportement des animaux, vous savez toujours vous orienter en pleine nature. Vous faites généralement un test de Survie une seule fois par jour mais certains environnements ou changements peuvent nécessiter d’autres tests. Le MJ détermine le DD et le temps que vous prend cette activité (une minute environ, le plus souvent). Parfois, il vous faudra posséder un rang de maîtrise minimum pour Vous orienter si vous évoluez dans des régions plus inhabituelles ou que vous ne connaissez pas. Sans [boussole](../équipements/boussole.html), vous subissez un malus d’objet de −2 aux tests pour S’orienter.
 
 **Succès critique** Vous savez avec précision où vous vous trouvez. Si vous êtes dans un environnement où existent les points cardinaux, vous savez exactement dans quelles directions ils se trouvent.
 

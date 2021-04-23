@@ -10,6 +10,6 @@ layout: dons
 ---
 Vous êtes entouré d'un halo de lumière et de bienveillance à tout moment.
 
-Votre halo illumine avec les effets d'un tour de magie divin de [Lumière](../sorts/lumière.md). Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi au niveau supérieur.
+Votre halo illumine avec les effets d'un tour de magie divin de [Lumière](../sorts/lumière.html). Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi au niveau supérieur.
 
 Vous pouvez supprimer et rétablir le halo par une unique action, qui possède le trait concentration.

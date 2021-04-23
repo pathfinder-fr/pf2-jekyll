@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/to-battle.json
 layout: dons
 ---
-Avec un cri qui résonne, vous ralliez votre allié à l'offensive. Choisissez un allié dans votre aura de Capitainequi possède une réaction disponible. Si vous dépensez 1 action, cet allié peut utilisez sa réaction pour [Marcher rapidement](../actions/marcher-rapidement.md) immédiatement. Si vous dépensez 2 actions, cet allié peut utiliser cette réaction pour [Frapper](../actions/frapper.md) immédiatement.
+Avec un cri qui résonne, vous ralliez votre allié à l'offensive. Choisissez un allié dans votre aura de Capitainequi possède une réaction disponible. Si vous dépensez 1 action, cet allié peut utilisez sa réaction pour [Marcher rapidement](../actions/marcher-rapidement.html) immédiatement. Si vous dépensez 2 actions, cet allié peut utiliser cette réaction pour [Frapper](../actions/frapper.html) immédiatement.

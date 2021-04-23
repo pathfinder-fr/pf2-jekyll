@@ -10,4 +10,4 @@ layout: dons
 ---
 Vos apparitions dramatiques peuvent effrayer les témoins.
 
-Lorsque vous faites une Apparition surprenante, vous pouvez essayer de [Démoraliser](../actions/démoraliser.md) chaque adversaire dans les 3 m qui ne vous avait pas remarqué avant que vous ne [Frappiez](../actions/frapper.md).
+Lorsque vous faites une Apparition surprenante, vous pouvez essayer de [Démoraliser](../actions/démoraliser.html) chaque adversaire dans les 3 m qui ne vous avait pas remarqué avant que vous ne [Frappiez](../actions/frapper.html).

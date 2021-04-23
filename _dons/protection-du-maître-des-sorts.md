@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/spellmaster-s-ward.json
 layout: dons
 ---
-Vous pouvez créer un certain nombre de puissantes runes de protection qui renforcent vos défenses contre les sorts nuisibles en absorbant l'énergie pour vous garder en sécurité. Vous gagnez le sort de focalisation [Protection du maître des sorts](../sorts/protection-du-maître-des-sorts.md). Augmentez le nombre de points de focalisation dans votre réserve de focalisation de 1.
+Vous pouvez créer un certain nombre de puissantes runes de protection qui renforcent vos défenses contre les sorts nuisibles en absorbant l'énergie pour vous garder en sécurité. Vous gagnez le sort de focalisation [Protection du maître des sorts](../sorts/protection-du-maître-des-sorts.html). Augmentez le nombre de points de focalisation dans votre réserve de focalisation de 1.

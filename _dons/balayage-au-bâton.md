@@ -12,4 +12,4 @@ layout: dons
 
 Vous effectuez un balayage contre vos ennemis avec votre bâton.
 
-Faites un test d'Athlétisme pour [Pousser](../actions/pousser.md) ou faire un [Croc-en-jambe](../actions/croc-en-jambe.md) et comparez le résultat aux DD appropriés de deux créatures au maximum, chacune d'entre elle devant se trouver dans votre allonge et pas à plus de 1,5 m l'une de l'autre.
+Faites un test d'Athlétisme pour [Pousser](../actions/pousser.html) ou faire un [Croc-en-jambe](../actions/croc-en-jambe.html) et comparez le résultat aux DD appropriés de deux créatures au maximum, chacune d'entre elle devant se trouver dans votre allonge et pas à plus de 1,5 m l'une de l'autre.

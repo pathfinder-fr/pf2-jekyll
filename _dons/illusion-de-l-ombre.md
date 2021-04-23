@@ -10,4 +10,4 @@ layout: dons
 ---
 Avec une touche artistique, vous façonnez les ombres en formes illusoires.
 
-Vous obtenez le sort de focalisation [Illusion de l'ombre](../sorts/illusion-de-l-ombre.md). Augmentez le nombre de points focalisation de votre réserve de focalisation de 1. Vous devenez un expert en attaque de sort occulte et aux DD des sorts occultes.
+Vous obtenez le sort de focalisation [Illusion de l'ombre](../sorts/illusion-de-l-ombre.html). Augmentez le nombre de points focalisation de votre réserve de focalisation de 1. Vous devenez un expert en attaque de sort occulte et aux DD des sorts occultes.

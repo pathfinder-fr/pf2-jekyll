@@ -10,4 +10,4 @@ layout: dons
 ---
 **Accès** ethnie Mihrini
 
-Depuis que vous êtes enfant, on vous a donné des noeuds à défaire, des serrures à ouvrir et des puzzles de forgeron pour vous occuper les mains. Vous êtes qualifié en Vol (ou une compétence de votre choix, si vous étiez déjà qualifié en Vol). Si vous obtenez un succès sur un test de Vol à un test pour [Crocheter une serrure](../actions/crocheter-une-serrure.md), vous obtenez un succès critique à la place.
+Depuis que vous êtes enfant, on vous a donné des noeuds à défaire, des serrures à ouvrir et des puzzles de forgeron pour vous occuper les mains. Vous êtes qualifié en Vol (ou une compétence de votre choix, si vous étiez déjà qualifié en Vol). Si vous obtenez un succès sur un test de Vol à un test pour [Crocheter une serrure](../actions/crocheter-une-serrure.html), vous obtenez un succès critique à la place.

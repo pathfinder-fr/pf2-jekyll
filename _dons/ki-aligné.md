@@ -10,6 +10,6 @@ layout: dons
 ---
 **Fréquence** une fois par heure
 
-**Déclencheur** Vous [Lancez un sort](../actions/lancer-un-sort.md) qui possède le trait moine.
+**Déclencheur** Vous [Lancez un sort](../actions/lancer-un-sort.html) qui possède le trait moine.
 
 La puissance de votre ki apaise vos blessures et vous donne de l'énergie pour la bataille. Vous regagnez des Points de vie égaux à votre niveau auquel vous ajoutez votre modificateur de Sagesse.

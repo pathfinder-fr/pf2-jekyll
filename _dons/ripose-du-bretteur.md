@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous avez appris à riposter contre les attaques mal portées.
 
-Vous obtenez la réaction [Riposte opportune](../actions/riposte-opportune.md).
+Vous obtenez la réaction [Riposte opportune](../actions/riposte-opportune.html).

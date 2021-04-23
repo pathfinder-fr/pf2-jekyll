@@ -10,6 +10,6 @@ layout: dons
 ---
 Lorsque vous croisez le regard de quelqu'un, il est incapable de regarder ailleurs.
 
-Choisissez une créature cible. Cette créature doit réussir un test de Volonté ou être [Fascinée](../conditions/fasciné.md) jusqu'à la fin de votre prochain tour ; le DD de ce jet est égal au plus élevé entre votre DD de classe et votre DD de sort. Si la créature obtient un succès à son jet ou si sa fascination se termine en raison d'une action hostile, elle devient temporairement immunisée à votre Regard hypnotisant pendant 1 journée.
+Choisissez une créature cible. Cette créature doit réussir un test de Volonté ou être [Fascinée](../conditions/fasciné.html) jusqu'à la fin de votre prochain tour ; le DD de ce jet est égal au plus élevé entre votre DD de classe et votre DD de sort. Si la créature obtient un succès à son jet ou si sa fascination se termine en raison d'une action hostile, elle devient temporairement immunisée à votre Regard hypnotisant pendant 1 journée.
 
 Lorsque vous choisissez ce don, il obtient soit le trait arcanique, soit le trait occulte ; une fois que vous avez effectué ce choix, vous ne pouvez plus en changer.

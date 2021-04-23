@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/duelist-dedication.json
 layout: dons
 ---
-Vous êtes toujours prêt à tirer votre arme et à entamer un duel, quelles que soient les circonstances. Vous obtenez le don de rôdeur [Arme en main](arme-en-main.md), vous permettant à la fois de tirer votre arme et d'attaquer en une action. Cela répond aux prérequis nécessitant de posséder Arme en main.
+Vous êtes toujours prêt à tirer votre arme et à entamer un duel, quelles que soient les circonstances. Vous obtenez le don de rôdeur [Arme en main](arme-en-main.html), vous permettant à la fois de tirer votre arme et d'attaquer en une action. Cela répond aux prérequis nécessitant de posséder Arme en main.
 
 **Spécial** Vous ne pouvez choisir un autre don de dévouement avant d'avoir obtenu deux autres dons de l'archétype de duelliste.

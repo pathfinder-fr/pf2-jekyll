@@ -10,4 +10,4 @@ layout: dons
 ---
 Lorsque vous êtes sur une affaire, vous restez vigilant et résolu à éviter les ficelles que votre suspect pourraient tirer.
 
-Vous obtenez votre bonus de circonstances issu de [Suivre une piste](../actions/suivre-une-piste.md) à vos jets de sauvegarde (et leurs DD, comme habituellement) contre le sujet d'une piste et vous pouvez utiliser [Partager les indices](../actions/partager-les-indices.md) pour aider un de vos alliés lors d'un jet de sauvegarde contre le sujet.
+Vous obtenez votre bonus de circonstances issu de [Suivre une piste](../actions/suivre-une-piste.html) à vos jets de sauvegarde (et leurs DD, comme habituellement) contre le sujet d'une piste et vous pouvez utiliser [Partager les indices](../actions/partager-les-indices.html) pour aider un de vos alliés lors d'un jet de sauvegarde contre le sujet.

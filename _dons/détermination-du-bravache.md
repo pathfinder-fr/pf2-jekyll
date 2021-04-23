@@ -14,4 +14,4 @@ Votre confiance frôle l'auto-persuasion, mais elle vous préserve du destins le
 
 **Succès critique** Vous évitez d'être abattu et restez à 1 Point de vie.
 
-**Succès** Vous évitez d'être abattu et restez à 1 Point de vie, mais vous augmentez vontre valeur de [Blessé](../conditions/blessé.md) de 1.
+**Succès** Vous évitez d'être abattu et restez à 1 Point de vie, mais vous augmentez vontre valeur de [Blessé](../conditions/blessé.html) de 1.

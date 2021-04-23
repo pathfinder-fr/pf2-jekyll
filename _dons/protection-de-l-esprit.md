@@ -12,6 +12,6 @@ layout: dons
 
 **Déclencheur** Votre tour se termine
 
-Pour protéger les connaissances de votre esprit contre toute intrusion ou effacement, vous vous prémunissez contre une attaque mentale, en retardant temporairement ses effets. Jusqu'à la fin de votre prochain tour, vous ignorez un seul effet mental qui en remplit la condition. Vous ne pouvez supprimer un effet particulier qu'une seule fois en utilisant la capacité Protection de l'esprit ou [Échappatoire cognitive](échappatoire-cognitive.md), même si vous possédez les deux dons.
+Pour protéger les connaissances de votre esprit contre toute intrusion ou effacement, vous vous prémunissez contre une attaque mentale, en retardant temporairement ses effets. Jusqu'à la fin de votre prochain tour, vous ignorez un seul effet mental qui en remplit la condition. Vous ne pouvez supprimer un effet particulier qu'une seule fois en utilisant la capacité Protection de l'esprit ou [Échappatoire cognitive](échappatoire-cognitive.html), même si vous possédez les deux dons.
 
 **Spécial** Vous pouvez utiliser cette réaction même si l'effet mental vous empêche d'utiliser les réactions.

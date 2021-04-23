@@ -10,4 +10,4 @@ layout: dons
 ---
 Votre connaissance de votre propre anatomie pas tout à fait vivante, combinée avec votre expérience au combat, vous aide à abattre les adversaires morts-vivants avec facilité.
 
-Contre les créatures mortes-vivantes, vous obtenez un bonus de circonstance aux dégâts avec les attaques avec des armes et à mains nues égal au nombre de dés de dégâts de l'arme pour la [Frappe](../actions/frapper.md). Ce bonus est du double des dés de dégâts de l'arme si votre cible possède le trait vampire.
+Contre les créatures mortes-vivantes, vous obtenez un bonus de circonstance aux dégâts avec les attaques avec des armes et à mains nues égal au nombre de dés de dégâts de l'arme pour la [Frappe](../actions/frapper.html). Ce bonus est du double des dés de dégâts de l'arme si votre cible possède le trait vampire.

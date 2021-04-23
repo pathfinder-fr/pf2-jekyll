@@ -10,4 +10,4 @@ layout: actions
 type: action
 typeFr: Action Unique
 ---
-Vous [Marchez rapidement](marcher-rapidement.md) deux fois. La durée du [Mutagène cœur de drake](../équipements/mutagène-de-cœur-de-drake-inférieur.md) s'achève.
+Vous [Marchez rapidement](marcher-rapidement.html) deux fois. La durée du [Mutagène cœur de drake](../équipements/mutagène-de-cœur-de-drake-inférieur.html) s'achève.

@@ -10,6 +10,6 @@ layout: dons
 ---
 Vous possédez une vaste et débordante collection de morceaux de parchemins, emplis d'erreurs et de fautes et manquant d'énergie, comme une passoire. Avec suffisamment de soins, vous pouvez bricoler avec ces morceaux de parchemins pour les faire fonctionner de manière brève.
 
-Chaque jour, au cours de vos préparatifs quotidiens, vous pouvez créer un parchemin temporaire unique contenant un sort de niveau 1. Le sort doit être un sort courant du Livre de base ou un autre sort que vous avez appris par [Apprendre un sort](../actions/apprendre-un-sort.md) et vous devez être qualifié dans la compétence correspondant à la tradition correspondante. Ce parchemin est un objet instable et temporaire et perd sa magie dès que vous faites vos prochains préparatifs quotidiens si vous ne l'avez pas déjà utilisé. Il ne peut être utilisé pour Apprendre le sort.
+Chaque jour, au cours de vos préparatifs quotidiens, vous pouvez créer un parchemin temporaire unique contenant un sort de niveau 1. Le sort doit être un sort courant du Livre de base ou un autre sort que vous avez appris par [Apprendre un sort](../actions/apprendre-un-sort.html) et vous devez être qualifié dans la compétence correspondant à la tradition correspondante. Ce parchemin est un objet instable et temporaire et perd sa magie dès que vous faites vos prochains préparatifs quotidiens si vous ne l'avez pas déjà utilisé. Il ne peut être utilisé pour Apprendre le sort.
 
 Au niveau 8, vous ajoutez un parchemin de sort temporaire contenant un sort de niveau 2.

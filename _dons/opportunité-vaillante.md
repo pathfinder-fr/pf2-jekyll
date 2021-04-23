@@ -10,6 +10,6 @@ layout: dons
 ---
 **Déclencheur** Une créature à votre portée utilise un effet audible, une action de manipulation ou une action de déplacement ; fait une attaque à distance ; ou quitte une case durant son action de déplacement.
 
-**Conditions** Vous êtes affecté par [Inspiration vaillante](../sorts/inspiration-vaillante.md).
+**Conditions** Vous êtes affecté par [Inspiration vaillante](../sorts/inspiration-vaillante.html).
 
 Vous beuglez un appel aux armes féroce, vous donnant l'inspiration pour vous lâcher contre un adversaire. Faites une Frappe au corps-à-corps contre la créature déclencheuse. Si l'attaque est un coup critique et que le déclencheur était une action de manipulation, l'action est interrompue.

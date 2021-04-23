@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous êtes un acrobate incroyable, une merveille d'évocation et vous êtes capable de capter l'attention du public avec vos prouesses. C'est une véritable représentation !
 
-Vous pouvez utiliser un test d'Acrobaties au lieu d'un test de Représentation lorsque vous utilisez l'action [Représentation](../actions/se-produire.md).
+Vous pouvez utiliser un test d'Acrobaties au lieu d'un test de Représentation lorsque vous utilisez l'action [Représentation](../actions/se-produire.html).

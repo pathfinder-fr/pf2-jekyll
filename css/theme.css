@@ -217,13 +217,6 @@ table { border-collapse: collapse; }
 
 .wikiTagsArea { display: none; }
 
-/* Content */
-
-#content { padding: 31px; }
-
-#content h1 { background: transparent url(theme/content-heading.png) no-repeat left top; padding-left: 26px; color: #4b3124; font-size: 16pt; }
-    #content h1 a { text-decoration: none; color: #4b3124; }
-
 /**********/
 /* Footer */
 /**********/

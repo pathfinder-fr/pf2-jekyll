@@ -10,4 +10,4 @@ layout: dons
 ---
 **Accès** ethnie Jaric
 
-Les halfelins ont été des assistants effacés des peuples de plus grande taille depuis des âges immémoriaux et votre peuple compte sur cette présomption d'innocence. Vous devenez qualifié en Duperie (ou une autre compétence de votre choix, si vous étiez déjà qualifié en Duperie). Si vous obtenez un échec à un test de Duperie pour [Faire diversion](../actions/faire-diversion.md), les créatures humanoïdes ne sont pas au courant que vous avez essayé de les tromper sauf si vous obtenez un échec critique à votre test.
+Les halfelins ont été des assistants effacés des peuples de plus grande taille depuis des âges immémoriaux et votre peuple compte sur cette présomption d'innocence. Vous devenez qualifié en Duperie (ou une autre compétence de votre choix, si vous étiez déjà qualifié en Duperie). Si vous obtenez un échec à un test de Duperie pour [Faire diversion](../actions/faire-diversion.html), les créatures humanoïdes ne sont pas au courant que vous avez essayé de les tromper sauf si vous obtenez un échec critique à votre test.

@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/acrobat-dedication.json
 layout: dons
 ---
-Vous devenez un expert en Acrobaties. Au niveau 7, vous devenez maître en Acrobaties et au niveau 15, vous devenez légendaire en Acrobaties. Lorsque vous obtenez une réussite critique sur un test d'Acrobaties pour réaliser un [Déplacement acrobatique](../actions/déplacement-acrobatique.md) dans la case d'un ennemi, vous ne considérez pas la case de l'adversaire comme un terrain difficile.
+Vous devenez un expert en Acrobaties. Au niveau 7, vous devenez maître en Acrobaties et au niveau 15, vous devenez légendaire en Acrobaties. Lorsque vous obtenez une réussite critique sur un test d'Acrobaties pour réaliser un [Déplacement acrobatique](../actions/déplacement-acrobatique.html) dans la case d'un ennemi, vous ne considérez pas la case de l'adversaire comme un terrain difficile.
 
 **Spécial** Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l'Archétype d'Acrobate.

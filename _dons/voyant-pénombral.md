@@ -10,4 +10,4 @@ layout: dons
 ---
 **Accès** ethnie nidalaise
 
-La pénombre recèle peu de terreurs en ce qui vous concerne et la chappe de noirceur sur le Nidal vous a habitué à une lumière atténuée. Vous obtenez  [vision nocturne](../capacités-monstres/vision-nocturne.md).
+La pénombre recèle peu de terreurs en ce qui vous concerne et la chappe de noirceur sur le Nidal vous a habitué à une lumière atténuée. Vous obtenez  [vision nocturne](../capacités-monstres/vision-nocturne.html).

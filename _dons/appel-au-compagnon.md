@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous pouvez pousser votre compagnon à faire le maximum.
 
-Vous dépensez 2 actions au lieu de 1 pour [Diriger un animal](../actions/diriger-un-animal.md) quand vous donnez un ordre à votre compagnon animal. Le cas échéant, celui‑ci peut faire une action supplémentaire.
+Vous dépensez 2 actions au lieu de 1 pour [Diriger un animal](../actions/diriger-un-animal.html) quand vous donnez un ordre à votre compagnon animal. Le cas échéant, celui‑ci peut faire une action supplémentaire.

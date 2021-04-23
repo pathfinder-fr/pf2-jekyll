@@ -10,6 +10,6 @@ layout: dons
 ---
 **Fréquence** une fois par jour
 
-**Déclencheur** Vous effectuez un échec critique lors d'un jet de sauvegarde contre le sort d'un ennemi, et ce sort a été lancé ou créé selon la tradition magique que vous avez choisie avec le don [Résilience du maître des sorts](résilience-du-maître-des-sorts.md).
+**Déclencheur** Vous effectuez un échec critique lors d'un jet de sauvegarde contre le sort d'un ennemi, et ce sort a été lancé ou créé selon la tradition magique que vous avez choisie avec le don [Résilience du maître des sorts](résilience-du-maître-des-sorts.html).
 
 Vous faites appel à la puissance de vos sorts pour vous protéger de la magie qui se dirige vers vous. Vous échouez à votre jet de sauvegarde au lieu d'échouer de manière critique. Pendant une minute, augmentez le bonus de circonstance aux jets de sauvegarde du don Résilience du maître des sorts à +2, et augmentez la résistance aux dégâts qu'il accorde à 10.

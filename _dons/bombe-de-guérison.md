@@ -10,8 +10,8 @@ layout: dons
 ---
 **Fréquence** une fois par round
 
-**Déclencheur** Vous fabriquez un [Élixir de vie](../équipements/elixir-de-vie-mineur.md) en utilisant [Alchimie rapide](alchimie-rapide.md) et cet élixir est au moins de 2 niveaux inférieurs à votre niveau d'alchimie avancée.
+**Déclencheur** Vous fabriquez un [Élixir de vie](../équipements/elixir-de-vie-mineur.html) en utilisant [Alchimie rapide](alchimie-rapide.html) et cet élixir est au moins de 2 niveaux inférieurs à votre niveau d'alchimie avancée.
 
 En ajoutant un catalyseur spécifique, vous transformez un élixir de soins en un projectile topique. Vous accordez à l'élixir le trait bombe.
 
-Si vous lancez une bombe élixir de vie sur une cible volontaire, vous l'atteignez même en cas d'échec mais pas en cas d'échec critique. Si votre [Frappe](../actions/frapper.md) avec cette bombe élixir touche une cible vivante, la cible récupère des Points de vie comme si elle avait consommé l'élixir. En cas de succès critique, la cible obtient aussi le bonus d'objet de l'élixir aux jets de sauvegarde contre les maladies et les poisons pendant 1 minute.
+Si vous lancez une bombe élixir de vie sur une cible volontaire, vous l'atteignez même en cas d'échec mais pas en cas d'échec critique. Si votre [Frappe](../actions/frapper.html) avec cette bombe élixir touche une cible vivante, la cible récupère des Points de vie comme si elle avait consommé l'élixir. En cas de succès critique, la cible obtient aussi le bonus d'objet de l'élixir aux jets de sauvegarde contre les maladies et les poisons pendant 1 minute.

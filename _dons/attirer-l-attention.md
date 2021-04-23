@@ -14,4 +14,4 @@ Lorsque les créatures dans les 9 m de vous obtiennent un échec à leur jet de 
 
 Un ennemi dans la zone qui essaie d'utiliser un effet visuel qui implique de concentrer son attention sur une créature particulière (tel que le Focaliser le regard de la méduse) doit réussir un jet de Volonté contre votre le plus élevé entre votre DD de classe ou votre DD de sort, en vue de cibler une créature sauf vous.
 
-Les alliés dans la zone peuvent essayer de [Se cacher](../actions/se-cacher.md) même s'ils ne disposent pas d'un abri, tant que vous leur fournissez une diversion.
+Les alliés dans la zone peuvent essayer de [Se cacher](../actions/se-cacher.html) même s'ils ne disposent pas d'un abri, tant que vous leur fournissez une diversion.

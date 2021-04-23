@@ -12,4 +12,4 @@ layout: dons
 
 **Déclencheur** Vous commencez à Lancer un sort.
 
-Vous exploitez l'énergie magique s'écoulant au travers de votre masque sans yeux pour vous protéger sans le moindre effort des effets visuels. Vous [Détournez le regard](../actions/détourner-le-regard.md).
+Vous exploitez l'énergie magique s'écoulant au travers de votre masque sans yeux pour vous protéger sans le moindre effort des effets visuels. Vous [Détournez le regard](../actions/détourner-le-regard.html).

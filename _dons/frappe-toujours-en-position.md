@@ -10,4 +10,4 @@ layout: dons
 ---
 **Conditions** vous maniez un bouclier avec vos deux mains.  
 
-Votre coup vous procure une ouverture pour pouvoir placer votre bouclier en position de défense. Faites une Frappe avec le bouclier porté. Si la Frappe touche et inflige des dégâts, vous [Levez votre bouclier](../actions/lever-un-bouclier.md) également.
+Votre coup vous procure une ouverture pour pouvoir placer votre bouclier en position de défense. Faites une Frappe avec le bouclier porté. Si la Frappe touche et inflige des dégâts, vous [Levez votre bouclier](../actions/lever-un-bouclier.html) également.

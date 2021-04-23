@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/nightvision-adaptation.json
 layout: dons
 ---
-Les nanites de vos processeurs oculaires se sont adaptés à l'obscurité, améliorant votre capacité de voir dans le noir. Vous obtenez [Vision dans le noir](../capacités-ascendances/vision-dans-le-noir.md).
+Les nanites de vos processeurs oculaires se sont adaptés à l'obscurité, améliorant votre capacité de voir dans le noir. Vous obtenez [Vision dans le noir](../capacités-ascendances/vision-dans-le-noir.html).

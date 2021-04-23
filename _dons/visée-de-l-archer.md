@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/archer-s-aim.json
 layout: dons
 ---
-Vous ralentissez, vous vous concentrez et visez soigneusement. Faites une [Frappe](../actions/frapper.md) à distance avec une arme du groupe des arcs. Vous obtenez un bonus de circonstances de +2 au jet d'attaque et ignorez la condition [Masquée](../conditions/masqué.md). Si la cible est [Cachée](../conditions/caché.md), réduisez le test nu de 11 à 5.
+Vous ralentissez, vous vous concentrez et visez soigneusement. Faites une [Frappe](../actions/frapper.html) à distance avec une arme du groupe des arcs. Vous obtenez un bonus de circonstances de +2 au jet d'attaque et ignorez la condition [Masquée](../conditions/masqué.html). Si la cible est [Cachée](../conditions/caché.html), réduisez le test nu de 11 à 5.

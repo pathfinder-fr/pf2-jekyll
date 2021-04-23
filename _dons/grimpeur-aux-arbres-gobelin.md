@@ -12,4 +12,4 @@ Le temps passé en forêt ou dans les canopées des jungles vous a appris à cra
 
 Vous gagnez une vitesse d'escalade de 3 m.
 
-si vous possédez aussi le don ancestral [Grimpeur des cavernes](grimpeur-des-cavernes.md), votre vitesse d'escalade augmente pour atteindre votre vitesse de déplacement lorsque vous grimpez aux arbres.
+si vous possédez aussi le don ancestral [Grimpeur des cavernes](grimpeur-des-cavernes.html), votre vitesse d'escalade augmente pour atteindre votre vitesse de déplacement lorsque vous grimpez aux arbres.

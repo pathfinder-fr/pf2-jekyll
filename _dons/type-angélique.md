@@ -12,4 +12,4 @@ Vous descendez d'un ange — un messager ailé du Nirvana ou de l'un des autres 
 
 Vous êtes qualifié en Société. Si vous devriez déjà être automatiquement qualifié en Société (du fait de votre historique ou de votre classe, par exemple), vous devenez qualifié dans une compétence de votre choix.
 
-Vous connaissez la langue Céleste et vous obtenez le don de compétence [Polyglotte](polyglotte.md).
+Vous connaissez la langue Céleste et vous obtenez le don de compétence [Polyglotte](polyglotte.html).

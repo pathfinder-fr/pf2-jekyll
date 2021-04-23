@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/pinpoint-poisoner.json
 layout: dons
 ---
-Les cibles sans méfiance sont particulièrement vulnérables à vos poisons. Lorsque vous réussissez une [Frappe](../actions/frapper.md) contre une créature [Prise au dépourvu](../conditions/pris-au-dépourvu.md) avec une arme empoisonnée ou à exposer une créature prise au dépourvu à un poison inhalé, la condition prise au dépourvu donne également à cette créature une pénalité de circonstances de -2 à son jet de sauvegarde initial contre ce poison.
+Les cibles sans méfiance sont particulièrement vulnérables à vos poisons. Lorsque vous réussissez une [Frappe](../actions/frapper.html) contre une créature [Prise au dépourvu](../conditions/pris-au-dépourvu.html) avec une arme empoisonnée ou à exposer une créature prise au dépourvu à un poison inhalé, la condition prise au dépourvu donne également à cette créature une pénalité de circonstances de -2 à son jet de sauvegarde initial contre ce poison.

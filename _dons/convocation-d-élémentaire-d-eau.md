@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/summon-water-elemental.json
 layout: dons
 ---
-Vous pouvez convoquer un allié élémentaire. Une fois par jour, vous pouvez lancer [Convocation d'élémentaires](../sorts/convocation-d-élémentaire.md) comme un sort inné primordial de niveau 5, mais l'élémentaire convoqué doit être un élémentaire d'eau.
+Vous pouvez convoquer un allié élémentaire. Une fois par jour, vous pouvez lancer [Convocation d'élémentaires](../sorts/convocation-d-élémentaire.html) comme un sort inné primordial de niveau 5, mais l'élémentaire convoqué doit être un élémentaire d'eau.

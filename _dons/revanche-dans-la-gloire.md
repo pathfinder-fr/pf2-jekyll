@@ -12,6 +12,6 @@ layout: dons
 
 **Accès** ethnie nain des montagnes
 
-**Déclencheur** Un allié dans les 9 m est affecté par la condition [Mourant](../conditions/mourant.md)
+**Déclencheur** Un allié dans les 9 m est affecté par la condition [Mourant](../conditions/mourant.html)
 
 Vous honorez le sacrifice de votre allié, en obtenant des points de vie temporaires en nombre égal à votre niveau pendant 1 minute. tant que vous les conservez, vous obtenez un bonus de circonstances de +1 à vos jets d'attaque et de dégâts.

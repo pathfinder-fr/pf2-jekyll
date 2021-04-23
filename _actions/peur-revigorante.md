@@ -12,6 +12,6 @@ typeFr: Réaction
 ---
 **Fréquence** Une fois par heure
 
-**Déclencheur** Une créature dans les 18 m obtient la condition [Effrayée](../conditions/effrayé.md).
+**Déclencheur** Une créature dans les 18 m obtient la condition [Effrayée](../conditions/effrayé.html).
 
 Vous êtes revigoré par le choc d'une farce ou le vrombissement de terreur. Vous obtenez des Points de vie temporaires égaux au plus haut entre le niveau de la créature ou 3.

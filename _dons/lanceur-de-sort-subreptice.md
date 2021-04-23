@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous avez appris que cela paie pour un Éclaireur d'être capable de lancer des sorts sans être remarqué.
 
-Vous obtenez le don de magicien [Sort dissimulé](sort-dissimulé.md), bien qu'il ne s'agisse pas pour vous d'un don de magicien. Vous obtenez également un bonus de circonstances de +2 aux tests de Discrétion pour Dissimuler un sort et aux tests de Duperie pour cacher les composantes verbales.
+Vous obtenez le don de magicien [Sort dissimulé](sort-dissimulé.html), bien qu'il ne s'agisse pas pour vous d'un don de magicien. Vous obtenez également un bonus de circonstances de +2 aux tests de Discrétion pour Dissimuler un sort et aux tests de Duperie pour cacher les composantes verbales.

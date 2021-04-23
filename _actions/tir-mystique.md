@@ -12,6 +12,6 @@ typeFr: Action Unique
 ---
 **Conditions** Vous maniez un arc
 
-Vous [Lancez un sort](lancer-un-sort.md) qui nécessite 1 ou 2 actions pour être lancé et qui nécessite un jet d'attaque de sort. Les effetsdu sort ne se produise pas immédiatement mais sont imprégnés dans l'arc que vous maniez.
+Vous [Lancez un sort](lancer-un-sort.html) qui nécessite 1 ou 2 actions pour être lancé et qui nécessite un jet d'attaque de sort. Les effetsdu sort ne se produise pas immédiatement mais sont imprégnés dans l'arc que vous maniez.
 
-Faites une [Frappe](frapper.md) avec cet arc. Vos sort vole avec la munition, en utilisant le résultat de votre jet d'attaque pour déterminer les effets à la  fois de la Frappe et du sort. Cela compte comme deux attaques en ce qui concerne la pénalité d'attaque multiple, mais vous n'appliquez pas la pénalité avant d'avoir terminé vos deux attaques.
+Faites une [Frappe](frapper.html) avec cet arc. Vos sort vole avec la munition, en utilisant le résultat de votre jet d'attaque pour déterminer les effets à la  fois de la Frappe et du sort. Cela compte comme deux attaques en ce qui concerne la pénalité d'attaque multiple, mais vous n'appliquez pas la pénalité avant d'avoir terminé vos deux attaques.

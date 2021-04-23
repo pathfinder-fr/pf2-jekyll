@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous avez une empathie incroyable pour vos amis et votre famille et vous possédez un don inné pour aider les autres en détresse.
 
-Vous pouvez utiliser la réaction [Aider](../actions/aider.md) pour accorder un bonus à un jet de sauvegarde de Volonté d'une autre créature. Comme d'habitude pour Aider, vous avez besoin de vous préparer en utilisant une action à votre tour pour encourager la créature à bravement surmonter l'effet.
+Vous pouvez utiliser la réaction [Aider](../actions/aider.html) pour accorder un bonus à un jet de sauvegarde de Volonté d'une autre créature. Comme d'habitude pour Aider, vous avez besoin de vous préparer en utilisant une action à votre tour pour encourager la créature à bravement surmonter l'effet.

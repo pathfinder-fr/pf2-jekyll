@@ -8,7 +8,7 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/target-of-opportunity.json
 layout: dons
 ---
-**Déclencheur** Un allié réussit une [Frappe](../actions/frapper.md) à distance contre un adversaire au sein de votre premier facteur de portée
+**Déclencheur** Un allié réussit une [Frappe](../actions/frapper.html) à distance contre un adversaire au sein de votre premier facteur de portée
 
 **Conditions** Vous avez une arme de jet ou à distance en main
 

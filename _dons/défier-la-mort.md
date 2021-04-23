@@ -10,6 +10,6 @@ layout: dons
 ---
 Vous êtes exceptionnellement difficile à tuer.
 
-Le DD de vos tests de récupération est égal à 9 + votre valeur Mourante ou 8 + votre valeur Mourante si vous avez le don général [Robustesse](robustesse.md).
+Le DD de vos tests de récupération est égal à 9 + votre valeur Mourante ou 8 + votre valeur Mourante si vous avez le don général [Robustesse](robustesse.html).
 
 De plus, lorsque quelqu'un vous ramène à la vie en utilisant la magie qui devrait normalement vous laisser affaibli pendant une semaine (tel que Rappel à la vie ou le rituel de Résurrection), vous ne subissez pas cette condition.

@@ -12,4 +12,4 @@ layout: dons
 
 Beaucoup de Tian-Dan prétendent avoir du sang de dragon dans leurs veines et dans votre cas, c'est vrai — vous pouvez cracher de l'énergie et vous pourriez avoir un signe particulièrement visible de votre ascendance draconique.
 
-Choisissez un des tours de  magie suivants : [aspersion acide](../sorts/aspersion-d'acide.md), [arc électrique](../sorts/arc-électrique.md), [flammes](../sorts/flammes.md) ou [rayon de givre](../sorts/rayon-de-givre.md). Vous pouvez lancer ce sort comme un sort arcanique inné à volonté et lorsque vous le lancez, l'énergie du sort émerge de votre bouche.
+Choisissez un des tours de  magie suivants : [aspersion acide](../sorts/aspersion-d'acide.html), [arc électrique](../sorts/arc-électrique.html), [flammes](../sorts/flammes.html) ou [rayon de givre](../sorts/rayon-de-givre.html). Vous pouvez lancer ce sort comme un sort arcanique inné à volonté et lorsque vous le lancez, l'énergie du sort émerge de votre bouche.

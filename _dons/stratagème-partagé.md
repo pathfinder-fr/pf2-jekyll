@@ -10,4 +10,4 @@ layout: dons
 ---
 Les plans que vous faites incluent vos alliés aussi bien que vous-mêmes.
 
-Lorsque vous touchez une créature avec une attaque pour laquelle vous avez substitué à votre jet d'attaque à cause de [Concevoir un stratagème](../actions/concevoir-un-stratagème.md), désignez un allié. La créature que vous touchez est [Prise au dépourvu](../conditions/pris-au-dépourvu.md) pour cet allié lors de la prochaine attaque que l'allié désigné portera contre cette créature avant le début de votre prochain tour.
+Lorsque vous touchez une créature avec une attaque pour laquelle vous avez substitué à votre jet d'attaque à cause de [Concevoir un stratagème](../actions/concevoir-un-stratagème.html), désignez un allié. La créature que vous touchez est [Prise au dépourvu](../conditions/pris-au-dépourvu.html) pour cet allié lors de la prochaine attaque que l'allié désigné portera contre cette créature avant le début de votre prochain tour.

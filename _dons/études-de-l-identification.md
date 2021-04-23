@@ -10,6 +10,6 @@ layout: dons
 ---
 Vous disposez des connaissances requises pour comprendre les anciens écrits et les artefacts culturels.
 
-Vous pouvez utiliser Société lorsque vous [Déchiffrez un texte](../actions/déchiffrer-un-texte.md), quel que soit le type d'écrit que vous examinez.
+Vous pouvez utiliser Société lorsque vous [Déchiffrez un texte](../actions/déchiffrer-un-texte.html), quel que soit le type d'écrit que vous examinez.
 
-Vous pouvez également utiliser Société pour [Identifier la magie](../actions/identifier-la-magie.md) Lorsque vous examinez un objet ou un lieu magique porteur d'une signification culturelle.
+Vous pouvez également utiliser Société pour [Identifier la magie](../actions/identifier-la-magie.html) Lorsque vous examinez un objet ou un lieu magique porteur d'une signification culturelle.

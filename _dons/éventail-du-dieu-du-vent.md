@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/wind-god's-fan.json
 layout: dons
 ---
-Votre éventail peut même susciter des vents plus puissants. Vous pouvez Activer votre évential à plume tengu une fois supplémentaire par jour. Ajouter le sort [Mur de vent](../sorts/mur-de-vent.md) de niveau 3 à la liste des sorts contenus dans votre éventail.
+Votre éventail peut même susciter des vents plus puissants. Vous pouvez Activer votre évential à plume tengu une fois supplémentaire par jour. Ajouter le sort [Mur de vent](../sorts/mur-de-vent.html) de niveau 3 à la liste des sorts contenus dans votre éventail.

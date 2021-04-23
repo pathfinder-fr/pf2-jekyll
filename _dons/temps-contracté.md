@@ -10,4 +10,4 @@ layout: dons
 ---
 Un de vos parents possède l'espérance de vie d'un humain et l'autre celle d'un elfe et la vôtre se trouve quelque part entre les deux. Il en résulte que vous avez une perspective inhabituelle à propos du temps et vous avez appris à le manifester pour vous aider dans des moments de stress.
 
-Vous obtenez [Rapidité](../sorts/rapidité.md) comme un sort arcanique inné de niveau 3 dont vous seul pouvez être la cible. Vous pouvez [Lancer ce sort](../actions/lancer-un-sort.md) une fois par jour.
+Vous obtenez [Rapidité](../sorts/rapidité.html) comme un sort arcanique inné de niveau 3 dont vous seul pouvez être la cible. Vous pouvez [Lancer ce sort](../actions/lancer-un-sort.html) une fois par jour.

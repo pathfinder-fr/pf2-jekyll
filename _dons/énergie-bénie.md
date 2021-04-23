@@ -10,4 +10,4 @@ layout: dons
 ---
 L'énergie circule dans votre sang plus puissamment.
 
-Lorsque vous utilisez [Émanation élémentaire](../actions/émanation-énergétique.md), vous pouvez créer une émanation de 1,5 m, de 3 m ou de 4,5 m. Les dégâts passent à 6d6 plus 1d6 supplémentaire pour chacun de vos niveaux au dessus du niveau 9, au lieu d'1d6 plus 1d6 supplémentaire tous les 2 niveaux au-dessus du niveau 1.
+Lorsque vous utilisez [Émanation élémentaire](../actions/émanation-énergétique.html), vous pouvez créer une émanation de 1,5 m, de 3 m ou de 4,5 m. Les dégâts passent à 6d6 plus 1d6 supplémentaire pour chacun de vos niveaux au dessus du niveau 9, au lieu d'1d6 plus 1d6 supplémentaire tous les 2 niveaux au-dessus du niveau 1.

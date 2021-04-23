@@ -10,4 +10,4 @@ layout: dons
 ---
 Unique dans l'histoire de Golarion, le peuple Rivain a développé des styles de combat dédiés au combat aérien.
 
-Vous obtenez un bonus de circonstances de +2 aux tests d'Acrobaties pour [Manœuvrer en Vol](../actions/manœuvrer-en-vol.md) et un bonus de statut de +1,5 m à votre vitesse de vol lorsque vous volez par un moyen magique.
+Vous obtenez un bonus de circonstances de +2 aux tests d'Acrobaties pour [Manœuvrer en Vol](../actions/manœuvrer-en-vol.html) et un bonus de statut de +1,5 m à votre vitesse de vol lorsque vous volez par un moyen magique.

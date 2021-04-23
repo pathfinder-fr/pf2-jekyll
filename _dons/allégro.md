@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/allegro.json
 layout: dons
 ---
-Vous pouvez augmenter la rapidité de vos alliés grâce à une représentation au rythme effréné. Vous apprenez le tour de magie de composition [allégro](../sorts/allégro.md).
+Vous pouvez augmenter la rapidité de vos alliés grâce à une représentation au rythme effréné. Vous apprenez le tour de magie de composition [allégro](../sorts/allégro.html).

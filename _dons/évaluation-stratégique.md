@@ -8,7 +8,7 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/strategic-assessment.json
 layout: dons
 ---
-Vous apprenez les forces et les faiblesses de vos ennemis en les regardant se déplacer. Lorsque vous obtenez un succès critique pour toucher une créature avec une Frappe à laquelle vous avez substitué votre jet d'attaque [Concevoir un Stratagème](../actions/concevoir-un-stratagème.md), le MJ choisit laquelle des informations suivantes il vous donne à propos de l'ennemi.
+Vous apprenez les forces et les faiblesses de vos ennemis en les regardant se déplacer. Lorsque vous obtenez un succès critique pour toucher une créature avec une Frappe à laquelle vous avez substitué votre jet d'attaque [Concevoir un Stratagème](../actions/concevoir-un-stratagème.html), le MJ choisit laquelle des informations suivantes il vous donne à propos de l'ennemi.
 
 - Quelle est la plus importante des faiblesses de l'ennemi
 - Quelle est la plus importante des résistances de l'ennemi

@@ -10,4 +10,4 @@ layout: dons
 ---
 **Déclencheur** Un ennemi de taille Grande ou supérieure termine une action de déplacement dans une case adjacente à la vôtre.
 
-Vous êtes un expert pour éviter les pas pesants des créatures plus grandes. Vous [Faites un pas](../actions/faire-un-pas.md) vers une autre case adjacente à l'ennemi.
+Vous êtes un expert pour éviter les pas pesants des créatures plus grandes. Vous [Faites un pas](../actions/faire-un-pas.html) vers une autre case adjacente à l'ennemi.

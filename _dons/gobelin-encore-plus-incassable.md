@@ -10,4 +10,4 @@ layout: dons
 ---
 Aussi dur à casser que les gobelins incassables, vous êtes même encore plus coriace.
 
-Vous obtenez 20 Points de vie de votre ascendance au lieu de 10. Lorsque vous tombez, vous ne subissez aucun dégâts de chute. Si vous avez le don [Gobelin rebondissant](gobelin-rebondissant.md), après avoir chuté ou sauté d'une hauteur d'au moins 6 m, vous pouvez rebondir dans les airs, à la moitié de la distance de chute (et parcourez moitié moins en longueur que la distance de chute). Ces rebonds continuent jusqu'à ce que vous ayez atteint moins de 6 m de haut avec votre rebond.
+Vous obtenez 20 Points de vie de votre ascendance au lieu de 10. Lorsque vous tombez, vous ne subissez aucun dégâts de chute. Si vous avez le don [Gobelin rebondissant](gobelin-rebondissant.html), après avoir chuté ou sauté d'une hauteur d'au moins 6 m, vous pouvez rebondir dans les airs, à la moitié de la distance de chute (et parcourez moitié moins en longueur que la distance de chute). Ces rebonds continuent jusqu'à ce que vous ayez atteint moins de 6 m de haut avec votre rebond.

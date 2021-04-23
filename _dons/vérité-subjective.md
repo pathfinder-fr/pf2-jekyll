@@ -10,4 +10,4 @@ layout: dons
 ---
 Vos identités différentes vous permettent de tromper la magie qui détecte les mensonges.
 
-Tant que ce que vous dites est vrai du point de vue de votre identité actuelle, vous pouvez la dire même sous les effets de [Zone de Vérité](../sorts/zone-de-vérité.md) qui vous oblige à dire la vérité.
+Tant que ce que vous dites est vrai du point de vue de votre identité actuelle, vous pouvez la dire même sous les effets de [Zone de Vérité](../sorts/zone-de-vérité.html) qui vous oblige à dire la vérité.

@@ -12,6 +12,6 @@ Les vikings passent de longues périodes de temps en mer, bondissant seulement d
 
 Vous êtes qualifié en Connaissance de la navigation. Vous vous déplacez à travers l'eau en utilisant votre Vitesse, vous ignorez le terrain difficile résultant de l'eau peu profonde, comme celle des marais ou sur les plages.
 
-De plus, si vous obtenez un succès à votre test d'Athlétisme pour [Nager](../actions/nager.md), vous considérez qu'il s'agit d'un succès critique à la place.
+De plus, si vous obtenez un succès à votre test d'Athlétisme pour [Nager](../actions/nager.html), vous considérez qu'il s'agit d'un succès critique à la place.
 
 **Spécial** Vous ne pouvez choisir un autre don de dévouement avant d'avoir choisi deux autres dons de dévouement de l'archétype du Viking.

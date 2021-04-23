@@ -7,8 +7,10 @@
 
 using System.Text.Json;
 
-await GenerateCollection(DataGroup.Conditions, ParseAction);
+var count = await GenerateCollection(DataPack.Conditions, ParseCondition);
 
-static void ParseAction(JsonElement jsonDoc, JsonDocument frJsonDoc, StreamWriter writer)
+WriteLine($"Génération terminée : {count} états traités");
+
+static void ParseCondition(JsonElement jsonDoc, JsonDocument frJsonDoc, StreamWriter writer)
 {
 }

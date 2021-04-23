@@ -12,4 +12,4 @@ Depuis des temps immémoriaux, les plus puissants dresseurs de bêtes orques tir
 
 Les compagnons animaux ou les animaux qui vous sont liés possèdent le don Férocité orsque et obtiennent une réaction qu'ils ne peuvent utiliser que pour Férocité orque.
 
-Si vous possédez le don ancestral [Férocité immortelle](férocité-immortelle.md), tous les compagnons animaux ou animaux liés gagnent aussi les avantages de ce don lorsqu'ils utilisent la réaction Férocité orque.
+Si vous possédez le don ancestral [Férocité immortelle](férocité-immortelle.html), tous les compagnons animaux ou animaux liés gagnent aussi les avantages de ce don lorsqu'ils utilisent la réaction Férocité orque.

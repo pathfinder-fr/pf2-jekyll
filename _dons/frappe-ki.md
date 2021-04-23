@@ -10,4 +10,4 @@ layout: dons
 ---
 Votre étude du flot d’énergie mystique vous permet de l’incorporer dans vos frappes physiques.
 
-Vous obtenez le sort ki [Frappe ki](../sorts/frappe-ki.md) et une réserve de focalisation contenant 1 point de focalisation.
+Vous obtenez le sort ki [Frappe ki](../sorts/frappe-ki.html) et une réserve de focalisation contenant 1 point de focalisation.

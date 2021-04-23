@@ -10,4 +10,4 @@ layout: dons
 ---
 **Prérequis** préceptes du mal
 
-Vous coupez court au moralisme vain de l'ennemi, ouvrant leur cœurr au mal. Vous pouvez lancer le sort de focalisation [Litanie de dépravation](../sorts/litanie-de-dépravation.md). Augmentez le nombre de Points de focalisation de votre réserve de focalisation de 1.
+Vous coupez court au moralisme vain de l'ennemi, ouvrant leur cœurr au mal. Vous pouvez lancer le sort de focalisation [Litanie de dépravation](../sorts/litanie-de-dépravation.html). Augmentez le nombre de Points de focalisation de votre réserve de focalisation de 1.

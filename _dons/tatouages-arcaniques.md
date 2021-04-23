@@ -12,10 +12,10 @@ layout: dons
 
 Vous avez des tatouages sur le corps correspondant à une des anciennes écoles Thassiloniennes de magie. Vous pouvez lancer le tour de magie associé à l'école choisie comme un sort arcanique inné à volonté. Choisissez une des écoles de magie suivantes :
 
-- **Abjuration** [bouclier](../sorts/bouclier.md),
-- **Enchantement** [hébétement](../sorts/hébétement.md),
-- **Évocation** [arc électrique](../sorts/arc-électrique.md),
-- **Illusion** [son imaginaire](../sorts/son-imaginaire.md),
-- **Invocation** [entrave](../sorts/entrave.md),
-- **Nécromancie** [contact glacial](../sorts/contact-glacial.md), 
-- **Transmutation** [symbole](../sorts/symbole.md).
+- **Abjuration** [bouclier](../sorts/bouclier.html),
+- **Enchantement** [hébétement](../sorts/hébétement.html),
+- **Évocation** [arc électrique](../sorts/arc-électrique.html),
+- **Illusion** [son imaginaire](../sorts/son-imaginaire.html),
+- **Invocation** [entrave](../sorts/entrave.html),
+- **Nécromancie** [contact glacial](../sorts/contact-glacial.html), 
+- **Transmutation** [symbole](../sorts/symbole.html).

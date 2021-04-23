@@ -10,7 +10,7 @@ layout: dons
 ---
 Lorque vous trompez un adversaire, au lieu de le prendre au dépourvu, vous l'obligez à prendre des précautions lors de ses prochaines attaques.
 
-Sur une [Feinte](../actions/feinter.md) réussie, vous pouvez utiliser l'effet de succès et de succès critique suivant au lieu de tout autre effet qui devrait se produire lorsque vous Feintez. Vous pouvez choisir un effet différent chaque fois que vous feintez contre un ennemi donné.
+Sur une [Feinte](../actions/feinter.html) réussie, vous pouvez utiliser l'effet de succès et de succès critique suivant au lieu de tout autre effet qui devrait se produire lorsque vous Feintez. Vous pouvez choisir un effet différent chaque fois que vous feintez contre un ennemi donné.
 
 **Succès critique** La cible subit une pénalité de circonstances de –2 à tous ses jets d'attaque contre vous jusqu'à la fin de son prochain tour.
 

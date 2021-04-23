@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous pouvez entrer dans une transe qui vous permet de brièvement habiter le corps de l'un de vos compagnons animaux et de partager ses sens.
 
-Vous obtenez le don de focalisation [Transe du Maître des bêtes](../sorts/transe-du-maître-des-bêtes.md). Augmentez le nombre de Points de focalisation de votre réserve de focalisation de 1.
+Vous obtenez le don de focalisation [Transe du Maître des bêtes](../sorts/transe-du-maître-des-bêtes.html). Augmentez le nombre de Points de focalisation de votre réserve de focalisation de 1.

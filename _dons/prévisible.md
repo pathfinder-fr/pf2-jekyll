@@ -8,7 +8,7 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/predictable.json
 layout: dons
 ---
-En observant un adversaire, vous pouvez anticiper son prochain déplacement et vous préparer à le contrer ou à lui résister. Choisissez une cible et effectuez un test de Perception pour [Deviner les intentions](../actions/deviner-les-intentions.md) contre le DD de Duperie de votre adversaire ou un DD difficile pour le niveau de l'ennemi, s'il est plus élevé.
+En observant un adversaire, vous pouvez anticiper son prochain déplacement et vous préparer à le contrer ou à lui résister. Choisissez une cible et effectuez un test de Perception pour [Deviner les intentions](../actions/deviner-les-intentions.html) contre le DD de Duperie de votre adversaire ou un DD difficile pour le niveau de l'ennemi, s'il est plus élevé.
 
 **Succès critique** Vous discernez précisément la stratégie de la cible, obtenant un bonus de circonstances de +2 à la CA jusqu'au début de votre prochain tour et un bonus de circonstances de +2 à votre prochain jet de sauvegarde contre la cible avant la fin de votre prochain tour.
 

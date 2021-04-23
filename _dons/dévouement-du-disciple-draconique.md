@@ -8,7 +8,7 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/dragon-disciple-dedication.json
 layout: dons
 ---
-**Accès** Vous êtes un kobold avec l'héritage [kobold à écaille de dragon](../capacités-ascendances/kobold-à-écaille-de-dragon.md) or [kobold écailledesort](../capacités-ascendances/kobold-écaille-de-sort.md), un barbare avec l'[instinct du dragon](../capacité-classe/instinct-du-dragon.md) ou un ensorceleur au [lignage draconique](../capacité-classe/lignage-:-draconique.md).
+**Accès** Vous êtes un kobold avec l'héritage [kobold à écaille de dragon](../capacités-ascendances/kobold-à-écaille-de-dragon.html) or [kobold écailledesort](../capacités-ascendances/kobold-écaille-de-sort.html), un barbare avec l'[instinct du dragon](../capacité-classe/instinct-du-dragon.html) ou un ensorceleur au [lignage draconique](../capacité-classe/lignage-:-draconique.html).
 
 Vous avez choisi d'étudier ou de vénérer un type de dragon et votre focalisation vous accorde une part de son pouvoir. Choisissez une couleur de dragon lorsque vous choisissez ce don ; si vous êtes un ensorceleur avec le lignage draconique, elle doit être du même type que celui de votre lignage.
 
@@ -20,6 +20,6 @@ Vous obtenez une résistance égale à la moitié de votre niveau contre un type
 - **Noir ou Cuivre** Acide
 - **Vert** Poison
 
-Vous obtenez aussi un bonus de circonstances de +1 aux jets de sauvegarde contre les effets de sommeil et les effets qui auraient pour conséquence de vous [paralyser](../conditions/paralysé.md).
+Vous obtenez aussi un bonus de circonstances de +1 aux jets de sauvegarde contre les effets de sommeil et les effets qui auraient pour conséquence de vous [paralyser](../conditions/paralysé.html).
 
 **Spécial** Vous ne pouvez choisir un autre don de dévouement avant d'avoir obtenu deux autres dons de l'archétype de Disciple draconique. Si vous prenez plus tard l'archétype d'ensorceleur, vous devrez choisir le lignage draconique.

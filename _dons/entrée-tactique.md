@@ -10,4 +10,4 @@ layout: dons
 ---
 **Conditions** Vous avez lancé Discrétion pour déterminer l'initiative pour cette rencontre et ni vous, ni vos ennemis n'avez encore agi lors de cette rencontre.
 
-Vous [Marchez précipitamment](../actions/marcher-rapidement.md). Ce déplacement ne déclenche aucune réaction.
+Vous [Marchez précipitamment](../actions/marcher-rapidement.html). Ce déplacement ne déclenche aucune réaction.

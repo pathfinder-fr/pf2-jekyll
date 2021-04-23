@@ -10,4 +10,4 @@ layout: dons
 ---
 Par un appel vibrant, vous exhortez un allié à progresser.
 
-Si votre prochaine action consiste à lancer le tour de magie de composition [Inspiration vaillante](../sorts/inspiration-vaillante.md), un allié qui obtient un bonus de statut du sort peut immédiatement utiliser une réaction pour [Marcher rapidement](../actions/marcher-rapidement.md).
+Si votre prochaine action consiste à lancer le tour de magie de composition [Inspiration vaillante](../sorts/inspiration-vaillante.html), un allié qui obtient un bonus de statut du sort peut immédiatement utiliser une réaction pour [Marcher rapidement](../actions/marcher-rapidement.html).

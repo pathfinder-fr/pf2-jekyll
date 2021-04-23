@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/attunement-to-stone.json
 layout: dons
 ---
-Vous vous harmonisez avec la pierre qui vous entoure. Lorsque vous êtes en contact avec une surface de pierre, vous gagnez perception des vibrations (imprécise) dans un rayon de 1,5 m sur cette surface. Vous pouvez activer votre pierre de ka pour lancer [Fusion dans la pierre](../sorts/fusion-dans-la-pierre.md).
+Vous vous harmonisez avec la pierre qui vous entoure. Lorsque vous êtes en contact avec une surface de pierre, vous gagnez perception des vibrations (imprécise) dans un rayon de 1,5 m sur cette surface. Vous pouvez activer votre pierre de ka pour lancer [Fusion dans la pierre](../sorts/fusion-dans-la-pierre.html).

@@ -10,4 +10,4 @@ layout: dons
 ---
 Conditions** Vous maniez votre bâton.
 
-Faites une Frappe avec votre bâton. Tant que vous n'obtenez pas d'échec critique, la cible devient [prise au dépourvu](../conditions/pris-au-dépourvu.md) et subit une pénalité de circonstance de –2 à son DD contre les tentatives pour la [Pousser](../actions/pousser.md), lui faire un [Croc-en-jambe](../actions/croc-en-jambe.md) et contre les tentatives de [Déplacement acrobatique](../actions/déplacement-acrobatique.md) jusqu'au début de votre prochain tour.
+Faites une Frappe avec votre bâton. Tant que vous n'obtenez pas d'échec critique, la cible devient [prise au dépourvu](../conditions/pris-au-dépourvu.html) et subit une pénalité de circonstance de –2 à son DD contre les tentatives pour la [Pousser](../actions/pousser.html), lui faire un [Croc-en-jambe](../actions/croc-en-jambe.html) et contre les tentatives de [Déplacement acrobatique](../actions/déplacement-acrobatique.html) jusqu'au début de votre prochain tour.

@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/sneak-attacker.json
 layout: dons
 ---
-Vous gagnez la capacité de classe [attaque sournoise](../capacité-classe/attaque-sournoise.md), à la seule différence qu’elle inflige 1d4 dégâts, passant à 1d6 au niveau 6. Vous n’augmentez pas le nombre de dés lorsque vous gagnez des niveaux.
+Vous gagnez la capacité de classe [attaque sournoise](../capacité-classe/attaque-sournoise.html), à la seule différence qu’elle inflige 1d4 dégâts, passant à 1d6 au niveau 6. Vous n’augmentez pas le nombre de dés lorsque vous gagnez des niveaux.

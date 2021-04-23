@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous pouvez puiser dans la magie du Paradis qui est votre droit de naissance.
 
-Vous pouvez Lancer [Flamme éternelle](../sorts/flamme-éternelle.md) et [Protection d'autrui](../sorts/protection-d-autrui.md) une fois par jour chacun comme des sorts divins innés de niveau 2.
+Vous pouvez Lancer [Flamme éternelle](../sorts/flamme-éternelle.html) et [Protection d'autrui](../sorts/protection-d-autrui.html) une fois par jour chacun comme des sorts divins innés de niveau 2.

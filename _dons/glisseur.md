@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/skitter.json
 layout: dons
 ---
-Vous pouvez filer rapidement sur le sol. Vous pouvez [Ramper](../actions/ramper.md) à la moitié de votre Vitesse.
+Vous pouvez filer rapidement sur le sol. Vous pouvez [Ramper](../actions/ramper.html) à la moitié de votre Vitesse.

@@ -10,8 +10,8 @@ layout: dons
 ---
 **Fréquence** une fois par jour
 
-**Déclencheur** Vous perdez la condition [Mourant](../conditions/mourant.md).
+**Déclencheur** Vous perdez la condition [Mourant](../conditions/mourant.html).
 
 Vous récupérez des expériences de mort imminente grâce à une résilience époustouflante.
 
-N'augmentez pas la valeur de votre condition [Blessé](../conditions/blessé.md) liée à la perte de la condition mourante.
+N'augmentez pas la valeur de votre condition [Blessé](../conditions/blessé.html) liée à la perte de la condition mourante.

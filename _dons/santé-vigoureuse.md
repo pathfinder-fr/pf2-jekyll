@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/vigorous-health.json
 layout: dons
 ---
-Vous avez une constitution robuste et qui peut supporter la perte de sang étonamment bien. Lorsque vous devriez recevoir l'état [Drainé](../conditions/drainé.md), vous pouvez tenter un test nu contre un DD17. Sur un succès, vous n'avez pas la condition Drainé.
+Vous avez une constitution robuste et qui peut supporter la perte de sang étonamment bien. Lorsque vous devriez recevoir l'état [Drainé](../conditions/drainé.html), vous pouvez tenter un test nu contre un DD17. Sur un succès, vous n'avez pas la condition Drainé.

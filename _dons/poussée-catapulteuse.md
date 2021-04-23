@@ -10,4 +10,4 @@ layout: dons
 ---
 **Prérequis** Blocage agressif ou Poussée brutale
 
-Lorsque vous Poussez un adversaire avec Blocage agressif ou Poussée brutale, la distance de poussée passe à 3 m en cas de succès ou à 6 m en cas de succès critique. Quand vous utilisez Blocage agressif, vous pouvez faire en sorte que la cible soit [prise au dépourvu](../conditions/pris-au-dépourvu.md) ou [Poussée](../actions/pousser.md) (vous choisissez). Quand vous faites une Poussée brutale, vous [Poussez](../actions/pousser.md) également la cible de 1,50 m en cas d’échec.
+Lorsque vous Poussez un adversaire avec Blocage agressif ou Poussée brutale, la distance de poussée passe à 3 m en cas de succès ou à 6 m en cas de succès critique. Quand vous utilisez Blocage agressif, vous pouvez faire en sorte que la cible soit [prise au dépourvu](../conditions/pris-au-dépourvu.html) ou [Poussée](../actions/pousser.html) (vous choisissez). Quand vous faites une Poussée brutale, vous [Poussez](../actions/pousser.html) également la cible de 1,50 m en cas d’échec.

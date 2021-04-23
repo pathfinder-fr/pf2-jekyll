@@ -10,7 +10,7 @@ layout: actions
 type: passive
 typeFr: Passive
 ---
-**Conditions** Vous maniez ou transportez des [instruments de guérisseur](../équipements/outils-de-guérisseur.md)
+**Conditions** Vous maniez ou transportez des [instruments de guérisseur](../équipements/outils-de-guérisseur.html)
 
 Vous passez au moins huit heures à prendre soin d’une créature malade. Faites un test de Médecine contre le DD de la maladie. Après avoir tenté de soigner une créature malade, vous ne pouvez pas faire d’autres tentatives tant que la créature n’a pas encore fait son prochain jet de sauvegarde contre la maladie.
 

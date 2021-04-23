@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous pouvez altérer les sorts offensifs pour qu'ils soient moins mortels.
 
-Si votre prochaine action consiste à [Lancer un sort](../actions/lancer-un-sort.md) qui inflige des dégâts et ne possède par le trait négatif ou mort, ce sort obtient le trait non létal.
+Si votre prochaine action consiste à [Lancer un sort](../actions/lancer-un-sort.html) qui inflige des dégâts et ne possède par le trait négatif ou mort, ce sort obtient le trait non létal.

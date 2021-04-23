@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/contortionist.json
 layout: dons
 ---
-Vous pouvez vous sortir de situations où vous êtes à l'étroit de manière surprenamment rapide, obtenant un avantage contre les adversaires qui cherchent à vous attraper. Vous obtenez le don de compétence [Se faufiler rapidement](se-faufiler-rapidement.md), et si vous êtes maître en Acrobaties, Vous pouvez vous [Faufiler](../actions/se-faufiler.md) à votre Vitesse maximale.
+Vous pouvez vous sortir de situations où vous êtes à l'étroit de manière surprenamment rapide, obtenant un avantage contre les adversaires qui cherchent à vous attraper. Vous obtenez le don de compétence [Se faufiler rapidement](se-faufiler-rapidement.html), et si vous êtes maître en Acrobaties, Vous pouvez vous [Faufiler](../actions/se-faufiler.html) à votre Vitesse maximale.
 
-Lorsque vous réussissez à vous Échapper en utilisant Acrobaties, la créature à laquelle vous Échappez est [Prise au dépourvu](../conditions/pris-au-dépourvu.md) face à la prochaine attaque que vous lui portez avant la fin de votre prochain tour.
+Lorsque vous réussissez à vous Échapper en utilisant Acrobaties, la créature à laquelle vous Échappez est [Prise au dépourvu](../conditions/pris-au-dépourvu.html) face à la prochaine attaque que vous lui portez avant la fin de votre prochain tour.

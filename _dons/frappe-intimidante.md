@@ -10,4 +10,4 @@ layout: dons
 ---
 Votre coup blesse les créatures mais ébranle également leur assurance.
 
-Effectuez une Frappe au corps à corps. Si vous touchez et infligez des dégâts, la cible est [Effrayée](../conditions/effrayé.md) 1 ou Effrayée 2 en cas de coup critique.
+Effectuez une Frappe au corps à corps. Si vous touchez et infligez des dégâts, la cible est [Effrayée](../conditions/effrayé.html) 1 ou Effrayée 2 en cas de coup critique.

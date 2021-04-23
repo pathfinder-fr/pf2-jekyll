@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous combinez une puissance impie avec de l'énergie négative pour blesser les anges, les archons et les autres habitants bons des plans Extérieurs.
 
-Lorsque vous lancez un sort de [Mise à mal](../sorts/mise-à-mal.md), vous pouvez changer les dégâts que vous infligez aux créatures célestes en dégâts du mal au lieu de dégâts négatifs.
+Lorsque vous lancez un sort de [Mise à mal](../sorts/mise-à-mal.html), vous pouvez changer les dégâts que vous infligez aux créatures célestes en dégâts du mal au lieu de dégâts négatifs.

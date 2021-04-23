@@ -10,6 +10,6 @@ layout: dons
 ---
 Les ombres vous protègent mieux que n'importe quelle armure et elles vous donnent le pouvoir de plonger les autres dans l'obscurité.
 
-Lorsque vous vous trouvez dans une zone de lumière faible ou dans l'obscurité, vous obtenez une résistance 5 contre tous les dégâts sauf ceux de force et les dégâts des [Frappes](../actions/frapper.md) avec la rune de propriété [Spectrale](../équipements/spectrale-rune.md).
+Lorsque vous vous trouvez dans une zone de lumière faible ou dans l'obscurité, vous obtenez une résistance 5 contre tous les dégâts sauf ceux de force et les dégâts des [Frappes](../actions/frapper.html) avec la rune de propriété [Spectrale](../équipements/spectrale-rune.html).
 
 Lorsque vous effectuez un jet de Réflexes dans une zone de lumière faible ou d'obscurité, vous pouvez lancer deux fois les dés et prendre le meilleur résultat ; c'est un effet de chance.

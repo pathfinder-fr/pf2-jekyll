@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous avez un profond dévouement pour votre compagnon animal qui vous permet de guérir magiquement ses blessures.
 
-Vous obtenez le sort de gardien [Guérison du compagnon](../sorts/guérison-de-compagnon.md) et une réserve de focalisation de 1 point de focalisation.
+Vous obtenez le sort de gardien [Guérison du compagnon](../sorts/guérison-de-compagnon.html) et une réserve de focalisation de 1 point de focalisation.

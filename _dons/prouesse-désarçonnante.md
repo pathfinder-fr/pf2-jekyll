@@ -12,4 +12,4 @@ layout: dons
 
 Vous maniez votre épée avec une adresse si extraordinaire que vous désarçonnez vos ennemis.
 
-Vous pouvez essayer de  [Démoraliser](../actions/démoraliser.md) la cible de votre Frappe ou de votre action Désarmer. Cette tentative pour Démoraliser n’a pas le trait audible et vous ne subissez pas de pénalité à votre test lorsque la cible ne comprend pas votre langue.
+Vous pouvez essayer de  [Démoraliser](../actions/démoraliser.html) la cible de votre Frappe ou de votre action Désarmer. Cette tentative pour Démoraliser n’a pas le trait audible et vous ne subissez pas de pénalité à votre test lorsque la cible ne comprend pas votre langue.

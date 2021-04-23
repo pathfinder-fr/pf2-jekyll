@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous pouvez concentrer les ombres en une explosion puissante.
 
-Vous pouvez lancer [Explosion d'ombre](../sorts/explosion-d-ombre.md) comme un sort occulte inné une fois par jour. Son niveau est toujours de 1 niveau inférieur au niveau de vos sorts de focalisation de danseur de l'ombre. Vous devenez un expert en jet d'attaque de sorts occultes et en DD de sorts occultes.
+Vous pouvez lancer [Explosion d'ombre](../sorts/explosion-d-ombre.html) comme un sort occulte inné une fois par jour. Son niveau est toujours de 1 niveau inférieur au niveau de vos sorts de focalisation de danseur de l'ombre. Vous devenez un expert en jet d'attaque de sorts occultes et en DD de sorts occultes.

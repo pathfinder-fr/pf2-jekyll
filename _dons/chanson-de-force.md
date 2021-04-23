@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/song-of-strength.json
 layout: dons
 ---
-Vos représentations donnent à vos alliés de la force. Vous apprenez le tour de magie de composition [Chanson de force](../sorts/chanson-de-force.md).
+Vos représentations donnent à vos alliés de la force. Vous apprenez le tour de magie de composition [Chanson de force](../sorts/chanson-de-force.html).

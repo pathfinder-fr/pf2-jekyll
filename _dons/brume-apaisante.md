@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/soothing-mist.json
 layout: dons
 ---
-Vous possédez un lien avec les propriétés de guérison de la nature et pouvez produire une brume magique pour guérir les dégâts et arrêter les brûlures ou le saignement. Vous obtenez le sort de gardien [Brume apaisante](../sorts/brume-apaisante.md). Augmentez le nombre de Points de focalisation de votre réserve de focalisation de 1.
+Vous possédez un lien avec les propriétés de guérison de la nature et pouvez produire une brume magique pour guérir les dégâts et arrêter les brûlures ou le saignement. Vous obtenez le sort de gardien [Brume apaisante](../sorts/brume-apaisante.html). Augmentez le nombre de Points de focalisation de votre réserve de focalisation de 1.

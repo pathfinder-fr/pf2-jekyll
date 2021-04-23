@@ -10,7 +10,7 @@ layout: actions
 type: action
 typeFr: Action Unique
 ---
-**Conditions** Vous avez au moins une activation d’objet magique que vous pouvez maintenir et vous n’êtes pas [fatigué](../conditions/fatigué.md)
+**Conditions** Vous avez au moins une activation d’objet magique que vous pouvez maintenir et vous n’êtes pas [fatigué](../conditions/fatigué.html)
 
 Choisissez une activation d’objet magique avec une durée maintenue que vous avez actuellement active. La durée de cette activation se prolonge jusqu’à la fin de votre prochain tour. Certaines activations ont un effet légèrement différent ou étendu si vous les maintenez.
 

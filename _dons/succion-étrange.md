@@ -10,6 +10,6 @@ layout: dons
 ---
 Vos membres produisent d'étranges appendices comme des ventouses qui vous permettent d'adhérer aux murs, aux objets et à la plupart des autres surfaces.
 
-Vous obtenez une Vitesse d'[Escalade](../actions/escalader.md) égale à la moitié de votre Vitesse de base (minimum 1,5 m). Si vous possédez le don [Escalade rapide](escalade-rapide.md), votre Vitesse d'escalade est égale à votre Vitesse de base.
+Vous obtenez une Vitesse d'[Escalade](../actions/escalader.html) égale à la moitié de votre Vitesse de base (minimum 1,5 m). Si vous possédez le don [Escalade rapide](escalade-rapide.html), votre Vitesse d'escalade est égale à votre Vitesse de base.
 
-De plus, vous obtenez un bonus de circonstances de +2 à votre DD de Réflexes pour éviter d'être [Désarmé](../actions/désarmer.md).
+De plus, vous obtenez un bonus de circonstances de +2 à votre DD de Réflexes pour éviter d'être [Désarmé](../actions/désarmer.html).

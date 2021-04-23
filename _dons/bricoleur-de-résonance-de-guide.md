@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous pouvez utiliser la résonance inhabituelle de votre guide pour lui ajouter des fonctions supplémentaires.
 
-Choisissez un tour de magie dans la liste de magie arcanique, divine, occulte ou primordiale. Vous pouvez Activer votre guide pour lancer ce tour de magie à volonté. De plus, vous pouvez Activer votre [guide](../équipements/guide.md) avec une unique activation (imaginer) pour le transformer en une broche quelconque et ainsi cacher votre affiliation à la Société des Éclaireurs. Cette transformation dure 1 heure.
+Choisissez un tour de magie dans la liste de magie arcanique, divine, occulte ou primordiale. Vous pouvez Activer votre guide pour lancer ce tour de magie à volonté. De plus, vous pouvez Activer votre [guide](../équipements/guide.html) avec une unique activation (imaginer) pour le transformer en une broche quelconque et ainsi cacher votre affiliation à la Société des Éclaireurs. Cette transformation dure 1 heure.

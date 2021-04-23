@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/shadow's-assault.json
 layout: dons
 ---
-Votre ombre assaille vos adversaires. Vous pouvez lancer [Explosion d'ombre](../sorts/explosion-d-ombre.md) comme un sort inné occulte de niveau 5 une fois par jour.
+Votre ombre assaille vos adversaires. Vous pouvez lancer [Explosion d'ombre](../sorts/explosion-d-ombre.html) comme un sort inné occulte de niveau 5 une fois par jour.
 
 Au niveau 17, votre Explosion d'ombre est intensifiée au niveau 6.

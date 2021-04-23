@@ -12,12 +12,12 @@ Pour ressusciter une créature que vous avez tuée, un lanceur de sort doit cont
 
 De plus, ajoutez deux sorts de niveau 5 à votre grimoire d'Assassin des Mantes rouges - les deux sorts doivent être choisis parmi les sorts de la liste suivante :
 
-- [Communication à distance](../sorts/communication-à-distance.md).
-- [Hallucination](../sorts/hallucination.md),
-- [Protection contre la mort](../sorts/protection-contre-la-mort.md),
-- [Raide mort](../sorts/raide-mort.md),
-- [Scène illusoire](../sorts/scène-illusoire.md),
-- [Sonde mentale](../sorts/sonde-mentale.md),
-- [Vision faussée](../sorts/vision-faussée.md),
+- [Communication à distance](../sorts/communication-à-distance.html).
+- [Hallucination](../sorts/hallucination.html),
+- [Protection contre la mort](../sorts/protection-contre-la-mort.html),
+- [Raide mort](../sorts/raide-mort.html),
+- [Scène illusoire](../sorts/scène-illusoire.html),
+- [Sonde mentale](../sorts/sonde-mentale.html),
+- [Vision faussée](../sorts/vision-faussée.html),
 
 Vous obtenez un emplacement de sort de niveau 5 que vous pouvez utiliser pour préparer un sort de votre grimoire d'Assassin des Mantes rouges.

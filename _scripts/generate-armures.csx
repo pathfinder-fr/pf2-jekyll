@@ -6,13 +6,15 @@
 
 using System.Text.Json;
 
-await GenerateData(DataGroup.Equipments, ParseArmor, o => o.GetPropertyString("type") == "armor", "armures");
+var count = await GenerateData(DataPack.Equipments, ParseArmor, o => o.GetPropertyString("type") == "armor", "armures");
+
+WriteLine($"Génération terminée : {count} armures traitées");
 
 static void ParseArmor(JsonElement item, JsonDocument frJsonDoc, StreamWriter writer)
 {
     writer.WriteLine($"  type: {item.GetPropertyString("armorType")}");
-    writer.WriteLine($"  armure: {item.GetPropertyInt32("armor")}");
-    writer.WriteLine($"  bonus: {item.GetPropertyInt32("level")}");
+    writer.WriteLine($"  bonus: {item.GetPropertyInt32("armor")}");
+    writer.WriteLine($"  level: {item.GetPropertyInt32("level")}");
 
     // Prix TODO : Gérer la traduction en français
     writer.WriteLine($"  prix: {item.GetPropertyString("price")}");

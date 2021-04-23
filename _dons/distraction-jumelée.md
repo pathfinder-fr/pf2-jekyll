@@ -10,4 +10,4 @@ layout: dons
 ---
 **Conditions** Vous maniez deux armes de mêlée, chacune dans une main différente.
 
-Vos déplacements avec deux armes sont si rapides et désorientant qu'ils désarçonnent votre adversaire. Lorsque vous utilisez Feinte jumelée, si deux de vos [Frappes](../actions/frapper.md) infligent des dégâts à la créature ciblée, la cible doit réussir un jet de Volonté contre votre DD de classe ou être [Stupéfiée](../conditions/stupéfié.md) 1 jusqu'à la fin de votre prochain tour.
+Vos déplacements avec deux armes sont si rapides et désorientant qu'ils désarçonnent votre adversaire. Lorsque vous utilisez Feinte jumelée, si deux de vos [Frappes](../actions/frapper.html) infligent des dégâts à la créature ciblée, la cible doit réussir un jet de Volonté contre votre DD de classe ou être [Stupéfiée](../conditions/stupéfié.html) 1 jusqu'à la fin de votre prochain tour.

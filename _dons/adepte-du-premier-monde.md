@@ -10,4 +10,4 @@ layout: dons
 ---
 Votre magie féerique s’est renforcée avec le temps.
 
-Vous gagnez [Lueurs féeriques](../sorts/lueurs-féériques.md) et [Invisibilité](../sorts/invisibilité.md) comme sorts innés primordiaux de niveau 2. Vous pouvez lancer chacun de ces sorts innés primordiaux une fois par jour.
+Vous gagnez [Lueurs féeriques](../sorts/lueurs-féériques.html) et [Invisibilité](../sorts/invisibilité.html) comme sorts innés primordiaux de niveau 2. Vous pouvez lancer chacun de ces sorts innés primordiaux une fois par jour.

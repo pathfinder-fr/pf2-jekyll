@@ -10,4 +10,4 @@ layout: dons
 ---
 **Conditions** Vous maniez votre bâton.
 
-Vous [Bondissez](../actions/bondir.md) puis Frappez en utilisant votre bâton. Vous obtenez un bonus de circonstance aux dégâts pour la Frappe égal à deux fois le nombre de dés de dégâts de l'arme. Que votre Frappe touche ou pas, vous pouvez ensuite tenter de [Pousser](../actions/pousser.md) ou de faire un [Croc-en-jambe](../actions/croc-en-jambe.md) à la cible.
+Vous [Bondissez](../actions/bondir.html) puis Frappez en utilisant votre bâton. Vous obtenez un bonus de circonstance aux dégâts pour la Frappe égal à deux fois le nombre de dés de dégâts de l'arme. Que votre Frappe touche ou pas, vous pouvez ensuite tenter de [Pousser](../actions/pousser.html) ou de faire un [Croc-en-jambe](../actions/croc-en-jambe.html) à la cible.

@@ -8,7 +8,7 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/accompany.json
 layout: dons
 ---
-**Déclencheur** Un allié dans les 9 m [Lance un sort](../actions/lancer-un-sort.md).
+**Déclencheur** Un allié dans les 9 m [Lance un sort](../actions/lancer-un-sort.html).
 
 Vous utilisez vos représentations pour compléter l'incantation des sorts d'un allié, lui procurant l'énergie magique pour ses sorts.
 

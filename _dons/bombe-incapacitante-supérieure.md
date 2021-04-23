@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/greater-debilitating-bomb.json
 layout: dons
 ---
-**Prérequis** [Bombe incapacitante](bombe-incapacitante.md)
+**Prérequis** [Bombe incapacitante](bombe-incapacitante.html)
 
-Vous avez appris des techniques avancées et des secrets alchimiques qui vous permettent d’étendre la liste d’effets que vous pouvez causer avec vos bombes. Quand vous utilisez Bombe incapacitante, ajoutez les effets suivants à la liste de ceux que vous pouvez causer : [Maladroit](../conditions/maladroit.md) 1, [Affaibli](../conditions/affaibli.md) 1, [Stupéfié](../conditions/stupéfié.md) 1 ou un malu de Vitesses de -3 m.
+Vous avez appris des techniques avancées et des secrets alchimiques qui vous permettent d’étendre la liste d’effets que vous pouvez causer avec vos bombes. Quand vous utilisez Bombe incapacitante, ajoutez les effets suivants à la liste de ceux que vous pouvez causer : [Maladroit](../conditions/maladroit.html) 1, [Affaibli](../conditions/affaibli.html) 1, [Stupéfié](../conditions/stupéfié.html) 1 ou un malu de Vitesses de -3 m.

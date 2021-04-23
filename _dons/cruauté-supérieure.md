@@ -10,4 +10,4 @@ layout: dons
 ---
 L'extension de votre corruption fait plus que simplement saper la force de votre adversaire, elle dévaste leurs esprits et émousse leurs réflexes.
 
-Lorsque vous utilisez Cruauté, choisissez si vous voulez rendre la créature affaiblie comme à l'ordinaire ou la rendre [Maladroite](../conditions/maladroit.md) 1 en cas d'échec au jet de sauvegarde (Maladroite 2 en cas d'échec critique) ou si vous voulez la rendre [Stupéfiée](../conditions/stupéfié.md) 1 en cas d'échec du jet de sauvegarde (Stupéfiée 2 sur un échec critique).
+Lorsque vous utilisez Cruauté, choisissez si vous voulez rendre la créature affaiblie comme à l'ordinaire ou la rendre [Maladroite](../conditions/maladroit.html) 1 en cas d'échec au jet de sauvegarde (Maladroite 2 en cas d'échec critique) ou si vous voulez la rendre [Stupéfiée](../conditions/stupéfié.html) 1 en cas d'échec du jet de sauvegarde (Stupéfiée 2 sur un échec critique).

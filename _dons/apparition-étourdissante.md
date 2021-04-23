@@ -10,4 +10,4 @@ layout: dons
 ---
 Votre soudaine apparition laisse vos ennemis incapables de répliquer.
 
-Lorsque vous utilisez Apparition surprenante, si le niveau de votre ennemi est égal ou plus faible que le vôtre, il est aussi [Étourdie](../conditions/étourdi.md) 1 si vous touchez ou Étourdi 2 sur un coup critique.
+Lorsque vous utilisez Apparition surprenante, si le niveau de votre ennemi est égal ou plus faible que le vôtre, il est aussi [Étourdie](../conditions/étourdi.html) 1 si vous touchez ou Étourdi 2 sur un coup critique.

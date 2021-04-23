@@ -10,4 +10,4 @@ layout: dons
 ---
 Alors que votre vengeance est douloureuse à la fois pour vous et votre adversaire, personne ne peut douter que vos ennemis souffrent davantage.
 
-Vous obtenez un bonus de circonstances aux dégâts que vous infligez avec [Vengeance destructrice](../actions/vengeance-destructrice.md) égal au nombre de dés de dégâts de la réaction. Cela ne s'applique qu'aux dégâts subis par l'adversaire, pas à ceux que vous subissez ou aux dégâts supplémentaires que vous infligez après avoir utilisé la réaction.
+Vous obtenez un bonus de circonstances aux dégâts que vous infligez avec [Vengeance destructrice](../actions/vengeance-destructrice.html) égal au nombre de dés de dégâts de la réaction. Cela ne s'applique qu'aux dégâts subis par l'adversaire, pas à ceux que vous subissez ou aux dégâts supplémentaires que vous infligez après avoir utilisé la réaction.

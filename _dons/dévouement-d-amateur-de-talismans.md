@@ -12,6 +12,6 @@ Vous avez la maîtrise de l'utilisation des talismans et de tout l'attirail magi
 
 De plus, vous portez une collection de babioles magiques que vous pouvez transformer en talismans temporaires. Chaque jour, au cours de vos préparatifs quotidiens, vous pouvez faire deux talismans avec un niveau d'objet pas plus haut que la moitié de votre niveau. Vous devez connaître les formules de chaque talisman. Un talisman créé de cette manière est un objet temporaire et perd ses pouvoirs magiques la prochaine fois que vous faites vos préparatifs quotidiens si vous ne l'avez pas déjà utilisé avant.
 
-Enfin, lorsque vous [Fixez un Talisman](../actions/fixer-un-talisman.md), vous pouvez (dans n'importe quelle combinaison) fixer ou retirer jusqu'à quatre talismans sur une période de 10 minutes.
+Enfin, lorsque vous [Fixez un Talisman](../actions/fixer-un-talisman.html), vous pouvez (dans n'importe quelle combinaison) fixer ou retirer jusqu'à quatre talismans sur une période de 10 minutes.
 
 **Spécial** Vous ne pouvez choisir un autre don de dévouement avant d'avoir choisi deux autres dons de l'archétype d'Amateur de talismans.

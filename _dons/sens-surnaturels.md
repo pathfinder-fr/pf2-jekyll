@@ -10,4 +10,4 @@ layout: dons
 ---
 Votre odorat est incroyablement aiguisé et vous pouvez toujours compter sur votre sens de l'odorat pour vous guider lorsque votre vision est compromise.
 
-Lorsque vous ciblez un opposant [Masqué](../conditions/masqué.md) ou [Caché](../conditions/caché.md) lorsque vous êtes enragé, vous réduisez le DD du test nu à 3 pour une cible masquée et 9 si elle est cachée.
+Lorsque vous ciblez un opposant [Masqué](../conditions/masqué.html) ou [Caché](../conditions/caché.html) lorsque vous êtes enragé, vous réduisez le DD du test nu à 3 pour une cible masquée et 9 si elle est cachée.

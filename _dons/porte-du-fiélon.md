@@ -10,4 +10,4 @@ layout: dons
 ---
 Comme de nombreux fiélons, vous avez la faculté surnaturelle de vous téléporter vers la sécurité.
 
-Une fois par jour, vous pouvez Lancer [Porte dimensionnelle](../sorts/porte-dimensionnelle.md) comme un sort inné divin de niveau 5.
+Une fois par jour, vous pouvez Lancer [Porte dimensionnelle](../sorts/porte-dimensionnelle.html) comme un sort inné divin de niveau 5.

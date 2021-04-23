@@ -10,6 +10,6 @@ layout: dons
 ---
 Quelques fois, vos dossiers se scindent en plus petits mystères mais vous ne perdez jamais de vue l'ensemble.
 
-Une fois par jour lorsque vous abandonnez un sujet d'une piste pour utiliser [Suivre une piste](../actions/suivre-une-piste.md) de nouveau, vous pouvez désigner la piste que vous avez arrêtée de poursuivre comme piste solide pour la journée. Même si vous avez cessé de suivre la piste solide, vous pouvez revenir à ma pise solide n'importe quel nombre de fois en utilisant une action unique, qui a le trait concentration. Le faire termine une de vos pistes actuelles comme à l'ordinaire.
+Une fois par jour lorsque vous abandonnez un sujet d'une piste pour utiliser [Suivre une piste](../actions/suivre-une-piste.html) de nouveau, vous pouvez désigner la piste que vous avez arrêtée de poursuivre comme piste solide pour la journée. Même si vous avez cessé de suivre la piste solide, vous pouvez revenir à ma pise solide n'importe quel nombre de fois en utilisant une action unique, qui a le trait concentration. Le faire termine une de vos pistes actuelles comme à l'ordinaire.
 
 Durant vos prochains préparatifs quotidiens, vous pouvez gardedr votre piste solide ou vous pouvez la retirer ; la retirer vous permet de désigner une nouvelle piste solide plus tard au cours de cette journée.

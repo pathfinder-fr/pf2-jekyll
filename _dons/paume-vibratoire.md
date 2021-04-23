@@ -10,4 +10,4 @@ layout: dons
 ---
 **Prérequis** sorts ki
 
-Vos Frappes peuvent tuer vos ennemis sur le coup. Vous obtenez le sort ki [paume vibratoire](../sorts/paume-vibratoire.md) (page 396). Augmentez de 1 le nombre de points de focalisation de votre réserve.
+Vos Frappes peuvent tuer vos ennemis sur le coup. Vous obtenez le sort ki [paume vibratoire](../sorts/paume-vibratoire.html) (page 396). Augmentez de 1 le nombre de points de focalisation de votre réserve.

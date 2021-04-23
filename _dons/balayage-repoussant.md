@@ -12,4 +12,4 @@ layout: dons
 
 **Conditions** Vous maniez une arme au corps à corps à deux mains.
 
-Vous balancez votre arme sur votre adversaire en le repoussant. Vous tentez de [Pousser](../actions/pousser.md) la créature déclencheuse, en ignorant la condition qui nécessite d'avoir une main libre. La créature continue son déplacement après la Poussée.
+Vous balancez votre arme sur votre adversaire en le repoussant. Vous tentez de [Pousser](../actions/pousser.html) la créature déclencheuse, en ignorant la condition qui nécessite d'avoir une main libre. La créature continue son déplacement après la Poussée.

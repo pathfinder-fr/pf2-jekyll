@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/maker-of-miracles.json
 layout: dons
 ---
-**Prérequis** [sort miraculeux](../capacité-classe/sort-miraculeux.md)
+**Prérequis** [sort miraculeux](../capacité-classe/sort-miraculeux.html)
 
 Vous êtes un véritable canal de la puissance de votre divinité. Vous gagnez un emplacement de sort de niveau 10 de plus.

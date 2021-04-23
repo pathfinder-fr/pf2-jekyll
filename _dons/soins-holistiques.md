@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous fournissez des soins émotionnels et spirituels.
 
-Ajoutez [Effrayé](../conditions/effrayé.md), [Stupéfiée](../conditions/stupéfié.md) et [Étourdi](../conditions/étourdi.md) à la liste des états que vous pouvez réduire avec [Soigner un état](soigner-un-état.md). Si la condition Étourdi possède une durée au lieu d'une valeur, vous ne pouvez pas utiliser Soigner un état pour la réduire.
+Ajoutez [Effrayé](../conditions/effrayé.html), [Stupéfiée](../conditions/stupéfié.html) et [Étourdi](../conditions/étourdi.html) à la liste des états que vous pouvez réduire avec [Soigner un état](soigner-un-état.html). Si la condition Étourdi possède une durée au lieu d'une valeur, vous ne pouvez pas utiliser Soigner un état pour la réduire.

@@ -10,6 +10,6 @@ layout: dons
 ---
 Vous passez dans les pieds de vos ennemis en combat.
 
-Vous pouvez terminer une action réussie de [Déplacement acrobatique](../actions/déplacement-acrobatique.md) dans la case d'un ennemi de taille Grande ou supérieure.
+Vous pouvez terminer une action réussie de [Déplacement acrobatique](../actions/déplacement-acrobatique.html) dans la case d'un ennemi de taille Grande ou supérieure.
 
-De plus, lorsque vous faites usage de Pas vif, vous pouvez [Faire un pas](../actions/faire-un-pas.md) dans un espace déclenchant de l'ennemi. L'ennemi doit avoir des membres ou vous laisser autrement assez d'espace pour effectuer cette manœuvre, à la discrétion du MJ. Par exemple, vous pourriez partager une case avec un géant ou un dragon, mais pas avec une vase.
+De plus, lorsque vous faites usage de Pas vif, vous pouvez [Faire un pas](../actions/faire-un-pas.html) dans un espace déclenchant de l'ennemi. L'ennemi doit avoir des membres ou vous laisser autrement assez d'espace pour effectuer cette manœuvre, à la discrétion du MJ. Par exemple, vous pourriez partager une case avec un géant ou un dragon, mais pas avec une vase.

@@ -10,4 +10,4 @@ layout: dons
 ---
 Votre seule présence est suffisante pour fournir à vos alliés un support émotionnel.
 
-Vous pouvez utiliser la réaction [Aider](../actions/aider.md) pour accorder un bonus aux tests de Volonté d'une autre créature même si vous ne vous étiez pas préparé à le faire.
+Vous pouvez utiliser la réaction [Aider](../actions/aider.html) pour accorder un bonus aux tests de Volonté d'une autre créature même si vous ne vous étiez pas préparé à le faire.

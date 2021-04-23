@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/ricochet-feint.json
 layout: dons
 ---
-**Prérequis** [Posture du ricochet](posture-du-ricochet-roublard.md)
+**Prérequis** [Posture du ricochet](posture-du-ricochet-roublard.html)
 
-Lorsque vous adoptez la Posture du ricochet, Vous pouvez faire rebondir une arme de jet sur un ennemi pour les distraire. Vous pouvez tenter une [Feinte](../actions/feinter.md) contre une créature dans le premier facteur de portée d'une arme de jet que vous maniez et pas seulement les créatures qui sont dans votre allonge au corps à corps.
+Lorsque vous adoptez la Posture du ricochet, Vous pouvez faire rebondir une arme de jet sur un ennemi pour les distraire. Vous pouvez tenter une [Feinte](../actions/feinter.html) contre une créature dans le premier facteur de portée d'une arme de jet que vous maniez et pas seulement les créatures qui sont dans votre allonge au corps à corps.

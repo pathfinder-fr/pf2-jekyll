@@ -10,4 +10,4 @@ layout: dons
 ---
 La Discrétion est un outil important dans votre arsenal. Vous pouvez vous déplacer de 1,5 m de plus lorsque vous utilisez l'action Être furtif, jusqu'à votre Vitesse maximale.
 
-De plus, tant que vous continuez à utiliser les actions de Être furtifet obtenez un succès à votre test de Discrétion, vous n'êtes pas [Observé](../conditions/observé.md) si vous n'avez pas d'abri normal ou d'abri important et n'êtes pas [Masqué](../conditions/masqué.md) à la fin de l'action Être furtif, tant que vous disposez d'un abri ou d'un abri important ou êtes masqué à la fin de votre tour.
+De plus, tant que vous continuez à utiliser les actions de Être furtifet obtenez un succès à votre test de Discrétion, vous n'êtes pas [Observé](../conditions/observé.html) si vous n'avez pas d'abri normal ou d'abri important et n'êtes pas [Masqué](../conditions/masqué.html) à la fin de l'action Être furtif, tant que vous disposez d'un abri ou d'un abri important ou êtes masqué à la fin de votre tour.

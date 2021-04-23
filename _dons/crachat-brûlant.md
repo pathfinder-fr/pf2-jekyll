@@ -10,4 +10,4 @@ layout: dons
 ---
 Vos fluides corporels brûlent avec une volatilité surprenante, comme si vous étiez fait d'huile plutôt que de sang.
 
-Tant que vous subissez des [Dégâts de feu persistants](../conditions/dégâts-persistants.md), vous obtenez une attaque à mains nues à distance de crachat bouillant d'une portée de 9 m qui inflige 1d6 dégât de feu.
+Tant que vous subissez des [Dégâts de feu persistants](../conditions/dégâts-persistants.html), vous obtenez une attaque à mains nues à distance de crachat bouillant d'une portée de 9 m qui inflige 1d6 dégât de feu.

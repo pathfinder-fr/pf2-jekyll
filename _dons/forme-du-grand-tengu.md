@@ -10,6 +10,6 @@ layout: dons
 ---
 Vous prenez la forme d'un imposant oni ailé de taille Grande.
 
-Une fois par jour, dans le cadre de l'utilisation de Forme au long nez, vous gagnez aussi les avantage d'un sort d'[Agrandissement](../sorts/agrandissement.md) et de [Vol](../sorts/vol.md) de niveau 4.
+Une fois par jour, dans le cadre de l'utilisation de Forme au long nez, vous gagnez aussi les avantage d'un sort d'[Agrandissement](../sorts/agrandissement.html) et de [Vol](../sorts/vol.html) de niveau 4.
 
 Cela dure pendant 5 minutes ou jusqu'à ce que vous sortiez de votre forme à long nez, selon ce qui advient en premier.

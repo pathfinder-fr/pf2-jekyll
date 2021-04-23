@@ -10,6 +10,6 @@ layout: dons
 ---
 Vous courrez et grimpez en empruntant des cordes et en montant aux gréements aussi facilement que sur la terre ferme.
 
-Vous obtenez une vitesse d'[Escalade](../actions/escalader.md) de 4,5 m, mais seulement dans les gréements d'un navire ou dans des cordages similaires.
+Vous obtenez une vitesse d'[Escalade](../actions/escalader.html) de 4,5 m, mais seulement dans les gréements d'un navire ou dans des cordages similaires.
 
-Lorsque vous obtenez un succès lors d'un test d'Athlétisme pour grimper à une corde ou à un test d'Acrobaties pour [Garder l'équilibre](../actions/garder-l-équilibre.md) sur une corde, vous considérez qu'il s'agit d'un succès critique. Vous n'êtes pas [Pris au dépourvu](../conditions/pris-au-dépourvu.md) lorsque vous Escaladez ou Gardez l'équilibre sur une corde.
+Lorsque vous obtenez un succès lors d'un test d'Athlétisme pour grimper à une corde ou à un test d'Acrobaties pour [Garder l'équilibre](../actions/garder-l-équilibre.html) sur une corde, vous considérez qu'il s'agit d'un succès critique. Vous n'êtes pas [Pris au dépourvu](../conditions/pris-au-dépourvu.html) lorsque vous Escaladez ou Gardez l'équilibre sur une corde.

@@ -12,4 +12,4 @@ layout: dons
 
 **Déclencheur** Vous, ou un allié Strix que vous pouvez voir, subissez des dégâts par un coup critique d'un ennemi.
 
-Vous vous dévouez pour détruire ceux qui ont blessé les vôtres. Jusqu'à la fin de votre prochain tour, vous infligez +1d6 dégâts supplémentaires sur les Frappes contre l'ennemi déclencheur. Le bonus passe à +2d6 si vous utilisez une [Frappe](../équipements/frappe-rune.md) d'arme ou une attaque à mains nues et +3d6 si vous utilisez une attaque avec une arme ou une attaque à mains nues de [Frappe (Majeure)](../équipements/frappe-majeure-rune.md).
+Vous vous dévouez pour détruire ceux qui ont blessé les vôtres. Jusqu'à la fin de votre prochain tour, vous infligez +1d6 dégâts supplémentaires sur les Frappes contre l'ennemi déclencheur. Le bonus passe à +2d6 si vous utilisez une [Frappe](../équipements/frappe-rune.html) d'arme ou une attaque à mains nues et +3d6 si vous utilisez une attaque avec une arme ou une attaque à mains nues de [Frappe (Majeure)](../équipements/frappe-majeure-rune.html).

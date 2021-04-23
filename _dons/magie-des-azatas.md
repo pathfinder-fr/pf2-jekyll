@@ -10,4 +10,4 @@ layout: dons
 ---
 Votre lignage remonte jusqu'au royaume de l'Élysee et vous pouvez exploiter sa magie en utilisant ce lien.
 
-Vous pouvez Lancer [Poussière scintillante](../sorts/poussière-scintillante.md) et [Délivrance de la paralysie](../sorts/délivrance-de-la-paralysie.md) une fois par jour chacun comme des sorts divins innés de niveau 2.
+Vous pouvez Lancer [Poussière scintillante](../sorts/poussière-scintillante.html) et [Délivrance de la paralysie](../sorts/délivrance-de-la-paralysie.html) une fois par jour chacun comme des sorts divins innés de niveau 2.

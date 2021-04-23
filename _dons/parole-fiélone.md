@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous invoquez un mot blasphématoire provenant des royaumes fiélons pour châtier vos ennemis.
 
-Une fois par jour, vous pouvez Lancer [Décret divin](../sorts/décret-divin.md) comme un sort inné divin de niveau 7. Vous devez choisir mal pour le sort et vous Lancez le sort sans égard pour votre divinité ou quel que soit son alignement.
+Une fois par jour, vous pouvez Lancer [Décret divin](../sorts/décret-divin.html) comme un sort inné divin de niveau 7. Vous devez choisir mal pour le sort et vous Lancez le sort sans égard pour votre divinité ou quel que soit son alignement.

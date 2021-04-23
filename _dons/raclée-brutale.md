@@ -10,4 +10,4 @@ layout: dons
 ---
 La brutalité de vos coups critiques ébranle la confiance de vos ennemis.
 
-À chaque fois qu’une de vos Frappes est un coup critique et inflige des dégâts, la cible devient [Effrayée](../conditions/effrayé.md) 1
+À chaque fois qu’une de vos Frappes est un coup critique et inflige des dégâts, la cible devient [Effrayée](../conditions/effrayé.html) 1

@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous portez une frappe vicieuse qui mutile votre ennemi.
 
-FAites une Frappe au corps-à-corps. Si la Frappe touche et inflige des dégâts, la cible est [Drainée 1](../conditions/drainé.md) ou [Drainée 2](../conditions/drainé.md) en cas de coup critique.
+FAites une Frappe au corps-à-corps. Si la Frappe touche et inflige des dégâts, la cible est [Drainée 1](../conditions/drainé.html) ou [Drainée 2](../conditions/drainé.html) en cas de coup critique.

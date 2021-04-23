@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous mettez facilement fin à une hémorragie vous affectant.
 
-Réduisez le DD des tests nus pour arrêter un saignement persistant de 15 à 10. Vous pouvez utiliser une action unique dotée du trait concentration pour avoir le droit de faire un test nu rapidement, sans panser physiquement la plaie. Vous vous remettez de l’état [Drainé](../conditions/drainé.md) deux fois plus vite que la normale.
+Réduisez le DD des tests nus pour arrêter un saignement persistant de 15 à 10. Vous pouvez utiliser une action unique dotée du trait concentration pour avoir le droit de faire un test nu rapidement, sans panser physiquement la plaie. Vous vous remettez de l’état [Drainé](../conditions/drainé.html) deux fois plus vite que la normale.

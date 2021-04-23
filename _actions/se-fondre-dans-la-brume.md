@@ -10,6 +10,6 @@ layout: actions
 type: reaction
 typeFr: Réaction
 ---
-**Déclencheur** Une créature tente un test nu pour vous cibler car vous êtes [Masqué](../conditions/masqué.md) ou [Caché](../conditions/caché.md) à cause du brouillard, de la buée, de la brume ou de la fumée.
+**Déclencheur** Une créature tente un test nu pour vous cibler car vous êtes [Masqué](../conditions/masqué.html) ou [Caché](../conditions/caché.html) à cause du brouillard, de la buée, de la brume ou de la fumée.
 
 **Effet** Vous vous enveloppez de brume, rendant plus difficile pour votre ennemi de vous toucher. Si vous êtes masqué, le DD du test nu augmente de 5 à 7; si vous êtes caché, il passe de 11 à 13.

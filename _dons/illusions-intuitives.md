@@ -14,4 +14,4 @@ layout: dons
 
 La magie d'illusion vous vient si naturellement que vous pouvez sans effort Maintenir vos ruses magiques.
 
-Vous obtenez immédiatement les effets de l'action [Maintenir un sort](../actions/maintenir-un-sort.md) pour étendre la durée d'un de vos sorts d'illusion actifs.
+Vous obtenez immédiatement les effets de l'action [Maintenir un sort](../actions/maintenir-un-sort.html) pour étendre la durée d'un de vos sorts d'illusion actifs.

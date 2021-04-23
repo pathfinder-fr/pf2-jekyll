@@ -10,4 +10,4 @@ layout: dons
 ---
 Il vous faut 10 minutes pour vous ouvrir aux mystères divins du monde, en plongeant dans les plus sinistres présages du futur.
 
-Vous obtenez les effets d'[Augure](../sorts/augure.md), sauf que vous apprenez seulement les dangers devant vous ; tout résultat “bonheur” est remplacé par “rien” et tout résultat “bonheur et malheur” est remplacé par “malheur”. Si vous êtes légendaire en Religion, il ne vous faut qu'une minute pour Lire le désastre.
+Vous obtenez les effets d'[Augure](../sorts/augure.html), sauf que vous apprenez seulement les dangers devant vous ; tout résultat “bonheur” est remplacé par “rien” et tout résultat “bonheur et malheur” est remplacé par “malheur”. Si vous êtes légendaire en Religion, il ne vous faut qu'une minute pour Lire le désastre.

@@ -32,9 +32,9 @@ title: Bienvenue
 - les [familiers](classes/familiers.md)
   - les [pouvoirs de familier](classes/pouvoirs-de-familiers.md)
   - les [pouvoirs des maîtres](classes/pouvoirs-de-maitres.md)
-- les règles des [archétypes](classes/archetypes.md)
-  - les [archétypes multiclasse](classes/archetypes-multiclasse.md)
-  - les [archétypes de classe](classes/archetypes-classe.md)
+- les règles des [archétypes](archetypes/index.md)
+  - les [archétypes multiclasse](archetypes/multiclasse.md)
+  - les [archétypes de classe](archetypes/de-classe.md)
 
 # Les compétences
 - les [compétences](competences/competences.md)

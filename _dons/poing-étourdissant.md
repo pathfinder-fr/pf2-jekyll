@@ -10,4 +10,4 @@ layout: dons
 ---
 La puissance focalisée de votre déluge peut venir à bout de votre adversaire.
 
-Quand vous prenez pour cible la même créature avec deux Frappes de votre [déluge de coups](../actions/déluge-de-coups.md), vous pouvez tenter de l’étourdir. Si l’une des Frappes touche et inflige des dégâts, la cible doit réussir un jet de Vigueur contre votre DD de classe ou être [Étourdie](../conditions/étourdi.md) 1 (ou Étourdie 3 en cas d’échec critique). Il s’agit d’un effet de mise hors de combat.
+Quand vous prenez pour cible la même créature avec deux Frappes de votre [déluge de coups](../actions/déluge-de-coups.html), vous pouvez tenter de l’étourdir. Si l’une des Frappes touche et inflige des dégâts, la cible doit réussir un jet de Vigueur contre votre DD de classe ou être [Étourdie](../conditions/étourdi.html) 1 (ou Étourdie 3 en cas d’échec critique). Il s’agit d’un effet de mise hors de combat.

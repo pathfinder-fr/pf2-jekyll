@@ -10,4 +10,4 @@ layout: dons
 ---
 **Déclencheur** Vous avez échoué (mais pas obtenu un échec critique) à un jet de protection contre un effet possédant le trait visuel.
 
-Vous provoquez la liquéfaction de vos yeux qui tombent de vos orbites, les laissant vides. Vous obtenez un succès sur le jet de sauvegarde déclencheur mais vous êtes [Aveuglé](../conditions/aveuglé.md) pendant la durée qu'aurait eu l'effet en cas d'échec. À ce moment, vos yeux se reforment de nouveau et votre vision habituelle revient.
+Vous provoquez la liquéfaction de vos yeux qui tombent de vos orbites, les laissant vides. Vous obtenez un succès sur le jet de sauvegarde déclencheur mais vous êtes [Aveuglé](../conditions/aveuglé.html) pendant la durée qu'aurait eu l'effet en cas d'échec. À ce moment, vos yeux se reforment de nouveau et votre vision habituelle revient.

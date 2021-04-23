@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/conditionitems.db/encumbered.json
 layout: conditions
 ---
-Vous transportez plus de poids que vous ne pouvez en gérer. Tant que vous êtes surchargé, vous êtes [Maladroit](maladroit.md) 1 et vous subissez un malus de 3 m à toutes vos Vitesses. Comme pour l’ensemble des malus infligés à votre Vitesse, cette dernière ne peut être réduite à moins de 1,5 m.
+Vous transportez plus de poids que vous ne pouvez en gérer. Tant que vous êtes surchargé, vous êtes [Maladroit](maladroit.html) 1 et vous subissez un malus de 3 m à toutes vos Vitesses. Comme pour l’ensemble des malus infligés à votre Vitesse, cette dernière ne peut être réduite à moins de 1,5 m.

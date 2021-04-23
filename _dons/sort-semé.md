@@ -8,7 +8,7 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/sow-spell.json
 layout: dons
 ---
-Vous insérez votre sort dans une graîne. Si votre prochaine action consiste à  [Lancer un sort](../actions/lancer-un-sort.md) qui utilise 1 action ou 2 actions, le sort see plante lui-même dans une case adjacente. Vous devez prendre toutes les décisions concernant le sort au moment où vous le lancez.
+Vous insérez votre sort dans une graîne. Si votre prochaine action consiste à  [Lancer un sort](../actions/lancer-un-sort.html) qui utilise 1 action ou 2 actions, le sort see plante lui-même dans une case adjacente. Vous devez prendre toutes les décisions concernant le sort au moment où vous le lancez.
 
 Dans les 10 prochaines minutes, vous pouvez ordonner à votre sort semé de jaillir et de produire les effets du sort, en réaction qui se déclencheur lorsqu'une créature entre dans la case du sort semé ou une case qui lui est adjacente.
 

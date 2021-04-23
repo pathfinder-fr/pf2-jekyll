@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous êtes capable de disparaître rapidement puis de vous déplacer discrètement.
 
-Vous [Vous cachez](../actions/se-cacher.md), puis [Êtes furtifs](../actions/être-furtif.md) deux fois.
+Vous [Vous cachez](../actions/se-cacher.html), puis [Êtes furtifs](../actions/être-furtif.html) deux fois.

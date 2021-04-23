@@ -10,4 +10,4 @@ layout: dons
 ---
 Votre lien avec le Cimetière assure à vos coups de pouvoir frapper les êtres spectraux.
 
-Votre arme et vos Frappes à mains nues contre les créatures incorporelles deviennent magiques. Si elles sont déjà magiques, elles obtiennent alors les effets d'une rune de propriété [Spectrale](../équipements/spectrale-rune.md).
+Votre arme et vos Frappes à mains nues contre les créatures incorporelles deviennent magiques. Si elles sont déjà magiques, elles obtiennent alors les effets d'une rune de propriété [Spectrale](../équipements/spectrale-rune.html).

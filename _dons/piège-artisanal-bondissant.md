@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous pouvez magiquement déplacer vos pièges autour de vous.
 
-Vous obtenez le sort de gardien [Piège artisanal bondissant](../sorts/piège-artisanal-bondissant.md). Augmentez le nombre de Points de focalisation de votre réserve de focalisation de 1.
+Vous obtenez le sort de gardien [Piège artisanal bondissant](../sorts/piège-artisanal-bondissant.html). Augmentez le nombre de Points de focalisation de votre réserve de focalisation de 1.

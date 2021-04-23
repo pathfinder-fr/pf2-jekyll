@@ -10,4 +10,4 @@ layout: dons
 ---
 **Prérequis** réserve de focalisation
 
-Vous apaisez les blessures de vos alliés grâce à la magie de votre représentation. Vous apprenez le sort de composition [ballade apaisante](../sorts/ballade-apaisante.md). Augmentez de 1 le nombre de points de focalisation de votre réserve.
+Vous apaisez les blessures de vos alliés grâce à la magie de votre représentation. Vous apprenez le sort de composition [ballade apaisante](../sorts/ballade-apaisante.html). Augmentez de 1 le nombre de points de focalisation de votre réserve.

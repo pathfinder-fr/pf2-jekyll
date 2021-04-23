@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/champion-s-sacrifice.json
 layout: dons
 ---
-**Prérequis** [principes du bien](../capacité-classe/les-principes-du-bien.md)
+**Prérequis** [principes du bien](../capacité-classe/les-principes-du-bien.html)
 
-Vous endurez les souffrances d’autrui pour qu’ils puissent vivre. Vous pouvez lancer le sort de dévotion [sacrifice du champion](../sorts/sacrifice-du-champion.md). Augmentez de 1 le nombre de points de focalisation de votre réserve.
+Vous endurez les souffrances d’autrui pour qu’ils puissent vivre. Vous pouvez lancer le sort de dévotion [sacrifice du champion](../sorts/sacrifice-du-champion.html). Augmentez de 1 le nombre de points de focalisation de votre réserve.

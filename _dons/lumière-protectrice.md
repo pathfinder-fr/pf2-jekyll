@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous obtenez un tatouage qui vous sert comme une protection spéciale pour vous défendre contre les forces de Walkena.
 
-Le tatouage vous permet de Lancer le tour de magie [Lumière](../sorts/lumière.md) comme un sort divin inné à volonté. Le tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi à l'entier supérieur. Si vous mourrez, le tatouage lance immédiatement [Préservation des morts](../sorts/préservation-des-morts.md) sur votre corps, intensifié au même niveau de sort.
+Le tatouage vous permet de Lancer le tour de magie [Lumière](../sorts/lumière.html) comme un sort divin inné à volonté. Le tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi à l'entier supérieur. Si vous mourrez, le tatouage lance immédiatement [Préservation des morts](../sorts/préservation-des-morts.html) sur votre corps, intensifié au même niveau de sort.

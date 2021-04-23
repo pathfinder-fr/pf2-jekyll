@@ -6,7 +6,9 @@
 
 using System.Text.Json;
 
-await GenerateData(DataGroup.Ancestries, ParseAncestry);
+var count = await GenerateData(DataPack.Ancestries, ParseAncestry);
+
+WriteLine($"Génération terminée : {count} ascendances traitées");
 
 static void ParseAncestry(JsonElement item, JsonDocument frJsonDoc, StreamWriter writer)
 {
@@ -21,7 +23,7 @@ static void ParseAncestry(JsonElement item, JsonDocument frJsonDoc, StreamWriter
         .Select(l =>
         {
             // le nom de l'entrée du glossaire = Language + Nom anglais avec la première lettre en majuscules
-            var itemName = "Language" + FirstCharUpper(l);
+            var itemName = "Language" + l.FirstCharUpper();
 
             // on récupère l'entrée du glossaire FR que l'on renvoie
             return frJsonDoc.RootElement.GetProperty("PF2E").GetPropertyOrDefault(itemName)?.GetString();

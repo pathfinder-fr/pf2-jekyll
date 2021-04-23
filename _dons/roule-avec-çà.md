@@ -12,4 +12,4 @@ layout: dons
 
 Vous recevez un grand coup, votre ennemi vous propulse comme une boule de gomme, mais vous échappez au pire effet du coup.
 
-Votre ennemi peut vous déplacer à toute distance de son choix jusqu'à 9 m (ce n'est pas un déplacement forcé et cela déclenche les réactions comme habituellement). Vous vous retrouvez [À terre](../conditions/à-terre.md) et êtes [Étourdi](../conditions/étourdi.md) 1. Faites un test nu contre un DD 6. Sur une réussite, vous subissez les dégâts minimum de l'attaque et sur un succèss critique, si l'attaque était un coup critique, vous ne subissez pas les dégâts doublés du coup critique.
+Votre ennemi peut vous déplacer à toute distance de son choix jusqu'à 9 m (ce n'est pas un déplacement forcé et cela déclenche les réactions comme habituellement). Vous vous retrouvez [À terre](../conditions/à-terre.html) et êtes [Étourdi](../conditions/étourdi.html) 1. Faites un test nu contre un DD 6. Sur une réussite, vous subissez les dégâts minimum de l'attaque et sur un succèss critique, si l'attaque était un coup critique, vous ne subissez pas les dégâts doublés du coup critique.

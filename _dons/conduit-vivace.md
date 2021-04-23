@@ -10,4 +10,4 @@ layout: dons
 ---
 Votre connexion avec le Premier Monde s’est renforcée et les énergies positives qui en proviennent affluent en vous rapidement.
 
-Si vous vous reposez pendant 10 minutes, vous gagnez une quantité de points de vie égale à votre modificateur de Constitution × la moitié de votre niveau. Cet effet se cumule avec toute forme de soins reçus en [Soignant vos blessures](../actions/soigner-les-blessures.md).
+Si vous vous reposez pendant 10 minutes, vous gagnez une quantité de points de vie égale à votre modificateur de Constitution × la moitié de votre niveau. Cet effet se cumule avec toute forme de soins reçus en [Soignant vos blessures](../actions/soigner-les-blessures.html).

@@ -10,4 +10,4 @@ layout: dons
 ---
 Votre relation avec les psychopompes vous donne le pouvoir de jeter un œil dans le futur proche et de protéger les corps des ravages de la mort-vivance.
 
-Vous pouvez Lancer [Augure](../sorts/augure.md) et [Préservation des morts](../sorts/préservation-des-morts.md) chacun une fois par jour comme des sorts innés divins de niveau 2.
+Vous pouvez Lancer [Augure](../sorts/augure.html) et [Préservation des morts](../sorts/préservation-des-morts.html) chacun une fois par jour comme des sorts innés divins de niveau 2.

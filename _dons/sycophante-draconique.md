@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous possédez un affect que la gent draconique trouve inhabituellement plaisant — et lorsque cela échoue, vous savez lorsqu'il vous faut courir. Vous obtenez un bonus de circonstances de +2 aux tests de Perception et aux jets de sauvegarde contre les dragons. De plus, lorsque vous rencontrez une créature avec le trait dragon dans une situation sociale, vous pouvez tenter un test de Diplomatie pour Faire bonne impression sur cette créature immédiatement plutôt qu'après avoir converser pendant 1 minute ; vous subissez une pénalité de –5 à ce test. Si vous échouez, vous pouvez choisir de vous engager dans 1 minute de conversation puis de tenter un nouveau test plutôt que d'accepter le résultat d'un échec ou d'un échec critique.
 
-**Spécial** Si vous avez le don de compétence [Cordialité forcée](cordialité-forcée.md), vous ne subissez pas la pénalité au test immédiat de Diplomatie si la cible possède le trait dragon.
+**Spécial** Si vous avez le don de compétence [Cordialité forcée](cordialité-forcée.html), vous ne subissez pas la pénalité au test immédiat de Diplomatie si la cible possède le trait dragon.

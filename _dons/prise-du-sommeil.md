@@ -14,4 +14,4 @@ Vous pincez les points cruciaux du système nerveux de votre cible pour bloquer 
 
 **Succès critique** La cible tombe inconsciente pendant une minute, mais elle reste debout et ne lâche pas ce qu’elle tient en mains.
 
-**Succès**La cible est [maladroite](../conditions/maladroit.md) 1 jusqu’à la fin de son prochain tour
+**Succès**La cible est [maladroite](../conditions/maladroit.html) 1 jusqu’à la fin de son prochain tour

@@ -10,7 +10,7 @@ layout: dons
 ---
 Vous créez une mélodie si entraînante, vos ennemis ne peuvent s'empêcher de danser le long. Faites un test de Représentation contre le DD de Volonté de tous les ennemis dans une émanation de 9 m.
 
-**Succès Critique** La cible subit une pénalité de statut de –3 m à sa Vitesse et est [Pris au dépourvu](../conditions/pris-au-dépourvu.md), les deux pendant 1 round.
+**Succès Critique** La cible subit une pénalité de statut de –3 m à sa Vitesse et est [Pris au dépourvu](../conditions/pris-au-dépourvu.html), les deux pendant 1 round.
 
 **Success** La cible subit une pénalité de statut de -1,5 m à sa Vitesse pendant 1 round.
 

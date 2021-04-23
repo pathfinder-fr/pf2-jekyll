@@ -10,4 +10,4 @@ layout: dons
 ---
 Votre mère est une guenaude des mers, vous accordant un œil vert océan ou bleu. Vous êtes à l'aise dans la mer comme sur la grève.
 
-Lorsque vous obtenez un succès sur un test d'Athlétisme pour [Nager](../actions/nager.md), vous obtenez un succès critique à la place. Si vous terminez votre tour dans l'eau sans avoir réussi un test de Natation ce round, vous ne coulez pas (mais vous pouvez néanmoins subir les effets du courant pour votre déplacement).
+Lorsque vous obtenez un succès sur un test d'Athlétisme pour [Nager](../actions/nager.html), vous obtenez un succès critique à la place. Si vous terminez votre tour dans l'eau sans avoir réussi un test de Natation ce round, vous ne coulez pas (mais vous pouvez néanmoins subir les effets du courant pour votre déplacement).

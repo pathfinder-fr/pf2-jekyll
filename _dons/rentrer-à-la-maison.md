@@ -12,4 +12,4 @@ layout: dons
 
 La relation entre vous et le Premier monde résonne dans votre corps plus fort qu'il ne le fait pour la plupart des gnomes, vous permettant de franchir la frontière entre le Plan Matériel et le Premier Monde.
 
-Vous obtenez [Changement de plan](../sorts/changement-de-plan.md) comme un sort inné primordial. Vous pouvez le lancer deux fois par semaine. Il ne peut être utilisé que pour aller dans le Premier Monde et pour en revenir sur le Plan matériel. Compte tenu de la résonance naturelle de votre corps, vous pouvez agir comme un focalisateur du sort et vous n'avez pas besoin d'un diapason.
+Vous obtenez [Changement de plan](../sorts/changement-de-plan.html) comme un sort inné primordial. Vous pouvez le lancer deux fois par semaine. Il ne peut être utilisé que pour aller dans le Premier Monde et pour en revenir sur le Plan matériel. Compte tenu de la résonance naturelle de votre corps, vous pouvez agir comme un focalisateur du sort et vous n'avez pas besoin d'un diapason.

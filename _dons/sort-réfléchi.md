@@ -8,7 +8,7 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/reflect-spell.json
 layout: dons
 ---
-**Prérequis** [Contresort](contresort-sorcière.md)
+**Prérequis** [Contresort](contresort-sorcière.html)
 
 Lorsque vous réussissez à utiliser Contresort pour conter un sort qui affecte des créatures ciblées ou une zone, vous pouvez renvoyer l'effet de ce sort sur son lanceur.
 

@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous descendez des Valkyries qui protègent les âmes valeureuses et pouvez repousser la poigne de la mort.
 
-Vous pouvez lancer [Souffle de vie](../sorts/souffle-de-vie.md) comme un sort divin inné une fois par jour.
+Vous pouvez lancer [Souffle de vie](../sorts/souffle-de-vie.html) comme un sort divin inné une fois par jour.

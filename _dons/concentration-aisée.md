@@ -10,4 +10,4 @@ layout: dons
 ---
 **Conditions** Vous n’avez pas encore agi à votre tour
 
-Vous maintenez un sort presque sans y penser. Vous bénéficiez immédiatement des effets de l’action [Maintenir un sort](../actions/maintenir-un-sort.md), ce qui vous permet de rallonger la durée de l’un de vos sorts de classe actif.
+Vous maintenez un sort presque sans y penser. Vous bénéficiez immédiatement des effets de l’action [Maintenir un sort](../actions/maintenir-un-sort.html), ce qui vous permet de rallonger la durée de l’un de vos sorts de classe actif.

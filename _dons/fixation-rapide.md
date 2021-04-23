@@ -10,4 +10,4 @@ layout: dons
 ---
 **Prérequis** maître en Artisanat
 
-Vous ne prenez qu'une minute pour [Fixez un talisman](../actions/fixer-un-talisman.md). Si vous êtes légendaire en Artisanat, vous pouvez fixer un talisman en une activité à 3 actions.
+Vous ne prenez qu'une minute pour [Fixez un talisman](../actions/fixer-un-talisman.html). Si vous êtes légendaire en Artisanat, vous pouvez fixer un talisman en une activité à 3 actions.

@@ -8,7 +8,7 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/scrounger-dedication.json
 layout: dons
 ---
-Vous pouvez [Fabriquer](../actions/fabriquer.md) des objets même sans disposer des outils appropriés ou d'un atelier, bien que vous subissiez alors une pénalité d'objet de -2 à votre test d'Artisanat.
+Vous pouvez [Fabriquer](../actions/fabriquer.html) des objets même sans disposer des outils appropriés ou d'un atelier, bien que vous subissiez alors une pénalité d'objet de -2 à votre test d'Artisanat.
 
 De plus, vous n'avez pas besoin d'un formulaire pour vous rappeler de toutes vos formules ; vous payez le même coût que la normale lorsqu'il s'agit de les apprendre mais vous les mémorisez toutes.
 

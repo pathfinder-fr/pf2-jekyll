@@ -10,4 +10,4 @@ layout: dons
 ---
 Au cœur de la bataille, vous êtes capable d'incroyables démonstrations de force.
 
-Lorsque vous êtes en [Rage](../actions/rage.md), augmentez vos limites maximales d'encombrement de 2 ; Vous obtenez aussi un bonus de statut de +1 aux tests d'Athlétisme pour porter de lourds objets, pour vous [Échapper](../actions/s-échapper.md) et [Ouvrir de force](../actions/ouvrir-de-force.md).
+Lorsque vous êtes en [Rage](../actions/rage.html), augmentez vos limites maximales d'encombrement de 2 ; Vous obtenez aussi un bonus de statut de +1 aux tests d'Athlétisme pour porter de lourds objets, pour vous [Échapper](../actions/s-échapper.html) et [Ouvrir de force](../actions/ouvrir-de-force.html).

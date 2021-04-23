@@ -10,4 +10,4 @@ layout: dons
 ---
 Les obstacles naturels ne sont pas pour vous des obstacles.
 
-Vous obtenez la capacité de classe de rôdeur [Déplacement facilité en  milieu naturel](../capacité-classe/déplacement-facilité-en-milieu-naturel.md). Cela vous permet d'ignorer les effets de tous les terrains difficiles non magiques, de traiter les terrains très difficiles comme des terrains simplement difficiles et vous donne un avantage supplémentaire issu du [Terrain de prédilection](environnement-de-prédilection.md) en fonction du terrain.
+Vous obtenez la capacité de classe de rôdeur [Déplacement facilité en  milieu naturel](../capacité-classe/déplacement-facilité-en-milieu-naturel.html). Cela vous permet d'ignorer les effets de tous les terrains difficiles non magiques, de traiter les terrains très difficiles comme des terrains simplement difficiles et vous donne un avantage supplémentaire issu du [Terrain de prédilection](environnement-de-prédilection.html) en fonction du terrain.

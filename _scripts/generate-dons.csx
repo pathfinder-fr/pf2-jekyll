@@ -7,8 +7,10 @@
 
 using System.Text.Json;
 
-await GenerateCollection(DataGroup.Feats, ParseAction);
+var count = await GenerateCollection(DataPack.Feats, ParseFeat);
 
-static void ParseAction(JsonElement jsonDoc, JsonDocument frJsonDoc, StreamWriter writer)
+WriteLine($"Génération terminée : {count} dons traités");
+
+static void ParseFeat(JsonElement jsonDoc, JsonDocument frJsonDoc, StreamWriter writer)
 {
 }

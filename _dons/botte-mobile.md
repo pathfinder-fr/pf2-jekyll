@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/mobile-finisher.json
 layout: dons
 ---
-Vous attaques en mouvement. [Marchez rapidement](../actions/marcher-rapidement.md) puis [Frappez](../actions/frapper.md). Vous pouvez utiliser Botte mobile pendant que vous [Creusez](../actions/creuser.md), [Escaladez](../actions/escalader.md), [Volez](../actions/voler.md) ou [Nagez](../actions/nager.md) au lieu de Marcher si vous disposez des types de déplacement correspondant.
+Vous attaques en mouvement. [Marchez rapidement](../actions/marcher-rapidement.html) puis [Frappez](../actions/frapper.html). Vous pouvez utiliser Botte mobile pendant que vous [Creusez](../actions/creuser.html), [Escaladez](../actions/escalader.html), [Volez](../actions/voler.html) ou [Nagez](../actions/nager.html) au lieu de Marcher si vous disposez des types de déplacement correspondant.

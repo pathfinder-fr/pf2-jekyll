@@ -10,4 +10,4 @@ layout: actions
 type: action
 typeFr: Action Unique
 ---
-Vous étiez [À terre](../conditions/à-terre.md) et vous Vous relevez.
+Vous étiez [À terre](../conditions/à-terre.html) et vous Vous relevez.

@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous pouvez appliquer les mêmes techniques que vous utilisez pour Déduire les formules des objets pour les désamorcer.
 
-Vous pouvez utiliser Artisanat au lieu de Vol pour [Désamorcer un dispositif](../actions/désamorcer-un-dispositif.md) ou [Crocheter une serrure](../actions/crocheter-une-serrure.md).
+Vous pouvez utiliser Artisanat au lieu de Vol pour [Désamorcer un dispositif](../actions/désamorcer-un-dispositif.html) ou [Crocheter une serrure](../actions/crocheter-une-serrure.html).
