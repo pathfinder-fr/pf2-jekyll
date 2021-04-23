@@ -18,6 +18,7 @@ Il faudrait y mettre les pouvoirs triés par ordre alphabétique du nom en affic
 - `Nom` suivi de (`Name`) en plus petit si possible
 - `Description fr`
 
+## Contenu du fichier sous Foundry
 ```
 Name: Accompanist
 Nom: Accompagnateur
