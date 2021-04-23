@@ -1,12 +1,11 @@
-#content { 
-    font-size: 12pt;
-    padding: 31px;
-}
+#content { padding: 31px; }
+
+#content, #content table { font-size: 11pt; }
 
 #content h1 { background: transparent url(theme/content-heading.png) no-repeat left top; padding-left: 26px; color: #4b3124; font-size: 16pt; }
     #content h1 a { text-decoration: none; color: #4b3124; }
 
-#content h2 { margin: .5em 0; color: #4b3124; font-size: 13.5pt; }
+#content h2 { margin: .5em 0; color: #4b3124; font-size: 13pt; }
 #content h2.separator { border-bottom: solid 1px #4b3124; }
-#content h3 { color: #4b3124; }
-#content h4 { color: #4b3124; }
+#content h3 { color: #4b3124; font-size: 12pt; }
+#content h4 { color: #4b3124; font-size: 11pt; }
