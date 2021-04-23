@@ -657,7 +657,7 @@ public class DataPack
 
     public static readonly DataPack AncestryFeatures = new DataPack("ancestry-features", "capacités-ascendances", "ancestryfeatures", "ancestryfeatures.db");
 
-    public static readonly DataPack Archetypes = new DataPack("archetypes", "archétypes", "archetypes", "archetypes.db");
+    public static readonly DataPack Archetypes = new DataPack("archetypes", "archetypes", "archetypes", "archetypes.db");
 
     public static readonly DataPack Backgrounds = new DataPack("backgrounds", "backgrounds", "backgrounds", "backgrounds.db");
 

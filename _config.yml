@@ -48,7 +48,7 @@ collections:
   dons:
     output: true
     category: ['don']
-  archétypes:
+  archetypes:
     output: true
     category: ['archétype']
 
