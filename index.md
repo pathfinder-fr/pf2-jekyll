@@ -78,6 +78,7 @@ title: Bienvenue
     - [Tableaux des matériels](equipement/tableaux.md)
     - [Kits de classe](equipement/kits.md)
 - [Matériel alchimique](equipement/materiel-alchimique.md)
+- [Matériel magique](equipement/materiel-magique.md)
 
 ## Rubriques diverses
 - [Liste des actions](actions/index.html)
