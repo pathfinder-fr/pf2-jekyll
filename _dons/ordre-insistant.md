@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/insistent-command.json
 layout: dons
 ---
-Lorsque vous obtenez un succès pour [Diriger un animal](../actions/diriger-un-animal.md), vous obtenez un succès critique ; si vous obtenez un échec critique , vous obtenez un échec.
+Lorsque vous obtenez un succès pour [Diriger un animal](../actions/diriger-un-animal.html), vous obtenez un succès critique ; si vous obtenez un échec critique , vous obtenez un échec.

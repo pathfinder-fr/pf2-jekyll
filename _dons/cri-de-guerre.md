@@ -10,4 +10,4 @@ layout: dons
 ---
 **Prérequis** maître en Intimidation
 
-Quand vous effectuez un jet d’initiative, vous pouvez pousser un puissant cri de guerre et Démoraliser un ennemi observé par une action gratuite. Si vous êtes légendaire en Intimidation, vous pouvez utiliser une réaction pour [Démoraliser](../actions/démoraliser.md) votre ennemi quand vous obtenez un succès critique sur un jet d’attaque.
+Quand vous effectuez un jet d’initiative, vous pouvez pousser un puissant cri de guerre et Démoraliser un ennemi observé par une action gratuite. Si vous êtes légendaire en Intimidation, vous pouvez utiliser une réaction pour [Démoraliser](../actions/démoraliser.html) votre ennemi quand vous obtenez un succès critique sur un jet d’attaque.

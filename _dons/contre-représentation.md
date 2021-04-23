@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/counter-perform.json
 layout: dons
 ---
-Vous gagnez le sort de composition [contre-représentation](../sorts/contre-représentation.md). Si vous n’en avez pas déjà une, vous obtenez une réserve de focalisation d’une valeur de 1 point de focalisation, que vous pouvez Refocaliser en mobilisant votre muse.
+Vous gagnez le sort de composition [contre-représentation](../sorts/contre-représentation.html). Si vous n’en avez pas déjà une, vous obtenez une réserve de focalisation d’une valeur de 1 point de focalisation, que vous pouvez Refocaliser en mobilisant votre muse.

@@ -14,4 +14,4 @@ Vous percevez toutes les manières possibles la manière dont les attaques pourr
 
 Le lancer de l'attaque déclencheuse se fait contre votre DD de Perception au lieu de votre CA. Bien que cela vous permette d'éviter de subir les pénalités à votre CA, cela n'a pas pour effet de retirer toute condition ou effets qui causent de telles pénalités.
 
-Par exemple, un ennemi avec [Attaque sournoise](../capacité-classe/attaque-sournoise.md) vous infligera toujours des dégâts supplémentaires lorsque vous êtes [Pris au dépourvu](../conditions/pris-au-dépourvu.md), même si vous ne subissez pas la pénalité de circonstance de –2 lorsque vous vous défendez contre l'attaque.
+Par exemple, un ennemi avec [Attaque sournoise](../capacité-classe/attaque-sournoise.html) vous infligera toujours des dégâts supplémentaires lorsque vous êtes [Pris au dépourvu](../conditions/pris-au-dépourvu.html), même si vous ne subissez pas la pénalité de circonstance de –2 lorsque vous vous défendez contre l'attaque.

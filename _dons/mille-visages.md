@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/thousand-faces.json
 layout: dons
 ---
-Votre forme est aussi changeante que le climat et s’adapte à vos besoins. Ajoutez les formes du sort [Forme humanoïde](../sorts/forme-humanoïde.md) à la liste de celles de votre *morphologie sauvage*.
+Votre forme est aussi changeante que le climat et s’adapte à vos besoins. Ajoutez les formes du sort [Forme humanoïde](../sorts/forme-humanoïde.html) à la liste de celles de votre *morphologie sauvage*.

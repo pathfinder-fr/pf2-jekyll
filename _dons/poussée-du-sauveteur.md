@@ -10,4 +10,4 @@ layout: dons
 ---
 N'importe quel bouclier que vous maniez obtient le trait Pousser.
 
-Lorsque vous [Poussez](../actions/pousser.md) en utilisant un bouclier et que vous [Marchez rapidement](../actions/marcher-rapidement.md) dans la même action, vous pouvez vous déplacez de 1,5 m vers n'importe quel côté de la créature que vous Poussez. De plus, si vous êtes dans la [Posture toujours en position](posture-toujours-en-position.md) et réussissez à Pousser une créature en utilisant un bouclier que vous maniez à deux mains, vous pouvez augmenter la distance de votre Poussée à 3 m.
+Lorsque vous [Poussez](../actions/pousser.html) en utilisant un bouclier et que vous [Marchez rapidement](../actions/marcher-rapidement.html) dans la même action, vous pouvez vous déplacez de 1,5 m vers n'importe quel côté de la créature que vous Poussez. De plus, si vous êtes dans la [Posture toujours en position](posture-toujours-en-position.html) et réussissez à Pousser une créature en utilisant un bouclier que vous maniez à deux mains, vous pouvez augmenter la distance de votre Poussée à 3 m.

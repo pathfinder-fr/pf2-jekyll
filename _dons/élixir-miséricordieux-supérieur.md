@@ -10,4 +10,4 @@ layout: dons
 ---
 **Prérequis** Élixir miséricordieux
 
-Vos additifs contiennent des panacées qui peuvent soigner une pléthore de maladies. Quand vous utilisez Élixir miséricordieux, votre élixir peut à la place tenter de contrer les effets des états [aveugle](../conditions/aveuglé.md), [sourd](../conditions/sourd.md), [malade](../conditions/malade.md) ou [ralenti](../conditions/ralenti.md).
+Vos additifs contiennent des panacées qui peuvent soigner une pléthore de maladies. Quand vous utilisez Élixir miséricordieux, votre élixir peut à la place tenter de contrer les effets des états [aveugle](../conditions/aveuglé.html), [sourd](../conditions/sourd.html), [malade](../conditions/malade.html) ou [ralenti](../conditions/ralenti.html).

@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/head-stomp.json
 layout: dons
 ---
-Portez une attaque de corps à corps à mains nues contre une cible [À terre](../conditions/à-terre.md).
+Portez une attaque de corps à corps à mains nues contre une cible [À terre](../conditions/à-terre.html).
 
-Si vous touchez, la cible est [Prise au dépourvu](../conditions/pris-au-dépourvu.md) contre toutes les attaques jusqu'à la fin de votre prochain tour.
+Si vous touchez, la cible est [Prise au dépourvu](../conditions/pris-au-dépourvu.html) contre toutes les attaques jusqu'à la fin de votre prochain tour.

@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous agissez aveant que vos adversaires ne réagissent.
 
-Lors du premier round de combat, si vous lancez Duperie ou Discrétion pour calculer l'initiative, les créatures qui n'ont pas encore agi sont vis-à-vis de vous [Prises au dépourvu](../conditions/pris-au-dépourvu.md).
+Lors du premier round de combat, si vous lancez Duperie ou Discrétion pour calculer l'initiative, les créatures qui n'ont pas encore agi sont vis-à-vis de vous [Prises au dépourvu](../conditions/pris-au-dépourvu.html).

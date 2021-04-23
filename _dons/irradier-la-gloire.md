@@ -14,8 +14,8 @@ Toute créature qui peut vous voir alors que vous irradiez le gloire doit tenter
 
 **Succès critique** La créature n'est pas affectée.
 
-**Succès** Vous êtes [Masqué](../conditions/masqué.md) à la créature pendant 1 round par la lumière étincelante, mais ne pouvez utiliser cet état pour vous Cacher, comme habituellement lorsque votre localisation est évidente.
+**Succès** Vous êtes [Masqué](../conditions/masqué.html) à la créature pendant 1 round par la lumière étincelante, mais ne pouvez utiliser cet état pour vous Cacher, comme habituellement lorsque votre localisation est évidente.
 
 **Échec** Comme en cas de succès,  sauf que vous êtes masqué à la créaure tant que votre gloire irradie.
 
-**Échec critique** Vous êtes [Caché](../conditions/caché.md) à la créature tant que votre gloire irradie, perdu parmi la couronne radieuse de votre présence. Votre position générale est toujours évidente, de sorte que vous ne pouvez l'utilisez pour Être furtif.
+**Échec critique** Vous êtes [Caché](../conditions/caché.html) à la créature tant que votre gloire irradie, perdu parmi la couronne radieuse de votre présence. Votre position générale est toujours évidente, de sorte que vous ne pouvez l'utilisez pour Être furtif.

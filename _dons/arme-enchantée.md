@@ -10,7 +10,7 @@ layout: dons
 ---
 **Fréquence** une fois par tour
 
-**Conditions** Votre action la plus récente a consisté à [Lancer un sort](../actions/lancer-un-sort.md) autre qu’un tour de magie.
+**Conditions** Votre action la plus récente a consisté à [Lancer un sort](../actions/lancer-un-sort.html) autre qu’un tour de magie.
 
 Vous siphonnez l’énergie résiduelle du dernier sort que vous avez lancé pour l’injecter dans une arme que vous maniez. Jusqu’à la fin de votre tour, cette arme inflige 1d6 dégâts supplémentaires d’un type dépendant de l’école du sort juste lancé.
 

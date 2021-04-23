@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/scouring-rage.json
 layout: dons
 ---
-**Déclencheur** Vous êtes en [Rage](../actions/rage.md).
+**Déclencheur** Vous êtes en [Rage](../actions/rage.html).
 
 Vous émettez une puissante décharge d'énergie instinctive lorsque vous libérez votre potentiel. Chaque créature adjacente subit des dégâts égaux à votre niveau (Jet de vigueur basique contre votre DD de classe) du même type que celui de vos dégâts supplémentaires durant cette Rage.

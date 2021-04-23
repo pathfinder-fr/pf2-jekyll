@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous pouvez vous souvenir de toutes sortes d'informations.
 
-Vous obtenez la capacité de classe [Souvenirs affûtés](../capacité-classe/souvenirs-affûtés.md).
+Vous obtenez la capacité de classe [Souvenirs affûtés](../capacité-classe/souvenirs-affûtés.html).

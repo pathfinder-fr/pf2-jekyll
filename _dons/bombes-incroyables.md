@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous lancez vos bombes de manière remarquable, en dépit des obstacles ou de la distance.
 
-Lorsque vous lancez un objet alchimique avec le trait bombe, son facteur de portée augmente à 18m, vous réduisez toute pénalité de circonstance de CA de la cible lié à un abri de 1 et vous réussissez automatiquement au test nu lorsque vous ciblez une créature [masquée](../conditions/masqué.md).
+Lorsque vous lancez un objet alchimique avec le trait bombe, son facteur de portée augmente à 18m, vous réduisez toute pénalité de circonstance de CA de la cible lié à un abri de 1 et vous réussissez automatiquement au test nu lorsque vous ciblez une créature [masquée](../conditions/masqué.html).

@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/hurling-charge.json
 layout: dons
 ---
-Vous portez une [Frappe](../actions/frapper.md) à distance avec une arme de jet que vous avez en main, [Marchez rapidement](../actions/marcher-rapidement.md) et alors [Interagissez](../actions/interagir.md) pour dégainer une autre arme.
+Vous portez une [Frappe](../actions/frapper.html) à distance avec une arme de jet que vous avez en main, [Marchez rapidement](../actions/marcher-rapidement.html) et alors [Interagissez](../actions/interagir.html) pour dégainer une autre arme.
 
-Si vous êtes [en Rage](../actions/rage.md), vous pouvez ajouter les dégâts supplémentaires que vous infligez avec les armes au corps-à-corps du fait d'être en rage à vos dégâts infligés avec l'arme de jet lancée.
+Si vous êtes [en Rage](../actions/rage.html), vous pouvez ajouter les dégâts supplémentaires que vous infligez avec les armes au corps-à-corps du fait d'être en rage à vos dégâts infligés avec l'arme de jet lancée.

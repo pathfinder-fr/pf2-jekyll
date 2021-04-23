@@ -12,9 +12,9 @@ Vous êtes particulièrement doué en maniant les armes de pirates traditionnell
 
 Vous devenez qualifié avec les armes suivantes:
 
-- [Hachette](../équipements/hachette.md),
-- [Rapière](../équipements/rapière.md), 
-- [Cimeterre](../équipements/cimeterre.md) et 
-- [Fouet](../équipements/fouet.md).
+- [Hachette](../équipements/hachette.html),
+- [Rapière](../équipements/rapière.html), 
+- [Cimeterre](../équipements/cimeterre.html) et 
+- [Fouet](../équipements/fouet.html).
 
 Lorsque vous obtenez une capacité de classe qui vous accorde la maîtrise experte ou supérieure avec une ou des armes données, vous obtenez aussi ce rang de maîtrise avec ces armes.

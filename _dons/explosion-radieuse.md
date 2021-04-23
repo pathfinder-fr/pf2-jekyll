@@ -14,8 +14,8 @@ Votre peau brille avec intensité. Les créatures dans les 3 m qui peuvent vous 
 
 **Succès critique** La créature n'est pas affectée.
 
-**Succès** La créature est [Éblouie](../conditions/ébloui.md) pendant 1 round.
+**Succès** La créature est [Éblouie](../conditions/ébloui.html) pendant 1 round.
 
-**Échec** La créature est [Aveuglée](../conditions/aveuglé.md) pendant 1 round et éblouie pendant 4 rounds.
+**Échec** La créature est [Aveuglée](../conditions/aveuglé.html) pendant 1 round et éblouie pendant 4 rounds.
 
 **Échec critique** La créature est Aveuglée pendant 4 rounds et éblouie pendant 10 minutes.

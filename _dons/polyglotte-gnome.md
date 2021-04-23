@@ -10,4 +10,4 @@ layout: dons
 ---
 Vos voyages approfondis, votre curiosité et votre amour de l'apprentissage vous aident à apprendre les langues rapidement.
 
-Vous apprenez de nouvelles langues, choisies parmi les langues communes et non communes auxquelles vous avez accès. Ces langues prennent le même forme (signée ou parlée) comme vos autres langues. Lorsque vous sélectionnez le don [Polyglotte](polyglotte.md), vous apprenez trois nouvelles langues au lieu de deux.
+Vous apprenez de nouvelles langues, choisies parmi les langues communes et non communes auxquelles vous avez accès. Ces langues prennent le même forme (signée ou parlée) comme vos autres langues. Lorsque vous sélectionnez le don [Polyglotte](polyglotte.html), vous apprenez trois nouvelles langues au lieu de deux.

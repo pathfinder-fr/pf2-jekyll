@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous canalisez la force de la terre sous vos pieds pour rouer de coups vos ennemis.
 
-Lorsque vous faites une [Frappe](../actions/frapper.md) au corps-à-corps contre une cible qui se tient sur le même sol en terre ou en pierre que vous, vous obtenez un bonus de circonstance au jet de dégâts égal au nombre de dés de dégâts de l'arme.
+Lorsque vous faites une [Frappe](../actions/frapper.html) au corps-à-corps contre une cible qui se tient sur le même sol en terre ou en pierre que vous, vous obtenez un bonus de circonstance au jet de dégâts égal au nombre de dés de dégâts de l'arme.

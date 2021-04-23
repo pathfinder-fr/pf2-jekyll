@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous pouvez capturer l'attention des spectateurs avec votre apparence unique.
 
-Vous pouvez lancer [Discours captivant](../sorts/discours-captivant.md) comme un sort inné occulte de niveau 3 une fois par jour.
+Vous pouvez lancer [Discours captivant](../sorts/discours-captivant.html) comme un sort inné occulte de niveau 3 une fois par jour.

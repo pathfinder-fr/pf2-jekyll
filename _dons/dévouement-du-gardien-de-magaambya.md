@@ -14,4 +14,4 @@ Que vous ayez choisi un tour de magie arcanique ou primordial, vous devenez à v
 
 Lorsque vous obtenez ce don, choisissez une affiliation entre celle des Détenteurs des flots, des Branches d'émeraude, des Scribes de la pluie, des Mages du Soleil tempétueux ou des Uzunjati. Cela vous accorde des dons supplémentaires accessibles seulement à cette branche.
 
-**Spécial** Vous ne pouvez choisir un don de dévouement autre que le [dévouement d'Orateur paisible](dévouement-de-l-orateur-paisible.md) avant d'avoir obtenu deux autres dons issu de celui de l'archetype de Gardien de Magaambya ou d'[Orateur paisible](../archétypes/orateur-paisible.md).
+**Spécial** Vous ne pouvez choisir un don de dévouement autre que le [dévouement d'Orateur paisible](dévouement-de-l-orateur-paisible.html) avant d'avoir obtenu deux autres dons issu de celui de l'archetype de Gardien de Magaambya ou d'[Orateur paisible](../archetypes/orateur-paisible.html).

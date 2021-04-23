@@ -10,4 +10,4 @@ layout: dons
 ---
 La bénédiction de votre divinité intensifie votre capacité de soins, faisant de vos soins ordinaires comme s'il s'agissait de soins magiques.
 
-Lorsque vous réussissez un test de Médecine pour [Soigner les blessures](../actions/soigner-les-blessures.md), votre action obtient le trait divin et vous soignez le montant maximumdes 2d8 (ou des 4d8 sur une réussite critique). Si vous avez une capacité qui ajoute des dés supplémentaires à votre capacité de Soigner les blessures, vous lancez toujours ces dés normalement.
+Lorsque vous réussissez un test de Médecine pour [Soigner les blessures](../actions/soigner-les-blessures.html), votre action obtient le trait divin et vous soignez le montant maximumdes 2d8 (ou des 4d8 sur une réussite critique). Si vous avez une capacité qui ajoute des dés supplémentaires à votre capacité de Soigner les blessures, vous lancez toujours ces dés normalement.

@@ -10,4 +10,4 @@ layout: dons
 ---
 **Fréquence** une fois par jour
 
-Vous faites appel à vos alliés et les poussez à donner tout au combat. Tous les alliés dans les 9 mqui peuvent vous entendre un nombre de Points de vie temporaires égal à votre niveau. De plus, ces alliés sont [Accélérés](../conditions/accéléré.md) pendant 1 minute mais peuvent seulement utiliser l'action supplémentaire pour Faire un pas, Marcher rapidement ou Frappez.
+Vous faites appel à vos alliés et les poussez à donner tout au combat. Tous les alliés dans les 9 mqui peuvent vous entendre un nombre de Points de vie temporaires égal à votre niveau. De plus, ces alliés sont [Accélérés](../conditions/accéléré.html) pendant 1 minute mais peuvent seulement utiliser l'action supplémentaire pour Faire un pas, Marcher rapidement ou Frappez.

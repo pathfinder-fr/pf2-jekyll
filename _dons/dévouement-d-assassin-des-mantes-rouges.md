@@ -12,6 +12,6 @@ layout: dons
 
 Vous avez appris à traquer vos ennemis et à les assassiner au sabre dentelé.
 
->Vous êtes qualifié en Discrétion et en Connaissances des assassins ; si vous êtes déjà qualifié, vous devenez expert. Lorsque votre rang de maîtrise dans le maniement de n’importe quelle arme augmente au rang d’expert ou plus, vous gagnez également ce nouveau rang de maîtrise pour les [Sabres dentelés](../équipements/sabre-dentelé.md).
+>Vous êtes qualifié en Discrétion et en Connaissances des assassins ; si vous êtes déjà qualifié, vous devenez expert. Lorsque votre rang de maîtrise dans le maniement de n’importe quelle arme augmente au rang d’expert ou plus, vous gagnez également ce nouveau rang de maîtrise pour les [Sabres dentelés](../équipements/sabre-dentelé.html).
 
 **Spécial** Vous ne pouvez pas sélectionner un nouveau don de dévouement avant d’avoir obtenu deux autres dons de l’archétype d'Assassin des Mantes rouges.

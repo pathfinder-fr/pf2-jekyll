@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous pouvez soigner les blessures de votre compagnon animal.
 
-Vous pouvez Lancer [Guérison des animaux](../sorts/guérison-des-animaux.md) comme sort de focalisation du Maître des bêtes. Augmentez le nombre de points de focalisation de votre réserve de focalistation de 1.
+Vous pouvez Lancer [Guérison des animaux](../sorts/guérison-des-animaux.html) comme sort de focalisation du Maître des bêtes. Augmentez le nombre de points de focalisation de votre réserve de focalistation de 1.

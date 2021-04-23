@@ -10,4 +10,4 @@ layout: dons
 ---
 Survivre en terrain hostile vous a procuré un grand talent pour vous déplacer.
 
-Lorsque vous obtenez un succès sur un test d'Athlétisme pour [Escalader](../actions/escalader.md) ou [Nager](../actions/nager.md), vous considérez qu'il s'agit à la place d'un succès critique.
+Lorsque vous obtenez un succès sur un test d'Athlétisme pour [Escalader](../actions/escalader.html) ou [Nager](../actions/nager.html), vous considérez qu'il s'agit à la place d'un succès critique.

@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous êtes compétent pour effectuer de rapides réparations sur une pièce d'équipement endommagées mais elles ne sont pas destinées à tenir indéfiniment.
 
-Vous faites une rapide [Réparation](../actions/réparer.md) sur un objet cassé non magique en votre possession. Jusqu'à ce que l'objet subisse de nouveau des dégâts vous pouvez toujours l'utiliser comme un objet de mauvaise qualité de son type. Cette réparation ne lui fait pas récupérer de Points de vie, de sorte que l'objet est facile à détruire. Une fois que l'objet est Réparé normalement de sorte qu'il n'est plus brisé, il n'est plus davantage considéré comme de mauvaise qualité.
+Vous faites une rapide [Réparation](../actions/réparer.html) sur un objet cassé non magique en votre possession. Jusqu'à ce que l'objet subisse de nouveau des dégâts vous pouvez toujours l'utiliser comme un objet de mauvaise qualité de son type. Cette réparation ne lui fait pas récupérer de Points de vie, de sorte que l'objet est facile à détruire. Une fois que l'objet est Réparé normalement de sorte qu'il n'est plus brisé, il n'est plus davantage considéré comme de mauvaise qualité.

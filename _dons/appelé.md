@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous avez entendu l'Appel et combattez constamment ses injonctions persistantes, de telle sorte que vous avez développé une carapace mentale contre les effets qui cibleraient votre esprit.
 
-Vous obtenez un bonus de circonstances de +1 aux jets de Volonté contre les effets mentaux. Si vous obtenez un succès sur votre jet de sauvegarde contre un effet mental qui devrait vous rendre [Controlé](../conditions/contrôlé.md), vous obtenez à la place un succès critique.
+Vous obtenez un bonus de circonstances de +1 aux jets de Volonté contre les effets mentaux. Si vous obtenez un succès sur votre jet de sauvegarde contre un effet mental qui devrait vous rendre [Controlé](../conditions/contrôlé.html), vous obtenez à la place un succès critique.

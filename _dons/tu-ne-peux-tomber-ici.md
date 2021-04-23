@@ -14,4 +14,4 @@ layout: dons
 
 Vous aidez physiquement un allié à rester debour et l'encouragez à surmonter leur douleur contre les présagesterribles.
 
-Votre allié ne sombre pas dans l'inconscience et reste à 1 Point de vie. L'allié obtient aussi un nombre de Points de vie temporaires égal à votre niveau qui dure pendant 1 minute. Continuer à se battre avec une telle blessure n'est pas sans conséquence ; la condition [Blesssé](../conditions/blessé.md) de votre allié augmente de 1.
+Votre allié ne sombre pas dans l'inconscience et reste à 1 Point de vie. L'allié obtient aussi un nombre de Points de vie temporaires égal à votre niveau qui dure pendant 1 minute. Continuer à se battre avec une telle blessure n'est pas sans conséquence ; la condition [Blesssé](../conditions/blessé.html) de votre allié augmente de 1.

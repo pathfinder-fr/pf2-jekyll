@@ -10,7 +10,7 @@ layout: dons
 ---
 **Fréquence** une fois par heure
 
-**Déclencheur** Vous [Aveuglez](../conditions/aveuglé.md) ou [Éblouissez](../conditions/ébloui.md) une créature.
+**Déclencheur** Vous [Aveuglez](../conditions/aveuglé.html) ou [Éblouissez](../conditions/ébloui.html) une créature.
 
 Vous avez passé un temps considérable à pratiquer la manipulation de la lumière, faisant refléter la lumière sur la lame de votre arme ou augmentant la luminosité des démontrations magiques à des hauteurs non conventionnelles.
 

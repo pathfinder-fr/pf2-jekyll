@@ -8,10 +8,10 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/mask-of-fear.json
 layout: dons
 ---
-**Déclencheur** Vous débutez votre tour avec la condition [Effrayée](../conditions/effrayé.md).
+**Déclencheur** Vous débutez votre tour avec la condition [Effrayée](../conditions/effrayé.html).
 
 **Condition** vous portez votre *masque de guerre*.
 
 Votre *masque de guerre* brûle sur votre visage, relâchant votre appréhension. Vous ôtez la condition Effayée. Votre *masque de guerre* est détruit et vous ne pouvez le réappliquer jusqu'à votre prochains préparatifs quotidiens.
 
-**Spécial** Vous pouvez utiliser cette réaction même si vous avez une condition liée à la condition Effrayée qui devrait normalement empêcher d'utiliser une réaction, telle que “[En fuite](../conditions/en-fuite.md) tant que vous êtes Effrayé” ou “[Paralysé](../conditions/paralysé.md) tant que vous êtes Effrayé.”
+**Spécial** Vous pouvez utiliser cette réaction même si vous avez une condition liée à la condition Effrayée qui devrait normalement empêcher d'utiliser une réaction, telle que “[En fuite](../conditions/en-fuite.html) tant que vous êtes Effrayé” ou “[Paralysé](../conditions/paralysé.html) tant que vous êtes Effrayé.”

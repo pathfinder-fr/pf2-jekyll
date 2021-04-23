@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/analyze-information.json
 layout: dons
 ---
-Vous pouvez obliger votre esprit à réaliser une poussée de prouesse analytique. Vous pouvez lancer le sort [Hypercognition](../sorts/hypercognition.md) de niveau 3 une fois par jour comme un sort inné divin.
+Vous pouvez obliger votre esprit à réaliser une poussée de prouesse analytique. Vous pouvez lancer le sort [Hypercognition](../sorts/hypercognition.html) de niveau 3 une fois par jour comme un sort inné divin.

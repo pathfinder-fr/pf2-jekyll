@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous pouvez vous transformer un un rat apparemment inoffensif pour reconnaître une zone ou vous glisser au travers de petits passages.
 
-Vous obtenez les effets du sort [Forme de nuisible](../sorts/forme-de-nuisible.md) de niveau 1 sauf que vous devez prendre la forme de bataille d'un Très petit rat.
+Vous obtenez les effets du sort [Forme de nuisible](../sorts/forme-de-nuisible.html) de niveau 1 sauf que vous devez prendre la forme de bataille d'un Très petit rat.

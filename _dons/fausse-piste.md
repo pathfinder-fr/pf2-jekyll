@@ -8,7 +8,7 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/red-herring.json
 layout: dons
 ---
-Vous avez un sens aiguisé pour éviter de suivre des indices fallacieux lors d'une enquête. Lorsque vous [Suivez une piste](../actions/suivre-une-piste.md), le MJ vous dit si la piste que vous avez choisie est anodine.
+Vous avez un sens aiguisé pour éviter de suivre des indices fallacieux lors d'une enquête. Lorsque vous [Suivez une piste](../actions/suivre-une-piste.html), le MJ vous dit si la piste que vous avez choisie est anodine.
 
 Par exemple, si vous avez trouvé une éclaboussure de boue grise sur le mur, pensé que c'était suspect et avez poursuivi cet indice comme une piste, le MJ vous dira qu'il n'y a pas de plus grand mystère relatif à cet élément.
 

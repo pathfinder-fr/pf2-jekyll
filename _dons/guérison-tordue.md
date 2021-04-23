@@ -10,4 +10,4 @@ layout: dons
 ---
 Votre lien à la fois avec la vie et la mort-vivance vous permet de tordre la puissance de guérison des objets magiques pour les faire correspondre à vos besoins et votre objectif.
 
-Lorsque vous Activez un objet pour Lancer un sort de [Guérison](../sorts/guérison.md), vous pouvez inverser son énergie pour produire les effets d'un sort de [Mise à mal](../sorts/mise-à-mal.md) équivalente à la place.
+Lorsque vous Activez un objet pour Lancer un sort de [Guérison](../sorts/guérison.html), vous pouvez inverser son énergie pour produire les effets d'un sort de [Mise à mal](../sorts/mise-à-mal.html) équivalente à la place.

@@ -10,4 +10,4 @@ layout: dons
 ---
 Lorsque vous obtenez un coup critique sur une créature morte-vivante ou si une créature morte-vivante manque un jet de sauvegarde contre l'une de vos capacités, vous concentrez votre courroux divin dans le cœur de votre ennemi.
 
-Le mort-vivant est [Affaibli](../conditions/affaibli.md) 1 pendant 1 round.
+Le mort-vivant est [Affaibli](../conditions/affaibli.html) 1 pendant 1 round.

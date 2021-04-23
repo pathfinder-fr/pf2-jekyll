@@ -9,7 +9,7 @@ urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/pack
 layout: dons
 ---
 **Fréquence** une fois par minute  
-**Prérequis** [Frappe incapacitante](../actions/frappe-incapacitante.md)  
+**Prérequis** [Frappe incapacitante](../actions/frappe-incapacitante.html)  
 **Déclencheur** Vous appliquez un handicap à une créature.  
 
 Vous pouvez faire en sorte que le handicap dure pendant un temps exceptionnellement long. Le handicap déclencheur dure pendant 1 minute au lieu de durer jusqu'à la fin de votre prochain tour.

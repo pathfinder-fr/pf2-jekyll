@@ -10,7 +10,7 @@ layout: dons
 ---
 **Conditions** Vous avez pris la posture du Ciel et du Paradis.
 
-Vous [Bondissez](../actions/bondir.md) vers un adversaire. À tout moment durant ce bond, vous pouvez porter une unique Frappe contre une créature à votre portée.
+Vous [Bondissez](../actions/bondir.html) vers un adversaire. À tout moment durant ce bond, vous pouvez porter une unique Frappe contre une créature à votre portée.
 
 Au niveau 12, si vous touchez avec cette Frappe, au lieu de finir votre Bond, vous pouvez tentez immédiatement un second Bond à partir de la case d'où vous avez frappé la cible de votre Frappe. Vous pouvez porter une unique Frappe contre une cible à votre portée durant ce second Bond également.
 

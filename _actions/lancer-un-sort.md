@@ -23,4 +23,4 @@ Certains sorts se lancent par réaction ou par une action gratuite. Dans ce cas,
 - Verbal (concentration)
 - Focaliseur (manipulation)
 
-**Sorts interrompus et perdus** Certains sorts et pouvoirs permettent d’interrompre un sort, qui est alors perdu et n’a aucun effet. Quand vous perdez un sort, vous avez déjà dépensé son emplacement de sort, son coût et ses actions et déjà utilisé l’activité Lancer un sort. Si un sort est interrompu lors de l’action [Maintenir un sort](maintenir-un-sort.md), alors ce sort se termine de suite.
+**Sorts interrompus et perdus** Certains sorts et pouvoirs permettent d’interrompre un sort, qui est alors perdu et n’a aucun effet. Quand vous perdez un sort, vous avez déjà dépensé son emplacement de sort, son coût et ses actions et déjà utilisé l’activité Lancer un sort. Si un sort est interrompu lors de l’action [Maintenir un sort](maintenir-un-sort.html), alors ce sort se termine de suite.

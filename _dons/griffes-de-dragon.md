@@ -12,4 +12,4 @@ Les ongles de vos mains se transforment en griffes coupantes comme des rasoirs e
 
 Vos griffes ont les traits agile, finesse et à mains nues. Elles infligent 1d6 dégâts tranchants et font partie du groupe d'arme pugilat.
 
-Si vous êtes un ensorceleur draconique, lorsque vous lancez [Griffes de dragon](../sorts/griffes-de-dragon.md), augmentez les dés de dégâts tranchants du sort de d4 à d6 et augmentez la résistance à 10 au niveau 1, 15 au niveau 5 et 20 au niveau 9.
+Si vous êtes un ensorceleur draconique, lorsque vous lancez [Griffes de dragon](../sorts/griffes-de-dragon.html), augmentez les dés de dégâts tranchants du sort de d4 à d6 et augmentez la résistance à 10 au niveau 1, 15 au niveau 5 et 20 au niveau 9.

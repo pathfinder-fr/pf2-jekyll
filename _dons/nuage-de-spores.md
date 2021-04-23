@@ -14,8 +14,8 @@ Vous relâchez une nuage de pollen ou de spores similaires. Toutes les créature
 
 **Succès critique** Pas d'effet.
 
-**Succès** La créature est [Éblouie](../conditions/ébloui.md) pendant 1 round.
+**Succès** La créature est [Éblouie](../conditions/ébloui.html) pendant 1 round.
 
 **Échec** La créature est Éblouie et peut voir seulement à 3 m au loin pendant 1 round.
 
-**Échec critique** La créature est [Aveuglée](../conditions/aveuglé.md) pendant 1 round.
+**Échec critique** La créature est [Aveuglée](../conditions/aveuglé.html) pendant 1 round.

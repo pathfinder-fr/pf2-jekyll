@@ -18,4 +18,4 @@ Vous Marchez rapidement, puis vous Bondissez à la verticale et effectuez un tes
 
 **Échec** Vous Bondissez normalement.
 
-**Échec critique** Vous ne parvenez pas à Bondir et tombez [à terre](../conditions/à-terre.md) dans votre case à la place.
+**Échec critique** Vous ne parvenez pas à Bondir et tombez [à terre](../conditions/à-terre.html) dans votre case à la place.

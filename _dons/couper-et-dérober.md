@@ -12,4 +12,4 @@ layout: dons
 
 **Conditions** Vous maniez une arme au corps à corps qui inflige des dégâts tranchants et vous avez une main libre.
 
-Vous tentez une Frappe au corps à corps avec l'arme requise. Si vous touchez et faites des dégâts et que le résultat du jet d'attaque excède le DD de Perception de la cible, vous [Volez](../actions/voler.md) un petit objet sur la cible (comme si vous aviez réussi cette tâche en utilisant la compétence Vol). En fonction de l'objet, la cible pourrait réaliser qu'elle a été volée et les observateurs pourraient réaliser que vous possédez l'objet volé si le jet d'attaque n'excède pas leur DD de Perception.
+Vous tentez une Frappe au corps à corps avec l'arme requise. Si vous touchez et faites des dégâts et que le résultat du jet d'attaque excède le DD de Perception de la cible, vous [Volez](../actions/voler.html) un petit objet sur la cible (comme si vous aviez réussi cette tâche en utilisant la compétence Vol). En fonction de l'objet, la cible pourrait réaliser qu'elle a été volée et les observateurs pourraient réaliser que vous possédez l'objet volé si le jet d'attaque n'excède pas leur DD de Perception.

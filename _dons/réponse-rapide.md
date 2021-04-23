@@ -10,4 +10,4 @@ layout: dons
 ---
 **Déclencheur** Un allié est réduit à 0 Points de vie.
 
-Vous travaillez rapidement et efficacement en période de danger pour fournir l'assistance nécessaire. Vous [Marchez rapidement](../actions/marcher-rapidement.md) vers l'allié déclencheur. Vous obtenez un bonus de circonstances de + 3 m à votre Vitesse durant ce déplacement.
+Vous travaillez rapidement et efficacement en période de danger pour fournir l'assistance nécessaire. Vous [Marchez rapidement](../actions/marcher-rapidement.html) vers l'allié déclencheur. Vous obtenez un bonus de circonstances de + 3 m à votre Vitesse durant ce déplacement.

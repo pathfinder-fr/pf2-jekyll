@@ -10,11 +10,11 @@ layout: dons
 ---
 **Conditions** Vous transportez des outils de guérisseur ou vous les portez et disposez d'une main libre.
 
-Vous soignez une créature adjacente pour essayer de réduire l'état [Maladroit](../conditions/maladroit.md), [Affaibli](../conditions/affaibli.md) ou [Malade](../conditions/malade.md). Si une créature souffre de plusieurs états sur cette liste, choissez en un.
+Vous soignez une créature adjacente pour essayer de réduire l'état [Maladroit](../conditions/maladroit.html), [Affaibli](../conditions/affaibli.html) ou [Malade](../conditions/malade.html). Si une créature souffre de plusieurs états sur cette liste, choissez en un.
 
 tentez un test de contre contre cet état, en utilisant votre modificateur de Médecine comme votre modificateur et la source de l'état pour déterminer le DD.
 
-Vous ne pouvez soigner un état qui provient d'un artefact ou d'un effet au delà du niveau 20 à moins que vous ne soyez [Infirmier légendaire](infirmier-légendaire.md) ; même dans ce cas, le DD de contre augmente de 10.
+Vous ne pouvez soigner un état qui provient d'un artefact ou d'un effet au delà du niveau 20 à moins que vous ne soyez [Infirmier légendaire](infirmier-légendaire.html) ; même dans ce cas, le DD de contre augmente de 10.
 
 Soigner un état qui est continuellement appliqué sous certaines circonstances (par exemple, l'état affaibli qu'un personnage bon obtient lorsqu'il transporte une arme *impie*) n'a pas d'effet tant que les circonstances se produisent.
 

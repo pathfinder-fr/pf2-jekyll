@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous pouvez changer votre apparence pour gagner un aspect de l’animal représenté sur votre masque.
 
-Vous gagnez le sort focalisé [Aspect du guerrier magique](../sorts/aspect-du-guerrier-magique.md).
+Vous gagnez le sort focalisé [Aspect du guerrier magique](../sorts/aspect-du-guerrier-magique.html).

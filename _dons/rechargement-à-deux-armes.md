@@ -12,4 +12,4 @@ layout: dons
 
 Vous portez votre munition d'une manière qui vous permet de recharger tout en portant deux armes.
 
-Vous [Interagissez](../actions/interagir.md) pour recharger une arme à distance à une main que vous tenez. Contrairement à la plupart des actions Interagir, vous n'avez pas besoin d'une main libre pour recharger votre arme à distance de cette manière.
+Vous [Interagissez](../actions/interagir.html) pour recharger une arme à distance à une main que vous tenez. Contrairement à la plupart des actions Interagir, vous n'avez pas besoin d'une main libre pour recharger votre arme à distance de cette manière.

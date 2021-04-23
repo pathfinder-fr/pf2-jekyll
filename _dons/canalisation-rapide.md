@@ -10,4 +10,4 @@ layout: dons
 ---
 **Prérequis** source de mise à mal ou de guérison
 
-La puissance divine est continuellement à votre disposition et se manifeste au moindre de vos appels. Quand vous lancez [mise à mal](../sorts/mise-à-mal.md) ou [guérison](../sorts/guérison.md) en dépensant 2 actions, vous pouvez produire les effets de la version à 3 actions au lieu de celle à 2 actions. Vous pouvez faire ceci avec [mise à mal](../sorts/mise-à-mal.md) si vous avez la source de mise à mal ou avec [guérison](../sorts/guérison.md) si vous avez la source de guérison (ou avec les deux si vous avez Source polyvalente).
+La puissance divine est continuellement à votre disposition et se manifeste au moindre de vos appels. Quand vous lancez [mise à mal](../sorts/mise-à-mal.html) ou [guérison](../sorts/guérison.html) en dépensant 2 actions, vous pouvez produire les effets de la version à 3 actions au lieu de celle à 2 actions. Vous pouvez faire ceci avec [mise à mal](../sorts/mise-à-mal.html) si vous avez la source de mise à mal ou avec [guérison](../sorts/guérison.html) si vous avez la source de guérison (ou avec les deux si vous avez Source polyvalente).

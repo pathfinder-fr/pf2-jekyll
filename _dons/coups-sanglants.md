@@ -10,6 +10,6 @@ layout: dons
 ---
 Vos attaques à mains nues létales laissent des trous sanglants ou provoquent des saignements internes sévères.
 
-Lorsque vous faites un coup critique avec une [Frappe](../actions/frapper.md) en utilisant une attaque à mains nues qui n'est pas non létale, la cible subit [[/r 1d4 #saignement persistant]] dégâts de saignement persistants.
+Lorsque vous faites un coup critique avec une [Frappe](../actions/frapper.html) en utilisant une attaque à mains nues qui n'est pas non létale, la cible subit [[/r 1d4 #saignement persistant]] dégâts de saignement persistants.
 
-Cela peut être à cause du fait que vous acceptez de subir la pénalité pour pouvoir utiliser le poing pour porter une attaque létale ou parce que vous possédez une attaque à mains nues qui n'a pas le trait non-létal à cause de [Poings de fer](poings-de-fer.md), de [Défenses](défenses-orc.md) ou d'une capacité similaire.
+Cela peut être à cause du fait que vous acceptez de subir la pénalité pour pouvoir utiliser le poing pour porter une attaque létale ou parce que vous possédez une attaque à mains nues qui n'a pas le trait non-létal à cause de [Poings de fer](poings-de-fer.html), de [Défenses](défenses-orc.html) ou d'une capacité similaire.

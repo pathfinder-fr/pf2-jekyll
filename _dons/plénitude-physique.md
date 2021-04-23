@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/wholeness-of-body.json
 layout: dons
 ---
-Vous pouvez récupérer des forces en puisant dans votre ki. Vous obtenez le sort ki [Plénitude physique](plénitude-physique.md). Augmentez de 1 le nombre de points de focalisation de votre réserve.
+Vous pouvez récupérer des forces en puisant dans votre ki. Vous obtenez le sort ki [Plénitude physique](plénitude-physique.html). Augmentez de 1 le nombre de points de focalisation de votre réserve.

@@ -10,4 +10,4 @@ layout: dons
 ---
 Que votre cœur soit pur ou corrompu, vous placez une malédiction sur vos ennemis.
 
-Vous pouvez Lancer [Imprécation](../sorts/imprécation.md) une fois par jour comme un sort inné divin de niveau 1.
+Vous pouvez Lancer [Imprécation](../sorts/imprécation.html) une fois par jour comme un sort inné divin de niveau 1.

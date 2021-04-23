@@ -12,4 +12,4 @@ layout: dons
 
 **Déclencheur** Vous portez un coup critique à un ennemi lors d'une Frappe réalisée avec une arme tranchante.
 
-Choisissez soit [Éclair](../sorts/éclair.md) soit [Bourrasque](../sorts/bourrasque.md). Vous lancez le sort choisi comme un sort inné primordial de niveau 6 dans la direction de la cible de l'action déclencheuse.
+Choisissez soit [Éclair](../sorts/éclair.html) soit [Bourrasque](../sorts/bourrasque.html). Vous lancez le sort choisi comme un sort inné primordial de niveau 6 dans la direction de la cible de l'action déclencheuse.

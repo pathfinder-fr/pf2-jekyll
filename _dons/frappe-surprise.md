@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/surprise-strike.json
 layout: dons
 ---
-Lorsque vous portez une [Frappe](../actions/frapper.md) avec une arme improvisée contre une créature qui ne vous a pas vu faire une Frappe en utilisant une arme improvisée ou qui est autrement ignorante de votre compétence avec les armes improvisées, la créature est [Prise au dépourvu](../conditions/pris-au-dépourvu.md) contre cette Frappe.
+Lorsque vous portez une [Frappe](../actions/frapper.html) avec une arme improvisée contre une créature qui ne vous a pas vu faire une Frappe en utilisant une arme improvisée ou qui est autrement ignorante de votre compétence avec les armes improvisées, la créature est [Prise au dépourvu](../conditions/pris-au-dépourvu.html) contre cette Frappe.

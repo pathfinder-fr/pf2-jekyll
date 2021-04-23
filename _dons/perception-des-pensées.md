@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous possédez une technique encore plus étrange vous permettant de savoir ce que pensent les autres gens.
 
-Vous pouvez lancer [Lecture des pensées](../sorts/lecture-des-pensées.md) comme sort occulte inné une fois par jour.
+Vous pouvez lancer [Lecture des pensées](../sorts/lecture-des-pensées.html) comme sort occulte inné une fois par jour.

@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/ongoing-selfishness.json
 layout: dons
 ---
-Votre puissante personnalité et votre égo incroyable exige que vous vous protégiez vous-même par dessus tout autre. Après avoir utilisé [Bouclier égoïste](../actions/bouclier-égoïste.md), vous obtenez une résistance contre tous les dégâts infligés par l'ennemi déclencheur jusqu'à la fin du tour au cours duquel vous avez utilisé la réaction. Cette résistance est égale à la moitié de la résistance de votre Bouclier égoïste.
+Votre puissante personnalité et votre égo incroyable exige que vous vous protégiez vous-même par dessus tout autre. Après avoir utilisé [Bouclier égoïste](../actions/bouclier-égoïste.html), vous obtenez une résistance contre tous les dégâts infligés par l'ennemi déclencheur jusqu'à la fin du tour au cours duquel vous avez utilisé la réaction. Cette résistance est égale à la moitié de la résistance de votre Bouclier égoïste.

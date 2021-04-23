@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/perfect-finisher.json
 layout: dons
 ---
-Vous concentrez votre panache en un assaut impeccable. Faites une [Frappe](../actions/frapper.md), en lançant deux fois le jet d'attaque et en utilisant le meilleur résultat.
+Vous concentrez votre panache en un assaut impeccable. Faites une [Frappe](../actions/frapper.html), en lançant deux fois le jet d'attaque et en utilisant le meilleur résultat.

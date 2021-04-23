@@ -10,4 +10,4 @@ layout: dons
 ---
 Vos pouvoirs célestes vous permettent de délivrer des afflictions mineures avec facilité.
 
-Chaque jour, vous pouvez lancer deux sorts innés divin de niveau 4. Vous pouvez choisir dans la liste des sorts suivants à chaque fois que vous utilisez cette capacité : [Délivrance des malédictions](../sorts/délivrance-des-malédictions.md), [Délivrance des maladies](../sorts/délivrance-des-maladies.md) et [Neutralisation du poison](../sorts/neutralisation-du-poison.md).
+Chaque jour, vous pouvez lancer deux sorts innés divin de niveau 4. Vous pouvez choisir dans la liste des sorts suivants à chaque fois que vous utilisez cette capacité : [Délivrance des malédictions](../sorts/délivrance-des-malédictions.html), [Délivrance des maladies](../sorts/délivrance-des-maladies.html) et [Neutralisation du poison](../sorts/neutralisation-du-poison.html).

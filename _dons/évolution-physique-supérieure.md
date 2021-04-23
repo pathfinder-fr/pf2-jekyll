@@ -8,7 +8,7 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/greater-physical-evolution.json
 layout: dons
 ---
-**Prérequis** [Évolution arcanique](évolution-arcanique.md) ou [Évolution primordiale](évolution-primordiale.md)
+**Prérequis** [Évolution arcanique](évolution-arcanique.html) ou [Évolution primordiale](évolution-primordiale.html)
 
 Vous avez une compréhension fondamentale des structures innées du monde physique et vous pouvez imposer votre volonté à cette structure en ce qui concerne votre propre sang.
 

@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/expert-poisoner.json
 layout: dons
 ---
-Votre niveau d'[Alchimie avancée](../capacité-classe/alchimie-avancée.md) pour le poison passe à votre niveau –3.
+Votre niveau d'[Alchimie avancée](../capacité-classe/alchimie-avancée.html) pour le poison passe à votre niveau –3.

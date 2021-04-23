@@ -12,4 +12,4 @@ layout: dons
 
 Étonamment agile même dans une cuirasse et en transportant un plein sac à dos, Marcos Farabellus a développé cette manœuvre d'évasion au cours de l'une de ses nombreuses aventures.
 
-Précipitant votre corps dans un saut périlleux tournant, vous obtenez un bonus de circonstances de +2 à votre CA contre l'attaque déclencheuse. Si l'attaque vous atteint malgré cela, vous pouvez [Faire un pas](../actions/faire-un-pas.md) dans une case libre qui est toujours à portée de l'allonge de l'ennemi déclencheur, transformant l'impact du coup en un élan.
+Précipitant votre corps dans un saut périlleux tournant, vous obtenez un bonus de circonstances de +2 à votre CA contre l'attaque déclencheuse. Si l'attaque vous atteint malgré cela, vous pouvez [Faire un pas](../actions/faire-un-pas.html) dans une case libre qui est toujours à portée de l'allonge de l'ennemi déclencheur, transformant l'impact du coup en un élan.

@@ -10,4 +10,4 @@ layout: dons
 ---
 Votre lien avec le bien arme toutes vos attaques contre les forces du mal.
 
-Toutes vos [Frappes](../actions/frapper.md) avec des armes ou des attaques à mains nues infligent 1 dégât de bien supplémentaire et possèdent les trait bien et magique.
+Toutes vos [Frappes](../actions/frapper.html) avec des armes ou des attaques à mains nues infligent 1 dégât de bien supplémentaire et possèdent les trait bien et magique.

@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous frappez, cassez et chargez sans hésiter à travers des obstacles solides.
 
-[Marchez rapidement](../actions/marcher-rapidement.md) deux fois. Une seule fois au cours de ce mouvement, si votre déplacement passe à travers ou se termine à côté d'une porte, d'une fenêtre, d'une palissade, d'un mur ou d'un obstacle similaire, vous pouvez exécuter un test d'Athlétisme pour [Forcer l'ouverture](../actions/ouvrir-de-force.md) dans l'obstacle avec un bonus de circonstances de +1 ; en cas d'échec, votre mouvement est interrompu au niveau de cet obstacle.
+[Marchez rapidement](../actions/marcher-rapidement.html) deux fois. Une seule fois au cours de ce mouvement, si votre déplacement passe à travers ou se termine à côté d'une porte, d'une fenêtre, d'une palissade, d'un mur ou d'un obstacle similaire, vous pouvez exécuter un test d'Athlétisme pour [Forcer l'ouverture](../actions/ouvrir-de-force.html) dans l'obstacle avec un bonus de circonstances de +1 ; en cas d'échec, votre mouvement est interrompu au niveau de cet obstacle.

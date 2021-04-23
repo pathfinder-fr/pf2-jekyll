@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/storm-s-lash.json
 layout: dons
 ---
-Le vend et les éclairs ont toujours été vos proches amis. Vous pouvez lancer le tour de magie [Arc électrique](../sorts/arc-électrique.md) comme un sort inné primordial à volonté. Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi à l'entier supérieur.
+Le vend et les éclairs ont toujours été vos proches amis. Vous pouvez lancer le tour de magie [Arc électrique](../sorts/arc-électrique.html) comme un sort inné primordial à volonté. Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi à l'entier supérieur.

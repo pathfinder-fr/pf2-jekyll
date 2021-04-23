@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous emportez l'océan avec vous partout où vous allez.
 
-Vous pouvez lancer [Création d'eau](../sorts/création-d-eau.md) comme un sort inné primordial une fois par jour. Chaque fois que vous créez de l'eau, vous choisissez si vous créer de l'eau douce ou de l'eau salée.
+Vous pouvez lancer [Création d'eau](../sorts/création-d-eau.html) comme un sort inné primordial une fois par jour. Chaque fois que vous créez de l'eau, vous choisissez si vous créer de l'eau douce ou de l'eau salée.

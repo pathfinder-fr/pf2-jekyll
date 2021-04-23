@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous pouvez lancer votre arme sur votre adversaire par magie.
 
-Vous gagnez le sort d’universaliste [Main de l’apprenti](../sorts/main-de-l-apprenti.md). Les sorts d'universaliste font partie des sorts focalisés, comme les sorts d’école. Vous commencez avec une réserve de focalisation de 1 point.
+Vous gagnez le sort d’universaliste [Main de l’apprenti](../sorts/main-de-l-apprenti.html). Les sorts d'universaliste font partie des sorts focalisés, comme les sorts d’école. Vous commencez avec une réserve de focalisation de 1 point.

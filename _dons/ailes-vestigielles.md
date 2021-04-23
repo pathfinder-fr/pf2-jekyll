@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/vestigial-wings.json
 layout: dons
 ---
-Vous possédez des petites ailes faibles qui aident à trouver l'équilibre. vous obtenez les dons de compétence [Équilibre stable](équilibre-stable.md) et [Chute féline](chute-féline.md) comme dons supplémentaires, même si vous n'êtes pas qualifié en Acrobaties.
+Vous possédez des petites ailes faibles qui aident à trouver l'équilibre. vous obtenez les dons de compétence [Équilibre stable](équilibre-stable.html) et [Chute féline](chute-féline.html) comme dons supplémentaires, même si vous n'êtes pas qualifié en Acrobaties.

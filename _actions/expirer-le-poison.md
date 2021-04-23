@@ -10,7 +10,7 @@ layout: actions
 type: action
 typeFr: Action Unique
 ---
-**Conditions** Vous vous êtes trouvé dans la zone où se trouvait un poison inhalé au cours de la dernière minute ; [Poumon d'acier](../dons/poumon-d-acier.md).
+**Conditions** Vous vous êtes trouvé dans la zone où se trouvait un poison inhalé au cours de la dernière minute ; [Poumon d'acier](../dons/poumon-d-acier.html).
 
 **Fréquence** une fois par heure
 

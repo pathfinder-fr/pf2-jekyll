@@ -8,13 +8,13 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/flamboyant-leap.json
 layout: dons
 ---
-**Prérequis** maître en Athlétisme, [Athlète flamboyant](athlète-flamboyant.md)
+**Prérequis** maître en Athlétisme, [Athlète flamboyant](athlète-flamboyant.html)
 
 **Conditions** Vous êtes capable d'utiliser une botte.
 
 Vous bondissez avec style et portez une botte puissante.
 
-Faites un [Bond](../actions/bondir.md), un [Saut en hauteur](../actions/sauter-en-hauteur.md) ou un [Saut en longueur](../actions/sauter-en-longueur.md) et effectuez une botte à une unique action n'importe quand durant votre saut ; la botte ne peut pas être une de celle qui inclut un autre déplacement, comme Botte mobile.
+Faites un [Bond](../actions/bondir.html), un [Saut en hauteur](../actions/sauter-en-hauteur.html) ou un [Saut en longueur](../actions/sauter-en-longueur.html) et effectuez une botte à une unique action n'importe quand durant votre saut ; la botte ne peut pas être une de celle qui inclut un autre déplacement, comme Botte mobile.
 
 Immédiatement après la botte, vous tombez sur le sol si vous étiez en l'air, même si vous n'avez pas atteint la distance maximale de votre saut. Si la distance de chute n'est pas de plus de la hauteur de votre saut, vous ne subissez pas de déga^ts et atterrissez sur vos pieds.
 

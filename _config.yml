@@ -48,6 +48,9 @@ collections:
   dons:
     output: true
     category: ['don']
+  archetypes:
+    output: true
+    category: ['archétype']
 
 
 # Exclude from processing.

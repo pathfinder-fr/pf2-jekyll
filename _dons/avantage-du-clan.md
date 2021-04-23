@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/clan-s-edge.json
 layout: dons
 ---
-En déplaçant votre dague de clan avec une précision rapide, vous pouvez vous protéger vous-même de manière plus effective. Faites deux [Frappes](../actions/frapper.md) de dague de clan contre différentes cibles. Vos pénalités d'attaques multiples s'appliquent normalement à ces Frappes. Vous utilisez alors une action Interagir pour obtenir un bonus de circonstances de +1 à votre CA lié au trait parade de votre dague de clan.
+En déplaçant votre dague de clan avec une précision rapide, vous pouvez vous protéger vous-même de manière plus effective. Faites deux [Frappes](../actions/frapper.html) de dague de clan contre différentes cibles. Vos pénalités d'attaques multiples s'appliquent normalement à ces Frappes. Vous utilisez alors une action Interagir pour obtenir un bonus de circonstances de +1 à votre CA lié au trait parade de votre dague de clan.

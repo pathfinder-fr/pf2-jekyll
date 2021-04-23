@@ -25,23 +25,37 @@ before_script:
   - apt-get -qq update
   - apt-get -qq install -y lftp
 
+# build interne pour gitlab-pages
+# https://pathfinder-fr.gitlab.io/pf2-jekyll/
 pages:
   stage: deploy
   script:
-  - bundle exec jekyll build -d public --incremental -b "/pf2-jekyll/"
+  - bundle exec jekyll build -d public -b "/pf2-jekyll/" --verbose --incremental
   artifacts:
     paths:
     - public
   only:
   - master
+  interruptible: true
 
+# build officielle pour le site pathfinder-fr.org
 pf-org:
-  stage: deploy
+  stage: build
   script:
   - bundle exec jekyll build -d pf-org --incremental
-  - lftp -e "set ssl:verify-certificate no; set mirror:overwrite true; set mirror:parallel-transfer-count 5; open pathfinder-fr.org; user $ftp_username $ftp_password; mirror --reverse --delete --use-cache --no-perms --no-umask --overwrite --only-newer pf-org/ /; bye"
   artifacts:
     paths:
     - pf-org
   only:
   - pub
+  interruptible: true
+
+# déploiement officiel (FTP) pour le site pathfinder-fr.org
+# https://www.pathfinder-fr.org/srd/pf2
+deploy:
+  stage: deploy
+  script:
+  - lftp -e "set ssl:verify-certificate no; set mirror:overwrite true; set mirror:parallel-transfer-count 5; open pathfinder-fr.org; user $ftp_username $ftp_password; mirror --reverse --delete --use-cache --no-perms --no-umask --overwrite --only-newer pf-org/ /; bye"
+  only:
+  - pub
+  interruptible: true

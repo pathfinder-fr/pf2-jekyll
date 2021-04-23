@@ -10,7 +10,7 @@ layout: actions
 type: passive
 typeFr: Passive
 ---
-**Conditions** Vous avez un [kit de répération](../équipements/kit-de-réparation.md)
+**Conditions** Vous avez un [kit de répération](../équipements/kit-de-réparation.html)
 
 Vous passez dix minutes à tenter de réparer un objet endommagé, en le plaçant sur une surface stable et en utilisant le kit de réparation avec vos deux mains. Le MJ détermine le DD, sachant que le DD pour Réparer un objet donné est généralement similaire à celui pour le Fabriquer. Vous ne pouvez pas Réparer un objet détruit.
 

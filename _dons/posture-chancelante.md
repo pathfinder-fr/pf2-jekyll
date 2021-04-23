@@ -10,8 +10,8 @@ layout: dons
 ---
 Vous adoptez une posture apparemment décontractée qui imite les mouvements de l'ivrogne, mouvante, laissant de fausses ouvertures et distrayant vos ennemis de vos mouvements véritables.
 
-Dans cette posture, vous obtenez un bonus de circonstances à vos tests de Duperie pour [Feinter](../actions/feinter.md). Les seules [Frappes](../actions/frapper.md) que vous pouvez porter sont des attaques à mains nues de coups chancelants. Elles infligent [[/r 1d8 #contondants]] dégâts contondants ; sont dans le groupe pugilat ; Elles ont les traits à mains nues, agile, finesse, non-létal et traître.
+Dans cette posture, vous obtenez un bonus de circonstances à vos tests de Duperie pour [Feinter](../actions/feinter.html). Les seules [Frappes](../actions/frapper.html) que vous pouvez porter sont des attaques à mains nues de coups chancelants. Elles infligent [[/r 1d8 #contondants]] dégâts contondants ; sont dans le groupe pugilat ; Elles ont les traits à mains nues, agile, finesse, non-létal et traître.
 
-Si un ennemi vous touche avec une Frappe au corps-à-corps alors que vous êtes dans cette posture, il devient [Pris au dépourvu](../conditions/pris-au-dépourvu.md) contre le prochain coup chancelant que vous lui portez avant la fin de votre prochain tour.
+Si un ennemi vous touche avec une Frappe au corps-à-corps alors que vous êtes dans cette posture, il devient [Pris au dépourvu](../conditions/pris-au-dépourvu.html) contre le prochain coup chancelant que vous lui portez avant la fin de votre prochain tour.
 
 Posture: Posture chancelante

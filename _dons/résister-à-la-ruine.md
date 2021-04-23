@@ -10,4 +10,4 @@ layout: dons
 ---
 Votre héritage crépusculaire vous permet d'étendre la protection contre l'énergie négative à vous-même ou un allié dans le besoin.
 
-Vous obtenez une résistance de 5 contre l'énergie négative et, une fois par jour, vous pouvez Lancer [Protection contre la mort](../sorts/protection-contre-la-mort.md) comme un sort divin inné.
+Vous obtenez une résistance de 5 contre l'énergie négative et, une fois par jour, vous pouvez Lancer [Protection contre la mort](../sorts/protection-contre-la-mort.html) comme un sort divin inné.

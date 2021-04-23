@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/mage-hunter.json
 layout: dons
 ---
-**déclencheur** Une créature dans votre portée [Lance un sort](../actions/lancer-un-sort.md).
+**déclencheur** Une créature dans votre portée [Lance un sort](../actions/lancer-un-sort.html).
 
-Vous utilisez votre haine de la magie pour vous déchainer à la vue d'une incantation, vous permettant d'interrompre le sort d'un ennemi. Faites une [Frappe](../actions/frapper.md) au corps à corps contre la créature déclencheuse. Si l'attaque est une réussite critique, vous interrompez le sort.
+Vous utilisez votre haine de la magie pour vous déchainer à la vue d'une incantation, vous permettant d'interrompre le sort d'un ennemi. Faites une [Frappe](../actions/frapper.html) au corps à corps contre la créature déclencheuse. Si l'attaque est une réussite critique, vous interrompez le sort.

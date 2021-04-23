@@ -10,4 +10,4 @@ layout: dons
 ---
 **Conditions** Vous maniez deux armes de mêlée, chacune dans une main différente.
 
-Vous raffinez la précision de votre incroyable tempête de coups. Lorsque vous accomplissez un [Déluge invraisemblable](déluge-invraisemblable.md), votre première attaque avec chaque arme subit la pénalité d'attaque multiple comme si vous aviez déjà porté une attaque durant ce tour. Toutes les attaques subséquentes subissent la pénalité d'attaque maximale comme si vous aviez déjà fait deux ou plus attaques durant ce tour.
+Vous raffinez la précision de votre incroyable tempête de coups. Lorsque vous accomplissez un [Déluge invraisemblable](déluge-invraisemblable.html), votre première attaque avec chaque arme subit la pénalité d'attaque multiple comme si vous aviez déjà porté une attaque durant ce tour. Toutes les attaques subséquentes subissent la pénalité d'attaque maximale comme si vous aviez déjà fait deux ou plus attaques durant ce tour.

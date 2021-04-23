@@ -8,8 +8,8 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/ebb-and-flow.json
 layout: dons
 ---
-**Prérequis** [Source polyvalente](source-polyvalente.md)
+**Prérequis** [Source polyvalente](source-polyvalente.html)
 
 Vous pouvez tirer de l'énergie à la fois positive et négative simultanément pour blesser vos ennemis et soigner vos alliés.
 
-Si votre prochaine action consiste à Lancer un sort de [Guérison](../sorts/guérison.md) ou de [Mise à mal](../sorts/mise-à-mal.md) à  1 action ou 2-actions, choisissez une créature à portée qui devrait être blessée par le sort et choisissez une créature à portée qui devrait être soignée par le sort. Votre *Guérison* ou *Mise à mal* cible les deux créatures.
+Si votre prochaine action consiste à Lancer un sort de [Guérison](../sorts/guérison.html) ou de [Mise à mal](../sorts/mise-à-mal.html) à  1 action ou 2-actions, choisissez une créature à portée qui devrait être blessée par le sort et choisissez une créature à portée qui devrait être soignée par le sort. Votre *Guérison* ou *Mise à mal* cible les deux créatures.

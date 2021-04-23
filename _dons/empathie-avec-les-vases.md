@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/ooze-empathy.json
 layout: dons
 ---
-Vous pouvez vous lier avec les vases (et les autres aberrations amorphes laissées à l'appréciation du MJ) à un niveau rudimentaire. Vous pouvez utiliser Diplomatie pour [Faire bonne impression](../actions/faire-bonne-impression.md) sur les vases et pour leur présenter de très simples [Sollicitations](../actions/solliciter.md). Dans la plupart des cas, les vases vous laisseront le temps de présenter votre cas.
+Vous pouvez vous lier avec les vases (et les autres aberrations amorphes laissées à l'appréciation du MJ) à un niveau rudimentaire. Vous pouvez utiliser Diplomatie pour [Faire bonne impression](../actions/faire-bonne-impression.html) sur les vases et pour leur présenter de très simples [Sollicitations](../actions/solliciter.html). Dans la plupart des cas, les vases vous laisseront le temps de présenter votre cas.

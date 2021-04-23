@@ -12,7 +12,7 @@ layout: dons
 
 Vous vous acharnez sur un ennemi pour le harceler jusqu'à ce obtenir sa soumission.
 
-Si votre cible se déplace alors que vous vous cramponnez à elle, vous pouvez choisir de vous déplacer avec la cible. La cible est relâchée si vous choisissez de ne pas vous déplacer avec elle, au début de votre prochain tour ou si la cible [S'Échappe](../actions/s-échapper.md).
+Si votre cible se déplace alors que vous vous cramponnez à elle, vous pouvez choisir de vous déplacer avec la cible. La cible est relâchée si vous choisissez de ne pas vous déplacer avec elle, au début de votre prochain tour ou si la cible [S'Échappe](../actions/s-échapper.html).
 
 Les essais pour s'échapper de Cramponné suivent les règles de S'Échapper mais utilisent votre DD d'Acrobaties et met un terme à Cramponné au lieu des conditions qui s'achèvent habituellement avec l'action s'Échapper.
 

@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/legendary-rider.json
 layout: dons
 ---
-Vous et votre monture ne formez qu'un être, lisant sans effort les signaux envoyés par l'autre. Lorsque vous chevauchez votre monture, vous êtes [Accéléré](../conditions/accéléré.md) ; vous ne pouvez utiliser la réaction supplémentaire que pour donner des ordres à votre monture en utilisant l'action de compétence [Diriger un animal](../actions/diriger-un-animal.md).
+Vous et votre monture ne formez qu'un être, lisant sans effort les signaux envoyés par l'autre. Lorsque vous chevauchez votre monture, vous êtes [Accéléré](../conditions/accéléré.html) ; vous ne pouvez utiliser la réaction supplémentaire que pour donner des ordres à votre monture en utilisant l'action de compétence [Diriger un animal](../actions/diriger-un-animal.html).

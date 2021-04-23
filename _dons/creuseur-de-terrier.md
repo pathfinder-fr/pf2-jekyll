@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous avez appris à utiliser vos robustes griffes pour creuser dans la terre.
 
-Vous obtenez une Vitesse de [Creusement](../actions/creuser.md) de 4,5 m.
+Vous obtenez une Vitesse de [Creusement](../actions/creuser.html) de 4,5 m.

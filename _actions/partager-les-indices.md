@@ -16,6 +16,6 @@ typeFr: Réaction
 
 Vous partagez des informations avec la créature déclencheuse.
 
-Elle gagne un bonus de circonstance à son test égal à votre bonus de circonstance pour les tests relatifs au sujet de la piste que vous [Suivez](suivre-une-piste.md). Le MJ peut ajouter d’autres traits à cette réaction en fonction de la situation (comme auditif et linguistique si vous partagez ces informations de manière orale).
+Elle gagne un bonus de circonstance à son test égal à votre bonus de circonstance pour les tests relatifs au sujet de la piste que vous [Suivez](suivre-une-piste.html). Le MJ peut ajouter d’autres traits à cette réaction en fonction de la situation (comme auditif et linguistique si vous partagez ces informations de manière orale).
 
 Effet: Partager les indices

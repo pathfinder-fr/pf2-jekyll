@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous comprenez les principes qui sous tendent tous les langages écrits, vous permettant de lire quasiment chaque texte.
 
-Vous pouvez tenter de [Déchiffrer un écrit](../actions/déchiffrer-un-texte.md) en utilisant Connaissance du Maître savant au lieu de la compétence requise.
+Vous pouvez tenter de [Déchiffrer un écrit](../actions/déchiffrer-un-texte.html) en utilisant Connaissance du Maître savant au lieu de la compétence requise.

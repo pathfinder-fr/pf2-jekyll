@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/uncanny-agility.json
 layout: dons
 ---
-Vous avez un maintien quasi-surnaturel qui vous laisse vous déplacer rapidement à travers les surfaces les plus instables. Vous obtenez le don de compétence [Équilibre stable](équilibre-stable.md). Vous pouvez faire un pas sur un terrain difficile provoquée par un sol instable, tel qu'un terrain rocailleux ou une déclivité accidentée.
+Vous avez un maintien quasi-surnaturel qui vous laisse vous déplacer rapidement à travers les surfaces les plus instables. Vous obtenez le don de compétence [Équilibre stable](équilibre-stable.html). Vous pouvez faire un pas sur un terrain difficile provoquée par un sol instable, tel qu'un terrain rocailleux ou une déclivité accidentée.

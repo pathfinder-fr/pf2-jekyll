@@ -10,6 +10,6 @@ layout: dons
 ---
 **Fréquence** une fois par minute
 
->**Déclencheur** Vous utilisez [Alchimie rapide](alchimie-rapide.md) pour Fabriquer une bombe alchimique qui inflige des dégâts d'éclaboussure et est au moins de 2 niveaux inférieure à votre niveau d'[Alchimie avancée](../capacité-classe/alchimie-avancée.md).
+>**Déclencheur** Vous utilisez [Alchimie rapide](alchimie-rapide.html) pour Fabriquer une bombe alchimique qui inflige des dégâts d'éclaboussure et est au moins de 2 niveaux inférieure à votre niveau d'[Alchimie avancée](../capacité-classe/alchimie-avancée.html).
 
-Votre bombbe intègre une étincelle explosive merveilleuse qui laisse les témoins interloqués. Toute cible touchée par votre Frappe avec la bombe est [Fascinée](../conditions/fasciné.md) par vous pendant 1 round. En cas de succès critique, la cible est aussi [Étourdie](../conditions/étourdi.md) 1.
+Votre bombbe intègre une étincelle explosive merveilleuse qui laisse les témoins interloqués. Toute cible touchée par votre Frappe avec la bombe est [Fascinée](../conditions/fasciné.html) par vous pendant 1 round. En cas de succès critique, la cible est aussi [Étourdie](../conditions/étourdi.html) 1.

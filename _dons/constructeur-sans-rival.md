@@ -10,4 +10,4 @@ layout: dons
 ---
 Construire des choses est comme résoudre un puzzle et vous savez pour cela utiliser tout ce dont vous pouvez disposer pour parvenir au résultat escompté.
 
-Vous obtenez [création](../sorts/création.md) au niveau 5 comme un sort inné primordial. Vous devez posséder un Encombrement équivalent pour créer un objet, comme du bois ou des morceaux de métal pour faire une brouette. Vous pouvez lancer ce sort une fois par jour.
+Vous obtenez [création](../sorts/création.html) au niveau 5 comme un sort inné primordial. Vous devez posséder un Encombrement équivalent pour créer un objet, comme du bois ou des morceaux de métal pour faire une brouette. Vous pouvez lancer ce sort une fois par jour.

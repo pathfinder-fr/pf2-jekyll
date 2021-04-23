@@ -18,4 +18,4 @@ Vous tentez d’obliger un adversaire à lâcher un objet qu’il tient. Effectu
 
 **Succès** Vous affaiblissez la prise de votre adversaire sur l’objet. Jusqu’au début du tour de cette créature, les tentatives pour la Désarmer et l’obliger à lâcher l’objet bénéficient d’un bonus de circonstances de +2 et la cible subit un malus de circonstances de −2 aux attaques effectuées avec l’objet ou aux autres tests nécessitant une prise ferme sur l’objet.
 
-**Échec critique**Vous perdez l’équilibre et êtes [Pris au dépourvu](../conditions/pris-au-dépourvu.md) jusqu’au début de votre prochain tour
+**Échec critique**Vous perdez l’équilibre et êtes [Pris au dépourvu](../conditions/pris-au-dépourvu.html) jusqu’au début de votre prochain tour

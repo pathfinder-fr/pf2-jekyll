@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous avez toujours eu une queue, mais avec la pratique, vous avez appris à l'utiliser pour autre chose de plus que de signaler votre humeur.
 
-Vous pouvez accomplir des actions [Interagir](../actions/interagir.md) simples avec votre queue comme ouvrir une porte non fermée à clef. Votre queue ne peut accomplir des actions qui nécessitent des doigts ou une dextérité manuelle significative, incluant toute action qui nécessiterait un test pour être accomplie et vous ne pouvez pas l'utiliser pour tenir des objets.
+Vous pouvez accomplir des actions [Interagir](../actions/interagir.html) simples avec votre queue comme ouvrir une porte non fermée à clef. Votre queue ne peut accomplir des actions qui nécessitent des doigts ou une dextérité manuelle significative, incluant toute action qui nécessiterait un test pour être accomplie et vous ne pouvez pas l'utiliser pour tenir des objets.

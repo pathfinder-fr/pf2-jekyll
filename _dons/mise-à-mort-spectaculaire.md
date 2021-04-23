@@ -12,6 +12,6 @@ layout: dons
 
 Faites un test de Représentation, en comparant le résultat au DD de Volonté de chaque adversaire dans les 9 m qui peut vous voir. Quel que soit le résultat, chaque cible est immunisée à votre Mise à mort sophistiquée pendant 10 minutes.
 
-**Succès critique** La cible est [Effrayée](../conditions/effrayé.md) 2.
+**Succès critique** La cible est [Effrayée](../conditions/effrayé.html) 2.
 
 **Succès** La cible est Effrayée 1.

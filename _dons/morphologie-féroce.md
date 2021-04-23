@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/ferocious-shape.json
 layout: dons
 ---
-Vous savez à présent prendre la forme de féroces dinosaures. Ajoutez les formes du sort [Forme de dinosaure](../sorts/forme-de-dinosaure.md) à celles de votre morphologie sauvage. Chaque fois que vous utilisez morphologie sauvage pour prendre une forme qui vous confère un modificateur d’Athlétisme particulier, vous bénéficiez d’un bonus de statut de +1 à vos tests d’Athlétisme.
+Vous savez à présent prendre la forme de féroces dinosaures. Ajoutez les formes du sort [Forme de dinosaure](../sorts/forme-de-dinosaure.html) à celles de votre morphologie sauvage. Chaque fois que vous utilisez morphologie sauvage pour prendre une forme qui vous confère un modificateur d’Athlétisme particulier, vous bénéficiez d’un bonus de statut de +1 à vos tests d’Athlétisme.

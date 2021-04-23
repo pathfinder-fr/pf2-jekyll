@@ -10,6 +10,6 @@ layout: dons
 ---
 Vous savez comment délivrer des coups puissants et localisés qui franchissent les résistances de vos ennemis.
 
-Faites une [Frappe](../actions/frapper.md) à mains nues au corps à corps. Elle compte comme deux attaques pour le calcul de la pénalité d'attaque multiple. Si cette Frappe touche, vous infligez deux dés de dégats d'arme supplémentaires. Si vous êtes au moins au niveau 18, augmentez cela à trois dés de dégâts d'arme supplémentaires.
+Faites une [Frappe](../actions/frapper.html) à mains nues au corps à corps. Elle compte comme deux attaques pour le calcul de la pénalité d'attaque multiple. Si cette Frappe touche, vous infligez deux dés de dégats d'arme supplémentaires. Si vous êtes au moins au niveau 18, augmentez cela à trois dés de dégâts d'arme supplémentaires.
 
 Cette attaque ignore aussi un montant de résistance aux dégâts phyisques ou à un type de dégâts physique spécifique égal à votre niveau.

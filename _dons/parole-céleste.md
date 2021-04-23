@@ -10,6 +10,6 @@ layout: dons
 ---
 Vous invoquez une parole sainte des royaulmes célestes pour punir vos ennemis.
 
-Une fois par jour, vous pouvez Lancer [Décret divin](../sorts/décret-divin.md) comme un sort divin inné de niveau 7.
+Une fois par jour, vous pouvez Lancer [Décret divin](../sorts/décret-divin.html) comme un sort divin inné de niveau 7.
 
 Vous devez choisir bien pour l'alignement du sort et vous pouvez Lancer le sort, et ce, que vous suiviez une divinité ou quel que soit son alignement.

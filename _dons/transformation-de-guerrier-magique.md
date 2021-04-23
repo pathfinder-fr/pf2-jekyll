@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/magic-warrior-transformation.json
 layout: dons
 ---
-Vous pouvez vous transformer entièrement en l’animal représenté sur votre masque. Vous gagnez le sort focalisé [Transformation du guerrier magique](../sorts/transformation-du-guerrier-magique.md).
+Vous pouvez vous transformer entièrement en l’animal représenté sur votre masque. Vous gagnez le sort focalisé [Transformation du guerrier magique](../sorts/transformation-du-guerrier-magique.html).

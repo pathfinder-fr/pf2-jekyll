@@ -10,6 +10,6 @@ layout: dons
 ---
 Depuis l'enfance, vous avez été exposé aux armes traditionnelles des vikings et vous avez très tôt appris à les manier au combat. Désormais vous pouvez lancer des raids fièrement parmi vos camarades.
 
-Vous êtes qualifié avec la [hache d'armes](../équipements/hache-d-armes.md), la [hachette](../équipements/hachette.md), l'[épée longue](../équipements/épée-longue.md) et l'[épée courte](../équipements/épée-courte.md).
+Vous êtes qualifié avec la [hache d'armes](../équipements/hache-d-armes.html), la [hachette](../équipements/hachette.html), l'[épée longue](../équipements/épée-longue.html) et l'[épée courte](../équipements/épée-courte.html).
 
-De plus, vous obtenez la réaction [Blocage au bouclier](blocage-au-bouclier.md).
+De plus, vous obtenez la réaction [Blocage au bouclier](blocage-au-bouclier.html).

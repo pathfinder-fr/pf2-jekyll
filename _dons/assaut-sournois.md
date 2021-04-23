@@ -10,6 +10,6 @@ layout: dons
 ---
 Vous capitalisez sur la diversion créée par un allié.
 
-Vous avancez [Furtivement](../actions/être-furtif.md) jusqu'à un adversaire adjacent à l'un de vos alliés. Vous pouvez lancer le test contre l'adversaire vers lequel vous avancez furtivement, même s'il vous observe comme si vous étiez Caché. Vous subissez une pénalité de –2 à votre test de Discrétion .
+Vous avancez [Furtivement](../actions/être-furtif.html) jusqu'à un adversaire adjacent à l'un de vos alliés. Vous pouvez lancer le test contre l'adversaire vers lequel vous avancez furtivement, même s'il vous observe comme si vous étiez Caché. Vous subissez une pénalité de –2 à votre test de Discrétion .
 
-Si votre test de Discrétion contre l'adversaire choisi est une réussite, vous pouvez faire une [Frappe](../actions/frapper.md) au corps à corps contre cet adversaire à la fin de votre déplacement Furtif.
+Si votre test de Discrétion contre l'adversaire choisi est une réussite, vous pouvez faire une [Frappe](../actions/frapper.html) au corps à corps contre cet adversaire à la fin de votre déplacement Furtif.

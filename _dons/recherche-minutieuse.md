@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/thorough-research.json
 layout: dons
 ---
-Lorsque vous réussissez un test pour [Vous souvenir](../actions/se-souvenir-arcanes.md), vous apprenez un fait supplémentaire à propos du sujet. Lorsque vous obtenez une réussite critique à un test pour Vous souvenir, vous pouvez obtenir plus d'information supplémentaire ou contextuelle que la normale, à la discrétion du MJ.
+Lorsque vous réussissez un test pour [Vous souvenir](../actions/se-souvenir-arcanes.html), vous apprenez un fait supplémentaire à propos du sujet. Lorsque vous obtenez une réussite critique à un test pour Vous souvenir, vous pouvez obtenir plus d'information supplémentaire ou contextuelle que la normale, à la discrétion du MJ.

@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous pouvez canaliser le pouvoir des Abysses au travers de votre héritage, produisant des effets tangibles terribles.
 
-Vous pouvez Lancer [Paranoïa](../sorts/paranoïa.md) et [Fracassement](../sorts/fracassement.md) comme des sorts divins innés de niveau 2 une fois par jour chacun.
+Vous pouvez Lancer [Paranoïa](../sorts/paranoïa.html) et [Fracassement](../sorts/fracassement.html) comme des sorts divins innés de niveau 2 une fois par jour chacun.

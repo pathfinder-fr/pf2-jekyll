@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/medical-researcher.json
 layout: dons
 ---
-Kassi vous a enseigné non seulement comment appliquer des remèdes avec vos compétences médicales mais aussi comment les fabriquer vous-mêmes. Lorsque vous [Fabriquez](../actions/fabriquer.md) des kits de guérison, des vaccins, des suppresseurs de dépendance, des antidotes, des antimaladies, des élixirs de vie ou autres objets non magiques médicaux ou de soins, vous pouvez utiliser Médecine au lieu d'Artisanat.
+Kassi vous a enseigné non seulement comment appliquer des remèdes avec vos compétences médicales mais aussi comment les fabriquer vous-mêmes. Lorsque vous [Fabriquez](../actions/fabriquer.html) des kits de guérison, des vaccins, des suppresseurs de dépendance, des antidotes, des antimaladies, des élixirs de vie ou autres objets non magiques médicaux ou de soins, vous pouvez utiliser Médecine au lieu d'Artisanat.

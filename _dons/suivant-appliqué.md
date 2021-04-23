@@ -10,4 +10,4 @@ layout: dons
 ---
 L'observation assidue de vos alliés vous a rendu meilleur lorsqu'il s'agit de suivre leurs traces.
 
-Lorsque vous utilisez l'activité [Suivre l'expert](../actions/suivre-l-expert.md) en mode exploration, vous obtenez un bonus de circonstances de +3 si l'allié que vous suivez est expert et de +4 si votre allié est un maître.
+Lorsque vous utilisez l'activité [Suivre l'expert](../actions/suivre-l-expert.html) en mode exploration, vous obtenez un bonus de circonstances de +3 si l'allié que vous suivez est expert et de +4 si votre allié est un maître.

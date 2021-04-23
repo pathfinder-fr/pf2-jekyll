@@ -12,4 +12,4 @@ layout: dons
 
 Vous adoptez une posture fière en vous dressant tout en restant mobile avec toute la grâce et le sang froid d'un paon.
 
-Dans cette posture, les seules [Frappes](../actions/frapper.md) que vous pouvez porter sont des Frappes au corps à corps avec l'épée requise. Une fois par round, après que vous ayez touché avec une Frappe portée avec l'épée ayant le trait moine, vous pouvez [Faire un pas](../actions/faire-un-pas.md) comme prochaine action en utilisant une action libre.
+Dans cette posture, les seules [Frappes](../actions/frapper.html) que vous pouvez porter sont des Frappes au corps à corps avec l'épée requise. Une fois par round, après que vous ayez touché avec une Frappe portée avec l'épée ayant le trait moine, vous pouvez [Faire un pas](../actions/faire-un-pas.html) comme prochaine action en utilisant une action libre.

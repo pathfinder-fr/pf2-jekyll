@@ -10,4 +10,4 @@ layout: dons
 ---
 **Prérequis** Dévouement de greffeur de golem
 
-Vos poumons sont aussi résistants que l'acier. Considérez le résultat de votre jet de sauvegarde contre les poisons inhalés comme s'il avait un degré de succès supérieur. De plus, vous obtenez la capacité [Exhale Poison](../actions/expirer-le-poison.md)
+Vos poumons sont aussi résistants que l'acier. Considérez le résultat de votre jet de sauvegarde contre les poisons inhalés comme s'il avait un degré de succès supérieur. De plus, vous obtenez la capacité [Exhale Poison](../actions/expirer-le-poison.html)

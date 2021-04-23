@@ -10,6 +10,6 @@ layout: dons
 ---
 Vous avez l'habitude de toujours être dans le passage des autres créatures qui tntent de se déplacer. Faites un  test d'Acrobaties contre le DD de Réflexes d'une créature adjacente.
 
-**Succès critique** La créature cible obtient une pénalité de circonstance de –2 aux jets de Réflexes et est [Pris au dépourvu](../conditions/pris-au-dépourvu.md) jusqu'au début de votre prochain tour.
+**Succès critique** La créature cible obtient une pénalité de circonstance de –2 aux jets de Réflexes et est [Pris au dépourvu](../conditions/pris-au-dépourvu.html) jusqu'au début de votre prochain tour.
 
 **Succès** La créature cible obtient une pénalité de circonstance de -2 aux jets de Réflexes jusqu'au début de votre prochain tour.

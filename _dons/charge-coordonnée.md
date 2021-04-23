@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous vous lancez héroïquement dans la mêlée, en incitant vos alliés à vous suivre.
 
-Vous [Marchez rapidement](../actions/marcher-rapidement.md) jusqu'à votre Vitesse et effectuez une [Frappe](../actions/frapper.md) au corps-à-corps. Si votre Frappe touche et cause des dégâts à votre adversaire, chaque allié dans les 18 m qui vous a vu toucher peut utiliser une réaction pour Marcher rapidement, mais ils doivent terminer leur déplacement plus proche de la créature que vous avez touché que lorsqu'ils ne l'ont commencé.
+Vous [Marchez rapidement](../actions/marcher-rapidement.html) jusqu'à votre Vitesse et effectuez une [Frappe](../actions/frapper.html) au corps-à-corps. Si votre Frappe touche et cause des dégâts à votre adversaire, chaque allié dans les 18 m qui vous a vu toucher peut utiliser une réaction pour Marcher rapidement, mais ils doivent terminer leur déplacement plus proche de la créature que vous avez touché que lorsqu'ils ne l'ont commencé.

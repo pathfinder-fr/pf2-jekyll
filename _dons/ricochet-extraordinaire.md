@@ -10,4 +10,4 @@ layout: dons
 ---
 **Prérequis** Visée extraordinaire
 
-Après votre premier tir qui permet de repérer la position de votre ennemi, vous effectuez un deuxième tir qui ricoche sur les obstacles pour finalement toucher votre cible avec une précision sans faille. Faites une Frappe d’arme à distance contre une créature que vous avez déjà attaquée lors de ce tour. Vous ignorez l’état [masqué](../conditions/masqué.md) et tous les abris dont elle bénéficie.
+Après votre premier tir qui permet de repérer la position de votre ennemi, vous effectuez un deuxième tir qui ricoche sur les obstacles pour finalement toucher votre cible avec une précision sans faille. Faites une Frappe d’arme à distance contre une créature que vous avez déjà attaquée lors de ce tour. Vous ignorez l’état [masqué](../conditions/masqué.html) et tous les abris dont elle bénéficie.

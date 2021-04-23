@@ -10,4 +10,4 @@ layout: dons
 ---
 Lorsque vous êtes physiquement surclassé, vous combattez avec une férocité inattentude.
 
-Si un adversaire d'une taille plus grande que vous obtient un coup critique et vous fait subir des dégâts, cet adversaire est [Pris au dépourvu](../conditions/pris-au-dépourvu.md) par rapport à vous pendant 1 round.
+Si un adversaire d'une taille plus grande que vous obtient un coup critique et vous fait subir des dégâts, cet adversaire est [Pris au dépourvu](../conditions/pris-au-dépourvu.html) par rapport à vous pendant 1 round.

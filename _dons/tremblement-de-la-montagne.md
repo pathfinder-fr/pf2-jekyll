@@ -12,6 +12,6 @@ layout: dons
 
 **Conditions** Vous êtes dans la Posture de la montagne
 
-Vous piétinez pour faire trembler la terre sous vos pieds. Les créatures sur le sol dans une émanation de 6 m subissent un montant de dégâts égal à votre modificateur de Force (0 au minimum), auxquels chacune peut résister grâce à un jet de Vigueur basique. Elles tombent également [à terre](../conditions/à-terre.md) en cas d’échec. Après avoir effectué cette action, vous ne pouvez plus la réutiliser avant 1d4 rounds.
+Vous piétinez pour faire trembler la terre sous vos pieds. Les créatures sur le sol dans une émanation de 6 m subissent un montant de dégâts égal à votre modificateur de Force (0 au minimum), auxquels chacune peut résister grâce à un jet de Vigueur basique. Elles tombent également [à terre](../conditions/à-terre.html) en cas d’échec. Après avoir effectué cette action, vous ne pouvez plus la réutiliser avant 1d4 rounds.
 
 **Spécial** Si vous avez ce don, le bonus de Dextérité maximal à votre CA lorsque vous prenez la Posture de la montagne passe de +1 à +2

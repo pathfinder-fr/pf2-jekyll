@@ -10,6 +10,6 @@ layout: dons
 ---
 Vous pouvez vous protéger plus efficacement, au prix de votre bouclier.
 
-Lorsque vous [Bloquez au bouclier](blocage-au-bouclier.md), vous pouvez réduire les dégâts que vous subissez du double de la solidité de votre bouclier, mais si vous le faites, le bouclier subit le double du montant normal des déâts qu'il aurait pris (avant d'appliquer sa Solidité).
+Lorsque vous [Bloquez au bouclier](blocage-au-bouclier.html), vous pouvez réduire les dégâts que vous subissez du double de la solidité de votre bouclier, mais si vous le faites, le bouclier subit le double du montant normal des déâts qu'il aurait pris (avant d'appliquer sa Solidité).
 
-Vous ne pouvez utiliser Blocage destructif si votre bouclier ne peut être brisé ou détruit, notamment lorsque vous utilisez un  [Bouclier indestructible](../équipements/bouclier-indestructible.md).
+Vous ne pouvez utiliser Blocage destructif si votre bouclier ne peut être brisé ou détruit, notamment lorsque vous utilisez un  [Bouclier indestructible](../équipements/bouclier-indestructible.html).

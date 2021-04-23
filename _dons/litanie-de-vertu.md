@@ -10,4 +10,4 @@ layout: dons
 ---
 **Prérequis** principes du bien
 
-Votre vertu permet de révéler la faiblesse d’un adversaire malfaisant. Vous pouvez lancer le sort de dévotion [litanie de vertu](../sorts/litanie-de-vertu.md). Augmentez de 1 le nombre de points de focalisation de votre réserve.
+Votre vertu permet de révéler la faiblesse d’un adversaire malfaisant. Vous pouvez lancer le sort de dévotion [litanie de vertu](../sorts/litanie-de-vertu.html). Augmentez de 1 le nombre de points de focalisation de votre réserve.

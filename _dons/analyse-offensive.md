@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/offensive-analysis.json
 layout: dons
 ---
-Vous pouvez améliorer vos sens et votre état mental pour considérer chaque aspect d'une attaque. Vous pouvez lancer [Coup au but](../sorts/coup-au-but.md) comme un sort divin inné une fois par jour.
+Vous pouvez améliorer vos sens et votre état mental pour considérer chaque aspect d'une attaque. Vous pouvez lancer [Coup au but](../sorts/coup-au-but.html) comme un sort divin inné une fois par jour.

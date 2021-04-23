@@ -10,7 +10,7 @@ layout: actions
 type: action
 typeFr: Action Unique
 ---
-**Conditions** Vous avez des [instruments de guérisseur](../équipements/outils-de-guérisseur.md)
+**Conditions** Vous avez des [instruments de guérisseur](../équipements/outils-de-guérisseur.html)
 
 Vous soignez un patient empoisonné pour stopper la propagation du poison. Faites un test de Médecine contre le DD du poison. Après avoir tenté de soigner une créature empoisonnée, vous ne pouvez pas faire d’autres tentatives tant que la créature n’a pas encore fait son prochain jet de sauvegarde contre le poison.
 **Succès critique** Vous conférez à la créature un bonus de circonstances de +4 à son prochain jet de sauvegarde contre le poison.

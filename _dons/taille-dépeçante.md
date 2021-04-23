@@ -8,10 +8,10 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/flensing-slice.json
 layout: dons
 ---
-**Conditions** Votre dernière action était une [Double taille](double-taille.md) et les deux attaques ont touché la cible.
+**Conditions** Votre dernière action était une [Double taille](double-taille.html) et les deux attaques ont touché la cible.
 
 Lorsque vous touchez avec les deux attaques avec Double taille, vous dépecez la cible la faisant saigner et créant un point faible.
 
 La cible subit 1d8 dégâts de saignement persistants par dé de dégât de l'arme de celle de vos armes que vous avez utilisé qui possède le plus de dés de dégâts (maximum 4d8 pour une arme de Frappe majeure).
 
-La cible est [Prise au dépourvu](../conditions/pris-au-dépourvu.md) et ses résistances à tout dégât physique est réduite de 5 ; ces deux effets durent jusqu'au début de votre prochain tour.
+La cible est [Prise au dépourvu](../conditions/pris-au-dépourvu.html) et ses résistances à tout dégât physique est réduite de 5 ; ces deux effets durent jusqu'au début de votre prochain tour.

@@ -12,6 +12,6 @@ layout: dons
 
 **Déclencheur** Un adversaire à portée obtient un échec critique en effectuant une Frappe contre vous.
 
-Vous ripostez avec votre [épée de duel aldorie](../équipements/épée-de-duel-aldorie.md) dès que votre ennemi vous laisse une ouverture.
+Vous ripostez avec votre [épée de duel aldorie](../équipements/épée-de-duel-aldorie.html) dès que votre ennemi vous laisse une ouverture.
 
-Effectuez une Frappe au corps à corps ou une action [Désarmer](../actions/désarmer.md) contre l’adversaire déclencheur en utilisant votre épée de duel aldorie.
+Effectuez une Frappe au corps à corps ou une action [Désarmer](../actions/désarmer.html) contre l’adversaire déclencheur en utilisant votre épée de duel aldorie.

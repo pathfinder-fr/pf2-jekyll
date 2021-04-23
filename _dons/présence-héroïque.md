@@ -12,6 +12,6 @@ layout: dons
 
 Le sang des héros court dans vos propres veines et vous inspirez vos alliés à puiser en profondeur pour trouver un nouveau niveau de résolution.
 
-Vous accordez jusqu'à 10 créatures consentantes situées dans les 9 m les effets d'un sort de [Conviction zélée](../sorts/conviction-zélée.md) de niveau 6, bien que l'effet se termine automatiquement sur une cible à laquelle vous donnez un ordre qu'elle trouverait normalement répugnant.
+Vous accordez jusqu'à 10 créatures consentantes situées dans les 9 m les effets d'un sort de [Conviction zélée](../sorts/conviction-zélée.html) de niveau 6, bien que l'effet se termine automatiquement sur une cible à laquelle vous donnez un ordre qu'elle trouverait normalement répugnant.
 
 Cette action possède les traits audible ou visuel, en fonction de la manière dont vous inspirez vos alliés.

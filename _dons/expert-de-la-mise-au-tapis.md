@@ -10,6 +10,6 @@ layout: dons
 ---
 Vous avez maîtrisé les pratiques de combat qui vous laisse vous rapprocher des perpétrateurs et les garder vivants.
 
-Vous pouvez utiliser votre modificateur d'Intelligence sur les jets d'attaque lorsque vous [Concevez un stratagème](../actions/concevoir-un-stratagème.md) si vous utilisez une arme du groupe des gourdins (comme un Gourdin, un [Bâton](../équipements/bâton.md) ou une [Matraque](../équipements/matraque.md)) en plus des armes habituelles et ces [Frappes](../actions/frapper.md) se qualifient pour votre [Frappe stratégique](../capacité-classe/frappe-stratégique.md).
+Vous pouvez utiliser votre modificateur d'Intelligence sur les jets d'attaque lorsque vous [Concevez un stratagème](../actions/concevoir-un-stratagème.html) si vous utilisez une arme du groupe des gourdins (comme un Gourdin, un [Bâton](../équipements/bâton.html) ou une [Matraque](../équipements/matraque.html)) en plus des armes habituelles et ces [Frappes](../actions/frapper.html) se qualifient pour votre [Frappe stratégique](../capacité-classe/frappe-stratégique.html).
 
 De plus, vous pouvez rendre n'importe laquelle de vos Frappes non-létales sans subir la pénalité normalement applicable de –2.

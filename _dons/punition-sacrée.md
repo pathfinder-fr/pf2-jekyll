@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous associez énergie sacrée et énergie positive pour blesser les démons, les diables et leurs consorts maléfiques.
 
-Les sorts de [Guérison](../sorts/guérison.md) que vous lancez blessent les fiélons comme s’ils étaient des morts‑vivants.
+Les sorts de [Guérison](../sorts/guérison.html) que vous lancez blessent les fiélons comme s’ils étaient des morts‑vivants.

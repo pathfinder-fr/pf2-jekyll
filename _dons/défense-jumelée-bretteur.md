@@ -8,7 +8,7 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/twinned-defense-swashbuckler.json
 layout: dons
 ---
-**Prérequis** [Parade jumelée](parade-jumelée.md)
+**Prérequis** [Parade jumelée](parade-jumelée.html)
 
 **Conditions** Vous maniez deux armes de corps à corps, une dans chaque main.
 

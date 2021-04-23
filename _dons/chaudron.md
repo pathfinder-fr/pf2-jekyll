@@ -8,7 +8,7 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/cauldron.json
 layout: dons
 ---
-Vous pouvez utilisez l'activité [Artisanat](../actions/fabriquer.md) pour créer huiles et potions.
+Vous pouvez utilisez l'activité [Artisanat](../actions/fabriquer.html) pour créer huiles et potions.
 
 Vous obtenez immédiatement les formules de quatre huiles ou potions courantes de niveau 1. Au niveau 4 et tous les 2 niveaux par la suite, vous obtenez la formule d'une huile ou d'une potion courante de ce niveau ou inférieur (une potion de niveau 4 si vous êtes de niveau 4, une potion de niveau 6 si vous êtes de niveau 6,...).
 

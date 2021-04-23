@@ -10,9 +10,9 @@ layout: dons
 ---
 Vous avez été exposé à une puissante magie féérique. Vous devenez qualifié en DD primordiaux et aux attaques de sort. Vous obtenez le trait fée et une des capacités suivantes qui vous accorde un sort primordial inné qui peut être utilisé une fois par jour.
 
-- **Fourmilier** Vous pouvez projeter votre langue devant vous pour effectuer une attaque mortelle en obtenant [Sinistres volutes](../sorts/sinistres-volutes.md).
-- **Dryade** Votre corps est couvert de lianes élégantes,vous accordant [Convocation de plante ou de champignon](../sorts/convocation-de-plante-ou-de-champignon.md)
-- **Gremlin** Vous avez de longues oreilles comme une chauve souris et obtenez [Imprécation](../sorts/imprécation.md)
-- **Monarque** vous avez des vestiges de traits d'insecte et obtenez [Morsure d'araignée](../sorts/morsure-d-araignée.md).
+- **Fourmilier** Vous pouvez projeter votre langue devant vous pour effectuer une attaque mortelle en obtenant [Sinistres volutes](../sorts/sinistres-volutes.html).
+- **Dryade** Votre corps est couvert de lianes élégantes,vous accordant [Convocation de plante ou de champignon](../sorts/convocation-de-plante-ou-de-champignon.html)
+- **Gremlin** Vous avez de longues oreilles comme une chauve souris et obtenez [Imprécation](../sorts/imprécation.html)
+- **Monarque** vous avez des vestiges de traits d'insecte et obtenez [Morsure d'araignée](../sorts/morsure-d-araignée.html).
 
 Ce don obtient le trait approprié à votre ascendance (humain pour humain, gobelin pour gobelin, etc.)

@@ -10,7 +10,7 @@ layout: actions
 type: passive
 typeFr: Passive
 ---
-**Conditions **Vous maniez ou transportez des [outils de guérisseur](../équipements/outils-de-guérisseur.md)
+**Conditions **Vous maniez ou transportez des [outils de guérisseur](../équipements/outils-de-guérisseur.html)
 
 Vous passez dix minutes à soigner les blessures d’une créature vivante (vous pouvez soigner vos propres blessures si vous le souhaitez). La cible est ensuite temporairement immunisée aux actions Soigner les blessures pendant une heure mais cette durée comprend le temps du soin (un patient peut donc être soigné une fois par heure et non une fois toutes les soixante‑dix minutes).
 
@@ -20,7 +20,7 @@ Si vous réussissez votre test, vous pouvez continuer de soigner la cible pour l
 
 Le résultat de votre test de Médecine détermine le nombre de points de vie que la cible récupère.
 
-**Succès critique** La cible récupère [[/r 4d8]] points de vie et son état  [Blessé](../conditions/blessé.md) disparaît.
+**Succès critique** La cible récupère [[/r 4d8]] points de vie et son état  [Blessé](../conditions/blessé.html) disparaît.
 
 **Succès** La cible récupère [[/r 2d8]] points de vie et son état Blessé disparaît.
 

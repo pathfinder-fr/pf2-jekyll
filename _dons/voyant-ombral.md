@@ -10,4 +10,4 @@ layout: dons
 ---
 Zon-Kuthon vous sourit — même si vous maudissez son nom — et vous accorde des yeux complètement noirs qui vous permettent de voir dans les ombres et l'obscurité.
 
-Vous obtenez [vision dans le noir](../capacités-ascendances/vision-dans-le-noir.md).
+Vous obtenez [vision dans le noir](../capacités-ascendances/vision-dans-le-noir.html).

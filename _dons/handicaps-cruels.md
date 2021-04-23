@@ -13,4 +13,4 @@ layout: dons
 Les handicaps que vous distribuez gênent véritablement vos adversaires. Ajoutez les handicaps suivants à la liste de handicaps que vous utilisez avec Frappe incapacitante.
 
 - **Handicap:** La cible gagne faiblesse 5 aux dégâts de votre choix : contondants, perforants ou tranchants.
-- **Handicap:** La cible devient [maladroite](../conditions/maladroit.md) 1.
+- **Handicap:** La cible devient [maladroite](../conditions/maladroit.html) 1.

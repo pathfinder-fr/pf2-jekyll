@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous pouvez vous hisser sur vos orteils pour marcher précautionneusement par dessus les obstacles.
 
-Vous [Marchez rapidement](../actions/marcher-rapidement.md) puis [Faites un pas](../actions/faire-un-pas.md) ou Faites un pas, puis Marchez rapidement en ignorant le terrain difficile durant ce déplacement.
+Vous [Marchez rapidement](../actions/marcher-rapidement.html) puis [Faites un pas](../actions/faire-un-pas.html) ou Faites un pas, puis Marchez rapidement en ignorant le terrain difficile durant ce déplacement.

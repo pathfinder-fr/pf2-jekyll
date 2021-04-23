@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/disrupt-ki.json
 layout: dons
 ---
-Faites une Frappe à mains nues. Si elle inflige des dégâts à une créature vivante, vous bloquez sa force vitale. La créature subit 2d6 dégâts négatifs persistants et elle est [affaiblie](../conditions/affaibli.md) 1 tant que persistent ces dégâts. Si vous êtes de niveau 18 ou plus, cette Frappe inflige 3d6 dégâts négatifs persistants à la place.
+Faites une Frappe à mains nues. Si elle inflige des dégâts à une créature vivante, vous bloquez sa force vitale. La créature subit 2d6 dégâts négatifs persistants et elle est [affaiblie](../conditions/affaibli.html) 1 tant que persistent ces dégâts. Si vous êtes de niveau 18 ou plus, cette Frappe inflige 3d6 dégâts négatifs persistants à la place.

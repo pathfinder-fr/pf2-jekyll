@@ -11,4 +11,4 @@ layout: dons
 **Accès** Aider soit les Chiens de la laverie soit les Balayeurs de Diobel à détruire leurs rivaux.
  **Conditions** Vous avez un arme de corps à corps d'Encombrement léger @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]Masquée} sur votre personne à l'aide d'un test de Discrétion et la cible n'en est pas consciente.
 
-Vous tirez l'arme camouflée et attaquer avec puis la cachez de nouveau en un mouvement rapide. Interagissez pour tirer l'arme, Frapper avec l'arme et puis la Dissimuler avec un test de Discrétion. La cible est [Prise au dépourvu](../conditions/pris-au-dépourvu.md) pour cette attaque.
+Vous tirez l'arme camouflée et attaquer avec puis la cachez de nouveau en un mouvement rapide. Interagissez pour tirer l'arme, Frapper avec l'arme et puis la Dissimuler avec un test de Discrétion. La cible est [Prise au dépourvu](../conditions/pris-au-dépourvu.html) pour cette attaque.

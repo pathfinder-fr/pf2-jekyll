@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous pouvez diriger l’énergie canalisée en excès vers l’extérieur pour qu’un allié en bénéficie.
 
-Vous pouvez conférer les points de vie que vous devriez récupérer grâce à la [Guérison collective](guérison-collective.md) à une créature à portée de votre sort de guérison au lieu de vous-même. Vous pouvez également utiliser Guérison collective quand vous êtes la seule cible de votre guérison, mais le cas échéant, vous devez octroyer les points de vie supplémentaires soignés à quelqu’un d’autre que vous.
+Vous pouvez conférer les points de vie que vous devriez récupérer grâce à la [Guérison collective](guérison-collective.html) à une créature à portée de votre sort de guérison au lieu de vous-même. Vous pouvez également utiliser Guérison collective quand vous êtes la seule cible de votre guérison, mais le cas échéant, vous devez octroyer les points de vie supplémentaires soignés à quelqu’un d’autre que vous.

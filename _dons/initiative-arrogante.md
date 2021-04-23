@@ -10,4 +10,4 @@ layout: dons
 ---
 **Déclencheur** Vous allez déterminer l'initiative.
 
-Votre arrogance vous rend prêt à tout combat — même pour une embuscade. Vous obtenez un bonus de circonstances de +2 au résultat de votre initiative et pouvez [Interagir](../actions/interagir.md) pour dégainer une arme.
+Votre arrogance vous rend prêt à tout combat — même pour une embuscade. Vous obtenez un bonus de circonstances de +2 au résultat de votre initiative et pouvez [Interagir](../actions/interagir.html) pour dégainer une arme.

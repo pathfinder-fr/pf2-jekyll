@@ -8,7 +8,7 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/gift-of-the-moon.json
 layout: dons
 ---
-Vous pouvez partager votre pouvoir avec les autres mais ils ne peuvent échapper à la malédiction lycanthropique aussi facilement que vous le pouvez. Vous pouvez lancer [Frénésie lunaire](../sorts/frénésie-lunaire.md) au niveau 5 comme un sort inné primordial une fois par jour.
+Vous pouvez partager votre pouvoir avec les autres mais ils ne peuvent échapper à la malédiction lycanthropique aussi facilement que vous le pouvez. Vous pouvez lancer [Frénésie lunaire](../sorts/frénésie-lunaire.html) au niveau 5 comme un sort inné primordial une fois par jour.
 
 Au niveau 15 , vous lancez Frénésie lunaire au niveau 6 à la place.
 

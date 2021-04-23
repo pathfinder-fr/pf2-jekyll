@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/rakshasa-magic.json
 layout: dons
 ---
-Vous vous souvenez des secrets de vos ancêtres Rakshasa et savent comment appliquer ces mémoires pour obtenir des résultats. Vous pouvez lancer [Forme humanoïde](../sorts/forme-humanoïde.md) et [Créature illusoire](../sorts/créature-illusoire.md) une fois par jour comme des sorts divins innés de niveau 2.
+Vous vous souvenez des secrets de vos ancêtres Rakshasa et savent comment appliquer ces mémoires pour obtenir des résultats. Vous pouvez lancer [Forme humanoïde](../sorts/forme-humanoïde.html) et [Créature illusoire](../sorts/créature-illusoire.html) une fois par jour comme des sorts divins innés de niveau 2.

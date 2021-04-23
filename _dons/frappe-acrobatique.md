@@ -12,7 +12,7 @@ layout: dons
 
 Faites un test d'Acrobaties contre le DD de Réflexes d'un ennemi qui vous est adjacent.
 
-**Succès critique** Vous vous déplacez en passant par la case de l'ennemi vers une case inoccupée de l'autre côté de votre position de départ. Ce déplacement ne déclenche pas de réactions. Vous ne pouvez pas vous déplacer plus loin que vous le permet votre Vitesse et vous devez terminer votre déplacement adjacent à l'ennemi dont vous avez traversé la case. Après votre déplacement, vous faites une [Frappe](../actions/frapper.md) au corps-à-corps contre l'ennemi dont vous avez traversé la case et l'ennemi est [Pris au dépourvu](../conditions/pris-au-dépourvu.md) contre cette Frappe.
+**Succès critique** Vous vous déplacez en passant par la case de l'ennemi vers une case inoccupée de l'autre côté de votre position de départ. Ce déplacement ne déclenche pas de réactions. Vous ne pouvez pas vous déplacer plus loin que vous le permet votre Vitesse et vous devez terminer votre déplacement adjacent à l'ennemi dont vous avez traversé la case. Après votre déplacement, vous faites une [Frappe](../actions/frapper.html) au corps-à-corps contre l'ennemi dont vous avez traversé la case et l'ennemi est [Pris au dépourvu](../conditions/pris-au-dépourvu.html) contre cette Frappe.
 
 **Succès** Comme en cas de succès, mais l'ennemi n'est pas Pris au dépourvu contre la Frappe.
 

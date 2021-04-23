@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/grave-s-voice.json
 layout: dons
 ---
-Vous pouvez utiliser à votre choix votre Connaissance des esprits ou votre Connaissance des apparitions pour [Faire bonne impression](../actions/faire-bonne-impression.md) ou [Solliciter](../actions/solliciter.md) des choses de créatures intangibles. À la discrétion du MJ, un esprit intangible pourrait vouloir vous entendre parler.
+Vous pouvez utiliser à votre choix votre Connaissance des esprits ou votre Connaissance des apparitions pour [Faire bonne impression](../actions/faire-bonne-impression.html) ou [Solliciter](../actions/solliciter.html) des choses de créatures intangibles. À la discrétion du MJ, un esprit intangible pourrait vouloir vous entendre parler.

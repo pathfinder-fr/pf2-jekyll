@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/buckler-expertise.json
 layout: dons
 ---
-Vous avez appris une façon flexible pour positionner votre targe pour vous fournir davantage de protection. Lorsque vous [Levez un bouclier](../actions/lever-un-bouclier.md) pour gagner un bonus de circonstances à la CA d'une [Targe](../équipements/targe.md), augmentez le bonus de +1 à +2.
+Vous avez appris une façon flexible pour positionner votre targe pour vous fournir davantage de protection. Lorsque vous [Levez un bouclier](../actions/lever-un-bouclier.html) pour gagner un bonus de circonstances à la CA d'une [Targe](../équipements/targe.html), augmentez le bonus de +1 à +2.

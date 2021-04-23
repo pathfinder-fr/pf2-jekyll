@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/beast-speaker.json
 layout: dons
 ---
-Vous bénéficiez constamment des effets de [Communication avec les animaux](../sorts/communication-avec-les-animaux.md) comme un sort inné primordial de niveau 2. Vous obtenez un bonus de circonstances de +2 aux tests de Diplomatie pour Solliciter des animaux lorsque ce sort est actif.
+Vous bénéficiez constamment des effets de [Communication avec les animaux](../sorts/communication-avec-les-animaux.html) comme un sort inné primordial de niveau 2. Vous obtenez un bonus de circonstances de +2 aux tests de Diplomatie pour Solliciter des animaux lorsque ce sort est actif.

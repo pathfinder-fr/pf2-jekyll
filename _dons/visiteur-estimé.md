@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/esteemed-visitor.json
 layout: dons
 ---
-Vos manières policées et votre capacité naturelle à mettre à l'aisee les autres vous rend plus simple de faire tomber les barrières culturelles et gagner la confiance des étrangers. Lorsque vous êtes dans une communauté, lorque vous obtenez un échec critique sur un test de [Recueillir des informations](../actions/recueillir-des-informations.md) ou [Faire bonne impression](../actions/faire-bonne-impression.md), vous obtenez un échec à la place.
+Vos manières policées et votre capacité naturelle à mettre à l'aisee les autres vous rend plus simple de faire tomber les barrières culturelles et gagner la confiance des étrangers. Lorsque vous êtes dans une communauté, lorque vous obtenez un échec critique sur un test de [Recueillir des informations](../actions/recueillir-des-informations.html) ou [Faire bonne impression](../actions/faire-bonne-impression.html), vous obtenez un échec à la place.

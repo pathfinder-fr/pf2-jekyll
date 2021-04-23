@@ -10,4 +10,4 @@ layout: dons
 ---
 **Conditions** Vous êtes dans la Posture de l'archer monastique, en train de manier un arc et possédez une main libre.
 
-Interceptant une flèche en l'air, vous la placez instantanément sur votre arc et retournez le tir. Lorsque vous réussissez votre Parade de projectile avec une flèche, comme partie de cette réaction, vous pouvez faire immédiatement une [Frappe](../actions/frapper.md) à distance avec l'arc en tirant la flèche que vous avez attrapée à partir de votre propre arc.
+Interceptant une flèche en l'air, vous la placez instantanément sur votre arc et retournez le tir. Lorsque vous réussissez votre Parade de projectile avec une flèche, comme partie de cette réaction, vous pouvez faire immédiatement une [Frappe](../actions/frapper.html) à distance avec l'arc en tirant la flèche que vous avez attrapée à partir de votre propre arc.

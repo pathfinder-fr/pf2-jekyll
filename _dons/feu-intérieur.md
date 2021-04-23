@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/inner-fire.json
 layout: dons
 ---
-Vous pouvez invoquer le feu intérieur qui vous consume jusque dans la paume de votre main. Vous pouvez lancer le tour de magie [Flammes](../sorts/flammes.md) comme un sort inné primordial ou arcanique à volonté. Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi au supérieur.
+Vous pouvez invoquer le feu intérieur qui vous consume jusque dans la paume de votre main. Vous pouvez lancer le tour de magie [Flammes](../sorts/flammes.html) comme un sort inné primordial ou arcanique à volonté. Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi au supérieur.

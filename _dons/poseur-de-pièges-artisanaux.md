@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous êtes adepte de l'art kobold honoré depuis des lustres de préparer des pièges. Vous êtes qualifié en Artisanat. Si vous devriez l'être par un autre biais, vous devenez qualifié en une autre compétence de votre choix à la place. Vous obtenez accès aux pièges peu communs des kobolds.
 
-Vous obtenez le don [Fabrication de pièges artisanaux](fabrication-de-pièges-artisanaux.md), mais vous pouvez aussi choisir les formules obtenues par ce don parmi les pièges artisanaux peu communs des kobolds autant que parmi les pièges artisanaux communs.
+Vous obtenez le don [Fabrication de pièges artisanaux](fabrication-de-pièges-artisanaux.html), mais vous pouvez aussi choisir les formules obtenues par ce don parmi les pièges artisanaux peu communs des kobolds autant que parmi les pièges artisanaux communs.

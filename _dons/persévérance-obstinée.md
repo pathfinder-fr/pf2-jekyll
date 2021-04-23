@@ -10,6 +10,6 @@ layout: dons
 ---
 Les humains sont réputés pour leur capacité à persévérer pour faire face aux épreuves les plus épuisantes.
 
-Lorsque vous devriez devenir [Fatigué](../conditions/fatigué.md), faites un test nu contre un DD 17. En cas de succès, vous n'êtes pas fatigué.
+Lorsque vous devriez devenir [Fatigué](../conditions/fatigué.html), faites un test nu contre un DD 17. En cas de succès, vous n'êtes pas fatigué.
 
 Si la condition Fatigué est liée à une cause sous-jacente à laquelle vous ne remédiez pas, tel qu'un manque de repos, vous devez refaire le test à un intervalle déterminé par le MJ jusqu'à ce que vous obteniez un échec ou que vous remédiez à la cause sous-jacente.

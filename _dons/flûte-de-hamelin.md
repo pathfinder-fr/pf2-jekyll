@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/pied-piping.json
 layout: dons
 ---
-Vous apprenez le sort de composition [Flûte de Hamelin](../sorts/flûte-de-hamelin.md), qui vous permet de contrôler les actions des individus faibles d'esprit.
+Vous apprenez le sort de composition [Flûte de Hamelin](../sorts/flûte-de-hamelin.html), qui vous permet de contrôler les actions des individus faibles d'esprit.

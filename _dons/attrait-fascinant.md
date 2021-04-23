@@ -10,4 +10,4 @@ layout: dons
 ---
 Les pouvoirs de domination employé par vos géniteurs se sont également manifestés en vous.
 
-Une fois par jour, vous pouvez Lancer [Charme](../sorts/charme.md) comme un sort inné divin de niveau 1.
+Une fois par jour, vous pouvez Lancer [Charme](../sorts/charme.html) comme un sort inné divin de niveau 1.

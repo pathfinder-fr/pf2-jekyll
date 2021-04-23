@@ -10,7 +10,7 @@ layout: dons
 ---
 **Conditions** Vous maniez une arme improvisée
 
-Vous portez une [Frappe](../actions/frapper.md) avec votre arme improvisée. Vous obtenez un bonus d'objet de +1 au jet d'attaque et la Frappe inflige deux dés de dégâts d'arme si elle en devrait en infliger moins.
+Vous portez une [Frappe](../actions/frapper.html) avec votre arme improvisée. Vous obtenez un bonus d'objet de +1 au jet d'attaque et la Frappe inflige deux dés de dégâts d'arme si elle en devrait en infliger moins.
 
 Si l'attaque est un coup critique, en plus des effets du coup critique, l'arme improvisée se brise. Si l'objet possède une solidité plus grande que votre niveau ou s'il s'agit d'un artefact, d'un objet maudit ou d'un autre objet qui est difficile à détruire ou à casser, l'objet ne se casse pas et l'attaque est un coup normal au lieu d'un coup critique.
 

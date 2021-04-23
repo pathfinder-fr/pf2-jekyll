@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/monk-dedication.json
 layout: dons
 ---
-Vous devenez qualifié dans les attaques à mains nues et bénéficiez de la capacité de classe [Poings puissants](../capacité-classe/poings-puissants.md). Vous êtes qualifié à votre choix dans la compétence d’Acrobaties ou d’Athlétisme ; si vous êtes déjà qualifié dans ces deux compétences, vous devenez à la place qualifié dans une compétence de votre choix. Vous devenez qualifié dans le DD de classe de moine.
+Vous devenez qualifié dans les attaques à mains nues et bénéficiez de la capacité de classe [Poings puissants](../capacité-classe/poings-puissants.html). Vous êtes qualifié à votre choix dans la compétence d’Acrobaties ou d’Athlétisme ; si vous êtes déjà qualifié dans ces deux compétences, vous devenez à la place qualifié dans une compétence de votre choix. Vous devenez qualifié dans le DD de classe de moine.
 
 **Spécial** Vous ne pouvez pas choisir un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype de moine.

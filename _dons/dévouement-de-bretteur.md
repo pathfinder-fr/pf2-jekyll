@@ -8,7 +8,7 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/swashbuckler-dedication.json
 layout: dons
 ---
-Choisissez un style de bretteur. Vous obtenez la capacité de classe [Panache](../capacité-classe/panache.md) et vous pouvez gagner du panache de toutes les manières possibles permettant à un bretteur disposant de votre style de le faire.
+Choisissez un style de bretteur. Vous obtenez la capacité de classe [Panache](../capacité-classe/panache.html) et vous pouvez gagner du panache de toutes les manières possibles permettant à un bretteur disposant de votre style de le faire.
 
 Vous devenez qualifié en Acrobaties ou dans la compétence associée avec votre style. Si vous étiez déjà qualifié dans ces deux compétences, vous devenez qualifié dans une compétence de votre choix. Vous êtes aussi qualifié dans le DD de classe de bretteur. Vous n'obtenez aucun autre des effets du style de bretteur choisi.
 

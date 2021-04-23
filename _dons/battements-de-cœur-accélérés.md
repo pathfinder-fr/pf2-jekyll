@@ -10,4 +10,4 @@ layout: dons
 ---
 **Fréquence** Une fois par tour
 
-Vous avez remplacé votre cœur avec un autre fait de mercure animé et d'adamantium vivant. Vous réduisez votre condition [Ralenti](../conditions/ralenti.md) de 1. Autrement, si vous n'êtes pas ralenti, vous êtes [Accéléré](../conditions/accéléré.md) 1 durant votre prochain tour et pouvez utiliser votre action supplémentaire pour [Marcher rapidement](../actions/marcher-rapidement.md) ou [Frapper](../actions/frapper.md).
+Vous avez remplacé votre cœur avec un autre fait de mercure animé et d'adamantium vivant. Vous réduisez votre condition [Ralenti](../conditions/ralenti.html) de 1. Autrement, si vous n'êtes pas ralenti, vous êtes [Accéléré](../conditions/accéléré.html) 1 durant votre prochain tour et pouvez utiliser votre action supplémentaire pour [Marcher rapidement](../actions/marcher-rapidement.html) ou [Frapper](../actions/frapper.html).

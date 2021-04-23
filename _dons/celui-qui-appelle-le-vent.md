@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/wind-caller.json
 layout: dons
 ---
-Vous ordonnez aux vents de vous soulever et de vous porter dans les airs. Vous obtenez le sort d’ordre [Vol de l’ouragan](../sorts/vol-de-l-ouragan.md). Augmentez de 1 le nombre de points de focalisation de votre réserve.
+Vous ordonnez aux vents de vous soulever et de vous porter dans les airs. Vous obtenez le sort d’ordre [Vol de l’ouragan](../sorts/vol-de-l-ouragan.html). Augmentez de 1 le nombre de points de focalisation de votre réserve.

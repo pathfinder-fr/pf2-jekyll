@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/linguist-dedication.json
 layout: dons
 ---
-Vous avez étudié les langues et leurs développements. Vous devenez qualifié en Société ; si vous étiez déjà qualifié en Société, vous devenez à la place expert en Société. Vous obtenez le don de compétence  [Polyglotte](polyglotte.md) deux fois.
+Vous avez étudié les langues et leurs développements. Vous devenez qualifié en Société ; si vous étiez déjà qualifié en Société, vous devenez à la place expert en Société. Vous obtenez le don de compétence  [Polyglotte](polyglotte.html) deux fois.
 
 **Spécial** Vous ne pouvez pas choisir un autre don de dévouement avant d'avoir choisi deux autres dons de l'archétype de Linguiste.

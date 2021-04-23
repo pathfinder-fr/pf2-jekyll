@@ -12,11 +12,11 @@ Par votre héritage, vous pouvez dupliquer un peu de la magie d'une guenaude.
 
 Choisissez un sort courant de niveau 4 ou inférieur parmi ceux accessibles à un cercle de guenaudes, en incluant les sorts que contribue à apporter à un cercle une guenaude du type de votre mère. Vous pouvez Lancer ce sort comme un sort occulte inné de niveau 4.
 
-Les sorts accessibles à tous les cercles sont [Augure](../sorts/augure.md), [Charme](../sorts/charme.md), [Clairaudience](../sorts/clairaudience.md), [Clairvoyance](../sorts/clairvoyance.md), [Message onirique](../sorts/message-onirique.md) et [Déguisement illusoire](../sorts/déguisement-illusoire.md).
+Les sorts accessibles à tous les cercles sont [Augure](../sorts/augure.html), [Charme](../sorts/charme.html), [Clairaudience](../sorts/clairaudience.html), [Clairvoyance](../sorts/clairvoyance.html), [Message onirique](../sorts/message-onirique.html) et [Déguisement illusoire](../sorts/déguisement-illusoire.html).
 
 Les sorts éligibles accordés par les plus proéminents types de guenaude sont :
 
-- **Guenaude annis** [Cloué à terre](../sorts/cloué-à-terre.md)
-- **Guenaude marine** [Flèche acide](../sorts/flèche-acide.md), [Marche sur l'eau](../sorts/marche-sur-l-eau.md)
-- **Guenaude noire** [Cauchemar](../sorts/cauchemar.md)
-- **Guenaude verte** [Enchevêtrement](../sorts/enchevêtrement.md), [Malédiction du paria](../sorts/malédiction-du-paria.md), [Mur d'épines](../sorts/mur-d-épines.md)
+- **Guenaude annis** [Cloué à terre](../sorts/cloué-à-terre.html)
+- **Guenaude marine** [Flèche acide](../sorts/flèche-acide.html), [Marche sur l'eau](../sorts/marche-sur-l-eau.html)
+- **Guenaude noire** [Cauchemar](../sorts/cauchemar.html)
+- **Guenaude verte** [Enchevêtrement](../sorts/enchevêtrement.html), [Malédiction du paria](../sorts/malédiction-du-paria.html), [Mur d'épines](../sorts/mur-d-épines.html)

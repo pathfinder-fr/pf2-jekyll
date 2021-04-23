@@ -12,4 +12,4 @@ Votre travail en tant qu'enquêteur vous a rendu familier avec la gent criminell
 
 Vous pourriez être vous-même un criminel ou avoir gagné une compréhension de la manière dont les criminels opèrent sans en faire partie.
 
-Vous devenez qualifié en Connaissance de la pègre et vous obtenez votre bonus de circonstances de [Suivre une piste](../actions/suivre-une-piste.md) aux tests de Vol pour [Enquêter](../actions/enquêter.md) au sujet de votre piste (tels que des tests de [Vol](../actions/voler.md) d'un indice à un suspect ou pour [Crocheter une serrure](../actions/crocheter-une-serrure.md) pour ouvrir un coffre contenant des documents compromettants).
+Vous devenez qualifié en Connaissance de la pègre et vous obtenez votre bonus de circonstances de [Suivre une piste](../actions/suivre-une-piste.html) aux tests de Vol pour [Enquêter](../actions/enquêter.html) au sujet de votre piste (tels que des tests de [Vol](../actions/voler.html) d'un indice à un suspect ou pour [Crocheter une serrure](../actions/crocheter-une-serrure.html) pour ouvrir un coffre contenant des documents compromettants).

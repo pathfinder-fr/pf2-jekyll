@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/harmlessly-cute.json
 layout: dons
 ---
-Votre taille et votre comportement font qu'il vous est aisé de convaincre les autres que vous ne leur voulez pas de mal. Vous obtenez le don de compétence [Sollicitation éhontée](requête-sans-vergogne.md) comme don supplémentaire. De plus, vous obtenez un bonus de circonstances de +1 aux tests d'initiative lorsque vous utilisez la Duperie pour la déterminer.
+Votre taille et votre comportement font qu'il vous est aisé de convaincre les autres que vous ne leur voulez pas de mal. Vous obtenez le don de compétence [Sollicitation éhontée](requête-sans-vergogne.html) comme don supplémentaire. De plus, vous obtenez un bonus de circonstances de +1 aux tests d'initiative lorsque vous utilisez la Duperie pour la déterminer.

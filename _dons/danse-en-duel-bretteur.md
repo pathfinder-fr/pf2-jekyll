@@ -8,7 +8,7 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/dueling-dance-swashbuckler.json
 layout: dons
 ---
-**Prérequis** [Parade en duel](parade-en-duel-bretteur.md)
+**Prérequis** [Parade en duel](parade-en-duel-bretteur.html)
 
 **Conditions** Vous maniez seulement une unique arme de corps à corps à une main et votre autre main ou vos autres mains sont libres.
 

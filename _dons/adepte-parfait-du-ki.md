@@ -11,9 +11,9 @@ layout: dons
 Vous obtenez le sort de ki de votre École de la Perfection :
 p>
 
-- [Révélation de la flamme immobile](../sorts/révélation-de-la-flamme-qui-ne-vacille-pas.md) pour celle de la Flamme immobile,
-- [Avancée de la vague incassable](../sorts/avancée-de-la-vague-qui-ne-se-brise-pas.md) pour celle des Vagues incassables, 
-- [Ruée du vent déroulé](../sorts/ruée-du-vent-qui-see-déploie.md) pour celle du Vent déroulé,  
-- [Empreinte du fer impliable](../sorts/protection-du-fer-qui-ne-plie-pas.md) pour celle du Fer impliable. 
+- [Révélation de la flamme immobile](../sorts/révélation-de-la-flamme-qui-ne-vacille-pas.html) pour celle de la Flamme immobile,
+- [Avancée de la vague incassable](../sorts/avancée-de-la-vague-qui-ne-se-brise-pas.html) pour celle des Vagues incassables, 
+- [Ruée du vent déroulé](../sorts/ruée-du-vent-qui-see-déploie.html) pour celle du Vent déroulé,  
+- [Empreinte du fer impliable](../sorts/protection-du-fer-qui-ne-plie-pas.html) pour celle du Fer impliable. 
 
 Augmentez le nombre de Points de focalisation de votre réserve de 1.

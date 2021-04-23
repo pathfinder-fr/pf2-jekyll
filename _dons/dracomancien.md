@@ -10,6 +10,6 @@ layout: dons
 ---
 Votre pouvoir arcanique inné se manifeste sous la forme des sorts les plus couramment utilisés par votre modèle draconique.
 
-Choisissez un sort de niveau 1 et un sort de niveau 2 tirés de la liste d'un dragon lanceur de sort du type de votre modèle draconique tels que présentés dans le Bestiaire (tel que  [Alarme](../sorts/alarme.md), [Flou](../sorts/flou.md), [Invisibilité](../sorts/invisibilité.md) et [Coup au but](../sorts/coup-au-but.md) pour un modèle dragon noir).
+Choisissez un sort de niveau 1 et un sort de niveau 2 tirés de la liste d'un dragon lanceur de sort du type de votre modèle draconique tels que présentés dans le Bestiaire (tel que  [Alarme](../sorts/alarme.html), [Flou](../sorts/flou.html), [Invisibilité](../sorts/invisibilité.html) et [Coup au but](../sorts/coup-au-but.html) pour un modèle dragon noir).
 
 Vous pouvez Lancer chacun de ces sorts une fois par jour comme des sorts arcaniques innés. Vous devenez qualifié en jets d'attaque de sort arcanique et en DD des sorts et votre caractéristique clé d'incantation est le Charisme.

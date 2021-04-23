@@ -8,7 +8,7 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/determined-lore-seeker.json
 layout: dons
 ---
-Vous avez maîtrisé des sorts utiles qui vous permettent de trouver les vérités cachées que d'autres pourraient manquer et un sort favori vous vient naturellement. Lorsque vous obtenez ce don, choisissez l'un des sorts innés accordés par le don Chercheur de connaissances : [Compréhension des langues](../sorts/compréhension-des-langues.md), [Détection de l'invisibilité](../sorts/détection-de-l-invisibilité.md) ou [Restaurer les sens](../sorts/restaurer-les-sens.md). Vous pouvez lancer ce sort trois fois par jour au lieu d'une fois par jour.
+Vous avez maîtrisé des sorts utiles qui vous permettent de trouver les vérités cachées que d'autres pourraient manquer et un sort favori vous vient naturellement. Lorsque vous obtenez ce don, choisissez l'un des sorts innés accordés par le don Chercheur de connaissances : [Compréhension des langues](../sorts/compréhension-des-langues.html), [Détection de l'invisibilité](../sorts/détection-de-l-invisibilité.html) ou [Restaurer les sens](../sorts/restaurer-les-sens.html). Vous pouvez lancer ce sort trois fois par jour au lieu d'une fois par jour.
 
 Lorsque vous lancez l'un des sorts accordés par Chercheur de connaissances en tant que sorts innés, il gagne des effets supplémentaires.
 

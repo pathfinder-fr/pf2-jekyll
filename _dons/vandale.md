@@ -12,4 +12,4 @@ Vous avez le chic pour briser et démanteler les choses. Les recoller ensemble e
 
 Vous êtes qualifié en Vol. Si vous l'étiez déjà automatiquement (par votre historique ou votre classe, par exemple), vous êtes qualifié dans une compétence de votre choix.
 
-De plus, lorsque vous touchez avec une [Frappe](../actions/frapper.md) un piège ou un objet non tenu, vous ignorez les 5 premiers points de solidité de l'objet.
+De plus, lorsque vous touchez avec une [Frappe](../actions/frapper.html) un piège ou un objet non tenu, vous ignorez les 5 premiers points de solidité de l'objet.

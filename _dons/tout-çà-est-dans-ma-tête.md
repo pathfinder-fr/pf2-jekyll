@@ -8,7 +8,7 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/all-in-my-head.json
 layout: dons
 ---
-**Déclencheur** Vous devriez subir des dégâts d'une [Frappe](../actions/frapper.md) ou d'un sort qui ne possède pas le trait mort ou qui ne cause pas autrement une mort instantanée (tel que *[Désintégration](../sorts/désintégration.md)*).
+**Déclencheur** Vous devriez subir des dégâts d'une [Frappe](../actions/frapper.html) ou d'un sort qui ne possède pas le trait mort ou qui ne cause pas autrement une mort instantanée (tel que *[Désintégration](../sorts/désintégration.html)*).
 
 En utilisant vos liens occultes et les pouvoirs incroyables de persuasion, vous parvenez à vous convaincre vous-même que les dégâts déclencheurs sont le fruit de votre imagination.
 

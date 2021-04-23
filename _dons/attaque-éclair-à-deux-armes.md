@@ -10,4 +10,4 @@ layout: dons
 ---
 **Conditions** Vous maniez deux armes au corps à corps à une main, chacune dans une main différente.
 
-Vous attaquez lorsque vous filez parmi les adversaires. [Marchez rapidement](../actions/marcher-rapidement.md) jusqu'à votre vitesse maximale. À n'importe quel moment durant ce déplacement, vous pouvez [Frapper](../actions/frapper.md)  une fois avec chacune des deux armes requises. Ces Frappes peuvent être portées contre la même cible ou des cibles différentes comme cela vous convient.
+Vous attaquez lorsque vous filez parmi les adversaires. [Marchez rapidement](../actions/marcher-rapidement.html) jusqu'à votre vitesse maximale. À n'importe quel moment durant ce déplacement, vous pouvez [Frapper](../actions/frapper.html)  une fois avec chacune des deux armes requises. Ces Frappes peuvent être portées contre la même cible ou des cibles différentes comme cela vous convient.

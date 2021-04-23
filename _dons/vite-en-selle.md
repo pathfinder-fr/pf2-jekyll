@@ -12,4 +12,4 @@ layout: dons
 
 Vous et votre monture pouvez passer à l'action en un clin d'œil.
 
-Vous [Montez](../actions/se-mettre-en-selle.md) la créature et [Dirigez un animal](../actions/diriger-un-animal.md) pour lui donner un ordre de votre choix.
+Vous [Montez](../actions/se-mettre-en-selle.html) la créature et [Dirigez un animal](../actions/diriger-un-animal.html) pour lui donner un ordre de votre choix.

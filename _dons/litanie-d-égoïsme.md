@@ -10,4 +10,4 @@ layout: dons
 ---
 **Prérequis** préceptes du mal, sorts de dévotion
 
-Vous obligez une créature à agir à ses propres fins plutôt que de considérer ceux des autres. Vous pouvez lancer le sort de dévotion [Litanie d'égoïsme](../sorts/litanie-d-égoïsme.md). Augmentez le nombre de Points de focalisation de votre réserve de focalisation de 1.
+Vous obligez une créature à agir à ses propres fins plutôt que de considérer ceux des autres. Vous pouvez lancer le sort de dévotion [Litanie d'égoïsme](../sorts/litanie-d-égoïsme.html). Augmentez le nombre de Points de focalisation de votre réserve de focalisation de 1.

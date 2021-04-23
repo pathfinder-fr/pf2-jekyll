@@ -1,5 +1,5 @@
 ---
-title: Ascendances
+title: Les ascendances
 ---
 
 # Présentation

@@ -10,6 +10,6 @@ layout: dons
 ---
 vous pouvez tirer avantage du terrain pour franchir les défenses de vos adversaires.
 
-Les créatures qui ne sont pas des hommes-lézard situées sur un terrain difficile sont [Prises au dépourvu](../conditions/pris-au-dépourvu.md) par rapport à vous.
+Les créatures qui ne sont pas des hommes-lézard situées sur un terrain difficile sont [Prises au dépourvu](../conditions/pris-au-dépourvu.html) par rapport à vous.
 
 Si vous disposez d'une vitesse de Nage, les créatures qui ne sont pas des hommes-lézard, qui se trouvent dans l'eau et ne possèdent pas de Vitesse de nage sont aussi prises au dépourvu par rapport à vous.

@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/soaring-form.json
 layout: dons
 ---
-Vos ailes deviennent plus fortes. Vous obtenez les effets de [Voler haut](voler-haut.md) à tout moment.
+Vos ailes deviennent plus fortes. Vous obtenez les effets de [Voler haut](voler-haut.html) à tout moment.

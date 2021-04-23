@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous avez exploré suffisamment de tombes poussiéreuses et de chambres fortes pour développer un sixième sens concernant les pièges et vous les remarquez parfois sans même les avoir cherchés.
 
-Même si vous n’êtes pas en train de [Fouiller](../actions/fouiller.md) dans une phase d’exploration, vous faites un test pour trouver des pièges qui nécessiteraient normalement que vous Fouilliez. Vous devez tout de même répondre aux autres conditions pour trouver le piège.
+Même si vous n’êtes pas en train de [Fouiller](../actions/fouiller.html) dans une phase d’exploration, vous faites un test pour trouver des pièges qui nécessiteraient normalement que vous Fouilliez. Vous devez tout de même répondre aux autres conditions pour trouver le piège.

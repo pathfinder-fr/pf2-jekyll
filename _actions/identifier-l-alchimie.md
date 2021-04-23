@@ -10,7 +10,7 @@ layout: actions
 type: passive
 typeFr: Passive
 ---
-**Conditions** Vous avez des [outils d'alchimiste](../équipements/outils-d-alchimiste.md).
+**Conditions** Vous avez des [outils d'alchimiste](../équipements/outils-d-alchimiste.html).
 
 Vous pouvez identifier la nature d’un objet alchimique en l’analysant pendant dix minutes avec vos outils d’alchimiste. Si votre tentative est interrompue, vous devez la reprendre depuis le début.
 

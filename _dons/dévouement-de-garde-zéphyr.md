@@ -10,7 +10,7 @@ layout: dons
 ---
 En tant que Garde zéphyr vous êtes toujours à l’affût de tout ce qui peut menacer la tranquillité de la ville.
 
-Vous gagnez un bonus de circonstances de +1 à vos tests de Perception contre toute tentative d’[Escamoter un objet](../actions/escamoter-un-objet.md), de [Voler](../actions/voler.md) ou de [Dissimuler un objet](../actions/dissimuler-un-objet.md) (y compris quand vous Cherchez des objets dissimulés).
+Vous gagnez un bonus de circonstances de +1 à vos tests de Perception contre toute tentative d’[Escamoter un objet](../actions/escamoter-un-objet.html), de [Voler](../actions/voler.html) ou de [Dissimuler un objet](../actions/dissimuler-un-objet.html) (y compris quand vous Cherchez des objets dissimulés).
 
 Vous êtes qualifié en Société et en Connaissance de Katapesh ; si vous êtes déjà qualifié, vous devenez expert.
 

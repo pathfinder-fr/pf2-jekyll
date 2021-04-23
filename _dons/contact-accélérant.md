@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/accelerating-touch.json
 layout: dons
 ---
-Vos énergies qui permettent de soigner sont également imprégnées d'énergie motrice. Une créature qui récupère des Points de vie grâce à votre [Imposition des mains](../sorts/imposition-des-mains.md) obtient un bonus de statut de +3 m à sa Vitesse jusqu'à la fin de son prochain tour.
+Vos énergies qui permettent de soigner sont également imprégnées d'énergie motrice. Une créature qui récupère des Points de vie grâce à votre [Imposition des mains](../sorts/imposition-des-mains.html) obtient un bonus de statut de +3 m à sa Vitesse jusqu'à la fin de son prochain tour.
 
-[Effet de sort : Contact accélérant](../effet-sorts/.md)
+[Effet de sort : Contact accélérant](../effet-sorts/.html)

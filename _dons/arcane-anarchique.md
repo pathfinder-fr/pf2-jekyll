@@ -11,17 +11,17 @@ layout: dons
 La magie dans votre sang est imprévisible. Lorsque vous faites vos préparatifs quotidiens, lancez [[/r 1d12]] de fois et consultez la liste suivante :
 
 <ol>
-- [Flêche acide](../sorts/flèche-acide.md);
-- [Fou](../sorts/flou.md);
-- [Fou rire](../sorts/fou-rire.md);
-- [forme humanoïde](../sorts/forme-humanoïde.md);
-- [Objet illusoire](../sorts/objet-illusoire.md);
-- [Image miroir](../sorts/image-miroir.md);
-- [Résistance à l'énergie](../sorts/résistance-à-l-énergie.md);
-- [Détection de l'invisibilité](../sorts/détection-de-l-invisibilité.md);
-- [Fracassement](../sorts/fracassement.md);
-- [Cacophonie](../sorts/cacophonie.md);
-- [Pattes d'araignée](../sorts/pattes-d-araignée.md);
-- [Manœuvre télékinésique](../sorts/manœuvre-télékinésique.md).
+- [Flêche acide](../sorts/flèche-acide.html);
+- [Fou](../sorts/flou.html);
+- [Fou rire](../sorts/fou-rire.html);
+- [forme humanoïde](../sorts/forme-humanoïde.html);
+- [Objet illusoire](../sorts/objet-illusoire.html);
+- [Image miroir](../sorts/image-miroir.html);
+- [Résistance à l'énergie](../sorts/résistance-à-l-énergie.html);
+- [Détection de l'invisibilité](../sorts/détection-de-l-invisibilité.html);
+- [Fracassement](../sorts/fracassement.html);
+- [Cacophonie](../sorts/cacophonie.html);
+- [Pattes d'araignée](../sorts/pattes-d-araignée.html);
+- [Manœuvre télékinésique](../sorts/manœuvre-télékinésique.html).
 </ol>
 Vous pouvez lancer chacun de ces deux sorts une fois au cours de la journée suivante (ou une sort deux fois si vous l'avez tiré deux fois) comme des sorts divins innés de niveau 2.

@@ -10,4 +10,4 @@ layout: dons
 ---
 Comme les héros des contes qui persistent malgré des présages écrasants, vous et vos alliés tenez la ligne.
 
-Si votre prochaine action consiste à lancer le tour de magie de composition [Inspiration défensive](../sorts/inspiration-défensive.md), vous pouvez [Lever un bouclier](../actions/lever-un-bouclier.md) et un allié qui obtient un bonus de statut à l'aide de ce sort peut immédiatement utiliser une réaction pour Lever un bouclier.
+Si votre prochaine action consiste à lancer le tour de magie de composition [Inspiration défensive](../sorts/inspiration-défensive.html), vous pouvez [Lever un bouclier](../actions/lever-un-bouclier.html) et un allié qui obtient un bonus de statut à l'aide de ce sort peut immédiatement utiliser une réaction pour Lever un bouclier.

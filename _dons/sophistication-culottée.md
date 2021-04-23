@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/daring-flourish.json
 layout: dons
 ---
-Vous savez utiliser rapidement une ouverture créée par vos cascades insensées. À la fin de votre [Acte culotté](acte-culotté.md), vous pouvez porter une Frappe au corps à corps contre la cible ou tenter de la [Désarmer](../actions/désarmer.md). La cible est [Prise au dépourvue](../conditions/pris-au-dépourvu.md) contre la Frappe que vous portez durant l'Acte culotté ainsi que celle qui la suit tentée à son encontre avant la fin de votre tour.
+Vous savez utiliser rapidement une ouverture créée par vos cascades insensées. À la fin de votre [Acte culotté](acte-culotté.html), vous pouvez porter une Frappe au corps à corps contre la cible ou tenter de la [Désarmer](../actions/désarmer.html). La cible est [Prise au dépourvue](../conditions/pris-au-dépourvu.html) contre la Frappe que vous portez durant l'Acte culotté ainsi que celle qui la suit tentée à son encontre avant la fin de votre tour.

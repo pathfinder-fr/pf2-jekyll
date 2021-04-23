@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous vous enroulez vous-même d'ombre pour changer votre apparence.
 
-Vous pouvez lancer [Déguisement illusoire](../sorts/déguisement-illusoire.md) comme un sort inné occulte de niveau 1 une fois par jour. Ce sort obtient le trait ombre.
+Vous pouvez lancer [Déguisement illusoire](../sorts/déguisement-illusoire.html) comme un sort inné occulte de niveau 1 une fois par jour. Ce sort obtient le trait ombre.

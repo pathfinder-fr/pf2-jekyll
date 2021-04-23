@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous décomposez l'idiolecte spécifique d'un individu, en mémorisant son maniérisme lorsqu'il parle et ses habitudes.
 
-Si vous intéragissez avec quelqu'un pendant au moins 10 minutes, lorsque vous essayez par la suite de [vous Déguiser](../actions/se-déguiser.md) en cet individu, vous obtenez un bonus de circonstances de +4 a vos tests de Duperie et à vos DD. Compte tenu de l'intense étude du personnage nécessaire, vous ne pouvez vous remémorer qu'un unique idiolecte au même moment.
+Si vous intéragissez avec quelqu'un pendant au moins 10 minutes, lorsque vous essayez par la suite de [vous Déguiser](../actions/se-déguiser.html) en cet individu, vous obtenez un bonus de circonstances de +4 a vos tests de Duperie et à vos DD. Compte tenu de l'intense étude du personnage nécessaire, vous ne pouvez vous remémorer qu'un unique idiolecte au même moment.

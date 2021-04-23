@@ -10,4 +10,4 @@ layout: dons
 ---
 La magie d'Abaddon circule dans votre sang et vous pouvez manier son pouvoir.
 
-Vous pouvez Lancer [Mise à mort](../sorts/mise-à-mort.md) et [Simulacre de vie](../sorts/simulacre-de-vie.md) chacun une fois par jour comme des sorts innés divins de niveau 2.
+Vous pouvez Lancer [Mise à mort](../sorts/mise-à-mort.html) et [Simulacre de vie](../sorts/simulacre-de-vie.html) chacun une fois par jour comme des sorts innés divins de niveau 2.

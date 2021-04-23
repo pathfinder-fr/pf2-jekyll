@@ -10,10 +10,10 @@ layout: dons
 ---
 **Déclencheur** Vous êtes la cible d'une attaque au corps-à-corps
 
-**Conditions** Vous êtes conscient de l'attaque et n'êtes pas [Pris au dépourvu](../conditions/pris-au-dépourvu.md)
+**Conditions** Vous êtes conscient de l'attaque et n'êtes pas [Pris au dépourvu](../conditions/pris-au-dépourvu.html)
 
 Vous utilisez vos prouesses acrobatiques pour échapper à une attaque, en utilisant l'impact pour rester en déplacement, si vous le choisissez.
 
-Vous obtenez un bonus de circonstances de +1 à la CA contre l'attaque déclencheuse. Si l'attaque échoue, vous pouvez [Faire un pas](../actions/faire-un-pas.md) après la [Frappe](../actions/frapper.md).
+Vous obtenez un bonus de circonstances de +1 à la CA contre l'attaque déclencheuse. Si l'attaque échoue, vous pouvez [Faire un pas](../actions/faire-un-pas.html) après la [Frappe](../actions/frapper.html).
 
 Si vous êtes un maître en Acrobaties, Vous pouvez vous déplacer de 3 m lorsque vous Faites un pas dans ce cas au lieu d'1,5 m.
