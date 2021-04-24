@@ -80,6 +80,11 @@ title: Bienvenue
 - [Matériel alchimique](equipement/materiel-alchimique.md)
 - [Matériel magique](equipement/materiel-magique.md)
 
+# Les sorts
+- Les [sorts](equimement/sorts)
+    
+
+
 ## Rubriques diverses
 - [Liste des actions](actions/index.html)
 - [Liste des états préjudiciables](etats/index.html)
