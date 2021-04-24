@@ -1,7 +1,7 @@
 ---
-Title: Listes de sorts fivins
+Title: Listes des sorts focalisés
 ---
-La liste présente les sorts **divins**, y compris les tours de magie.
+La liste présente les sorts **focalisés**.
 
 | Nom du sort | Niveau | Intensif. | Rareté | École | Effet |
 |:------------|:------:|:---------:|:------:|:-----:|:------|
