@@ -42,7 +42,7 @@ Lorsque vous effectuez une attaque et obtenez un 20 naturel (le nombre indiqué 
 votre attaque dépasse de 10 la CA de la cible, vous obtenez un succès critique (également appelé **coup critique**).
 Si vous Frappez et obtenez un succès critique, votre attaque inflige le double des dégâts. D’autres attaques, telles que les jets d’attaque de sorts et certaines utilisations de la compétence Athlétisme, décrivent les effets spécifiques se produisant lorsque leurs résultats sont des succès critiques.
 
-##Attaques à mains nues
+## Attaques à mains nues
 Presque tous les personnages commencent en étant qualifiés en attaques à mains nues. Vous pouvez Frapper avec votre poing ou une autre partie de votre corps, en calculant vos jets d’attaque et de dégâts comme vous le feriez avec une arme. Les attaques à mains nues peuvent appartenir à une catégorie d’armes et avoir des traits d’arme. Cependant, les mains nues ne sont pas réellement des armes et les effets et les capacités qui fonctionnent avec les armes ne sont jamais opérantes avec les attaques à mains nues, à moins que cela ne soit expressément spécifié.
 
 Le tableau des Attaques à mains nues donne les statistiques pour une attaque à mains nues effectuée avec le poing, mais vous utiliserez généralement les mêmes statistiques pour les attaques effectuées avec d’autres parties de votre corps. Certains **dons ancestraux**, **sorts** et certaines **capacités de classe** donnent accès à des attaques à mains nues spéciales plus puissantes. Les détails de ces attaques sont fournis dans les capacités qui les accordent.
@@ -50,7 +50,7 @@ Le tableau des Attaques à mains nues donne les statistiques pour une attaque à
 ## Armes improvisées
 Si vous attaquez avec quelque chose qui n’a pas été conçu pour être une arme, comme une chaise ou un vase, vous effectuez une attaque avec une **arme improvisée**. Vous subissez en ce cas un malus de –2 à votre jet d’attaque. Le cas échéant, le MJ détermine le montant et le type de dégâts infligés par cette attaque, ainsi que les traits d’arme que l’arme improvisée devrait avoir. Les armes improvisées sont des armes simples
 
-#### Choisir une arme
+##### Choisir une arme
 Les personnages qui se focalisent sur le combat doivent choisir leurs armes avec soin, c’est-à-dire déterminer s’ils veulent combattre au corps à corps ou à distance, le potentiel de destruction de ces armes, ainsi que les caractéristiques particulières des différentes armes. Les personnages qui sont avant tout des incantateurs doivent généralement choisir une arme de secours appartenant à la catégorie la plus élevée dans laquelle ils sont qualifiés ou meilleurs.  
 Lorsque vous choisissez vos armes, commencez par identifier les types d’armes avec lesquelles vous êtes qualifié ou meilleur. Vous devez ensuite comparer les armes entre ces types pour déterminer celles avec lesquelles vous obtiendrez le modificateur d’attaque au corps à corps ou à distance le plus élevé. Il est généralement conseillé de choisir à la fois une arme de corps à corps et une arme à distance lors de la création du personnage, afin de pouvoir faire face à une plus grande variété d’ennemis et de situations.
 
