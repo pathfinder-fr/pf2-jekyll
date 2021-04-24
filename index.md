@@ -81,9 +81,18 @@ title: Bienvenue
 - [Matériel magique](equipement/materiel-magique.md)
 
 # Les sorts
-- Les [sorts](equimement/sorts)
-    
-
+  - Lancer des sorts
+  - tours de magie, sorts focalisés, sorts innés
+  - emplacements de sorts
+  - Lire un sort
+  - Listes de sorts
+    - [Liste arcanique](sorts/liste-arcanique.md)
+    - [Liste divine](sorts/liste-divine.md)
+    - [liste occulte](sorts/liste-occulte.md)
+    - [liste primordiale](sorts/liste-primordiale.md)
+    - [liste des sorts focalisés](sorts/liste-focalises.md)
+    - [liste des rituels](sorts/liste-rituels.md)
+  - Les [sorts](equimement/sorts.md)
 
 ## Rubriques diverses
 - [Liste des actions](actions/index.html)
