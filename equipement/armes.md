@@ -50,6 +50,13 @@ Le tableau des Attaques à mains nues donne les statistiques pour une attaque à
 ## Armes improvisées
 Si vous attaquez avec quelque chose qui n’a pas été conçu pour être une arme, comme une chaise ou un vase, vous effectuez une attaque avec une **arme improvisée**. Vous subissez en ce cas un malus de –2 à votre jet d’attaque. Le cas échéant, le MJ détermine le montant et le type de dégâts infligés par cette attaque, ainsi que les traits d’arme que l’arme improvisée devrait avoir. Les armes improvisées sont des armes simples
 
+#### Choisir une arme
+Les personnages qui se focalisent sur le combat doivent choisir leurs armes avec soin, c’est-à-dire déterminer s’ils veulent combattre au corps à corps ou à distance, le potentiel de destruction de ces armes, ainsi que les caractéristiques particulières des différentes armes. Les personnages qui sont avant tout des incantateurs doivent généralement choisir une arme de secours appartenant à la catégorie la plus élevée dans laquelle ils sont qualifiés ou meilleurs.  
+Lorsque vous choisissez vos armes, commencez par identifier les types d’armes avec lesquelles vous êtes qualifié ou meilleur. Vous devez ensuite comparer les armes entre ces types pour déterminer celles avec lesquelles vous obtiendrez le modificateur d’attaque au corps à corps ou à distance le plus élevé. Il est généralement conseillé de choisir à la fois une arme de corps à corps et une arme à distance lors de la création du personnage, afin de pouvoir faire face à une plus grande variété d’ennemis et de situations.
+
+##### Catégories d’armes
+Les armes appartiennent à de larges catégories, qui sont classées en fonction de leurs caractéristiques et des dégâts qu’elles infligent. Les armes de guerre causent généralement davantage de dégâts que les armes simples, et les armes évoluées ont généralement des traits plus avantageux que les armes de guerre pour les mêmes dégâts. En règle générale, vous voudrez choisir des armes qui infligent plus de dégâts, mais si vous êtes un combattant très compétent, vous pouvez opter pour une arme présentant des traits intéressants, même si son dé correspond à des dégâts moindres. Avec votre budget, vous pouvez acheter plusieurs armes, ce qui vous permettra d’en changer pour faire face à différentes situations.
+
 ## Attributs des armes
 Les tableaux des armes indiquent les attributs des différentes armes de corps à corps et à distance que vous pouvez acheter, ainsi que celles pour une frappe au poing (ou une autre attaque à mains nues basique). Les tableaux présentent les statistiques suivantes. Toutes les armes mentionnées ont un niveau d’objet de 0.
 ### Dégâts
