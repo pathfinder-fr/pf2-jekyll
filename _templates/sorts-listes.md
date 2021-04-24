@@ -23,10 +23,6 @@ Il faut afficher :
 ## Liste des rituels
 Tri dans la spells.db avec la valeur ritual dans le champ `spellcategorie` 
 
-## Liste des sorts focalisés
-Tri dans la spells.db avec la valeur focus dans le champ `spellcategorie`
-
-
 ## Autres listes
 On peut créer des listes :
 - par école ?

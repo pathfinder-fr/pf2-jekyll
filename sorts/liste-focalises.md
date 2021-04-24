@@ -1,7 +1,8 @@
 ---
-Title: Listes des sorts focalisés
+Title: Les sorts focalisés
 ---
-La liste présente les sorts **focalisés**.
+#### Certaines classes gagnent des sorts spéciaux qu’elles lancent en utilisant des points de focalisation au lieu d’emplacements de sorts. Ces points de focalisation sont listés ci-dessous, organisés par classe. 
 
-| Nom du sort | Niveau | Intensif. | Rareté | École | Effet |
-|:------------|:------:|:---------:|:------:|:-----:|:------|
+## Barde
+Les bardes peuvent gagner les sorts de composition suivants. Cette section inclut également leurs tours de magie de 
+composition.
