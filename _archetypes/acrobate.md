@@ -12,7 +12,7 @@ layout: archetypes
 
 Vous avez entraîné votre corps à accomplir d'incroyables et apparemment surhumaines prouesses de souplesse. Vous vous déplacez de manière à laisser vos opposants sans défense et maladroits dans leur réponse, transformant chaque combat en performance artistique.
 
-<h2 style="text-align: left;">[Dévouement d'Acrobate](../dons/dévouement-d-acrobate.html) Don 2
+## [Dévouement d'Acrobate](../dons/dévouement-d-acrobate.html) Don 2
 
 **Prérequis** qualifié en Acrobaties
 
