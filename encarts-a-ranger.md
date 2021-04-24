@@ -1,0 +1,3 @@
+##### LES GRIMOIRES
+Peu de choses ont autant de valeur aux yeux d’un magicien que le grimoire qu’il garde jalousement et dont il prend grand soin. Ces recueils de connaissances magiques sont souvent piégés et protégés, afin que personne ne touche aux secrets qu’ils contiennent. Les grimoires jouent un rôle essentiel dans la routine quotidienne d’un magicien, mais d’autres classes d’incantateurs préparés sont connues pour utiliser ces livres afin de noter des sorts peu courants ou plus rares. Un tel ouvrage permet à un incantateur de traiter le sort comme un sort courant, tant qu’il peut s’y référer lors de ses préparatifs quotidiens
+
