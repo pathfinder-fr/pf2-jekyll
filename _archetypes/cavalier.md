@@ -16,7 +16,7 @@ Vous êtes un combattant compétent et dévoué sur le champ de bataille qui se 
 
 Beaucoup de cavaliers se vouent eux-mêmes au service d'une organisation spécifique ou un individu tel qu'une famille noble ou un souverain dirigeant, un ordre de chevalier ou une autre organisation, voire un idéal particulier. Un cavalier voué à un ordreou un idéal doit respecter ses édits et au respect des anathèmes qu'il possède ; par exemple, un cavalier voué à une cabale de druide de l'ordre de l'animal serait lié à cet anathème, alors qu'un cavalier voué à l'église d'Abadar serait tenu aux même règles qu'un prêtre de ce dieu. Si vous vous vouez vous-même à une entité ou une causesans un anathème défini, vous devriez voir avec le MJ à déterminer les édits et les anathèmes associés à votre vœu. Les cavaliers qui se sont voués eux-mêmes peuvent obtenir accès à certaines capacités en lien avec ce vœu, comme la bannière du Cavalier. Si vous violez l'anathème de votre vœu, vous perdez l'accès à ces dons  jusqu'à ce que vous puissiez bénéficier d'un rituel de [Pénitence](../sorts/pénitence.html). Changer l'objet de votre vœu est équivalent à un Réapprentissage d'une capacité de classe.
 
-<span style="font-size: 1.5em;">[dévouement du cavalier](../dons/dévouement-de-cavalier.html) Don 2
+[dévouement du cavalier](../dons/dévouement-de-cavalier.html) Don 2
 
 **Prérequis** qualifié en Nature ou Société
 
@@ -44,7 +44,7 @@ Vous [Dirigez un animal](../actions/diriger-un-animal.html) pour commander à vo
 
 **Prérequis** Dévouement de cavalier
 
-<Vous avez entraîné votre monture à devenir une force puissante sur le champ de bataille. La monture que vous avez obtenue par le Dévouement de cavalier devient un compagnon animal adulte, lui accordant des capacités supplémentaires. Durant une rencontre, même si vous n'utilisez pas l'action Diriger un animal, votre compagnon animal peut toujours utiliser 1 action lors de votre tour pour <a class="entity-link" data-pack="pf2e.actionspf2e" data-id="Bcxarzksqt9ezrs6" draggable="true">Marcher rapidement</a> ou <a class="entity-link" data-pack="pf2e.actionspf2e" data-id="VjxZFuUXrCU94MWR" draggable="true">Frapper</a>.
+Vous avez entraîné votre monture à devenir une force puissante sur le champ de bataille. La monture que vous avez obtenue par le Dévouement de cavalier devient un compagnon animal adulte, lui accordant des capacités supplémentaires. Durant une rencontre, même si vous n'utilisez pas l'action Diriger un animal, votre compagnon animal peut toujours utiliser 1 action lors de votre tour pour <a class="entity-link" data-pack="pf2e.actionspf2e" data-id="Bcxarzksqt9ezrs6" draggable="true">Marcher rapidement</a> ou <a class="entity-link" data-pack="pf2e.actionspf2e" data-id="VjxZFuUXrCU94MWR" draggable="true">Frapper</a>.
 
 ## [Vite en selle](../dons/vite-en-selle.html) Don 4
 

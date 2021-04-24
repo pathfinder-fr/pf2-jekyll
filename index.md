@@ -70,14 +70,29 @@ title: Bienvenue
 - [armures](equipement/armures.md) et tableau des armures
 - [boucliers](equipement/boucliers.md)
 - [armes](equipement/armes) 
-    - tableau des armes
-    - description des armes 
-    - traits des armes
-    - effets de critique spécialisés
+    - [tableaux des armes](equipement/armes-tableaux.md)
+    - [description des armes](equipement/armes-description.md)
+    - [traits des armes](equipement/armes-traits.md)
+    - [effets de critique spécialisés](equipement/armes-critiques.md)
 - [Matériel d'aventurier](equipement/materiel.md)
     - [Tableaux des matériels](equipement/tableaux.md)
     - [Kits de classe](equipement/kits.md)
 - [Matériel alchimique](equipement/materiel-alchimique.md)
+- [Matériel magique](equipement/materiel-magique.md)
+
+# Les sorts
+  - Lancer des sorts
+  - tours de magie, sorts focalisés, sorts innés
+  - emplacements de sorts
+  - Lire un sort
+  - Listes de sorts
+    - [Liste arcanique](sorts/liste-arcanique.md)
+    - [Liste divine](sorts/liste-divine.md)
+    - [liste occulte](sorts/liste-occulte.md)
+    - [liste primordiale](sorts/liste-primordiale.md)
+    - [liste des sorts focalisés](sorts/liste-focalises.md)
+    - [liste des rituels](sorts/liste-rituels.md)
+  - Les [sorts](equimement/sorts.md)
 
 ## Rubriques diverses
 - [Liste des actions](actions/index.html)

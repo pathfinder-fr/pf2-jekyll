@@ -24,7 +24,7 @@ Il faut extraire alors pour chaque fichier
     - la valeur du champ `die` qui donne le(s) dé(s) de dégâts réutilisable comme telle 
     - la valeur du champ `damageType` qui donnera Bludgeoning,Piercing,Slashing qu'il faudra traduire à partir du fr.json qui contient le champ `DamageTypeBludgeoning` avec une valeur dont **il ne faudra reprendre que la première lettre**
 - la valeur du champ `weight` réutilisable comme telle
-- on a un problème avec la colonne du tableau mains puisque s'il existe bien un champ `hands`, il n'est apparemment jamais rempli dans le fichier anglophone selon mon sondage rapide (testé sur greatsword, club et falchion). On gardera le champ vierge mais il faudra aller chercher l'information ailleurs. Au pire, il faudrait rajouter un champ mains dans les données du compendium Foundry pour que je puisse le rajouter à la main  
+- on a un problème avec la colonne du tableau mains puisque s'il existe bien un champ `hands`, il n'est pas rempli dans le fichier anglophone et ne le sera pas. Les anglophones On garde le champ vierge mais il faudra soit aller chercher l'information, soit rajouter un champ `mains` dans les données du compendium Foundry pour que je puisse le rajouter à la main dans les fichiers avec un champ type = weapon et un champ `level` = 0 
 - la valeur du champ `group` qu'il faudra traduire en allant chercher dans le fr.json dans la valeur du champ `WeaponGroupXxxx` où Xxx est le nom anglais du group pour récupérer la valeur d'affichage en français
 - toutes les valeurs du champ `traits` qu'il faut traduire à partir du fr.json dans le champ traitXXX où Xxx est le nom du trait **en supprimant les tirets** ex TraitVersatileB
 
@@ -61,7 +61,7 @@ Il faut extraire pour chaque fichier
     - la valeur du champ `die` qui donne le(s) dé(s) de dégâts réutilisable comme telle 
     - la valeur du champ `damageType` qui donnera Bludgeoning,Piercing,Slashing qu'il faudra traduire à partir du fr.json qui contient le champ `DamageTypeBludgeoning` avec une valeur dont **il ne faudra reprendre que la première lettre**
 - la valeur du champ `weight` réutilisable comme telle
-- on a un problème avec la colonne du tableau mains puisque s'il existe bien un champ `hands`, il n'est apparemment jamais rempli dans le fichier anglophone selon mon sondage rapide (testé sur greatsword, club et falchion). On gardera le champ vierge mais il faudra aller chercher l'information ailleurs. Au pire, il faudrait rajouter un champ mains dans les données du compendium Foundry pour que je puisse le rajouter à la main  
+- on a un problème avec la colonne du tableau mains puisque s'il existe bien un champ `hands`, il n'est pas rempli dans le fichier anglophone et ne le sera pas. Les anglophones On garde le champ vierge mais il faudra soit aller chercher l'information, soit rajouter un champ `mains` dans les données du compendium Foundry pour que je puisse le rajouter à la main dans les fichiers avec un champ type = weapon et un champ `level` = 0  
 - la valeur du champ `group` qu'il faudra traduire en allant chercher dans le fr.json dans la valeur du champ `WeaponGroupXxxx` où Xxx est le nom anglais du group pour récupérer la valeur d'affichage en français
 - toutes les valeurs du champ `traits` qu'il faut traduire à partir du fr.json dans le champ traitXXX où Xxx est le nom du trait **en supprimant les tirets** ex TraitVersatileB
 
