@@ -20,7 +20,7 @@ title: Bienvenue
   - les [ascendances](ascendances-et-historiques/ascendances.md)
     - [Liste des ascendances](ascendances-et-historiques/liste-des-ascendances.md)     
   - les [Historiques](ascendances-et-historiques/historiques.md)
-    - [Liste des Historiques](ascendances-et-historiques/liste des historiques.md)
+    - [Liste des Historiques](ascendances-et-historiques/liste-des-historiques.md)
   - les [Langues](ascendances-et-historiques/langues.md)
 
 # Les classes
@@ -100,6 +100,8 @@ Reste la question des capacités de classe :
 
 # La religion et les domaines
   - Les divinités
+    - bénédictions
+    - malédictions
   - Les religions et philosophies
   - Les domaines
 
@@ -110,6 +112,7 @@ Reste la question des capacités de classe :
       - Tests spéciaux
     - Dégâts
     - États
+      - [Liste des états préjudiciables](etats/index.html)
     - Effets
     - Afflictions
     - Le contre
@@ -139,7 +142,3 @@ Reste la question des capacités de classe :
 
 ## Rubriques diverses
 - [Liste des actions](actions/index.html)
-- [Liste des états préjudiciables](etats/index.html)
-
-
-Pour la rareté, voir comment la traiter (couleur ou indication C PC ou R pour Courant, peu courant ou rare)
