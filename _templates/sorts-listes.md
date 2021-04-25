@@ -1,12 +1,17 @@
 ---
 Title : template des listes de sorts
 ---
+Ce template est à faire après avoir réalisé celui de l'affichage de la description des sorts qui contient la liste des champs à extraire que l'on retrouvera sur ce template
+
 Il y a plusieurs listes à générer. 
+- une liste des sorts par **tradition** sur la page liste-nomdelatradition.md 
+    - arcanique, liste-arcanique.md
+    - divine, liste-divine.md
+    - primordiale liste-primordiale.md
+    - occulte liste-occulte.md.
+- une liste des rituels sur la page liste-rituels.md
 
-- Il y a une liste des sorts par **tradition** : arcanique, divine, primordiale ou occulte. Il y a une liste pour les sorts focalisés et une liste pour les rituels. Chacune doit être générée sur une page liste-nomdelatradition.md
-- Il y a également la liste des sorts focalisés pour les rituels sur la page liste-rituels.md
-
-ATTENTION la liste des sorts focalisés fait l'objet d'un template différent 
+ATTENTION les sorts focalisés font l'objet d'un template différent et ne font pas l'objet de listes 
 
 ## Listes des sorts proprement dite
 ### Format d'affichage
@@ -29,12 +34,21 @@ Il faut extraire :
 
 Il faut afficher dans le tableau par niveau, puis par ordre alphabétique
 
-## Liste des rituels qui forment des sorts particuliers
-C'est le même générateur que le précédent avec comme seule différence que l'on doit faire le Tri dans la spells.db avec la valeur **ritual** dans le champ `spellcategtorie` 
+## Liste des rituels 
+### Tri 
+On doit faire le Tri dans la spells.db avec la valeur **ritual** dans le champ `spellcategorie`  
 
+### Champs utiles
+On récupère uniquement les champs `Nom` et `level`
 
+### Format de sortie
+| Nom du sort | Niveau | 
+|:------------|:------:|
 
-## Autres listes
-On peut créer des listes :
-- par école ?
-- par niveau ?
+L'affichage se fait par ordre de *niveau* puis *ordre alphabétique*  
+Et on affiche simplement la valeur du champ `Nom` et celle du champ `level`  
+La page est créée et liste-rituels.md 
+
+| Nom du sort | Niveau | 
+|:------------|:------:|
+
