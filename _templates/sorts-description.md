@@ -13,12 +13,12 @@ TRAIT RARETE TRAITS
 ---
 
 Description  
-**Succès critique**  
-**Succès**  
+**Succès critique** texte  
+**Succès** texte 
 
 ---
 
-Suivent les règles en cas d'intensification
+**Intensifié** texte
 
 ## Les champs à afficher
 Pour pouvoir afficher chaque sort, il faut extraire les champs suivants :
@@ -62,29 +62,28 @@ Pour pouvoir afficher chaque sort, il faut extraire les champs suivants :
     - du champ `time` qui donne 
         - soit le nombre d'actions par exemple *3*, qu'il faudrait alors traduire en affichant l'image correspondant  
         - soit une durée en minutes ou en heures 
-    - des composantes de l'incantation dans le champ `components` qui donne verbal, material, somatic qu'il faut traduire en allant les chercher dans le fr.json
+    - des composantes de l'incantation dans le champ `components` qui donne verbal, material, somatic qu'il faut traduire en allant les chercher dans le fr.json dans le champ SpellComponent comme ci dessous et mettre entre parenthèses ex : **(**verbal, matériel **)**
 ```
     "SpellComponentM": "Matériel",
     "SpellComponentS": "Somatique",
     "SpellComponentV": "Verbal",
 ```
-- Sur la même ligne, **si la valeur n'est pas nulle**, **Condition** suivi de la valeur qu'il faudra aller chercher dans le champs Matérials (fr) du sort français
+- Sur la même ligne, **si la valeur n'est pas nulle**, **Condition** suivi de la valeur qu'il faudra aller chercher dans le champs `matérials (fr)` dans le compendium français
 
-- Sur la ligne suivante, si la valeur n'est pas nulle, **Portée** suivi du contenu du champ range (fr) qu'il faudra aller chercher dans le compendium français
-- Sur la même ligne, si la valeur n'est pas nulle **Zone** suivi du contenu du champ areasize (fr) qu'il faudra aller chercher dans le compendium français 
-- Sur la même ligne si la valeur n'est pas nulle **Cibles** suivi du champ target (fr) qu'il faudra aller chercher dans le compendium français
+- Sur la ligne suivante, **si la valeur n'est pas nulle**, **Portée** suivi du contenu du champ `range (fr)` qu'il faudra aller chercher dans le compendium français
+- Sur la même ligne, **si la valeur n'est pas nulle** **Zone** suivi du contenu du champ `areasize (fr)` qu'il faudra aller chercher dans le compendium français 
+- Sur la même ligne si la valeur n'est pas nulle **Cibles** suivi du champ `target (fr)` qu'il faudra aller chercher dans le compendium français
 
 - Sur la ligne suivante **Jet de sauvegarde** - **Jet de sauvegarde** dans le champ `save`
    - la valeur du champ `basic` qui indique si le jet est basique ou non qu'il faudra traduire
    - un champ `value` qui indique Reflexe, Will, Fortitude qu'il faut traduire à partir du fr.json
 - Sur la ligne suivante **Durée** qu'on récupère dans le champ `duration`
 
-- On pose un une ligne de séparation
+- On pose une ligne de séparation pour distinguer les statistiques du contenu
 
-- On affiche le contenu du champ `description` des fichiers français qu'il faut nettoyer en conservant le gras et les sauts de ligne. Ils donnent le déclencheur, la description, les résultats des différentes marges de réussite et les effets de l'intensification 
+- On affiche le contenu du champ `description` des fichiers français qu'il faut nettoyer en conservant le gras et les sauts de ligne. Ils donnent le déclencheur, la description, les résultats des différentes marges de réussite et les effets de l'intensification si les données existent
 
-
-Le trait de rareté doit permettre de distinguer l'affichage des sorts avec une rareté uncommon et rare (affichage de couleur ?)
+Le trait de rareté doit permettre de distinguer l'affichage des sorts avec une rareté uncommon et rare (affichage de couleur différente ? ou affichage d'une valeur ?
 
 ```
 {
