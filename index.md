@@ -99,11 +99,10 @@ Reste la question des capacités de classe :
   - Les descriptions des différents sorts
 
 # La religion et les domaines
-  - Les divinités
-    - bénédictions
-    - malédictions
-  - Les religions et philosophies
-  - Les domaines
+  - Les [divinités](religion/divinites.md)
+    - bénédictions et malédictions
+  - Les [religions et philosophies](religion/religions-et-philosophies.md)
+  - Les [domaines](religion/domaines.md)
 
 # Jouer une partie
   - Les règles générales et les conventions de jeu
