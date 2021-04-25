@@ -25,7 +25,7 @@ Pour pouvoir afficher chaque sort, il faut extraire les champs suivants :
 
 ### Dans le pack anglophone
 - l'**ID** pour obtenir chaque sort et s'assurer la concordance
-- le **type** de sort que l'on trouve dans le champ `spellcategorie` avec categor**ie** à la fin du compendium anglophone qui donne *spell, ritual, focus* ATTENTION il y a un autre champ spellcategory avec un y qui décrit autre chose
+- le **type** de sort que l'on trouve dans le champ `spellcategorie` avec categor**ie** à la fin du compendium anglophone qui donne *spell, ritual, focus* ATTENTION il y a un autre champ spellcategor**y** avec un y qui décrit autre chose et qu'il ne faut pas utiliser
 - **Niveau** dans le champ `Level` du compendium anglophone sans changement
 - **traits** qui sont dans le champ `traits` 
 - **Tradition(s)** qui se trouve dans le champ `traditions` 

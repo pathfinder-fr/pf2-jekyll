@@ -52,7 +52,20 @@ Votre personnage pourra toujours apprendre de nouvelles langues au cours de sa c
 ## Les langues régionales
 Les langues régionales varient en fonction du monde dans lequel se déroulent vos parties. Vous trouverez dans le chapitre sur L’âge des prédictions perdues une liste des langues régionales du monde de Pathfinder et des régions où elles sont parlées. Ces langues sont peu courantes.
 
-La majorité des personnages apprennent à parler le commun. Il s’agit de la langue la plus utilisée dans la région où la campagne se déroule. Dans la région de la mer Intérieure de Golarion, par exemple, cette langue commune est le taldorien. Les personnages qui parlent le commun peuvent ainsi se trouver face à une barrière linguistique s’ils se rendent dans une région qui parle un commun différent. 
+La majorité des personnages apprennent à parler le commun. Il s’agit de la langue la plus utilisée dans la région où la campagne se déroule. Dans la région de la mer Intérieure de Golarion, par exemple, cette langue commune est le taldorien. Les personnages qui parlent le commun peuvent ainsi se trouver face à une barrière linguistique s’ils se rendent dans une région qui parle un commun différent.
+
+### Tableau des langues régionales de Golarion
+| Langue | Région |
+|:-------|:-------|
+| Hallit | Irrisen, Mendev, Numérie, Royaume des Seigneurs des Mammouths, Sarkaris, Ustalav
+| Kéléshite | Katapesh, Kélesh, Osirion, Qadira
+| Mwangi | Étendue du Mwangi, Chaînes, Thuvie, Vidriane
+| Osirien | Geb, Katapesh, Désolation de Mana, Nex, Osirion, Rahadoum, Thuvie
+| Shoanti | Forteresse de Belkzen, Varisie
+| Scalde | Irrisen, Terres des Rois des Linnorms
+| Tianais | Terres des Rois des Linnorms, Royaume des Seigneurs des Mammouths, Tian Xia
+| Varisien | Brévoy, Pays des Tombes, Nidal, Nirmathas, Ustalav, Varisie
+| Vudrain | Jalmeray, Katapesh, Nex, Vudra
 
 ## La langue des signes et la lecture sur les lèvres
 La section consacrée aux langues des personnages présente une liste de langues qu’ils peuvent utiliser pour s’exprimer oralement. Vous pouvez cependant connaître la version signée d’une langue ou avoir appris à lire sur les lèvres. Vous pouvez apprendre ces formes de communication en choisissant les **dons de compétences** *Langue des signes* et *Lire sur les lèvres*. Si vous créez un personnage qui est sourd, malentendant ou incapable de parler, demandez à votre MJ s’il lui semble cohérent que votre personnage connaisse la langue des signes ou sache lire sur les lèvres. Si c’est le cas, votre MJ vous permettra probablement de bénéficier gratuitement de l’un de ces dons (même si vous ne possédez pas les prérequis) afin de conserver une cohérence avec le concept de votre personnage.

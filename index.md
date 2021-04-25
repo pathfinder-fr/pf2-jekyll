@@ -26,6 +26,7 @@ title: Bienvenue
 # Les classes
 - les [classes](classes/classes.md)
 - [lire les rubriques consacrées aux classes](classes/lire-les-classes.md)
+- pages des classes (sorts focalisés éventuels de la classe)
 - les [compagnons animaux](classes/compagnons-animaux.md)
   - les différents [types de compagnons animaux](classes/types-de-compagnons-animaux.md)
   - les [compagnons animaux spécialisés](classes/compagnons-animaux-specialises.md)
@@ -35,6 +36,9 @@ title: Bienvenue
 - les règles des [archétypes](archetypes/index.md)
   - les [archétypes multiclasse](archetypes/multiclasse.md)
   - les [archétypes de classe](archetypes/de-classe.md)
+
+Reste la question des capacités de classe :
+- domaines des prêtres
 
 # Les compétences
 - les [compétences](competences/competences.md)
@@ -81,18 +85,57 @@ title: Bienvenue
 - [Matériel magique](equipement/materiel-magique.md)
 
 # Les sorts
-  - Lancer des sorts
-  - tours de magie, sorts focalisés, sorts innés
-  - emplacements de sorts
-  - Lire un sort
+  - L'explication des [sorts](sorts/sorts.md)
+  - Les règles pour [Lancer des sorts](sorts/lancer-des-sorts.md)
+  - Les [emplacements de sorts](sorts/emplacements.md)
+  - [tours de magie, sorts focalisés, sorts innés](sorts/autres-sorts.md)
+    - Lire les [statistiques des sorts](sorts/lire-un-sort.md)
   - Listes de sorts
     - [Liste arcanique](sorts/liste-arcanique.md)
     - [Liste divine](sorts/liste-divine.md)
     - [liste occulte](sorts/liste-occulte.md)
     - [liste primordiale](sorts/liste-primordiale.md)
-    - [liste des sorts focalisés](sorts/liste-focalises.md)
     - [liste des rituels](sorts/liste-rituels.md)
-  - Les [sorts](equimement/sorts.md)
+  - Les descriptions des différents sorts
+
+# La religion et les domaines
+  - Les divinités
+  - Les religions et philosophies
+  - Les domaines
+
+# Jouer une partie
+  - Les règles générales et les conventions de jeu
+    - Tests
+      - tests particuliers
+      - Tests spéciaux
+    - Dégâts
+    - États
+    - Effets
+    - Afflictions
+    - Le contre
+    - Les points de vie, la guérison et la mort
+    - Actions
+    - Déplacements
+    - Perception
+    - Points d'hérïsme
+  - Le Mode rencontre
+    - Structure
+    - Tours
+    - Actions basiques
+    - Activités pendant les rencontres
+    - Réactions pendant les rencontres
+    - Déplacements pendant les rencontres
+    - Batailles spéciales
+  - Le mode exploration
+    - Vitesse de voyage
+    - Activités d'exploration
+    - Repos et préparatifs quotidiens
+  - Mode intermède
+    - Repos long
+    - Réapprentissage
+    - Autres activités d'intermède
+
+# Diriger une partie
 
 ## Rubriques diverses
 - [Liste des actions](actions/index.html)
