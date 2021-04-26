@@ -1,7 +1,7 @@
 ---
 Title: Template de description des rituels
 ---
-Template à faire après avoir créé le template de description des sorts
+Template à faire après avoir créé le template de description des sorts pour avoir tous les champs nécessaires extraits
 
 ## Format des rituels
 Les sorts suivent le format suivant :  
@@ -24,8 +24,8 @@ Description
 
 **Intensifié** texte
 
-## Les champs à traduire en vf au préalable
-Pour pouvoir afficher chaque sort, il faut tout d'abord extraire d'autres champs pour les exporter dans les compendiums pour foundry à l'effet de les traduire
+### Les champs à traduire en vf au préalable
+Pour pouvoir afficher chaque sort, il faudra avoir extrait d'autres champs pour les exporter dans les compendiums pour foundry à l'effet de les traduire
 
 - **Incantateurs secondaires** se trouve dans la valeur du champ `secondarycasters` 
 - **Test Principal** qui nécessite la valeur du champ `primarycheck`   
@@ -52,12 +52,23 @@ Pour pouvoir afficher chaque sort, il faut tout d'abord extraire d'autres champs
 - **Succès** Idem
 - **Intensification** Idem
 
+Les champs qui auront été traduits
+- **Incantateurs secondaires** se trouve dans la valeur du champ `secondarycasters (fr):` 
+- **Test Principal** qui nécessite la valeur du champ `primarycheck (fr):`   
+- **Test secondaire** qui nécessite la valeur du champ `secondarycheck (fr):` 
+- **Coût** qui nécessite le champ `costs (fr):`
+- **Zone** dans le champ `areasize (fr):` 
+- **Cibles** dans le champ `target (fr):` 
+- **Durée** dans le champ `duration (fr):`
 
-## Afficher les champs
+## Afficher les champs des rituels
+Pour les trier, il faut prendre les sorts issus de la spells.db dont la valeur du champ `spellcategorie:` est égale à ritual  
+Puis :
+
 - **Nom** en majuscule 
 - Sur la même ligne le mot **RITUEL** qui se place à droite en majuscules
-* suivi juste après du niveau qui résulte de la valeur du champ `level` sans changement
-- En dessous, en blanc et en majuscules sur un fond coloré en fonction de la rareté du sort, les traits qui auront été  traduits à partir du fr.json  
+* suivi juste après du niveau qui résulte de la valeur du champ `level:` sans changement
+- En dessous, en blanc et en majuscules sur un fond coloré en fonction de la rareté du sort, les traits qui auront été  traduits à partir du fr.json avec dans l'ordre le trait de rareté suivi des autres traits  
 - En dessous **Incantation** suivi des valeurs :
     - du champ `time` qui donne 
         - soit le nombre d'actions par exemple *3*, qu'il faudrait alors traduire en affichant l'image correspondant  
@@ -69,20 +80,16 @@ Pour pouvoir afficher chaque sort, il faut tout d'abord extraire d'autres champs
     "SpellComponentV": "Verbal",
 ```
 
-Sur la même ligne, après un point virgule ; si la valeur n'est pas nulle **Coût** puis la valeur du champ `costs (fr)`  
-Sur la même ligne, après un point virgule ; si la valeur n'est pas nulle **Incantateurs secondaires** puis la valeur du champ `secondarycasters (fr)` 
+Sur la même ligne, après un point virgule *;* si la valeur n'est pas nulle **Coût** puis la valeur du champ `costs (fr):`  
+Sur la même ligne, après un point virgule *;* si la valeur n'est pas nulle **Incantateurs secondaires** puis la valeur du champ `secondarycasters: (fr)` 
 
-Sur la ligne suivante :
-- **Test Principal** puis la valeur du champ `primarycheck (fr)` 
-- **Test secondaire** puis la valeur du champ `secondarycheck (fr)` 
+Sur la ligne suivante, si la valeur des champs suivants n'est pas nulle :
+- **Test Principal** puis la valeur du champ `primarycheck (fr):` 
+- **Test secondaire** puis la valeur du champ `secondarycheck (fr):` 
 
-- **Zone** dans le champ `areasize (fr)` 
-- **Cibles** dans le champ `target (fr)` 
-- **Durée** dans le champ `duration (fr)`
-
-- Sur la ligne suivante, après un point virgule ; si la valeur n'est pas nulle, **Portée** suivi du contenu du champ `range (fr)` qu'il faudra aller chercher dans le compendium français
-- Sur la même ligne, après un point virgule ; si la valeur n'est pas nulle **Zone** suivi du contenu du champ `areasize (fr)` qu'il faudra aller chercher dans le compendium français 
-- Sur la même ligne, après un point virgule ; si la valeur n'est pas nulle **Cibles** suivi du champ `target (fr)` qu'il faudra aller chercher dans le compendium français
+- Sur la ligne suivante, après un point virgule ; si la valeur des champs n'est pas nulle, **Portée** suivi du contenu du champ `range (fr):`
+- Sur la même ligne, après un point virgule ; si la valeur n'est pas nulle **Zone** suivi du contenu du champ `areasize (fr):`
+- Sur la même ligne, après un point virgule ; si la valeur n'est pas nulle **Cibles** suivi du champ `target (fr):`
 
 - Sur la ligne suivante **Durée** qu'on récupère dans le champ `duration (fr)`
 
@@ -90,7 +97,7 @@ Sur la ligne suivante :
 
 - On affiche le contenu du champ `description (fr)` des fichiers français qu'il faut nettoyer en conservant le gras et les sauts de ligne. La description donne le déclencheur, la description, les résultats des différentes marges de réussite et les effets de l'intensification si les données existent
 
-### Exemple de champs d'un rituel (ex : sort commune) 
+### Exemple de champs d'un rituel (ex : le sort commune) 
 ```
 {
     "_id": "7DN13ILADW2N9Z1t",
