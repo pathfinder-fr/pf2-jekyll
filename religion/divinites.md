@@ -1,10 +1,10 @@
 ---
 Title : Les divinités
 ---
-Tout le monde peut vénérer un dieu, mais ceux qui se dévouent à leur divinité devraient veiller à respecter les **édits** de leur foi (les comportements qu’elle encourage) et éviter ce qui lui est anathème (les actions considérées comme blasphématoires). L’alignement de chaque divinité figure entre parenthèses après son nom. Viennent ensuite une courte description, des **édits**, des anathèmes et les alignements autorisés aux fidèles, puis les avantages accessibles aux adorateurs les plus dévoués. Vous en bénéficiez uniquement si vous êtes un prêtre de la divinité ou si une règle vous autorise à profiter d’un avantage de fidèle.
+Tout le monde peut vénérer un dieu, mais ceux qui se dévouent à leur divinité devraient veiller à respecter les édits de leur foi (les comportements qu’elle encourage) et éviter ce qui lui est anathème (les actions considérées comme blasphématoires). L’alignement de chaque divinité figure entre parenthèses après son nom. Viennent ensuite une courte description, des édits, des anathèmes et les alignements autorisés aux fidèles, puis les avantages accessibles aux adorateurs les plus dévoués. Vous en bénéficiez uniquement si vous êtes un prêtre de la divinité ou si une règle vous autorise à profiter d’un avantage de fidèle.
 
 ## Abadar (LN)  
-Le Maître du Premier Coffre règne sur les villes, la loi, les marchands et la richesse. Il cherche à apporter la civilisation dans les contrées sauvages, à encourager le respect de la loi et à promouvoir le commerce au sein des zones civilisées. Il encourage aussi la coopération entre les diverses ascendances.
+Le Maître du Premier Coffre règne sur les villes, la loi, les marchands et la richesse. Il cherche à apporter la civilisation dans les contrées sauvages, à encourager le respect de la loi et à promouvoir le commerce au sein des zones civilisées. Il encourage aussi la coopération entre les diverses ascendances.  
 **Édits** Apporter la civilisation dans les terres frontalières, devenir riche grâce au commerce et à un dur labeur, obéir à la loi.  
 **Anathème** Se livrer au banditisme ou à la piraterie, voler, saper un tribunal respectueux de la loi  
 **Alignements des fidèles** LB, LN, LM  
