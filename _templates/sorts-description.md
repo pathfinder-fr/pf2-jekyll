@@ -77,6 +77,8 @@ Une fois extraits et traduits, on y prendra aussi, si la valeur n'est pas nulle 
 - **Cibles** dans le champ `target (fr):` 
 
 ## Afficher les champs sur la page de description de chaque sort
+Il faut prendres les seuls fichiers qui ont dans le champ `spellcategorie:` la valeur spell
+
 - **Nom** en majuscule 
 - Sur la même ligne mais en float right le mot **SORT** qui se place à droite en majuscules suivi juste après du niveau qui résulte de la valeur du champ `level` sans changement
 
