@@ -31,8 +31,8 @@ Vous vous déplacez sur une surface étroite ou sur un sol inégal en effectuant
 DÉPLACEMENT  
 **Conditions** Vous avez une Vitesse de vol.  
 Vous tentez une manœuvre difficile en volant. Effectuez un test d’Acrobaties. Le MJ détermine quelles manœuvres sont possibles mais elles vous permettent rarement de vous déplacer plus loin que votre Vitesse de vol.  
-**Succès** Vous réussissez la manœuvre.
-**Échec** Votre manœuvre échoue. Le MJ décide si vous ne vous déplacez simplement pas ou si un autre effet néfaste se produit. Cet effet devrait correspondre à la manœuvre que vous avez tentée (par exemple, vous pourriez dévier de votre trajectoire si vous tentez de voler contre un vent fort).
+**Succès** Vous réussissez la manœuvre.  
+**Échec** Votre manœuvre échoue. Le MJ décide si vous ne vous déplacez simplement pas ou si un autre effet néfaste se produit. Cet effet devrait correspondre à la manœuvre que vous avez tentée (par exemple, vous pourriez dévier de votre trajectoire si vous tentez de voler contre un vent fort).  
 **Échec critique** Comme un échec, mais les conséquences sont plus néfastes.
 
 #### Manœuvrer en vol : exemples de tâches
