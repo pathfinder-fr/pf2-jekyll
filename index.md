@@ -105,10 +105,8 @@ Reste la question des capacités de classe :
   - Les [domaines](religion/domaines.md)
 
 # Jouer une partie
-  - Les règles générales et les conventions de jeu
-    - Tests
-      - tests particuliers
-      - Tests spéciaux
+  - Les [règles générales](jouer/regles-generales.md) et les [conventions de jeu](jouer/conventions.md)
+    - [Tests](jouer/tests.md)
     - Dégâts
     - États
       - [Liste des états préjudiciables](etats/index.html)
