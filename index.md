@@ -107,7 +107,7 @@ Reste la question des capacités de classe :
 # Jouer une partie
   - Les [règles générales](jouer/regles-generales.md) et les [conventions de jeu](jouer/conventions.md)
     - [Tests](jouer/tests.md)
-    - Dégâts
+    - [Dégâts](jouer/degats.md)
     - États
       - [Liste des états préjudiciables](etats/index.html)
     - Effets
