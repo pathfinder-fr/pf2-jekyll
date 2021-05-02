@@ -106,18 +106,17 @@ Reste la question des capacités de classe :
 
 # Jouer une partie
   - Les [règles générales](jouer/regles-generales.md) et les [conventions de jeu](jouer/conventions.md)
-    - [Tests](jouer/tests.md)
-    - [Dégâts](jouer/degats.md)
-    - États
-      - [Liste des états préjudiciables](etats/index.html)
-    - Effets
-    - Afflictions
-    - Le contre
-    - Les points de vie, la guérison et la mort
-    - Actions
-    - Déplacements
-    - Perception
-    - Points d'hérïsme
+    - Les [tests](jouer/tests.md)
+    - Les [dégâts](jouer/degats.md)
+    - Les [états](jouer/etats/index.md)
+    - Les [effets](jouer/effets.md)
+    - Les [afflictions](jouer/afflictions.md)
+    - Le [contre](jouer/contre.md)
+    - Les [points de vie, la guérison et la mort](jouer/vie.md)
+    - Les [actions](jouer/actions.md)
+    - Les [déplacements](jouer/deplacements.md)
+    - La [perception](jouer/perception.md)
+    - Les [points d'héroïsme](jouer/heroisme.md)
   - Le Mode rencontre
     - Structure
     - Tours
