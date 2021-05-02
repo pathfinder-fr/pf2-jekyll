@@ -118,10 +118,10 @@ Reste la question des capacités de classe :
     - La [perception](jouer/regles-generales/perception.md)
     - Les [points d'héroïsme](jouer/regles-generales/heroisme.md)
   - Le Mode rencontre
-    - La structure et les tours
-    - Les actions basiques, les activités et les réactions pendant les rencontres
-    - Les déplacements pendant les rencontres
-    - Les batailles spéciales
+    - La [structure et les tours](jouer/mode-rencontre/structure-et-tours.md)
+    - Les [actions basiques, les activités et les réactions pendant les rencontres](jouer/mode-rencontre/actions-basiques.md)
+    - Les [déplacements pendant les rencontres](jouer/mode-rencontre/deplacements.md)
+    - Les [batailles spéciales](jouer/mode-rencontre/batailles-speciales.md)
   - Le mode exploration
     - La vitesse de voyage
     - Les activités d'exploration
