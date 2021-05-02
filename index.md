@@ -118,23 +118,21 @@ Reste la question des capacités de classe :
     - La [perception](jouer/perception.md)
     - Les [points d'héroïsme](jouer/heroisme.md)
   - Le Mode rencontre
-    - Structure
-    - Tours
-    - Actions basiques
-    - Activités pendant les rencontres
-    - Réactions pendant les rencontres
-    - Déplacements pendant les rencontres
-    - Batailles spéciales
+    - La structure et les tours
+    - Les actions basiques, les activités et les réactions pendant les rencontres
+    - Les déplacements pendant les rencontres
+    - Les batailles spéciales
   - Le mode exploration
-    - Vitesse de voyage
-    - Activités d'exploration
-    - Repos et préparatifs quotidiens
-  - Mode intermède
-    - Repos long
-    - Réapprentissage
-    - Autres activités d'intermède
+    - La vitesse de voyage
+    - Les activités d'exploration
+    - Le Repos et les préparatifs quotidiens
+  - Le Mode intermède
+    - Le repos long
+    - Le réapprentissage
+    - Les autres activités d'intermède
 
 # Diriger une partie
 
 ## Rubriques diverses
 - [Liste des actions](actions/index.html)
+- [Liste des états](jouer/etats/index.md)

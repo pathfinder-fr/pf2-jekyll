@@ -93,28 +93,8 @@ Vous pouvez faire appel à l’action basique Chercher pour tenter de détermine
 D’autres effets permettent de faire en sorte qu’une créature invisible soit Cachée, ou même Observée tout en étant Masquée. Par exemple, si une créature invisible laisse des traces de pas dans la neige et que vous les remarquez, ces traces ont pour effet de rendre la créature cachée. De même, jeter un filet sur une créature invisible la rend observée et masquée tant qu’elle est couverte par le filet.
 
 ###### Détecter avec d’autres sens
-Si un monstre utilise un sens autre que la vue, le MJ peut adapter les variables qui empêchent ses adversaires d’être détectés et 
-proposer des équivalents correspondant aux sens de ce monstre. 
-Par exemple, une créature qui possède écholocalisation pourra 
-utiliser l’ouïe comme son sens principal. Cela signifie que ses 
-proies seront masquées dans une pièce bruyante, cachées dans 
-un vacarme assez important, voire invisibles si elles se trouvent 
-dans la zone d’effet d’un sort de silence. 
-Utiliser la Discrétion avec les autres sens
-La compétence Discrétion a été conçue pour vous permettre de 
-Vous cacher afin d’éviter d’être détecté visuellement et Échapper 
-aux regards et Être furtif pour éviter d’être vu et entendu. Dans le 
-cas de nombreux sens spéciaux, un joueur peut décrire comment 
-il tente d’échapper à la détection par ce sens en particulier et 
-utiliser l’action de Discrétion la plus adaptée. Par exemple, une 
-créature qui marche lentement afin d’éviter d’être détectée par 
-perception des vibrations utilisera l’action Être furtif.
-Dans certains cas, il n’est pas cohérent de faire appel à un jet de 
-Discrétion basé sur la Dextérité pour Être furtif. Par exemple, face à 
-une créature capable de détecter les battements de cœur, un PJ qui 
-tente d’éviter d’être détecté peut méditer pour ralentir son rythme car‑
-diaque. Il fait alors appel à la Sagesse plutôt qu’à la Dextérité comme 
-modificateur de caractéristique pour son test de Discrétion. Quand une 
-créature qui peut vous détecter possède plusieurs sens et qu’elle peut, 
-par exemple, vous entendre ou vous voir, le PJ utilise alors son modifi‑
-cateur de caractéristique approprié le moins élevé pour faire son test
+Si un monstre utilise un sens autre que la vue, le MJ peut adapter les variables qui empêchent ses adversaires d’être détectés et proposer des équivalents correspondant aux sens de ce monstre. Par exemple, une créature qui possède écholocalisation pourra 
+utiliser l’ouïe comme son sens principal. Cela signifie que ses proies seront masquées dans une pièce bruyante, Cachées dans un vacarme assez important, voire Invisibles si elles se trouvent dans la zone d’effet d’un sort de *silence*.  
+Utiliser la Discrétion avec les autres sens La compétence Discrétion a été conçue pour vous permettre de Vous cacher afin d’éviter d’être détecté visuellement et Échapper aux regards et Être furtif pour éviter d’être vu et entendu. Dans le cas de nombreux sens spéciaux, un joueur peut décrire comment il tente d’échapper à la détection par ce sens en particulier et utiliser l’action de Discrétion la plus adaptée. Par exemple, une créature qui marche lentement afin d’éviter d’être détectée par **perception des vibrations** utilisera l’action Être furtif.  
+Dans certains cas, il n’est pas cohérent de faire appel à un jet de Discrétion basé sur la Dextérité pour Être furtif. Par exemple, face à une créature capable de détecter les battements de cœur, un PJ qui tente d’éviter d’être détecté peut méditer pour ralentir son rythme cardiaque. Il fait alors appel à la Sagesse plutôt qu’à la Dextérité comme 
+modificateur de caractéristique pour son test de Discrétion. Quand une créature qui peut vous détecter possède plusieurs sens et qu’elle peut, par exemple, vous entendre ou vous voir, le PJ utilise alors son modificateur de caractéristique approprié le moins élevé pour faire son test
