@@ -36,31 +36,29 @@ Au lieu de déterminer l’ensemble des cases concernées à chaque fois, vous p
 
 #### Cône
 Un **cône** s’étend depuis votre emplacement sur un quart de cercle sur la grille. Quand vous visez avec un cône, la première case de ce cône doit partager un côté avec votre espace si vous visez orthogonalement ou doit toucher un coin de votre espace si vous visez diagonalement. Si votre catégorie de taille est Grande ou supérieure, la première case peut toucher la bordure de n’importe quelle case de votre espace. Vous ne pouvez diriger un cône de manière à ce qu’il recouvre une partie de votre espace. Le cône s’étend sur une distance donnée en s’élargissant, comme indiqué dans les diagrammes des Zones. Par exemple, quand un dragon vert utilise son souffle, il crache un cône de gaz empoisonné dont le point d’origine se trouve sur le bord d’une case de son espace et qui affecte une zone en quart de cercle dont chaque bord fait 9 m.
+![cones](/images/Pathfinder/wiki/PRPG/cones.jpg)
 
 Si un cône est projeté par quelqu’un ou quelque chose d’autre, appliquez les mêmes règles, en faisant en sorte que la première case du cône se trouve au bord ou au coin de l’espace de cette créature ou de cet objet, au lieu du bord ou du coin de votre espace.
+![cones](/images/Pathfinder/wiki/PRPG/cones_18m.jpg)
 
 #### Émanation
 Une **émanation** s’étend sur une distance déterminée depuis les bordures de votre espace et dans toutes les directions. Par exemple, l’émanation du sort *bénédiction* irradie de 1,50 m ou plus autour de celui qui l’a lancé. Dans la mesure où les bordures de l’espace d’une cible constituent le point de départ d’une émanation, si l’origine de l’émanation est une créature de taille Grande ou supérieure, elle affecte une zone plus importante que s’il s’agissait d’une créature de taille Moyenne ou inférieure. Un effet d’émanation inclut la cible de cette émanation, mais la créature qui crée l’effet peut exclure la cible si elle le désire.
+![cones](/images/Pathfinder/wiki/PRPG/emanations.jpg)
 
 #### Explosion
-Un effet d’**explosion** se diffuse dans toutes les directions sur un rayon donné à partir du coin d’une case située à portée de l’effet. Par exemple, quand vous lancez une boule de feu, celle-ci explose sur le coin d’une case située dans un rayon de 
-150 m autour de vous et crée une explosion de 6 m. Cela signifie qu’elle s’étend de 6 m dans toutes les directions à partir 
-du coin de la case que vous avez désignée et qu’elle affecte 
+Un effet d’**explosion** se diffuse dans toutes les directions sur un rayon donné à partir du coin d’une case située à portée de l’effet. Par exemple, quand vous lancez une boule de feu, celle-ci explose sur le coin d’une case située dans un rayon de 150 m autour de vous et crée une explosion de 6 m. Cela signifie qu’elle s’étend de 6 m dans toutes les directions à partir du coin de la case que vous avez désignée et qu’elle affecte 
 toutes les créatures dont l’espace (ou même une case de l’espace) se trouve dans la zone d’explosion.
+![cones](/images/Pathfinder/wiki/PRPG/explosions.jpg)
 
 #### Ligne
-Une ligne est un trait qui part de vous en ligne droite dans 
-la direction de votre choix. La ligne affecte toutes les créatures 
-dont elle traverse l’espace. Une ligne fait 1,50 m de large, sauf 
-en cas d’indication contraire. Par exemple, la zone d’effet du 
-sort éclair est une ligne de 18 m de long sur 1,50 m de large.
+Une ligne est un trait qui part de vous en ligne droite dans la direction de votre choix. La ligne affecte toutes les créatures dont elle traverse l’espace. Une ligne fait 1,50 m de large, sauf 
+en cas d’indication contraire. Par exemple, la zone d’effet du sort *éclair* est une ligne de 18 m de long sur 1,50 m de large.
+![cones](/images/Pathfinder/wiki/PRPG/lignes.jpg)
 
 ### Ligne d’effet
 Quand vous créez un effet, vous devez généralement avoir une vue dégagée du trajet qui vous relie à la cible d’un sort, au point d’origine d’une zone d’effet, ou à l’endroit où vous voulez créer quelque chose à l’aide d’un sort ou d’un pouvoir. C’est ce qu’on appelle une **ligne d’effet**. Vous avez une ligne d’effet jusqu’à une créature, sauf si celle-ci est entièrement cachée par une barrière physique non ajourée. La visibilité, les herses ou les autres barrières qui ne sont pas entièrement solides ne représentent pas d’obstacle à la ligne d’effet. Si vous n’êtes pas sûr qu’une barrière vous protège d’une ligne d’effet, partez du principe qu’une ouverture de 30 cm de côté suffit généralement à maintenir une ligne d’effet. Cependant, c’est au MJ qu’il revient de trancher.
 
-Dans une zone d’effet, il doit exister une ligne d’effet entre le point d’origine et les créatures ou les cibles pour que celles-ci soient affectées. S’il n’y a pas de ligne d’effet entre l’origine de la zone et la cible, celle-ci n’est pas affectée. Par exemple, si un mur plein se dresse entre l’origine d’une boule de feu et une créature qui se trouve dans son rayon d’explosion, le mur bloque l’effet : cette créature n’est pas affectée par la boule de feu et n’a pas besoin de faire de jet de sauvegarde contre elle. De même, si un pouvoir crée des effets constants sur une zone, ils cessent d’affecter quiconque en quitte la ligne d’effet.
+Dans une zone d’effet, il doit exister une ligne d’effet entre le point d’origine et les créatures ou les cibles pour que celles-ci soient affectées. S’il n’y a pas de ligne d’effet entre l’origine de la zone et la cible, celle-ci n’est pas affectée. Par exemple, si un mur plein se dresse entre l’origine d’une *boule de feu* et une créature qui se trouve dans son rayon d’explosion, le mur bloque l’effet : cette créature n’est pas affectée par la boule de feu et n’a pas besoin de faire de jet de sauvegarde contre elle. De même, si un pouvoir crée des effets constants sur une zone, ils cessent d’affecter quiconque en quitte la ligne d’effet.
 
 ### Ligne de mire
-Certains effets vous demandent d’avoir votre cible en **ligne de mire**. Tant qu’un sens vous permet de voir précisément la zone (comme décrit sur la page « Perception ») et 
-que celle-ci n’est pas obstruée par des barrières solides (comme décrit sur la page « Abris »), vous avez une ligne de mire. Une zone de *ténèbres* vous empêchera d’avoir 
-une ligne de mire si vous ne possédez pas *vision dans le noir*, mais les herses et les autres obstacles qui sont ajourés ne vous poseront pas de problème. Si vous n’êtes pas sûr qu’une barrière bloque une ligne de mire, partez du principe qu’une ouverture de 30 cm de côté suffit généralement à conserver une ligne de mire. Cependant, c’est au MJ qu’il revient de trancher.
+Certains effets vous demandent d’avoir votre cible en **ligne de mire**. Tant qu’un sens vous permet de voir précisément la zone (comme décrit sur la page « Perception ») et que celle-ci n’est pas obstruée par des barrières solides (comme décrit sur la page « Abris »), vous avez une ligne de mire. Une zone de *ténèbres* vous empêchera d’avoir une ligne de mire si vous ne possédez pas *vision dans le noir*, mais les herses et les autres obstacles qui sont ajourés ne vous poseront pas de problème. Si vous n’êtes pas sûr qu’une barrière bloque une ligne de mire, partez du principe qu’une ouverture de 30 cm de côté suffit généralement à conserver une ligne de mire. Cependant, c’est au MJ qu’il revient de trancher.

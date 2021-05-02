@@ -106,17 +106,17 @@ Reste la question des capacités de classe :
 
 # Jouer une partie
   - Les [règles générales](jouer/regles-generales.md) et les [conventions de jeu](jouer/conventions.md)
-    - Les [tests](jouer/tests.md)
-    - Les [dégâts](jouer/degats.md)
-    - Les [états](jouer/etats/index.md)
-    - Les [effets](jouer/effets.md)
-    - Les [afflictions](jouer/afflictions.md)
-    - Le [contre](jouer/contre.md)
-    - Les [points de vie, la guérison et la mort](jouer/vie.md)
-    - Les [actions](jouer/actions.md)
-    - Les [déplacements](jouer/deplacements.md)
-    - La [perception](jouer/perception.md)
-    - Les [points d'héroïsme](jouer/heroisme.md)
+    - Les [tests](jouer/regles-generales/tests.md)
+    - Les [dégâts](jouer/regles-generales/degats.md)
+    - Les [états](jouer/regles-generales/etats/index.md)
+    - Les [effets](jouer/regles-generales/effets.md)
+    - Les [afflictions](jouer/regles-generales/afflictions.md)
+    - Le [contre](jouer/regles-generales/contre.md)
+    - Les [points de vie, la guérison et la mort](jouer/regles-generales/vie.md)
+    - Les [actions](jouer/regles-generales/actions.md)
+    - Les [déplacements](jouer/regles-generales/deplacements.md)
+    - La [perception](jouer/regles-generales/perception.md)
+    - Les [points d'héroïsme](jouer/regles-generales/heroisme.md)
   - Le Mode rencontre
     - La structure et les tours
     - Les actions basiques, les activités et les réactions pendant les rencontres
