@@ -122,17 +122,38 @@ Reste la question des capacités de classe :
     - Les [actions basiques, les activités et les réactions pendant les rencontres](jouer/mode-rencontre/actions-basiques.md)
     - Les [déplacements pendant les rencontres](jouer/mode-rencontre/deplacements.md)
     - Les [batailles spéciales](jouer/mode-rencontre/batailles-speciales.md)
-  - Le mode exploration
+  - Le [mode exploration](jouer/mode-exploration.md)
     - La vitesse de voyage
     - Les activités d'exploration
     - Le Repos et les préparatifs quotidiens
-  - Le Mode intermède
+  - Le [Mode intermède](jouer/mode-intermede.md)
     - Le repos long
     - Le réapprentissage
     - Les autres activités d'intermède
 
 # Diriger une partie
+  - Diriger une partie
+  - Gérer les modes de jeu
+  - Degrés de difficulté
+  - Récompenses
+  - Environnement
+  - Dangers
+
+# Artisanat et trésors
+  - Armes
+  - Armures
+  - Baguettes
+  - Bâtons
+  - Boucliers
+  - Consommables
+  - Matériaux
+  - Objets alchimiques
+  - Objets portés
+  - Pièges artisanaux
+  - Runes
+  - Structures
 
 ## Rubriques diverses
 - [Liste des actions](actions/index.html)
-- [Liste des états](jouer/etats/index.md)
+- [Annexe des états](jouer/etats/index.md)
+- Glossaire et index
