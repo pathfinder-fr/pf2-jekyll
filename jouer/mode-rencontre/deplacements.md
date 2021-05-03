@@ -18,7 +18,7 @@ Tableau ci-après.
 
 #### Tableau taille et allonge
 | Taille | Espace | Allonge (haute) | Allonge (longue) |
-|:-------|:------:|:---------------:|:-----------------|
+|:-------|:------:|:---------------:|:----------------:|
 | Très Petite | Moins de 1,50 m | 0 m | 0 m
 | Petite | 1,50 m | 1,50 m | 1,50 m
 | Moyenne | 1,50 m | 1,50 m | 1,50 m
