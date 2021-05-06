@@ -13,6 +13,12 @@ Vous pouvez préparer un tour de magie supplémentaire ou, si vous possédez un 
 ### Lien vital
 Si votre familier est réduit par des dégâts à 0 PV, vous pouvez encaisser les dégâts à sa place en tant que réaction avec le trait concentration. Si vous agissez ainsi, vous subissez tous les dégâts et votre familier aucun. Cependant, les effets spéciaux qui surviennent lorsqu’un coup inflige des dégâts à votre familier (comme le venin de serpent) continuent de s’appliquer.
 
+### Partage des sens
+Une fois toutes les 10 minutes, vous pouvez utiliser une action unique avec le trait concentration pour projeter vos sens dans votre familier. Lorsque vous le faites, vous perdez toutes les informations sensorielles de votre propre corps, mais pouvez ressentir à travers le corps de votre familier pendant jusqu'à 1 minute. Vous pouvez Révoquer l'effet.
+
+### Poussée innée
+Une fois par jour, vous pouvez puiser dans la magie innée de votre familer pour remplir la vôtre. Vous pouvez lancer un sort inné obtenu par un don ancestral que vous avez déjà lancé durant cette journée. Vous devez toujours lancer le sort et remplir les autres conditions.
+
 ### Réactifs supplémentaires
 Votre familier développe des réactifs imprégnés supplémentaires sur ou à l’intérieur de son corps. Vous gagnez un lot supplémentaire de réactifs imprégnés. Vous devez posséder la capacité réactifs imprégnés pour sélectionner ce pouvoir. 
 
