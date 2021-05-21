@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous vous fondez dans le décor avec une subtilité surnaturelle.
 
-Lorsque vous êtes [Masqué](../conditions/masqué.html) ou [Caché](../conditions/caché.html), augmentez le DD du test nu pour vous cibler à 6 si vous êtes Masqué ou 12à  si vous êtes Caché.
+Lorsque vous êtes [Masqué](../conditions/masqué.html) ou [Caché](../conditions/caché.html), augmentez le DD du test nu pour vous cibler à 6 si vous êtes Masqué ou à 12 si vous êtes Caché.

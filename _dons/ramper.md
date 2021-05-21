@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/slither.json
 layout: dons
 ---
-Vous êtes un expert à vous déplacer à travers les espaces extrêmement étroits. Vous obtenez le don de compétence [Se faufiler rapidement](se-faufiler-rapidement.html), même si vous n'êtes pas qualifié en Acrobaties. Lorsque vous obtenez un succès sur un test d'Acrobaties pour Vous faufiler, vous obtenez un succès critique à la place.
+Vous êtes un expert lorsqu'il s'agit de vous déplacer à travers les espaces extrêmement étroits. Vous obtenez le don de compétence [Se faufiler rapidement](se-faufiler-rapidement.html), même si vous n'êtes pas qualifié en Acrobaties. Lorsque vous obtenez un succès sur un test d'Acrobaties pour Vous faufiler, vous obtenez un succès critique à la place.

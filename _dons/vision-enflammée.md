@@ -8,4 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/firesight.json
 layout: dons
 ---
-Vous pouvez voir à travers la fumée et les flammes. Vous obtenez un succès automatique au test nu pour cibler une créature si cette créature est masquée seulement par la fumée ou le feu.
+Vous pouvez voir à travers la fumée des flammes.
+
+Vous obtenez un succès automatique au test nu pour cibler une créature si cette créature est masquée seulement par la fumée et le feu.

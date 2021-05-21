@@ -8,4 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/kitsune-spell-expertise.json
 layout: dons
 ---
-Vos queues démontrent votre maîtrise magique. Durant vos préparatifs quotidiens, choisissez [Confusion](../sorts/confusion.html), [Protection contre la mort](../sorts/protection-contre-la-mort.html) ou [Scène illusoire](../sorts/scène-illusoire.html). Vous pouvez Lancer ce sort comme un sort inné divin au niveau 5 une fois durant cette journée. Vous devenez un expert dans le DD des sorts déivins et dans les jets d'attaque de sorts divins.
+Vos queues démontrent votre maîtrise magique.
+
+Durant vos préparatifs quotidiens, choisissez [Confusion](../sorts/confusion.html), [Protection contre la mort](../sorts/protection-contre-la-mort.html) ou [Scène illusoire](../sorts/scène-illusoire.html). Vous pouvez Lancer ce sort comme un sort inné divin au niveau 5 une fois durant cette journée. Vous devenez un expert dans le DD des sorts divins et dans les jets d'attaque de sorts divins.

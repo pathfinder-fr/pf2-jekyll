@@ -8,4 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/shaitan-magic.json
 layout: dons
 ---
-La magie des Shaitans court dans vos veines. Vous pouvez lancer [Poussière scintillante](../sorts/poussière-scintillante.html) et [Résistance à l'énergie](../sorts/résistance-à-l-énergie.html) une fois par jour comme des sorts arcaniques innés de niveau 2.
+La magie des Shaitans court dans vos veines.
+
+Vous pouvez lancer [Poussière scintillante](../sorts/poussière-scintillante.html) et [Résistance à l'énergie](../sorts/résistance-à-l-énergie.html) une fois par jour chacun comme des sorts arcaniques innés de niveau 2.

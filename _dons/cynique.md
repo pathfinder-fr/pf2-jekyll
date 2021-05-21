@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/cynical.json
 layout: dons
 ---
-Vous avez été approché avec suspicion et méfiance tout au long de votre vie et retournez désormais ces sentiments contre les étrangers que vous rencontrez. Il en résulte que vous êtes difficile à duper. Vous obtenez un bonus de circonstances de +1 à votre DD de Perception contre les Mensonges et les Déguisements.
+Vous avez été approché avec suspicion et méfiance tout au long de votre vie et renvoyez désormais ces sentiments aux étrangers que vous rencontrez. Il en résulte que vous êtes difficile à duper. Vous obtenez un bonus de circonstances de +1 à votre DD de Perception contre les Mensonges et les Déguisements.

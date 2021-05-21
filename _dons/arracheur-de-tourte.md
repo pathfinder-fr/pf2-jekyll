@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/magpie-snatch.json
 layout: dons
 ---
-Vous vous déplacez rapidement, arrachant un objet brillant qui a attirré votre attention. Marchez rapidement deux fois et vous pouvez Interagir pour saisir un objet non tenu à n'importe quel moment durant votre déplacement.
+Vous vous déplacez rapidement puis fauchez un objet brillant qui a attiré votre attention. Marchez rapidement deux fois. Vous pouvez Interagir pour saisir un objet non tenu à n'importe quel moment au cours de votre déplacement.

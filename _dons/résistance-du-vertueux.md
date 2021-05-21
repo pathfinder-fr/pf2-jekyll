@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/righteous-resistance.json
 layout: dons
 ---
-Vous pouvez lancer [résistance à l’énergie](../sorts/résistance-à-l-énergie.html) deux fois par jour en tant que sort inné divin, à l’exception que vous ne pouvez que vous cibler vous-même. Si vous vous conférer résistance aux dégâts de feu, cette résistance est équivalente à la valeur normale du sort ou à votre niveau, en fonction du plus élevé des deux.
+Vous pouvez lancer [Résistance à l’énergie](../sorts/résistance-à-l-énergie.html) deux fois par jour en tant que sort inné divin, sauf que vous ne pouvez que vous cibler vous-même. Si vous vous conférez Résistance aux dégâts de feu, cette résistance est égale à la plus élevé entre la valeur normale du sort ou votre niveau.

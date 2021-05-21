@@ -10,4 +10,4 @@ layout: dons
 ---
 **Fréquence** une fois par round
 
-Vous êtes habitué à rapidement déplacer les objets dans vos abajoues. Vous [Intéragissez](../actions/interagir.html) pour ranger un objet tenu dans votre abajoues (pourvu qu'il rentre).
+Vous êtes habitué à rapidement déplacer les objets dans vos abajoues. Vous [Intéragissez](../actions/interagir.html) pour ranger un objet tenu dans vos abajoues (pourvu qu'il rentre).

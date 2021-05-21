@@ -12,4 +12,4 @@ layout: dons
 
 Vous renforcez votre bouclier avec une excroissance rocheuse de métal et de pierre.
 
-Vous Levez votre bouclier. Si vous utiliser la réaction Blocage au bouclier avant votre prochain tour, ajoutez votre niveau de personnage à la Solidité de votre bouclier lorsque vous déterminez combiens de dégâts sont bloqués.
+Vous Levez votre bouclier. Si vous utilisez la réaction Blocage au bouclier avant votre prochain tour, ajoutez votre niveau à la Solidité de votre bouclier lorsque vous déterminez combien de dégâts sont bloqués.

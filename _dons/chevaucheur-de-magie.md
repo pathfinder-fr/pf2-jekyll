@@ -8,7 +8,7 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/magic-rider.json
 layout: dons
 ---
-Votre peuple a utilisé une puissante magie pour voyager entre des mondes distants et les résidus de cette magie vous rendent un tel transport plus facile.
+Votre peuple a utilisé une puissante magie pour voyager entre des mondes distants et les résidus de cette magie vous facilitent un tel transport.
 
 Lorsque vous êtes la cible d'un sort de téléportation qui transporte plus d'une personne, il peut affecter une personne supplémentaire au delà de sa limite normale choisie par le lanceur.
 

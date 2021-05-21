@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous vous souvenez davantage de vos précédentes incarnations que la plupart des léchis.
 
-Durant vos préparatifs quotidiens, vous pouvez méditez sur les mémoires fragmentaires de vos vies passées pour obtenir le rang qualifié dans une compétence de votre choix. Cette compétence dure jusqu'à ce que vous fassiez de nouveau vos préparatifs. Comme cette compétence est temporaire, vous ne pouvez l'utiliser comme un prérequis pour une amélioration de caractéristique ou une option de personnage permanente comme un don.
+Durant vos préparatifs quotidiens, vous pouvez méditer sur les mémoires fragmentaires de vos vies passées pour obtenir le rang qualifié dans une compétence de votre choix. Cette compétence dure jusqu'à ce que vous fassiez de nouveau vos préparatifs. Comme cette compétence est temporaire, vous ne pouvez l'utiliser comme un prérequis pour une amélioration de caractéristique ou une option de personnage permanente comme un don.

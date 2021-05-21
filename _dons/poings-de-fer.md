@@ -10,4 +10,4 @@ layout: dons
 ---
 Vos poings ont été forgés par la bataille, votre peau naturellement robuste et vos os denses ont été endurcis par le conflit.
 
-Votre attaque à mains nues de poings perd le trait non létal et obtiennent le trait d'arme Pousser.
+Votre attaque à mains nues de poings perd le trait non létal et obtient le trait d'arme Pousser.

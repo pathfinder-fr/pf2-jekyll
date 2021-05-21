@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/supernatural-charm.json
 layout: dons
 ---
-La magie elfique qui coule dans vos veines se manifeste comme une force que vous pouvez utiliser pour devenir plus séduisant ou intéressant. Vous pouvez lancer le sort de niveau 1 charme comme un sort inné arcanique une fois par jour.
+La magie elfique qui coule dans vos veines se manifeste comme une force que vous pouvez utiliser pour devenir plus séduisant ou intéressant. Vous pouvez lancer le sort Charme au niveau 1 comme un sort inné arcanique une fois par jour.

@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/diverse-weapon-expert.json
 layout: dons
 ---
-Vos rangs de maîtrise pour les armes simples et les armes de guerre passent à expert, et votre rang de maîtrise pour les armes évoluées à qualifié.
+Vos rangs de maîtrise pour les armes simples et les armes de guerre passent à expert et votre rang de maîtrise pour les armes évoluées passe à qualifié.

@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/hobgoblin-weapon-discipline.json
 layout: dons
 ---
-Vous savez comment combattre efficacement en utilisant les armes des soldats en rangs serrés.
+Vous savez comment utiliser efficacement les armes que les soldats utilisent dans les formations rapprochées.
 
 Lorsque vous obtenez un coup critique en utilisant une arme appartenant aux groupes des armes d'hast, des lances ou des épées, vous appliquez l'effet critique spécialisé de cette arme.

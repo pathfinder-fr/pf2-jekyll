@@ -10,4 +10,6 @@ layout: dons
 ---
 **Fréquence** une fois par jour
 
-Vous rendez une arme une impossible à tenir. Faites un test d'Athlétisme pour Désarmer une créature cible. Vous n'avez pas besoin d'avoir une main libre pour faire ce test de Désarmement. Si la tentative de Désarmement réussit, la cible subit [[/r 4d6 #feu]] dégâts de feu à moins de laisser tomber l'arme et sur un succès critique, il subit [[/r 4d6 #feu]] dégâts de feu et lâche l'arme. Si vous êtes légendaire en Athlétisme, cela passe à [[/r 8d6 #feu]] dégâts de feu.
+Vous rendez une arme une impossible à tenir.
+
+Faites un test d'Athlétisme pour Désarmer une créature cible. Vous n'avez pas besoin d'avoir une main libre pour faire ce test de Désarmement. Si la tentative de Désarmement réussit, la cible subit [[/r 4d6 #feu]] dégâts de feu à moins de laisser tomber l'arme et sur un succès critique, elle subit [[/r 4d6 #feu]] dégâts de feu et lâche l'arme. Si vous êtes légendaire en Athlétisme, cela passe à [[/r 8d6 #feu]] dégâts de feu.

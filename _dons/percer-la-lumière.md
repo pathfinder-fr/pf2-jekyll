@@ -8,4 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/pierce-the-light.json
 layout: dons
 ---
-Vous déchirez le voile entre le Plan matériel et son ombre. Vous pouvez lancer [Changement de plan](../sorts/changement-de-plan.html) deux fois par semaine comme un sort inné occulte seulement sur vous-même ; vous pouvez voyager seulement vers le Plan matériel ou celui de l'ombre et votre corps sert de focaliseur.
+Vous déchirez le voile entre le Plan matériel et son ombre.
+
+Vous pouvez lancer [Changement de plan](../sorts/changement-de-plan.html) deux fois par semaine comme un sort inné occulte seulement sur vous-même ; vous pouvez voyager seulement vers le Plan matériel ou celui de l'ombre et votre corps sert de focaliseur.

@@ -10,4 +10,4 @@ layout: dons
 ---
 Les obstacles en terre ne peuvent plus empêcher votre progression.
 
-Vous obtenez [Passe muraille](../sorts/passe-muraille.html) comme un sort divin inné de niveau 7 que vous pouve lancer une fois par jour. Contrairement au sort, quoi qu'il en soit, cette capacité ne peut être utilisée que pour ouvrir des passages à travers des barrières de terre ou de pierre.
+Vous obtenez [Passe muraille](../sorts/passe-muraille.html) comme un sort divin inné de niveau 7 que vous pouvez lancer une fois par jour. Contrairement au sort, quoi qu'il en soit, cette capacité ne peut être utilisée que pour ouvrir des passages à travers des barrières de terre ou de pierre.

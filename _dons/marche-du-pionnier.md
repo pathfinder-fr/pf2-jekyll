@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/trailblazing-stride.json
 layout: dons
 ---
-Vous avez l’habitude de vous déplacer dans les contrées sauvages. Lorsque vous vous déplacez dans un tel milieu, vous ignorez les effets d’un terrain difficile non magique.
+Vous avez l’habitude de vous déplacer dans les contrées sauvages. Lorsque vous vous déplacez dans un tel milieu, vous ignorez les effets d’un terrain difficile non magique.

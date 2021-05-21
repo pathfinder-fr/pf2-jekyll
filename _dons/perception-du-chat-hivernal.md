@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/winter-cat-senses.json
 layout: dons
 ---
-Vos yeux sont aiguisés et accoutumés aux conditions hivernales. Vous ignorez les camouflages fournis par la glace et la neige.
+Vos yeux sont vifs et accoutumés aux conditions hivernales. Vous ignorez les camouflages fournis par la glace et la neige.

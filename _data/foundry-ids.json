@@ -364,6 +364,10 @@
       "French": "Ordre de fer",
       "English": "Iron Command"
     },
+    "Ma93dpT4K7JbP9gu": {
+      "French": null,
+      "English": "Prove Peace"
+    },
     "MHLuKy4nQO2Z4Am1": {
       "French": "Prodiguer les premiers soins",
       "English": "Administer First Aid"
@@ -1952,6 +1956,10 @@
       "French": "Famille maudite",
       "English": "Cursed Family"
     },
+    "Am8kwC9c2GQ5bJAW": {
+      "French": "Concurrent sous couverture",
+      "English": "Undercover Contender"
+    },
     "ap25MWBuFGwwhYIG": {
       "French": "Aspirant Capitaine-libre",
       "English": "Aspiring Free-Captain"
@@ -2208,6 +2216,10 @@
       "French": "Noctambule de la Garde du port",
       "English": "Harbor Guard Moonlighter"
     },
+    "LHk50lz5Kk5ZYTeo": {
+      "French": "Vengeur d\u0027Abadar",
+      "English": "Abadar\u0027s Avenger"
+    },
     "LJmBnA2IYDBqQgRx": {
       "French": "R\u00E9fugi\u00E9 de la Tapisserie",
       "English": "Tapestry Refugee"
@@ -2267,6 +2279,10 @@
     "ns9BOvCyjdapYhI0": {
       "French": "Cueilleur de racines",
       "English": "Root Worker"
+    },
+    "nXnaV9JwUG1N2dsg": {
+      "French": "Avide de notori\u00E9t\u00E9",
+      "English": "Attention Addict"
     },
     "NXYce9NAHls2fcIf": {
       "French": "Recrue des \u00C9claireurs",
@@ -2339,6 +2355,10 @@
     "qbvzNG8hMjb8f66D": {
       "French": "\u00C9cuyer",
       "English": "Squire"
+    },
+    "QnL7hqUi9HPenrbC": {
+      "French": "Nouveau venu dans le besoin",
+      "English": "Newcomer In Need"
     },
     "qY4IUwVWIKPSFskP": {
       "French": "Trap\u00E9ziste",
@@ -2428,6 +2448,10 @@
       "French": "Serviteur",
       "English": "Servant"
     },
+    "uF9nw15tK6b1bgre": {
+      "French": "Fanatique du Ph\u00E9nix de rubis",
+      "English": "Ruby Phoenix Fanatic"
+    },
     "UgityMZaujmYUpil": {
       "French": "De passage",
       "English": "Out-Of-Towner"
@@ -2503,6 +2527,10 @@
     "WueM94C9JXk10jPd": {
       "French": "Marchand d\u0027Onyx",
       "English": "Onyx Trader"
+    },
+    "wz4fDeZtCvxC4vyO": {
+      "French": "Champion de la seconde chance",
+      "English": "Second Chance Champion"
     },
     "x2y25cE98Eq4qxbu": {
       "French": "\u00C9tudiant ustalavien",
@@ -3384,6 +3412,10 @@
       "French": "Sorts de ki",
       "English": "Ki Spells"
     },
+    "1K6m6AVmn3r8XZ9d": {
+      "French": null,
+      "English": "Path to Perfection"
+    },
     "1NGTc0gqEtwaFqUK": {
       "French": "Sp\u00E9cialisation avec les armes (Niveau 13)",
       "English": "Weapon Specialization (Level 13)"
@@ -3464,10 +3496,6 @@
       "French": "Muse - \u00C9nigmatique",
       "English": "Enigma Muse"
     },
-    "4uvohEHSm17wY7gc": {
-      "French": "Expertise avec les armes simples",
-      "English": "Simple Weapon Expertise"
-    },
     "571c1aGnvNVwfF6b": {
       "French": "Clart\u00E9 oraculaire",
       "English": "Oracular Clarity"
@@ -3501,7 +3529,7 @@
       "English": "Spell Repertoire (Bard)"
     },
     "6v4Rj7wWfOH1882r": {
-      "French": "sp\u00E9cialit\u00E9 du chasseur : D\u00E9luge",
+      "French": "Sp\u00E9cialit\u00E9 du chasseur : D\u00E9luge",
       "English": "Hunter\u0027s Edge: Flurry"
     },
     "6XwGONPdr9SFDtDc": {
@@ -3549,7 +3577,7 @@
       "English": "Arcane School"
     },
     "7PzcKaDGy6tIkQh4": {
-      "French": "R\u00E9flexes \u00E9clair (Niveau 11)",
+      "French": "R\u00E9flexes fulgurants (Niveau 11)",
       "English": "Lightning Reflexes (Level 11)"
     },
     "7WBZ2kkhZ7JorWu2": {
@@ -3668,6 +3696,10 @@
       "French": "Ma\u00EEtre chasseur (Pr\u00E9cision)",
       "English": "Masterful Hunter (Precision)"
     },
+    "bv3Qel8v9tpoFbw4": {
+      "French": null,
+      "English": "Alchemist Armor Expertise (Level 13)"
+    },
     "Bwr9G9IR4ynm5wzz": {
       "French": "Voie vers la perfection - R\u00E9flexes",
       "English": "Path to Perfection (Reflex)"
@@ -3761,7 +3793,7 @@
       "English": "Perpetual Infusions (Mutagenist)"
     },
     "dUMsM0yDTCdV31p6": {
-      "French": "Troisi\u00E8me voie vers la perfection -",
+      "French": "Troisi\u00E8me voie vers la perfection - Vigueur",
       "English": "Third Path to Perfection (Fortitude)"
     },
     "DutW12WMFPHBoLTH": {
@@ -3860,6 +3892,10 @@
       "French": "Incantation occulte",
       "English": "Occult Spellcasting"
     },
+    "FiVYuIPTBzPzNP4E": {
+      "French": null,
+      "English": "Alchemist Armor Mastery (Level 19)"
+    },
     "flEx8eY0NinF9XZU": {
       "French": "Ma\u00EEtre d\u00E9tective",
       "English": "Master Detective"
@@ -3923,6 +3959,10 @@
     "H6ziAPvCipTPG8SH": {
       "French": "Sorts de lignage",
       "English": "Bloodline Spells"
+    },
+    "haoTkr2U5k7kaAKN": {
+      "French": null,
+      "English": "Third Path to Perfection"
     },
     "Hfaa7TuLn3nE8lr3": {
       "French": "Incantateur l\u00E9gendaire (Niveau 19)",
@@ -4009,7 +4049,7 @@
       "English": "Resolve (Level 7)"
     },
     "Jtn7IugykXDlIoZq": {
-      "French": "riposte opportune",
+      "French": "Riposte opportune",
       "English": "Opportune Riposte"
     },
     "JuKD6k7nDwfO0Ckv": {
@@ -4181,7 +4221,7 @@
       "English": "Revelation Spells"
     },
     "nxZYP3KGfTSkaW6J": {
-      "French": "Les principes du bien",
+      "French": "Les principes du Bien",
       "English": "The Tenets of Good"
     },
     "nzgb43mQmLgaqDoQ": {
@@ -4205,7 +4245,7 @@
       "English": "Forensic Medicine Methodology"
     },
     "o8nHreMyiLi64rZz": {
-      "French": null,
+      "French": "Doctrine : quatri\u00E8me dogme",
       "English": "Fourth Doctrine"
     },
     "O99eXctsEjEpuBwe": {
@@ -4736,6 +4776,10 @@
       "French": "Muse - Touche-\u00E0-tout",
       "English": "Polymath Muse"
     },
+    "y6qnbUc8y0815QNE": {
+      "French": null,
+      "English": "Second Path to Perfection"
+    },
     "YByJ9O7oe8wxfbqs": {
       "French": "Perfection perp\u00E9tuelle (Chirurgien)",
       "English": "Perpetual Perfection (Chirurgeon)"
@@ -5025,11 +5069,11 @@
       "English": "Bladed Diabolo"
     },
     "0lhh2l4kh3QrwYH9": {
-      "French": null,
+      "French": "Pi\u00E8ge Titubeur",
       "English": "Hobbling Snare"
     },
     "0NZuvpCVr21WcQtH": {
-      "French": null,
+      "French": "",
       "English": "Locket of Sealed Nightmares"
     },
     "0PPQl3TEr1yNhhN6": {
@@ -5045,11 +5089,11 @@
       "English": "Mentalist\u0027s Staff (Greater)"
     },
     "0RTsyWutvO42O0zK": {
-      "French": null,
+      "French": "Mutag\u00E8ne Pousse-Roseau (inf\u00E9rieur)",
       "English": "Applereed Mutagen (Lesser)"
     },
     "0XSl2DU7JvKXOqTo": {
-      "French": null,
+      "French": "Goutte d\u0027assommoir",
       "English": "Knockout Dram"
     },
     "0yeM77XLNrB0a0LF": {
@@ -5085,7 +5129,7 @@
       "English": "Pendant of the Occult (Greater)"
     },
     "1CAPGpQczfq5exrs": {
-      "French": null,
+      "French": "Adr\u00E9naline dilu\u00E9e",
       "English": "Diluted Hype"
     },
     "1DHjXJEdJ7GlGSzg": {
@@ -5109,7 +5153,7 @@
       "English": "Staff of Impossible Visions (True)"
     },
     "1IeT2jIpBxxUo1uD": {
-      "French": null,
+      "French": "",
       "English": "Slates of Distant Letters"
     },
     "1k3AsSW7lpU0kEpY": {
@@ -5117,11 +5161,11 @@
       "English": "Buckler"
     },
     "1kNp6yOS0aZPBPzZ": {
-      "French": null,
+      "French": "",
       "English": "Juggernaut Mutagen (Major)"
     },
     "1LKJvK9ofzIIkQX3": {
-      "French": null,
+      "French": "",
       "English": "Sun Orchid Poultice"
     },
     "1M4SSDuTv2SwBltC": {
@@ -5133,7 +5177,7 @@
       "English": "Rock-Braced"
     },
     "1Nez8K5C4fwgFrTz": {
-      "French": null,
+      "French": "Tige d\u0027Enregistrement",
       "English": "Recording Rod (Basic)"
     },
     "1OJxRnPs0viJVrZq": {
@@ -5157,7 +5201,7 @@
       "English": "Wand of Crackling Lightning (6th-Level Spell)"
     },
     "1TWHN8RbimPVXM0U": {
-      "French": null,
+      "French": "S\u00E9rum de Choc-vigueur (inf\u00E9rieur)",
       "English": "Sinew-Shock Serum (Lesser)"
     },
     "1U7Laa7Yt7i3G77L": {
@@ -5177,11 +5221,11 @@
       "English": "Silver Shield (Low-Grade)"
     },
     "1YROvQsCdq8WFWRj": {
-      "French": null,
+      "French": "",
       "English": "Time Shield Potion"
     },
     "1ZOTwnqA9ccfdrey": {
-      "French": null,
+      "French": "Cardioline d\u0027Aroden",
       "English": "Aroden\u0027s Hearthstone"
     },
     "20nQTcGzpUv8jJ6R": {
@@ -5189,7 +5233,7 @@
       "English": "Wand of Widening (8th-Level Spell)"
     },
     "25Rr05SIfTj0GA31": {
-      "French": null,
+      "French": "Potion de d\u00E9guisement (mod\u00E9r\u00E9e)",
       "English": "Potion of Disguise (Moderate)"
     },
     "26bM70yn28MjDT9A": {
@@ -5205,7 +5249,7 @@
       "English": "Bloodeye Coffee"
     },
     "2EOeljZiUdNVf8s2": {
-      "French": null,
+      "French": "",
       "English": "Bullhook"
     },
     "2FjdEflsVldnuebM": {
@@ -5245,7 +5289,7 @@
       "English": "Caterwaul Sling"
     },
     "2koNKqbQV05myfuL": {
-      "French": null,
+      "French": "",
       "English": "Dust of Corpse Animation"
     },
     "2MgFoNXTccL8Own9": {
@@ -5305,7 +5349,7 @@
       "English": "Tears of the Last Azlanti"
     },
     "2x8F5s3PyKzYsRrZ": {
-      "French": null,
+      "French": "Masque du limier (sup\u00E9rieur)",
       "English": "Bloodhound Mask (Greater)"
     },
     "2z4GSaKaVX22kzPU": {
@@ -5325,7 +5369,7 @@
       "English": "Bag of Holding (Type IV)"
     },
     "34MbgwW1SGlowyk2": {
-      "French": null,
+      "French": "Mutag\u00E8ne d\u0027\u00C9nergie (majeure)",
       "English": "Energy Mutagen (Major)"
     },
     "35rLqxDWgiDIkL8e": {
@@ -5333,7 +5377,7 @@
       "English": "Wand of Continuation (6th-Level Spell)"
     },
     "3BTIKYHck3JIAPiH": {
-      "French": null,
+      "French": "",
       "English": "Insistent Door Knocker (Major)"
     },
     "3cWko20JPnjeoofV": {
@@ -5349,7 +5393,7 @@
       "English": "Gold Dragon\u0027s Breath Potion (Young)"
     },
     "3G2No6QaU1wSPTh6": {
-      "French": null,
+      "French": "",
       "English": "Urn of Ashes"
     },
     "3hv6NVC2rVu4QCNt": {
@@ -5357,11 +5401,11 @@
       "English": "Sleeves of Storage (Greater)"
     },
     "3IknuOpIV1OSNl98": {
-      "French": null,
+      "French": "",
       "English": "Lucky Rabbit\u0027s Foot"
     },
     "3iRTGS2vYXz7SBrn": {
-      "French": null,
+      "French": "Boursouflure bleue",
       "English": "Blueblisters"
     },
     "3Klm2gPmzOw6ntVb": {
@@ -5393,7 +5437,7 @@
       "English": "Maestro\u0027s Instrument (Moderate)"
     },
     "3nv4JcajPAxDgGMb": {
-      "French": null,
+      "French": "",
       "English": "Grail of Twisted Desires"
     },
     "3oexArva2aEm69WV": {
@@ -5405,7 +5449,7 @@
       "English": "Staff of Healing"
     },
     "3pKIEBtZBVmSmVPl": {
-      "French": null,
+      "French": "",
       "English": "Earthglide Cloak"
     },
     "3RPYWoUv1VKGjJ7i": {
@@ -5505,7 +5549,7 @@
       "English": "Crowbar (Levered)"
     },
     "4Lhy6pAOIZdOufu3": {
-      "French": null,
+      "French": "",
       "English": "Wand of Teeming Ghosts (6th-Level Spell)"
     },
     "4ObrlZ5GhCPA2E2s": {
@@ -5525,7 +5569,7 @@
       "English": "Comealong"
     },
     "4RKfLoqVluZGWzLc": {
-      "French": null,
+      "French": "",
       "English": "Incense of Distilled Death"
     },
     "4sGIy77COooxhQuC": {
@@ -5537,7 +5581,7 @@
       "English": "Leather Armor"
     },
     "4tnPWyApPZP1P1yO": {
-      "French": null,
+      "French": "Cabochon de Blocage au bouclier",
       "English": "Swift Block Cabochon"
     },
     "5BF7zMnrPYzyigCs": {
@@ -5545,7 +5589,7 @@
       "English": "Magic Wand (5th-Level Spell)"
     },
     "5BU4hJ1oXMLtSkuA": {
-      "French": null,
+      "French": "",
       "English": "Sparkblade"
     },
     "5CqtgygdvqecMoRU": {
@@ -5573,7 +5617,7 @@
       "English": "Silver statuette of a raven"
     },
     "5ftFTiKY0BMvhzL9": {
-      "French": null,
+      "French": "Mutag\u00E8ne Corps-de-pierre (inf\u00E9rieur)",
       "English": "Stone Body Mutagen (Lesser)"
     },
     "5fu6dCtqhdBnHNqh": {
@@ -5589,7 +5633,7 @@
       "English": "Magnifying Glass"
     },
     "5hGJ6CZi0A9OjMd4": {
-      "French": null,
+      "French": "",
       "English": "Oblivion Essence"
     },
     "5ix9inqdHLksqeoR": {
@@ -5601,7 +5645,7 @@
       "English": "Ladder (10-foot)"
     },
     "5KYn9J1Hj4IG3Z0X": {
-      "French": null,
+      "French": "Bouton de Feuille",
       "English": "Snapleaf"
     },
     "5MKBwpE401uz4kNN": {
@@ -5629,7 +5673,7 @@
       "English": "Scholarly Journal Compendium"
     },
     "5SKGqxahAGsJgzRF": {
-      "French": null,
+      "French": "",
       "English": "Aeon Stone (Pearlescent Pyramid)"
     },
     "5sMAAIymln2yIl4q": {
@@ -5657,7 +5701,7 @@
       "English": "Candle of Truth"
     },
     "62HxCEDwhlZaeR0Q": {
-      "French": null,
+      "French": "S\u00E9rum de Choc-vigueur (sup\u00E9rieur)",
       "English": "Sinew-Shock Serum (Greater)"
     },
     "62nnVQvGhoVLLl2K": {
@@ -5673,7 +5717,7 @@
       "English": "Talisman Cord (Greater)"
     },
     "64mxKuxc9k98FkUi": {
-      "French": null,
+      "French": "",
       "English": "Fire-Jump Ring"
     },
     "65YL6nk1jIzCWutt": {
@@ -5685,7 +5729,7 @@
       "English": "Poisonous Cloak Type I"
     },
     "67KiGZtoTMbl7nv2": {
-      "French": null,
+      "French": "Potion de Riposte Enflamm\u00E9e (inf\u00E9rieure)",
       "English": "Potion of Fire Retaliation (Lesser)"
     },
     "69IWSryF5BWkwWXY": {
@@ -5761,11 +5805,11 @@
       "English": "Shot of the First Vault"
     },
     "6odVabL0WL2H89Ic": {
-      "French": null,
+      "French": "\u00C9lixir Six-doigts (sup\u00E9rieur)",
       "English": "Sixfingers Elixir (Greater)"
     },
     "6P6lDnIxK7plyCEI": {
-      "French": null,
+      "French": "Couette de Lys",
       "English": "Swamp Lily Quilt"
     },
     "6qJkA6fnHHiF4CEV": {
@@ -5789,7 +5833,7 @@
       "English": "Shell"
     },
     "6vyr3drpizIrd5PS": {
-      "French": null,
+      "French": "",
       "English": "Daylight Vapor"
     },
     "6wCA8h0jpMnqPbib": {
@@ -5841,7 +5885,7 @@
       "English": "Depth Gauge"
     },
     "7IrQPyMm76nLVoXx": {
-      "French": null,
+      "French": "Colle souveraine",
       "English": "Sovereign Glue"
     },
     "7iVFlnr2ZbBdtOx8": {
@@ -5861,7 +5905,7 @@
       "English": "Diamond, large"
     },
     "7p3C9xf3XgUbvKHL": {
-      "French": null,
+      "French": "",
       "English": "Frenzy Oil"
     },
     "7SPJO9xr89N8E23s": {
@@ -5877,7 +5921,7 @@
       "English": "Bottled Air"
     },
     "7TT0XIb8ovLFOP2e": {
-      "French": null,
+      "French": "",
       "English": "Honeyscent"
     },
     "7Uk6LMmzsCxuhhA6": {
@@ -5917,7 +5961,7 @@
       "English": "Soap"
     },
     "81XVuTsF1zD6EXmN": {
-      "French": null,
+      "French": "Tube de Poivre aveuglant",
       "English": "Blindpepper Tube"
     },
     "85GqeSGXjSQwLy07": {
@@ -5957,7 +6001,7 @@
       "English": "Silver Buckler (Standard-Grade)"
     },
     "8e37h6HBr4ZyBSGt": {
-      "French": null,
+      "French": "Mutag\u00E8ne Pousse-Roseau (mod\u00E9r\u00E9)",
       "English": "Applereed Mutagen (Moderate)"
     },
     "8E7qXnNOSm51UwsG": {
@@ -5977,7 +6021,7 @@
       "English": "Darkwood Tower Shield (High-Grade)"
     },
     "8GEsRsQAdDljRT1s": {
-      "French": null,
+      "French": "",
       "English": "Hunger Oil"
     },
     "8HxM35X8DDt2gw9d": {
@@ -6001,7 +6045,7 @@
       "English": "Ring of Wizardry (Type IV)"
     },
     "8KbayiwrUJtvif0a": {
-      "French": null,
+      "French": "\u00C9lixir de Concentration purificateur (inf\u00E9rieur)",
       "English": "Focus Cathartic (Lesser)"
     },
     "8mhSUxEvNuXDP8Ki": {
@@ -6021,7 +6065,7 @@
       "English": "Scrimshaw whale bone"
     },
     "8qUja4YdvewN4es0": {
-      "French": null,
+      "French": "",
       "English": "Death Knell Powder"
     },
     "8RH0e9UqXIxAPJJG": {
@@ -6029,7 +6073,7 @@
       "English": "Silk mask decorated with citrines"
     },
     "8uyRlAkWdEyfOziq": {
-      "French": null,
+      "French": "",
       "English": "Mage Bane"
     },
     "8V4mgecGASsQ7fjl": {
@@ -6041,7 +6085,7 @@
       "English": "Adamantine Ingot"
     },
     "8x8zqH4pJKJRlyAj": {
-      "French": null,
+      "French": "",
       "English": "Moonstone Diadem"
     },
     "8xWA0demi2yQsl3C": {
@@ -6053,11 +6097,11 @@
       "English": "Alchemist Goggles (Greater)"
     },
     "8YnlhfZSQ89FjDZ2": {
-      "French": null,
+      "French": "",
       "English": "Corpseward Pendant"
     },
     "903CuhvVUhE1lmoB": {
-      "French": null,
+      "French": "Munition corrosive",
       "English": "Corrosive Ammunition"
     },
     "937vrPcl9rpzdtJw": {
@@ -6073,7 +6117,7 @@
       "English": "Bottled Lightning (Moderate)"
     },
     "98JIeYGEuE6pPV05": {
-      "French": null,
+      "French": "",
       "English": "Floorbell"
     },
     "9CAWAKkZE7dr4FlJ": {
@@ -6097,7 +6141,7 @@
       "English": "Wand of Hopeless Night (4th-Level Spell)"
     },
     "9hdT05ywPVyh9vQX": {
-      "French": null,
+      "French": "",
       "English": "Cerulean Scourge"
     },
     "9iDqOLNFKxiTcFKE": {
@@ -6121,7 +6165,7 @@
       "English": "Bleeding Spines Snare"
     },
     "9mXjEGJaESesndWh": {
-      "French": null,
+      "French": "Vaccin (sup\u00E9rieur)",
       "English": "Vaccine (Greater)"
     },
     "9nhvZ7VnDQHuyBdf": {
@@ -6129,7 +6173,7 @@
       "English": "Brimstone Fumes"
     },
     "9Ptn7yy2QeM8taU8": {
-      "French": null,
+      "French": "",
       "English": "Flawed Orb of Gold Dragonkind"
     },
     "9RxYSGp86HKtK8R8": {
@@ -6137,7 +6181,7 @@
       "English": "Class Kit (Swashbuckler)"
     },
     "9uhJ7OB65ZTdUc8b": {
-      "French": null,
+      "French": "",
       "English": "Necklace of Knives"
     },
     "9UJbMaglf35GVzaZ": {
@@ -6153,7 +6197,7 @@
       "English": "Panacea Fruit"
     },
     "9XrsaIc80eXhKaoM": {
-      "French": null,
+      "French": "",
       "English": "Rope of Climbing (Moderate)"
     },
     "9XSOAzq3xp9g6qkF": {
@@ -6185,7 +6229,7 @@
       "English": "Dragon\u0027s Eye Charm"
     },
     "a5dEzZPuxsmTvlWS": {
-      "French": null,
+      "French": "",
       "English": "Insistent Door Knocker (Greater)"
     },
     "a60NH7OztaEaGlU8": {
@@ -6193,7 +6237,7 @@
       "English": "Wand of Continuation (1st-Level Spell)"
     },
     "A7TCZXIwyxdqYSas": {
-      "French": null,
+      "French": "",
       "English": "Singing Bowl of the Versatile Stance"
     },
     "aA9clnIP3deHNNjo": {
@@ -6205,7 +6249,7 @@
       "English": "Spellstrike Ammunition (Type IX)"
     },
     "AALcDOpwxCBN50lA": {
-      "French": null,
+      "French": "L\u0027encre des Amants",
       "English": "Lover\u0027s Ink"
     },
     "Ab5EjJyoRSec5YrW": {
@@ -6265,7 +6309,7 @@
       "English": "Alarm Snare"
     },
     "AgBIZtwciSsCZeNN": {
-      "French": null,
+      "French": "Potion de Riposte Enflamm\u00E9e (mod\u00E9r\u00E9e)",
       "English": "Potion of Fire Retaliation (Moderate)"
     },
     "aGJJwRpFRMgneROG": {
@@ -6277,7 +6321,7 @@
       "English": "Sardonyx"
     },
     "AHkmoVr1NSFytJwp": {
-      "French": null,
+      "French": "",
       "English": "Merchant\u0027s Guile"
     },
     "AhvjU4QbinWPM9t3": {
@@ -6326,7 +6370,7 @@
     },
     "AnwzlOs0njF9Jqnr": {
       "French": "Armure de peau",
-      "English": "Hide"
+      "English": "Hide Armor"
     },
     "ANzB9WzlGQXDn76G": {
       "French": "Antidote (majeur)",
@@ -6341,7 +6385,7 @@
       "English": "Reforging Shield"
     },
     "apGQcVMSRprFEeKt": {
-      "French": null,
+      "French": "Potion de Riposte acide (mineure)",
       "English": "Potion of Acid Retaliation (Minor)"
     },
     "APZJC0A469gBozf1": {
@@ -6361,11 +6405,11 @@
       "English": "Cheetah\u0027s Elixir (Moderate)"
     },
     "AqslI71DReZOzgAW": {
-      "French": null,
+      "French": "Concoction de soleil",
       "English": "Formulated Sunlight"
     },
     "aR0tsZ3xi1iwr53u": {
-      "French": null,
+      "French": "",
       "English": "Shoony Shovel"
     },
     "asQAvJXm3DSzPQtA": {
@@ -6373,7 +6417,7 @@
       "English": "Class Kit (Bard)"
     },
     "ASroFtAWLwn6HJJH": {
-      "French": null,
+      "French": "",
       "English": "Wand of Teeming Ghosts (8th-Level Spell)"
     },
     "Aulo25tnSdOCOmrI": {
@@ -6397,7 +6441,7 @@
       "English": "Longspear"
     },
     "AYdpUABAZeZnSA7s": {
-      "French": "Accessoires",
+      "French": "Accessoires d\u0027Infiltrateur",
       "English": "Infiltrator\u0027s Accessory"
     },
     "aZ8HzjZCOJCV7ZWh": {
@@ -6421,7 +6465,7 @@
       "English": "Peshpine Grenade (Major)"
     },
     "b2shhButUcNimET9": {
-      "French": null,
+      "French": "",
       "English": "Mask of the Banshee (Greater)"
     },
     "B3aJa0csNZOGXLXT": {
@@ -6457,7 +6501,7 @@
       "English": "Pathfinder Chronicle"
     },
     "bCPAiqiWmH7pVxNE": {
-      "French": null,
+      "French": "Potion de Riposte glaciale (majeure)",
       "English": "Potion of Cold Retaliation (Major)"
     },
     "bCsdAkffuk29ssUg": {
@@ -6469,7 +6513,7 @@
       "English": "Potion of Fire Resistance (Lesser)"
     },
     "bEaiID2KLQ8lTCai": {
-      "French": null,
+      "French": "Potion de Riposte \u00C9lectrique (majeure)",
       "English": "Potion of Electricity Retaliation (Major)"
     },
     "bgswgiXV12HW0aEz": {
@@ -6493,7 +6537,7 @@
       "English": "Antiplague (Moderate)"
     },
     "BjCGt377LpCwbtyS": {
-      "French": null,
+      "French": "D\u00E9guisement d\u0027urgence",
       "English": "Emergency Disguise"
     },
     "bJKgKrIQ5puuifcz": {
@@ -6501,7 +6545,7 @@
       "English": "Class Kit (Sorcerer)"
     },
     "bJVk50mhaODgsOUe": {
-      "French": null,
+      "French": "Poison de Moisissure Jaune",
       "English": "Yellow Musk Poison"
     },
     "BJxnnY9ap2wMDnRN": {
@@ -6513,8 +6557,8 @@
       "English": "Armored Skirt"
     },
     "BKdzb8hu3kZtKH3Z": {
-      "French": null,
-      "English": "Bracelets of Dashing"
+      "French": "Bracelet de fougue",
+      "English": "Bracelet of Dashing"
     },
     "BKFuMxi0dXu7yFxe": {
       "French": "Anneau de v\u00E9rit\u00E9",
@@ -6557,11 +6601,11 @@
       "English": "Choker of Elocution (Greater)"
     },
     "bRqczrlQDaeUvg6b": {
-      "French": null,
+      "French": "Adr\u00E9naline plasmatique",
       "English": "Plasma Hype"
     },
     "BSInwFNVBVkfFK0B": {
-      "French": null,
+      "French": "Huile de Non-vie (inf\u00E9rieure)",
       "English": "Oil of Unlife (Lesser)"
     },
     "bSm0Hki8N2L50OZw": {
@@ -6581,7 +6625,7 @@
       "English": "Tack"
     },
     "bU731I8njNmSAQhQ": {
-      "French": null,
+      "French": "",
       "English": "Aluum Charm"
     },
     "BUHV5rev5HVgCrUB": {
@@ -6621,15 +6665,15 @@
       "English": "Thieves\u0027 Tools (Infiltrator Picks)"
     },
     "c0gjWASSeNIRNmEw": {
-      "French": null,
+      "French": "",
       "English": "Warrior\u0027s Training Ring"
     },
     "C0kSU5KWMzLngvTa": {
-      "French": null,
+      "French": "",
       "English": "Oil of Object Animation"
     },
     "C0Zhu7Vwy9Aipwoh": {
-      "French": null,
+      "French": "",
       "English": "Spectral Nightshade"
     },
     "c124j3cpv8rl5MLp": {
@@ -6669,7 +6713,7 @@
       "English": "Club"
     },
     "C6v5p0ZtIUroYlU2": {
-      "French": null,
+      "French": "Agent r\u00E9pulsif de vermine (majeur)",
       "English": "Vermin Repellent Agent (Major)"
     },
     "C9wOlvuVCjVbz1YQ": {
@@ -6693,7 +6737,7 @@
       "English": "Blightburn Resin"
     },
     "ccrdVliTNBh2mNZf": {
-      "French": null,
+      "French": "Mutag\u00E8ne de s\u00E9r\u00E9nit\u00E9 (majeur)",
       "English": "Serene Mutagen (Major)"
     },
     "ccsgob2TZ7WqTrp7": {
@@ -6705,7 +6749,7 @@
       "English": "Golden Legion Epaulet"
     },
     "CeKPffF0FaEyhLMp": {
-      "French": null,
+      "French": "Poison de Grenouille-liane",
       "English": "Spear Frog Poison"
     },
     "CF9BCVE0ppxMmULb": {
@@ -6721,7 +6765,7 @@
       "English": "Conducting"
     },
     "cImNgwDCqwa6Dil1": {
-      "French": null,
+      "French": "Enchaussement de Fer froid (inf\u00E9rieur)",
       "English": "Cold Iron Blanch (Lesser)"
     },
     "CjfBdn0fOIarWzBc": {
@@ -6785,11 +6829,11 @@
       "English": "Class Kit (Fighter)"
     },
     "cqTCg6C0lvYUKQmx": {
-      "French": null,
+      "French": "Mutag\u00E8ne Corps-de-pierre (sup\u00E9rieur)",
       "English": "Stone Body Mutagen (Greater)"
     },
     "CReWZjAd3szYQ6Mx": {
-      "French": null,
+      "French": "Agent r\u00E9pulsif de vermine (sup\u00E9rieur)",
       "English": "Vermin Repellent Agent (Greater)"
     },
     "CRTNNgrmssD6bQqQ": {
@@ -6809,7 +6853,7 @@
       "English": "Musical Instrument (Heavy)"
     },
     "cSrCTi2zE5OU5ylH": {
-      "French": null,
+      "French": "",
       "English": "Lifeblight Residue"
     },
     "CtAg4DpSssKBIw8R": {
@@ -6817,7 +6861,7 @@
       "English": "Replacement Filter (Level 5)"
     },
     "cTBmQgWUyf50x3dY": {
-      "French": null,
+      "French": "Poison de Tache noire",
       "English": "Black Smear Poison"
     },
     "CTiLugp5ptSItEqN": {
@@ -6841,7 +6885,7 @@
       "English": "Feather Token (Holly Bush)"
     },
     "cWYa0i1BqhbEruD6": {
-      "French": null,
+      "French": "Suppresseur de d\u00E9pendance (mod\u00E9r\u00E9)",
       "English": "Addiction Suppressant (Moderate)"
     },
     "cxOf1V1kN9tnj1g9": {
@@ -6861,7 +6905,7 @@
       "English": "Bloodstone"
     },
     "d8wTwHiA09HP45IM": {
-      "French": null,
+      "French": "",
       "English": "Golem Stylus"
     },
     "DA3HgyEBGEbtRNOo": {
@@ -6917,7 +6961,7 @@
       "English": "Halberd"
     },
     "DH0kB9Wbr5pDeunX": {
-      "French": null,
+      "French": "",
       "English": "Holy"
     },
     "dh4FEXlA0FxTfnpY": {
@@ -6969,7 +7013,7 @@
       "English": "Dwarven Daisy (Moderate)"
     },
     "Do8vjuUBOslgPtyw": {
-      "French": null,
+      "French": "",
       "English": "Balisse Feather"
     },
     "dolBtAdB5lpQpQpp": {
@@ -6977,7 +7021,7 @@
       "English": "Ventriloquist\u0027s Ring (Greater)"
     },
     "dPQhe0tAa5LkPFoW": {
-      "French": null,
+      "French": "",
       "English": "Swarmeater\u0027s Clasp"
     },
     "Dr9b08JhDThUenF9": {
@@ -6985,11 +7029,11 @@
       "English": "Necklace of Fireballs IV"
     },
     "dRi775Uhzqgn7aBs": {
-      "French": null,
+      "French": "",
       "English": "Nightmare Salt"
     },
     "dRVDcmkaB2p8zPcs": {
-      "French": null,
+      "French": "",
       "English": "Stole of Civility"
     },
     "drxEWZl8mqMOZ23E": {
@@ -7005,7 +7049,7 @@
       "English": "Dread Ampoule (Lesser)"
     },
     "ds7j3D8IIyxWd2XI": {
-      "French": null,
+      "French": "",
       "English": "Winged"
     },
     "Ds8GJEQyRYamRIiB": {
@@ -7069,7 +7113,7 @@
       "English": "Whip of Compliance"
     },
     "dyvwp4EHgJDzVjJh": {
-      "French": null,
+      "French": "Sph\u00E8re de Brume-m\u00E9tal (sup\u00E9rieur)",
       "English": "Metalmist Sphere (Greater)"
     },
     "dzfmP3WsA15puenS": {
@@ -7101,7 +7145,7 @@
       "English": "Gold and aquamarine diadem"
     },
     "E7BcwZy8nTpTLYf1": {
-      "French": null,
+      "French": "Bombe de Poivre aveuglant",
       "English": "Blindpepper Bomb"
     },
     "E999hL7XlAlfZhjK": {
@@ -7157,7 +7201,7 @@
       "English": "Smokestick (Greater)"
     },
     "eHVZBmtzEcnsHSk8": {
-      "French": null,
+      "French": "\u00C9lixir d\u0027Incr\u00E9dule (inf\u00E9rieur)",
       "English": "Skeptic\u0027s Elixir (Lesser)"
     },
     "EIBmADRICTyYzxik": {
@@ -7169,7 +7213,7 @@
       "English": "Thieves\u0027 Tools (Concealable)"
     },
     "EkC2W5A5fohoIKSd": {
-      "French": null,
+      "French": "Ration \u00E9nergisante (sup\u00E9rieure)",
       "English": "Ration Tonic (Greater)"
     },
     "EKgLX0TCyFik3gPS": {
@@ -7213,7 +7257,7 @@
       "English": "Eye of the Wise"
     },
     "EP8f2NL28vPlmX7k": {
-      "French": null,
+      "French": "",
       "English": "Oil of Object Animation (Greater)"
     },
     "Epc1e1Q9M9bcwOR0": {
@@ -7237,7 +7281,7 @@
       "English": "Cold Iron Ingot"
     },
     "esDSCEI1cf8Op93I": {
-      "French": null,
+      "French": "Suppresseur de d\u00E9pendance (majeur)",
       "English": "Addiction Suppressant (Major)"
     },
     "eSHX07MqMT4SM1zY": {
@@ -7285,7 +7329,7 @@
       "English": "Tanglefoot Bag (Moderate)"
     },
     "evdDpgFpiFZt9UyA": {
-      "French": null,
+      "French": "",
       "English": "Potion of Cold Resistance (Moderate)"
     },
     "ewQZ0VeL38v3qFnN": {
@@ -7293,7 +7337,7 @@
       "English": "Studded Leather Armor"
     },
     "EWujUs3YmlBu2jhm": {
-      "French": null,
+      "French": "Onguent de bouclier",
       "English": "Shielding Salve"
     },
     "ewzJzyJ4Vo9lZKvp": {
@@ -7337,7 +7381,7 @@
       "English": "Potion of Electricity Resistance (Greater)"
     },
     "f9vNVQ2v45mDI8Xr": {
-      "French": null,
+      "French": "",
       "English": "Aeon Stone (Azure Briolette)"
     },
     "f9ygr5Cjrmop8LWV": {
@@ -7349,7 +7393,7 @@
       "English": "Ring of Discretion"
     },
     "fabw5fDuaTMUF0tb": {
-      "French": null,
+      "French": "Potion de Riposte acide (majeure)",
       "English": "Potion of Acid Retaliation (Major)"
     },
     "fagzYdmfYyMQ6J77": {
@@ -7361,7 +7405,7 @@
       "English": "Ring of Wizardry (Type I)"
     },
     "FB7qAHjiiHTGhRnn": {
-      "French": null,
+      "French": "",
       "English": "Celestial Hair"
     },
     "FbquJr6FuXL3K373": {
@@ -7389,7 +7433,7 @@
       "English": "Katar"
     },
     "FgAPV0iLE6R1QMJ5": {
-      "French": null,
+      "French": "",
       "English": "Skinstitch Salve"
     },
     "Fgv722039TVM5JTc": {
@@ -7473,7 +7517,7 @@
       "English": "Ruler"
     },
     "fTQ5e4utVfgtXV1e": {
-      "French": null,
+      "French": "Huile de Non-vie (mineure)",
       "English": "Oil of Unlife (Minor)"
     },
     "ftSaD4c5io4pP4OB": {
@@ -7485,7 +7529,7 @@
       "English": "Staff of Healing (Major)"
     },
     "fuDYKpDN9RmCX7do": {
-      "French": null,
+      "French": "",
       "English": "Razmiri Wayfinder"
     },
     "fUENXLX3tzi33CcB": {
@@ -7533,7 +7577,7 @@
       "English": "Rope"
     },
     "FZ6SMwiei6NnEp3e": {
-      "French": null,
+      "French": "Mutag\u00E8ne Corps-de-pierre",
       "English": "Stone Body Mutagen (Moderate)"
     },
     "g27kK39Nzqphl1Tb": {
@@ -7549,7 +7593,7 @@
       "English": "Flame Tongue"
     },
     "G4cmHHhAChAlypFN": {
-      "French": null,
+      "French": "",
       "English": "Rope of Climbing (Lesser)"
     },
     "G5WuYX1ghrZcJ1J1": {
@@ -7589,7 +7633,7 @@
       "English": "Class Kit (Druid)"
     },
     "gDfBzU6umebo5RXP": {
-      "French": null,
+      "French": "",
       "English": "Palm Crossbow"
     },
     "gDGPvobJV1QGYBPy": {
@@ -7609,7 +7653,7 @@
       "English": "Rod of Negation"
     },
     "gfBAxuitJje6NL7G": {
-      "French": null,
+      "French": "",
       "English": "Rope of Climbing (Greater)"
     },
     "Gfew65lwkzZc3mUV": {
@@ -7685,7 +7729,7 @@
       "English": "Wand of Overflowing Life (7th-Level Spell)"
     },
     "GS4YvQieBS11JNYR": {
-      "French": "Mutag\u00E8ne de c\u0153ur de drake (Inf\u00E9rieur)",
+      "French": "Mutag\u00E8ne de C\u0153ur de drake (inf\u00E9rieur)",
       "English": "Drakeheart Mutagen (Lesser)"
     },
     "gScuJzOR6B0D5sHV": {
@@ -7701,7 +7745,7 @@
       "English": "Acid Flask (Major)"
     },
     "gufc2pmaYn9jzFVL": {
-      "French": null,
+      "French": "",
       "English": "Unending Youth"
     },
     "gWr4q4HiyGhETA8H": {
@@ -7709,11 +7753,11 @@
       "English": "Alchemist\u0027s Fire (Moderate)"
     },
     "GXH1PSioEkxTDceK": {
-      "French": null,
+      "French": "Poudre de D\u00E9t\u00E9rioration caustique",
       "English": "Caustic Deteriorating Dust"
     },
     "Gyi4IVrAVJRPJF2s": {
-      "French": null,
+      "French": "",
       "English": "Deck of Many Things"
     },
     "GyO89RBVjAKFxsFm": {
@@ -7725,11 +7769,11 @@
       "English": "Wand of Continuation (7th-Level Spell)"
     },
     "h2aVryWbNP24gC05": {
-      "French": null,
+      "French": "",
       "English": "Planar Ribbon"
     },
     "H2BqcfujumZVWF69": {
-      "French": null,
+      "French": "Ruban glissant",
       "English": "Slippery Ribbon"
     },
     "H74vYwHJ8XT4qOPI": {
@@ -7745,7 +7789,7 @@
       "English": "Gold urn with scenes of judgment"
     },
     "Ha6n30Tj3TNru9Dj": {
-      "French": null,
+      "French": "Sels Intemporels",
       "English": "Timeless Salts"
     },
     "HAEz4sSa6OH6C7Cs": {
@@ -7797,7 +7841,7 @@
       "English": "Keen"
     },
     "hGw7Q1y2IEXRGAfv": {
-      "French": null,
+      "French": "Potion de Gecko",
       "English": "Gecko Potion"
     },
     "Hh3F4DEP6aVulwQN": {
@@ -7817,7 +7861,7 @@
       "English": "Shortbow"
     },
     "HilBL7oeSSXqDor7": {
-      "French": null,
+      "French": "Vaccin (mod\u00E9r\u00E9)",
       "English": "Vaccine (Moderate)"
     },
     "HIxtCuH5YXNqit0W": {
@@ -7849,7 +7893,7 @@
       "English": "Clandestine Cloak"
     },
     "hMUYvp0neF0LAFqc": {
-      "French": null,
+      "French": "Potion de Riposte Enflamm\u00E9e (sup\u00E9rieur)",
       "English": "Potion of Fire Retaliation (Greater)"
     },
     "hMYdSFmMWzidzHih": {
@@ -7865,7 +7909,7 @@
       "English": "Alabaster and obsidian game set"
     },
     "hoX2sJiYtJrSp6BH": {
-      "French": null,
+      "French": "Bracelet de sauvegarde psychique",
       "English": "Psychic Warding Bracelet"
     },
     "hrG2w4IfF1QZhSzw": {
@@ -7885,11 +7929,11 @@
       "English": "Redpitch Bomb (lesser)"
     },
     "HU9eYAAfZMYnFMd9": {
-      "French": null,
+      "French": "Amulette d\u0027Attirance du Chat",
       "English": "Beckoning Cat Amulet"
     },
     "HuGZspUvJqR09Y8u": {
-      "French": null,
+      "French": "",
       "English": "Rod of Cancellation"
     },
     "HUPCdlFkJQC7Krim": {
@@ -7909,7 +7953,7 @@
       "English": "Martyr\u0027s Shield"
     },
     "hxYxRz9nOECtLak5": {
-      "French": null,
+      "French": "Pi\u00E8ge de l\u0027Empoigne-Arbre",
       "English": "Grasping Tree"
     },
     "hYBZK1kaGPeR85CH": {
@@ -7941,7 +7985,7 @@
       "English": "Ochre Fulcrum Lens"
     },
     "I2ZbXsfm0c9Eep4I": {
-      "French": null,
+      "French": "Grolna",
       "English": "Grolna"
     },
     "I3KlOUruQ2CZdcJ6": {
@@ -7961,7 +8005,7 @@
       "English": "Ghost Charge (Major)"
     },
     "I95zlGUDCply1Ydm": {
-      "French": null,
+      "French": "",
       "English": "Insistent Door Knocker"
     },
     "i9mxfSIBTTOwsSlx": {
@@ -7981,7 +8025,7 @@
       "English": "Bladed Scarf"
     },
     "idAyVZxTkPSNLbnt": {
-      "French": null,
+      "French": "",
       "English": "Quill of Passage"
     },
     "idtIMGkFmIe958Et": {
@@ -7997,7 +8041,7 @@
       "English": "Bladed Hoop"
     },
     "ieVRS2BjiWqauly6": {
-      "French": null,
+      "French": "\u00C9lixir Six-doigts (mod\u00E9r\u00E9e)",
       "English": "Sixfingers Elixir (Moderate)"
     },
     "IF6qUrR3i030v0dH": {
@@ -8045,7 +8089,7 @@
       "English": "Talisman of the Sphere"
     },
     "iNR6t5dDiYGQYTeA": {
-      "French": null,
+      "French": "Colle Rustine",
       "English": "Quickpatch Glue"
     },
     "intVPcEzbE9o4NQd": {
@@ -8097,7 +8141,7 @@
       "English": "Thunderstone (Major)"
     },
     "iUOcC9vFboSFI8fU": {
-      "French": null,
+      "French": "Mort-truqu\u00E9e",
       "English": "False Death"
     },
     "ivaL0xt33k6QNwQK": {
@@ -8185,7 +8229,7 @@
       "English": "Bag of Holding (Type I)"
     },
     "JAOWw2GhupaYoYg9": {
-      "French": null,
+      "French": "\u00C9lixir Six-doigts (inf\u00E9rieur)",
       "English": "Sixfingers Elixir (Lesser)"
     },
     "JBMBaN9dZLytfFLQ": {
@@ -8205,7 +8249,7 @@
       "English": "Monkey Pin"
     },
     "jdkMRl7zxOVGUuGI": {
-      "French": null,
+      "French": "Solvant universel (majeur)",
       "English": "Universal Solvent (Major)"
     },
     "JDQ4jqp6O8SurQGe": {
@@ -8229,7 +8273,7 @@
       "English": "Fungal Walk Musk"
     },
     "JhDhFq2JGBGR2lwb": {
-      "French": null,
+      "French": "",
       "English": "Elemental Wayfinder (Fire)"
     },
     "jJZbdMHMdh8UL2j8": {
@@ -8253,7 +8297,7 @@
       "English": "Tent (Four-Person)"
     },
     "jlFx4JIBKJuaINpv": {
-      "French": null,
+      "French": "Potion de la M\u00E9moire partag\u00E9e",
       "English": "Potion of Shared Memories"
     },
     "JN2wkB9JG4nklVKP": {
@@ -8261,7 +8305,7 @@
       "English": "Wand of Noisome Acid (2nd-Level Spell)"
     },
     "jnCP2zYJamUeZsJC": {
-      "French": null,
+      "French": "Enchaussment de fer Froid (mod\u00E9r\u00E9)",
       "English": "Cold Iron Blanch (Moderate)"
     },
     "JNt7GmLCCVz5BiEI": {
@@ -8277,7 +8321,7 @@
       "English": "Hand mirror with decorated frame"
     },
     "Jp9K5Q9t9ZiDGSaI": {
-      "French": null,
+      "French": "",
       "English": "Skarja\u0027s Heartstone"
     },
     "jpQcKMmP1I5674P7": {
@@ -8293,7 +8337,7 @@
       "English": "Ghost Touch"
     },
     "jrLgEJxPvUKtSMMO": {
-      "French": null,
+      "French": "Tige d\u0027enregistrement (R\u00E9utilisable)",
       "English": "Recording Rod (Reusable)"
     },
     "JSmdTDUEGwHVbV7g": {
@@ -8305,7 +8349,7 @@
       "English": "Crafter\u0027s Eyepiece (Greater)"
     },
     "jTfacZ4SRuQd7Avh": {
-      "French": null,
+      "French": "Potion de Retraite acc\u00E9l\u00E9r\u00E9e",
       "English": "Potion of Expeditious Retreat"
     },
     "JuNPeK5Qm1w6wpb4": {
@@ -8313,7 +8357,7 @@
       "English": "Platinum Pieces"
     },
     "jVmTtUeNxDZMP5dU": {
-      "French": null,
+      "French": "Potion de Riposte acide (sup\u00E9rieure)",
       "English": "Potion of Acid Retaliation (Greater)"
     },
     "Jvp0x2Sc82WVpExT": {
@@ -8325,7 +8369,7 @@
       "English": "Sloughing Toxin"
     },
     "JWacChecDZbdo6sT": {
-      "French": null,
+      "French": "",
       "English": "Wand of Teeming Ghosts (5th-Level Spell)"
     },
     "JwHNSaiwwqF7VCC5": {
@@ -8341,7 +8385,7 @@
       "English": "Lock (Simple)"
     },
     "JZZmDY1IJmKcdR2D": {
-      "French": null,
+      "French": "Vaccin (majeur)",
       "English": "Vaccine (Major)"
     },
     "K2rMmiBlzcysNuj6": {
@@ -8357,7 +8401,7 @@
       "English": "Crimson Brand"
     },
     "k5y89wYu3NX1AhVI": {
-      "French": null,
+      "French": "Selle de Bombardier",
       "English": "Bomber\u0027s Saddle"
     },
     "k6D64EAjcKMf8NZB": {
@@ -8385,7 +8429,7 @@
       "English": "Rhoka Sword"
     },
     "k9BYXA4b7Z4Hy6lZ": {
-      "French": null,
+      "French": "",
       "English": "Deafening Music Box"
     },
     "kajpTXg3oHIJStQa": {
@@ -8393,7 +8437,7 @@
       "English": "Antiplague (Major)"
     },
     "kbjspHV7kwKKULmd": {
-      "French": null,
+      "French": "",
       "English": "Potion of Sonic Resistance (Moderate)"
     },
     "KcjaeMgrsBGgwUWL": {
@@ -8449,7 +8493,7 @@
       "English": "Robe of Eyes"
     },
     "KgF3nPT2tEskXqSS": {
-      "French": null,
+      "French": "Sph\u00E8re de Brume-m\u00E9tal (mod\u00E9r\u00E9)",
       "English": "Metalmist Sphere (Moderate)"
     },
     "KgKSX95uVSg8iBBA": {
@@ -8485,7 +8529,7 @@
       "English": "Potion of Flying (Standard)"
     },
     "KlkPJgiCiHpuyNpv": {
-      "French": null,
+      "French": "",
       "English": "Chronicler Wayfinder"
     },
     "KLWjINVkWwJlOZEX": {
@@ -8545,7 +8589,7 @@
       "English": "Anchor Spear"
     },
     "KsoofB7FCppaBTdK": {
-      "French": null,
+      "French": "",
       "English": "Celestial Peach (Rejuvination)"
     },
     "ksorBjuXO0Bvdmhl": {
@@ -8553,7 +8597,7 @@
       "English": "Fishing Tackle (Professional)"
     },
     "ktAjhlI9NxpFJMdp": {
-      "French": null,
+      "French": "",
       "English": "Celestial Peach (Life)"
     },
     "ktjFOp3U0wQD9t0Z": {
@@ -8561,7 +8605,7 @@
       "English": "Antidote (Lesser)"
     },
     "ktRGlgegUBZcr0aJ": {
-      "French": null,
+      "French": "",
       "English": "Saints\u0027 Balm"
     },
     "KVj9RP2qvpsHHGqE": {
@@ -8601,7 +8645,7 @@
       "English": "Gold Dragon\u0027s Breath Potion (Wyrm)"
     },
     "kzfRjSrq4JNZlc32": {
-      "French": null,
+      "French": "",
       "English": "Whisper Briolette"
     },
     "kZKK4Va3e7n3p3tv": {
@@ -8653,7 +8697,7 @@
       "English": "Thundering (Greater)"
     },
     "LBhzIWBH9TJ8A2K5": {
-      "French": null,
+      "French": "",
       "English": "Invisible Net"
     },
     "LboYDYZ0IbDWuWMl": {
@@ -8677,7 +8721,7 @@
       "English": "Famous portrait by a master"
     },
     "LfiGXU03Khb1o6fs": {
-      "French": null,
+      "French": "",
       "English": "Heedless Spurs"
     },
     "LGgvev6AV0So8tP9": {
@@ -8685,7 +8729,7 @@
       "English": "Hatchet"
     },
     "lgqyRmQ3GZbbxQsD": {
-      "French": null,
+      "French": "Agent r\u00E9pulsif de vermine",
       "English": "Vermin Repellent Agent (Lesser)"
     },
     "LhMXIGelSrFPYild": {
@@ -8733,7 +8777,7 @@
       "English": "Poisoner\u0027s Staff (Major)"
     },
     "llqztgP14IJGSxU4": {
-      "French": null,
+      "French": "Sph\u00E8re de Brume-m\u00E9tal (inf\u00E9rieur)",
       "English": "Metalmist Sphere (Lesser)"
     },
     "LmIpYZ1lS2UDGXvU": {
@@ -8741,7 +8785,7 @@
       "English": "Mortar of Hidden Meaning"
     },
     "LmveO9fSuEnkMKAH": {
-      "French": null,
+      "French": "",
       "English": "Vaultbreaker\u0027s Harness"
     },
     "LNd5u19GqC51ngby": {
@@ -8821,7 +8865,7 @@
       "English": "Copper Pieces"
     },
     "M1fRjN7E3P55zvmc": {
-      "French": null,
+      "French": "",
       "English": "Inspiring Spotlight"
     },
     "M1k5QQc1qQLxzyCK": {
@@ -8837,7 +8881,7 @@
       "English": "Aeon Stone (Clear Spindle)"
     },
     "M4ZOHOlne43ArjOC": {
-      "French": null,
+      "French": "Mutag\u00E8ne de Coeur de drake (majeur)",
       "English": "Drakeheart Mutagen (Major)"
     },
     "M5M1WJ5KzbYfRGsY": {
@@ -8845,7 +8889,7 @@
       "English": "Frost"
     },
     "M6pES1Nck1S6SWX9": {
-      "French": null,
+      "French": "Potion de Riposte glaciale (mod\u00E9r\u00E9e)",
       "English": "Potion of Cold Retaliation (Moderate)"
     },
     "M91ye9B7IdxDIDsS": {
@@ -8853,11 +8897,11 @@
       "English": "Brass Ear"
     },
     "m99u0zXVbyPdK8Mf": {
-      "French": null,
+      "French": "",
       "English": "Potion of Fire Resistance (Moderate)"
     },
     "mamIdMfPguGM8QV7": {
-      "French": null,
+      "French": "",
       "English": "Weeping Midnight"
     },
     "MBF9bZCwkJp2RZoN": {
@@ -8865,7 +8909,7 @@
       "English": "Bountiful Cauldron"
     },
     "MBL8rOfvokYmUvwc": {
-      "French": null,
+      "French": "Embrouilleur Olfactif (sup\u00E9rieur)",
       "English": "Olfactory Obfuscator (Greater)"
     },
     "MbPboT76BBKVGepB": {
@@ -8873,7 +8917,7 @@
       "English": "Nauseating Snare"
     },
     "mbrwudO35tItsldq": {
-      "French": null,
+      "French": "Mutag\u00E8ne d\u0027\u00C9nergie (inf\u00E9rieur)",
       "English": "Energy Mutagen (Lesser)"
     },
     "mBziC8v2eOtTs0f5": {
@@ -8893,7 +8937,7 @@
       "English": "Bloodhound Mask (Lesser)"
     },
     "mDNDs5P8ZAJXYbDL": {
-      "French": null,
+      "French": "Poison Larmes de Crapaud",
       "English": "Toad Tears"
     },
     "MeA0g9xvWCbGxf2g": {
@@ -8905,7 +8949,7 @@
       "English": "Staff of Enchantment (Major)"
     },
     "mGIJCGFkBQLkzhTg": {
-      "French": null,
+      "French": "",
       "English": "Dispelling Sliver"
     },
     "mgrabKkyLmvxgLBK": {
@@ -8917,7 +8961,7 @@
       "English": "Philosopher\u0027s Extractor"
     },
     "MHoghQhxbvZRyyaB": {
-      "French": null,
+      "French": "",
       "English": "Potion of Electricity Resistance (Moderate)"
     },
     "mixyMNYUClKfqURh": {
@@ -8929,7 +8973,7 @@
       "English": "Juggernaut Mutagen (Moderate)"
     },
     "mJSCOIJllj2GtACC": {
-      "French": null,
+      "French": "",
       "English": "Grinning Pugwampi"
     },
     "MK6nnMZNWHmChAXZ": {
@@ -9017,7 +9061,7 @@
       "English": "Primal Scroll Case of Simplicity"
     },
     "mR9RD9S08jIX1IPm": {
-      "French": null,
+      "French": "Solvant universel (sup\u00E9rieur)",
       "English": "Universal Solvent (Greater)"
     },
     "mRs24OwmGPjoIDvO": {
@@ -9061,7 +9105,7 @@
       "English": "Spellstrike Ammunition (Type III)"
     },
     "N3jcmW5XzEJZQVtJ": {
-      "French": null,
+      "French": "Potion Anti-venin",
       "English": "Antivenom Potion"
     },
     "n3kJYoTrzXYwlYaV": {
@@ -9113,7 +9157,7 @@
       "English": "Lich Phylactery"
     },
     "NFFgDfLBkCjkj0dc": {
-      "French": null,
+      "French": "",
       "English": "Cloak of Repute (Major)"
     },
     "ngz7dYysC1NkBBRK": {
@@ -9141,7 +9185,7 @@
       "English": "Temple Sword"
     },
     "NLC3c1mudubNNekY": {
-      "French": null,
+      "French": "",
       "English": "Clockwork Recorder"
     },
     "NLcnptEjjiY9teq7": {
@@ -9193,11 +9237,11 @@
       "English": "Class Kit (Rogue)"
     },
     "npSWkkSsQfiKixPO": {
-      "French": null,
+      "French": "Onguent Origine",
       "English": "Origin Unguent"
     },
     "nPWDuoe2PcgE0z2S": {
-      "French": null,
+      "French": "Pi\u00E8ge du Torrent",
       "English": "Torrent Snare"
     },
     "NqNwLeqto2isVWNL": {
@@ -9225,7 +9269,7 @@
       "English": "Shield Spikes"
     },
     "NSQOijKqomyotXkj": {
-      "French": null,
+      "French": "Fl\u00E8che Bois-de-cerf",
       "English": "Antler Arrow"
     },
     "NufKswitJjxDCX8f": {
@@ -9257,11 +9301,11 @@
       "English": "Bronze Bull Pendant"
     },
     "nZE16PtiyY7DWlzd": {
-      "French": null,
+      "French": "",
       "English": "Lover\u0027s Gloves"
     },
     "nzeTcOyQmZNrurVF": {
-      "French": null,
+      "French": "Vaccin (inf\u00E9rieur)",
       "English": "Vaccine (Lesser)"
     },
     "nzQKwdUxzmmwWtzT": {
@@ -9297,7 +9341,7 @@
       "English": "Parrying Scabbard"
     },
     "o5jn0wvPaSh65p3J": {
-      "French": null,
+      "French": "",
       "English": "Hummingbird Wayfinder"
     },
     "O6deRhRldwTqMP97": {
@@ -9317,11 +9361,11 @@
       "English": "Blackaxe"
     },
     "o9k5L682AlZfhpRu": {
-      "French": null,
+      "French": "Huile de R\u00E9v\u00E9lation",
       "English": "Oil of Revelation"
     },
     "obER4cKi8UbGhSg7": {
-      "French": null,
+      "French": "Huile de Non-vie (majeure))",
       "English": "Oil of Unlife (Major)"
     },
     "ObmYN6I64Pjj7yEA": {
@@ -9329,7 +9373,7 @@
       "English": "Staff of Divination"
     },
     "oC4ZMEdBJ3ia4ALm": {
-      "French": null,
+      "French": "",
       "English": "Cloak of Repute"
     },
     "OcBPjVplvy2GbQ8P": {
@@ -9341,7 +9385,7 @@
       "English": "Bravo\u0027s Brew (Moderate)"
     },
     "oDfucsKeWpJmmWN1": {
-      "French": null,
+      "French": "Potion de Riposte \u00C9lectrique (mod\u00E9r\u00E9e)",
       "English": "Potion of Electricity Retaliation (Moderate)"
     },
     "Odl2SyKw8Zg6ckKb": {
@@ -9357,7 +9401,7 @@
       "English": "Chest"
     },
     "ofhqc85Z3Rt7dcrQ": {
-      "French": null,
+      "French": "",
       "English": "Wand of Teeming Ghosts (4th-Level Spell)"
     },
     "OGKI8NS8Er3qumJS": {
@@ -9373,7 +9417,7 @@
       "English": "Holy Prayer Beads (Greater)"
     },
     "OI20gS0SRKVAORqm": {
-      "French": null,
+      "French": "",
       "English": "Fiendish Teleportation"
     },
     "OIirLySQDLZgT15S": {
@@ -9381,7 +9425,7 @@
       "English": "Arsenic"
     },
     "Oip645RjC5y57wFa": {
-      "French": null,
+      "French": "Venin violet",
       "English": "Violet Venom"
     },
     "Oiq3QgLrM4i3W5Hg": {
@@ -9425,7 +9469,7 @@
       "English": "Potion of Swimming (Greater)"
     },
     "omRmCbkQoK5YmCGv": {
-      "French": null,
+      "French": "Potion de Riposte acide (inf\u00E9rieure)",
       "English": "Potion of Acid Retaliation (Lesser)"
     },
     "onFxlajKyWpHZcXt": {
@@ -9477,7 +9521,7 @@
       "English": "Original manuscript from a world\u2011famous author"
     },
     "oSltacqbeotmzLNJ": {
-      "French": null,
+      "French": "",
       "English": "Ring of the Ram (Greater)"
     },
     "oSQET5hKn9q4xlrl": {
@@ -9505,7 +9549,7 @@
       "English": "Disrupting (Greater)"
     },
     "OWPOTwMsrYma9d0v": {
-      "French": null,
+      "French": "Potion de Riposte acide (mod\u00E9r\u00E9e)",
       "English": "Potion of Acid Retaliation (Moderate)"
     },
     "oX39xqMLVB8kNrY0": {
@@ -9565,7 +9609,7 @@
       "English": "Healing Potion (Major)"
     },
     "p3RduziOxQxtREg9": {
-      "French": null,
+      "French": "Torpeur du Pilleur",
       "English": "Looter\u0027s Lethargy"
     },
     "P4hCmpeuBochkxsJ": {
@@ -9577,7 +9621,7 @@
       "English": "Bracers of Missile Deflection (Greater)"
     },
     "P6v2AtJw7AUwaDzf": {
-      "French": null,
+      "French": "Effrayante",
       "English": "Fearsome"
     },
     "P7jMpOYmusKse1Yu": {
@@ -9625,7 +9669,7 @@
       "English": "Quartz, milky, rose, or smoky"
     },
     "pGnoCqFy0ESPbuGv": {
-      "French": null,
+      "French": "Sels Aurif\u00E8res",
       "English": "Aurifying Salts"
     },
     "PhjutBgR1egCuHvY": {
@@ -9649,7 +9693,7 @@
       "English": "Religious Symbol (Wooden)"
     },
     "PLun5Enmp8ZbjogV": {
-      "French": null,
+      "French": "Infusion du Voleur de livres",
       "English": "Bookthief Brew"
     },
     "PlYr5AhYwHIztMw2": {
@@ -9657,7 +9701,7 @@
       "English": "Shield of the Unified Legion"
     },
     "PMmJ47MLUXAWmXFg": {
-      "French": null,
+      "French": "",
       "English": "Elemental Wayfinder (Earth)"
     },
     "pnA6uENYDDduWmAn": {
@@ -9677,7 +9721,7 @@
       "English": "Sturdy Shield (Moderate)"
     },
     "Pnw4A7fhUhTS85Te": {
-      "French": null,
+      "French": "\u00C9lixir de Concentration purificateur (majeur)",
       "English": "Focus Cathartic (Major)"
     },
     "PNwgGnN081l0cETR": {
@@ -9777,7 +9821,7 @@
       "English": "Whip Claw"
     },
     "qasFfdiZKIczoZ9p": {
-      "French": null,
+      "French": "Masque du limier (mod\u00E9r\u00E9)",
       "English": "Bloodhound Mask (Moderate)"
     },
     "QbOlqr4lSkeOEfty": {
@@ -9793,7 +9837,7 @@
       "English": "Obfuscation Oil"
     },
     "QDYPr19De3TBIysx": {
-      "French": null,
+      "French": "",
       "English": "Sinister Knight"
     },
     "QEPx1fCf74xdpXBH": {
@@ -9821,11 +9865,11 @@
       "English": "Giant Scorpion Venom"
     },
     "QImdOdyolrMWwuxD": {
-      "French": null,
+      "French": "",
       "English": "Gorgon\u0027s Breath"
     },
     "QJ1fTrX42PoEWpK5": {
-      "French": null,
+      "French": "Jambes de plomb",
       "English": "Leadenleg"
     },
     "QJ1PhbtbLzwhRlY0": {
@@ -9873,7 +9917,7 @@
       "English": "Ready"
     },
     "QNub2kTE7LpdMPII": {
-      "French": null,
+      "French": "Potion de D\u00E9guisement (inf\u00E9rieur)",
       "English": "Potion of Disguise (Lesser)"
     },
     "qnvq3PSTiejQTSi9": {
@@ -9917,19 +9961,19 @@
       "English": "Scroll of 4th-level Spell"
     },
     "QSVIv5obLhKkmy67": {
-      "French": null,
+      "French": "Solvant universel (mod\u00E9r\u00E9)",
       "English": "Universal Solvent (Moderate)"
     },
     "QsYfjRMBz48H6UAp": {
-      "French": null,
+      "French": "Potion de Riposte \u00C9lectrique (sup\u00E9rieure)",
       "English": "Potion of Electricity Retaliation (Greater)"
     },
     "QT1jTPlf3ATYUh4I": {
-      "French": null,
+      "French": "",
       "English": "The Whispering Reeds"
     },
     "qtlkftQXfO4wuCVu": {
-      "French": null,
+      "French": "Jeu du Tourment renforc\u00E9",
       "English": "Hardened Harrow Deck"
     },
     "qUnDHEXteUQGE8yp": {
@@ -9937,7 +9981,7 @@
       "English": "Grievous"
     },
     "qvAtAv211cVqktgU": {
-      "French": null,
+      "French": "",
       "English": "Greengut"
     },
     "qvfO0jFIvIM8hReG": {
@@ -9965,7 +10009,7 @@
       "English": "Ethersight Ring"
     },
     "QZliTmapMRrEJ6q8": {
-      "French": null,
+      "French": "",
       "English": "Elemental Wayfinder (Water)"
     },
     "qZUo5SmGxp5BlqFN": {
@@ -9977,7 +10021,7 @@
       "English": "Abadar\u0027s Flawless Scale"
     },
     "R0gsYr0jD1giTzpx": {
-      "French": null,
+      "French": "Embrouilleur Olfactif (inf\u00E9rieur)",
       "English": "Olfactory Obfuscator (Lesser)"
     },
     "r0ifJfoz8aqf0mwk": {
@@ -10013,7 +10057,7 @@
       "English": "Wand of Continuation (3rd-Level Spell)"
     },
     "R8I13CDRzvpVXOVe": {
-      "French": null,
+      "French": "",
       "English": "Pacifying"
     },
     "r9lPNhrvG69Ae88d": {
@@ -10061,7 +10105,7 @@
       "English": "Fire Poi"
     },
     "rfyWXgrVD2lm91CC": {
-      "French": null,
+      "French": "Poison de Libellule Bleue",
       "English": "Blue Dragonfly Poison"
     },
     "RgNBGpBc9G2yw1C2": {
@@ -10073,7 +10117,7 @@
       "English": "Enormous chryselephantine sculpture by a legend"
     },
     "RH1fNsslZ1wdeqy2": {
-      "French": null,
+      "French": "",
       "English": "Fearweed"
     },
     "RhfhVSfiH23v4U7k": {
@@ -10081,7 +10125,7 @@
       "English": "Juggling Club"
     },
     "RhOx5wenvlljzOku": {
-      "French": null,
+      "French": "Huile de Non-vie (sup\u00E9rieure)",
       "English": "Oil of Unlife (Greater)"
     },
     "Ri09KBg9DG0aapLw": {
@@ -10097,7 +10141,7 @@
       "English": "Solidified moment of time"
     },
     "riLNCaVS9zGvt4Nn": {
-      "French": null,
+      "French": "Pi\u00E8ge Fus\u00E9e \u00E9clairante",
       "English": "Flare Snare"
     },
     "rjHqUOFqUeyTQyin": {
@@ -10161,7 +10205,7 @@
       "English": "Armor Potency (\u002B1)"
     },
     "ROdjFw7wby982qf5": {
-      "French": null,
+      "French": "Munition terrifiante",
       "English": "Terrifying Ammunition"
     },
     "roeYtwlIe65BPMJ1": {
@@ -10217,7 +10261,7 @@
       "English": "Breastplate of Command"
     },
     "rUxQi4pUbMeHrnSX": {
-      "French": null,
+      "French": "",
       "English": "Cordelia\u0027s Greater Construct Key"
     },
     "rV7MTDCseZmEZKDw": {
@@ -10281,7 +10325,7 @@
       "English": "Ring of the Ram"
     },
     "s9dtRS2SRTqzGdOF": {
-      "French": null,
+      "French": "Pi\u00E8ge du fl\u00E9au rabatteur",
       "English": "Stalker Bane Snare"
     },
     "sAI6yzB11LlxisD7": {
@@ -10293,7 +10337,7 @@
       "English": "Orc Knuckle Dagger"
     },
     "sAMzkU7kzUZfqTPV": {
-      "French": null,
+      "French": "Poudre de D\u00E9t\u00E9rioration \u00E9tendue",
       "English": "Extended Deteriorating Dust"
     },
     "Sarxo8kSrJs2qJEw": {
@@ -10305,11 +10349,11 @@
       "English": "Black Adder Venom"
     },
     "SCkQb4QdFWkATiby": {
-      "French": null,
+      "French": "",
       "English": "Vanishing Wayfinder"
     },
     "SemkRkQPVBljg9Id": {
-      "French": null,
+      "French": "",
       "English": "Infernal Health"
     },
     "Sexud7FdxIrg50vU": {
@@ -10321,7 +10365,7 @@
       "English": "Boarding Pike"
     },
     "SGbEZzm5MLSv1DDX": {
-      "French": null,
+      "French": "",
       "English": "Envisioning Mask"
     },
     "sgH9U2fKqWCedKNO": {
@@ -10333,7 +10377,7 @@
       "English": "Healer\u0027s Tools (Expanded)"
     },
     "SGS7fA2hcElw1EaL": {
-      "French": null,
+      "French": "Poudre D\u00E9t\u00E9riorante",
       "English": "Deteriorating Dust"
     },
     "SgtqZxt26BdjUmEB": {
@@ -10341,7 +10385,7 @@
       "English": "Acid Flask (Moderate)"
     },
     "ShFbUrFrQg7Ung8D": {
-      "French": null,
+      "French": "Tonique de capsa\u00EFcine",
       "English": "Capsaicin Tonic"
     },
     "shKPtYN0YUOe07K2": {
@@ -10353,7 +10397,7 @@
       "English": "Horns of Naraga"
     },
     "SjbenbdzV4rgGxZP": {
-      "French": null,
+      "French": "\u00C9lixir d\u0027Incr\u00E9dule (sup\u00E9rieur)",
       "English": "Skeptic\u0027s Elixir (Greater)"
     },
     "sJjuv1991SZ7DWWD": {
@@ -10373,11 +10417,11 @@
       "English": "Whisper of the First Lie"
     },
     "SLJTJwyIRjuWjfuK": {
-      "French": null,
+      "French": "Mutag\u00E8ne d\u0027\u00C9nergie (mod\u00E9r\u00E9)",
       "English": "Energy Mutagen (Moderate)"
     },
     "sLnkcAGiRQkwQrla": {
-      "French": null,
+      "French": "",
       "English": "Wand of Teeming Ghosts (7th-Level Spell)"
     },
     "SLQgdLk5K9JV4ACF": {
@@ -10393,7 +10437,7 @@
       "English": "Coyote Cloak (Greater)"
     },
     "SMBPvsZH7yAsGSQa": {
-      "French": null,
+      "French": "",
       "English": "Elemental Wayfinder (Air)"
     },
     "SmN0vRjkPaSaAJZt": {
@@ -10441,11 +10485,11 @@
       "English": "Indestructible Shield"
     },
     "SV7W0lC2d8mfYuhy": {
-      "French": null,
+      "French": "",
       "English": "Serrating"
     },
     "SVEPGvNFj95HjlAE": {
-      "French": null,
+      "French": "",
       "English": "Wand of Teeming Ghosts (3rd-Level Spell)"
     },
     "svhZ61CaSgatn5by": {
@@ -10485,7 +10529,7 @@
       "English": "Wand of Noisome Acid (8th-Level Spell)"
     },
     "T4gTHDKJ0HI10p3y": {
-      "French": null,
+      "French": "",
       "English": "Cunning"
     },
     "T4ouD4mVFHA3EHs6": {
@@ -10525,7 +10569,7 @@
       "English": "Choker of Elocution"
     },
     "TalLb1YlvXzutuPc": {
-      "French": null,
+      "French": "Potion de Riposte Enflamm\u00E9e (majeure)",
       "English": "Potion of Fire Retaliation (Major)"
     },
     "tBwMPimZ6A93XpHf": {
@@ -10569,7 +10613,7 @@
       "English": "Grasping Snare"
     },
     "TG4SnQCGOsgQfrE1": {
-      "French": null,
+      "French": "Potion de Riposte \u00C9lectrique (inf\u00E9rieure)",
       "English": "Potion of Electricity Retaliation (Lesser)"
     },
     "TGCzwDIrAqo3HUhr": {
@@ -10597,7 +10641,7 @@
       "English": "Class Kit (Wizard)"
     },
     "ThX0ntpTqonGqguT": {
-      "French": null,
+      "French": "Potion de d\u00E9guisement (sup\u00E9rieur)",
       "English": "Potion of Disguise (Greater)"
     },
     "Ti4gWILk69LPxKuU": {
@@ -10673,15 +10717,15 @@
       "English": "Brass Dragon\u0027s Breath Potion (Young)"
     },
     "tr2eOlJMmBKBZtI9": {
-      "French": null,
+      "French": "",
       "English": "Mask of the Banshee"
     },
     "TSbuKm91qmqdqQW3": {
-      "French": null,
+      "French": "",
       "English": "Putrescent Glob"
     },
     "tslVf3qtQE7V1YvG": {
-      "French": null,
+      "French": "S\u00E9rum de Choc-vigueur (mod\u00E9r\u00E9)",
       "English": "Sinew-Shock Serum (Moderate)"
     },
     "TSrbwHW8zm0mhkwb": {
@@ -10701,7 +10745,7 @@
       "English": "Marble altar"
     },
     "tW2rmGSanKQlUkiU": {
-      "French": null,
+      "French": "Potion de Riposte glaciale(sup\u00E9rieure)",
       "English": "Potion of Cold Retaliation (Greater)"
     },
     "TWv2EeDJaCjtmGUN": {
@@ -10781,7 +10825,7 @@
       "English": "Floating Shield (Greater)"
     },
     "UBfAwXBU5iQ59Bz7": {
-      "French": null,
+      "French": "",
       "English": "Cordelia\u0027s Construct Key"
     },
     "UblsH5cGyUdXypek": {
@@ -10801,7 +10845,7 @@
       "English": "Stoneraiser Javelin"
     },
     "uD5vRYVOXNJ53sEE": {
-      "French": null,
+      "French": "",
       "English": "Silvertongue Mutagen (Major)"
     },
     "UdvSJPCtBr2Y1e22": {
@@ -10825,7 +10869,7 @@
       "English": "Silvertongue Mutagen (Greater)"
     },
     "ugIxgGIkJh2aXE2N": {
-      "French": null,
+      "French": "Potion de Riposte Enflamm\u00E9e (mineure)",
       "English": "Potion of Fire Retaliation (Minor)"
     },
     "ugOCvoAZnVyEuIiN": {
@@ -10893,7 +10937,7 @@
       "English": "Religious Symbol (Silver)"
     },
     "Uq3rnsAHbLKyW49E": {
-      "French": null,
+      "French": "Potion de Riposte glaciale (inf\u00E9rieure)",
       "English": "Potion of Cold Retaliation (Lesser)"
     },
     "UqinuuCWePTYGhVO": {
@@ -10953,7 +10997,7 @@
       "English": "Crystal Shards (Moderate)"
     },
     "V5kv7e1r2qV2k3lf": {
-      "French": null,
+      "French": "",
       "English": "Aeon Stone (Western Star)"
     },
     "v6LpzpIA0BmKvEtK": {
@@ -10973,7 +11017,7 @@
       "English": "Inexplicable Apparatus"
     },
     "vAEQsYQbOYmqfIc0": {
-      "French": null,
+      "French": "",
       "English": "Liar\u0027s Demise"
     },
     "VBCk7JXGsuG0cug1": {
@@ -10981,11 +11025,11 @@
       "English": "Thurible of Revelation (Greater)"
     },
     "vBgElXswf6xBx4k9": {
-      "French": null,
+      "French": "",
       "English": "Hellfire Boots"
     },
     "VBK9i74dry8yf8f0": {
-      "French": null,
+      "French": "",
       "English": "Cognitive Mutagen (Major)"
     },
     "vDgDrbSoGuiUIz2R": {
@@ -11041,7 +11085,7 @@
       "English": "Moonstone"
     },
     "vL6AtFbcxbipGvtf": {
-      "French": null,
+      "French": "Oeil de Basilic",
       "English": "Basilisk Eye"
     },
     "vLGDUFrg4yGzpTQX": {
@@ -11053,7 +11097,7 @@
       "English": "Glaive"
     },
     "vMs9n8oXlZttcJkX": {
-      "French": null,
+      "French": "\u00C9lixir de Concentration purificateur (sup\u00E9rieur)",
       "English": "Focus Cathartic (Greater)"
     },
     "VnPh324pKwd2ZB66": {
@@ -11081,7 +11125,7 @@
       "English": "Tekko-kagi"
     },
     "vTEWlRBUD4VzVwxK": {
-      "French": null,
+      "French": "Mutag\u00E8ne Pousse-Roseau (sup\u00E9rieur)",
       "English": "Applereed Mutagen (Greater)"
     },
     "VtzChvlCG2TQRrgu": {
@@ -11101,7 +11145,7 @@
       "English": "Feather Token (Anchor)"
     },
     "VwzIiWAtbJCgGOEz": {
-      "French": null,
+      "French": "",
       "English": "Isolation Draught"
     },
     "vxBcsWCjWd6DZ0Jz": {
@@ -11129,7 +11173,7 @@
       "English": "Potion of Cold Resistance (Greater)"
     },
     "w0S1SIRsHgGdRh1d": {
-      "French": null,
+      "French": "Potion de Riposte \u00C9lectrique (mineure)",
       "English": "Potion of Electricity Retaliation (Minor)"
     },
     "w2ENw2VMPcsbif8g": {
@@ -11169,7 +11213,7 @@
       "English": "Hourglass"
     },
     "WAUq4TB4Q9FDxWFz": {
-      "French": null,
+      "French": "",
       "English": "Candle of Invocation"
     },
     "WbcQqXrUytXkCMK3": {
@@ -11233,11 +11277,11 @@
       "English": "Ghost Charge (Moderate)"
     },
     "WGbE7qAGw8O5yH07": {
-      "French": null,
+      "French": "Agent r\u00E9pulsif de vermine (mod\u00E9r\u00E9)",
       "English": "Vermin Repellent Agent (Moderate)"
     },
     "whShgzN5YBzrXV3r": {
-      "French": null,
+      "French": "",
       "English": "Alchemical Atomizer"
     },
     "wI4Tj8bNwpZHequC": {
@@ -11249,7 +11293,7 @@
       "English": "Shauth Lash"
     },
     "Wjkw0lEUOhypYvzo": {
-      "French": null,
+      "French": "",
       "English": "Shadow Essence"
     },
     "wJOW9YfEp5RDYHc1": {
@@ -11265,7 +11309,7 @@
       "English": "Crystal Ball (Obsidian)"
     },
     "WKdmAhoji9Y9RC7D": {
-      "French": null,
+      "French": "",
       "English": "Marvelous Calliope"
     },
     "Wkh5rQx3IqInEKdT": {
@@ -11305,7 +11349,7 @@
       "English": "Hat of Disguise (Greater)"
     },
     "WQ3yrHtv2fN5UO57": {
-      "French": null,
+      "French": "",
       "English": "Lantern of Empty Light"
     },
     "WQhnfj1LbrEzvh8z": {
@@ -11329,7 +11373,7 @@
       "English": "Mug"
     },
     "ws3OXRgAawwYIKK6": {
-      "French": null,
+      "French": "R\u00E9sine r\u00E9pulsive",
       "English": "Repulsion Resin"
     },
     "WS78LUHzlpeONMRo": {
@@ -11349,11 +11393,11 @@
       "English": "Ruby, small"
     },
     "WuzLBK78DgIt8SsN": {
-      "French": null,
+      "French": "Mutag\u00E8ne de Coeur de drake (sup\u00E9rieur)",
       "English": "Drakeheart Mutagen (Greater)"
     },
     "WvDbdESFJY6Be2u1": {
-      "French": null,
+      "French": "",
       "English": "Blackfinger Blight"
     },
     "wvOYIeJjU3UDVgMG": {
@@ -11361,7 +11405,7 @@
       "English": "Vial"
     },
     "WW8uv3Nhg56UTZ35": {
-      "French": null,
+      "French": "Roue Solaire",
       "English": "Sun Wheel"
     },
     "wWBi79jkzYGWD6uC": {
@@ -11373,7 +11417,7 @@
       "English": "White Dragon\u0027s Breath Potion (Adult)"
     },
     "WXnGIl4d62detRlf": {
-      "French": null,
+      "French": "Enchaussement de Fer froid (sup\u00E9rieur)",
       "English": "Cold Iron Blanch (Greater)"
     },
     "WYg2dZ8UK1N3rpgs": {
@@ -11409,7 +11453,7 @@
       "English": "Fine gold spyglass"
     },
     "x4l3JjePzROLDSK6": {
-      "French": null,
+      "French": "",
       "English": "Spectacles of Understanding"
     },
     "X6vNtRjyHIuN7vqj": {
@@ -11421,7 +11465,7 @@
       "English": "Gold and opal bracelet"
     },
     "xAEbIQTNonVjCg38": {
-      "French": null,
+      "French": "Bouton huileux",
       "English": "Oily Button"
     },
     "XAuWVlZYGgCguzwz": {
@@ -11461,11 +11505,11 @@
       "English": "Serene Mutagen (Moderate)"
     },
     "XfcSVHwMA60JxUXJ": {
-      "French": null,
+      "French": "\u00C9lixir de Concentration purificateur (mod\u00E9r\u00E9)",
       "English": "Focus Cathartic (Moderate)"
     },
     "xGmX6Vuuhivyal8v": {
-      "French": null,
+      "French": "\u00C9lixir d\u0027Incr\u00E9dule",
       "English": "Skeptic\u0027s Elixir (Moderate)"
     },
     "XgO0MTOXdpbfdzr6": {
@@ -11485,7 +11529,7 @@
       "English": "Breastplate of Command (Greater)"
     },
     "XLGJ1bLhMtP1jc2w": {
-      "French": null,
+      "French": "",
       "English": "Fashionable Wayfinder"
     },
     "XMuLrJYL6fxv4YNA": {
@@ -11493,7 +11537,7 @@
       "English": "Salamander Elixir (Greater)"
     },
     "Xnmx6SJ6OkJOfYxF": {
-      "French": null,
+      "French": "Munition givrante",
       "English": "Freezing Ammunition"
     },
     "Xnqglykl3Cif8rN9": {
@@ -11501,7 +11545,7 @@
       "English": "Thunderstone (Lesser)"
     },
     "XpmPX3ScEOBgAoKd": {
-      "French": null,
+      "French": "",
       "English": "Candle of Revealing"
     },
     "xpVHMxLcwgXzL39e": {
@@ -11553,7 +11597,7 @@
       "English": "Shield Sconce"
     },
     "Xv6NlFohsFtIHp6K": {
-      "French": null,
+      "French": "",
       "English": "Ring of the Weary Traveler"
     },
     "xVhd8NF9KQ6VWfMu": {
@@ -11561,7 +11605,7 @@
       "English": "Compass (Lensatic)"
     },
     "xvJ2jzqipBNrwZ2w": {
-      "French": null,
+      "French": "",
       "English": "Sight-Theft Grit"
     },
     "XvmYNnQ4vg8GREH7": {
@@ -11569,7 +11613,7 @@
       "English": "Iron Cudgel"
     },
     "xVtyaEnYZ1aJT4ki": {
-      "French": null,
+      "French": "Mutag\u00E8ne d\u0027\u00C9nergie (sup\u00E9rieur)",
       "English": "Energy Mutagen (Greater)"
     },
     "xWCdsGSwLLTeX6tQ": {
@@ -11585,7 +11629,7 @@
       "English": "Antidote (Greater)"
     },
     "XWWosdDg34KZhrEi": {
-      "French": null,
+      "French": "",
       "English": "Dreadsmoke Thurible"
     },
     "XXALNl2JjJket1vr": {
@@ -11597,7 +11641,7 @@
       "English": "Copper statuette of a salamander"
     },
     "xY2MogTwH9Fd8UPG": {
-      "French": null,
+      "French": "Mutag\u00E8ne de C\u0153ur de drake (mod\u00E9r\u00E9)",
       "English": "Drakeheart Mutagen (Moderate)"
     },
     "XyA6PKV46aNlLXOd": {
@@ -11625,7 +11669,7 @@
       "English": "Carved wooden game set"
     },
     "xzN8mFG2Z70SaXLa": {
-      "French": null,
+      "French": "",
       "English": "Cloak of Repute (Greater)"
     },
     "y0cRr28w57VapTcn": {
@@ -11637,7 +11681,7 @@
       "English": "Blessed Tattoo"
     },
     "Y12bRscT79LCpz4k": {
-      "French": null,
+      "French": "",
       "English": "Gauntlight"
     },
     "Y1dkRsRd1Z7Jf2y6": {
@@ -11661,7 +11705,7 @@
       "English": "Scroll of 2nd-level Spell"
     },
     "Y7xHJEyX5Mm3gpq3": {
-      "French": null,
+      "French": "",
       "English": "Wand of Teeming Ghosts (9th-Level Spell)"
     },
     "Y8115p3cmQJBqk5d": {
@@ -11693,7 +11737,7 @@
       "English": "Floating Shield"
     },
     "Yej7lnnDYDZybGqo": {
-      "French": null,
+      "French": "Mutag\u00E8ne de s\u00E9r\u00E9nit\u00E9 (sup\u00E9rieur)",
       "English": "Serene Mutagen (Greater)"
     },
     "YeMi3otmwQ34W2we": {
@@ -11717,7 +11761,7 @@
       "English": "Pyrite"
     },
     "yG6Za8FaG3hpXUGh": {
-      "French": null,
+      "French": "",
       "English": "Potion of Acid Resistance (Moderate)"
     },
     "YGaO4HyH6jn3P731": {
@@ -11725,11 +11769,11 @@
       "English": "Murderer\u0027s Knot"
     },
     "Yguqipt5N29Bkz0d": {
-      "French": null,
+      "French": "",
       "English": "Bullhook (Greater)"
     },
     "YHev1WJ2tOiTBg9o": {
-      "French": null,
+      "French": "Huile de Non-vie (mod\u00E9r\u00E9e)",
       "English": "Oil of Unlife (Moderate)"
     },
     "YhkomhtKBK3i9C7Q": {
@@ -11741,11 +11785,11 @@
       "English": "Heartstone"
     },
     "yi1iL9dbLDSr4NZd": {
-      "French": null,
+      "French": "Vaccin (mineur)",
       "English": "Vaccine (Minor)"
     },
     "YIgIF1845n5UBFnE": {
-      "French": null,
+      "French": "S\u00E9rum de Choc-vigueur (majeur)",
       "English": "Sinew-Shock Serum (Major)"
     },
     "YjaXxg9uQ02IbwLi": {
@@ -11773,7 +11817,7 @@
       "English": "Pyrite Rat"
     },
     "YnhcVcTbXrVfiH83": {
-      "French": null,
+      "French": "Acide mn\u00E9monique",
       "English": "Mnemonic Acid"
     },
     "ynnBwzkzsR6B73iO": {
@@ -11789,7 +11833,7 @@
       "English": "Horsechopper"
     },
     "YO2X0EE3txascuuP": {
-      "French": null,
+      "French": "",
       "English": "Wondrous Figurine (Rubber Bear)"
     },
     "YOgUBjv2YHzPFKUb": {
@@ -11801,7 +11845,7 @@
       "English": "Wakizashi"
     },
     "yPFHTY1GH3rdWwds": {
-      "French": null,
+      "French": "",
       "English": "Dust of Corpse Animation (Greater)"
     },
     "YQLWR9cCXQY5xaaG": {
@@ -11825,7 +11869,7 @@
       "English": "Jeweled gold puzzle box"
     },
     "YScPBPwB4t9sydp0": {
-      "French": null,
+      "French": "",
       "English": "Spell-Eating Pitch"
     },
     "yTYPPB7WrhanBPbu": {
@@ -11833,7 +11877,7 @@
       "English": "Sapphire"
     },
     "yUYr8j65fC7EN0NY": {
-      "French": null,
+      "French": "Pi\u00E8ge Tonnerre",
       "English": "Thunder Snare"
     },
     "YUzPv0i8d8p2J9yx": {
@@ -11853,7 +11897,7 @@
       "English": "Musical Instrument (Virtuoso heavy)"
     },
     "yWlQQOs0A3ApEc1J": {
-      "French": null,
+      "French": "",
       "English": "Wand of Teeming Ghosts (2nd-Level Spell)"
     },
     "YwRAHWW8yUI07sy9": {
@@ -11893,7 +11937,7 @@
       "English": "Religious Text"
     },
     "z3IG6t2o0zsfP2XQ": {
-      "French": null,
+      "French": "Adr\u00E9naline",
       "English": "Hype"
     },
     "z3PT7OgX34TQKAwH": {
@@ -11965,7 +12009,7 @@
       "English": "Tracker\u0027s Goggles"
     },
     "zExWH2EsY9STTORq": {
-      "French": null,
+      "French": "Potion de Riposte glaciale (mineure)",
       "English": "Potion of Cold Retaliation (Minor)"
     },
     "zEys8FeMMAwTqwgW": {
@@ -11989,7 +12033,7 @@
       "English": "Spiked Chain"
     },
     "ZIQAzOavTXJCcCMD": {
-      "French": null,
+      "French": "",
       "English": "Predictable Silver Piece"
     },
     "ZJ3ahspZOXL4CK4J": {
@@ -12001,7 +12045,7 @@
       "English": "Ghost Ammunition"
     },
     "ZKFmyG9fIoQWIrql": {
-      "French": null,
+      "French": "",
       "English": "Spectacles of Understanding (Greater)"
     },
     "zM9VX3QwM81DzDUA": {
@@ -12033,16 +12077,12 @@
       "English": "Tricky Pick"
     },
     "ZOOrK4yEW6rFpPJ1": {
-      "French": null,
+      "French": "Suppresseur de d\u00E9pendance (sup\u00E9rieur)",
       "English": "Addiction Suppressant (Greater)"
     },
     "zPhqmCvWyHO8i9ws": {
       "French": "Pendentif des sciences occultes",
       "English": "Pendant of the Occult"
-    },
-    "ZPnQMNOyHjTkkGx4": {
-      "French": "B\u00E2ton de la providence ultime",
-      "English": "Staff of Providence (Ture)"
     },
     "zPSImy0ENQjnRJNs": {
       "French": "Coquille oubli\u00E9e",
@@ -12081,7 +12121,7 @@
       "English": "Staff of Abjuration (Major)"
     },
     "Ztb4xv4UGZbF32TE": {
-      "French": null,
+      "French": "",
       "English": "Winged (Greater)"
     },
     "zToq18jKonWIp48U": {
@@ -12357,7 +12397,7 @@
       "English": "Eclectic Obsession"
     },
     "0Iv3VbR1DMPbZIjD": {
-      "French": "Tirer vers le bas",
+      "French": "Tirer dans l\u0027eau",
       "English": "Drag Down"
     },
     "0kkiE74cyHyxdPe6": {
@@ -12368,13 +12408,13 @@
       "French": "R\u00E9sistance au poison",
       "English": "Poison Resistance"
     },
-    "0lZeJHgk4ASO0clU": {
-      "French": "Serment du pourfendeur de dragons",
-      "English": "Dragonslayer Oath"
-    },
     "0N8TtGSk5enoLBZ8": {
       "French": "\u0152il pour les nombres",
       "English": "Eye For Numbers"
+    },
+    "0NRIP8cDv9Opl5Ls": {
+      "French": null,
+      "English": "Fiendsbane Oath (Paladin)"
     },
     "0PcVi7eav6PMLOPl": {
       "French": "Secours canalis\u00E9",
@@ -12475,6 +12515,10 @@
     "1HsH8hE79MDsi8kK": {
       "French": "Masque de guerre orc",
       "English": "Orc Warmask"
+    },
+    "1JnERVwnPtX620f2": {
+      "French": null,
+      "English": "Animal Companion (Ranger)"
     },
     "1JTEWgonWlmeCE3w": {
       "French": "Foul\u00E9e lib\u00E9ratrice",
@@ -12976,6 +13020,10 @@
       "French": "Magie des azatas",
       "English": "Azata Magic"
     },
+    "4HgKmqTrXYZJ4fyj": {
+      "French": null,
+      "English": "Animal Companion (Druid)"
+    },
     "4HHw2DjTxdv1jBZd": {
       "French": "Fl\u00E9au des voleurs",
       "English": "Decry Thief"
@@ -13113,7 +13161,7 @@
       "English": "Lasting Doubt"
     },
     "56HvICglqH7uR3AY": {
-      "French": "R\u00E9cup\u00E9ration cantorienne",
+      "French": "Rajeunissement cantorien",
       "English": "Cantorian Rejuvenation"
     },
     "59FN13nU6agKT4oa": {
@@ -13624,6 +13672,10 @@
       "French": "D\u00E9luge pr\u00E9cis",
       "English": "Accurate Flurry"
     },
+    "85eUthbjE9TnF4fo": {
+      "French": null,
+      "English": "Dragonslayer Oath (Redeemer)"
+    },
     "85V3vdew0gykEtmu": {
       "French": "Transformation curative",
       "English": "Healing Transformation"
@@ -13797,7 +13849,7 @@
       "English": "Killing Stone"
     },
     "969mPoiYANzV2261": {
-      "French": "Lancer homme-f\u00E9lin",
+      "French": "Roulade de l\u0027homme-rat",
       "English": "Ratfolk Roll"
     },
     "99WRahrMC91D6MMe": {
@@ -14129,7 +14181,7 @@
       "English": "Whirlwind Strike"
     },
     "AGznaQpn2cE6jz9H": {
-      "French": "Pendre",
+      "French": "Suspendre",
       "English": "Dangle"
     },
     "aiHbS8FGNYAQBF62": {
@@ -14161,7 +14213,7 @@
       "English": "Breath Control"
     },
     "AJVx3sHm6f6i8ZQW": {
-      "French": "Magie Efrit",
+      "French": "Magie \u00E9frit",
       "English": "Efreeti Magic"
     },
     "akCO62yBCJLjjCZJ": {
@@ -14173,7 +14225,7 @@
       "English": "Peer Beyond"
     },
     "AKMx0GYKLjy7jTXl": {
-      "French": "Pas de preive",
+      "French": "Pas de preuve",
       "English": "No Evidence"
     },
     "AKrxQ2JuDObM8coY": {
@@ -14203,10 +14255,6 @@
     "ALR9knJdktuMWzr4": {
       "French": "Aptitude avec les armes Azarketies",
       "English": "Azarketi Weapon Aptitude"
-    },
-    "aM6eAeyk5twmxCKe": {
-      "French": "Serment du fl\u00E9au des fi\u00E9lons",
-      "English": "Fiendsbane Oath"
     },
     "aMef2VM4mSxl0pmy": {
       "French": "R\u00E9cup\u00E9ration martiale",
@@ -14476,6 +14524,10 @@
       "French": "Man\u0153uvre basique",
       "English": "Basic Maneuver"
     },
+    "banx3uX4JjjcHEc8": {
+      "French": null,
+      "English": "Superior Sight (Low-Light Vision)"
+    },
     "BASCKOPvNGgoHGid": {
       "French": "\u00C9treinte d\u0027Acha\u00E9kek",
       "English": "Achaekek\u0027s Grip"
@@ -14684,6 +14736,10 @@
       "French": "Illusion convaincante",
       "English": "Convincing Illusion"
     },
+    "BtMemftiktI0Mn6X": {
+      "French": null,
+      "English": "Manifold Edge (Precision)"
+    },
     "bTNgHDqzfoqOLWu3": {
       "French": "Ciel parlant",
       "English": "Speaking Sky"
@@ -14763,6 +14819,10 @@
     "C1R4wd6G46CAVIn7": {
       "French": "Fer all\u00E9g\u00E9",
       "English": "Unburdened Iron"
+    },
+    "c2h9Z8exSFhraJ8j": {
+      "French": null,
+      "English": "Esoteric Oath (Paladin)"
     },
     "c3b7DhnDBC7YEgRG": {
       "French": "Tir du chasseur",
@@ -14860,6 +14920,10 @@
       "French": "Croa !",
       "English": "Squawk!"
     },
+    "CcQISNjNdD0Fsj9n": {
+      "French": null,
+      "English": "Shining Oath (Paladin)"
+    },
     "cCv9pgyXzZ0TQmZg": {
       "French": "Large bouche",
       "English": "Big Mouth"
@@ -14901,7 +14965,7 @@
       "English": "Alghollthu Bound"
     },
     "chM3Pya6H8QGnEGo": {
-      "French": "Danseur d\u0027eau",
+      "French": "Danseur aquatique",
       "English": "Water Dancer"
     },
     "chmQgMamyaZX90Tc": {
@@ -15217,7 +15281,7 @@
       "English": "Ghost Hunter"
     },
     "DhqsKns2SaGcOKO9": {
-      "French": "Lecture des \u00E9toiles",
+      "French": "Lecture des astres",
       "English": "Read The Stars"
     },
     "dHUoQVzDa9Cf4QCG": {
@@ -15277,7 +15341,7 @@
       "English": "Emblazon Divinity"
     },
     "dmEMftRe8P5iPDKo": {
-      "French": "\u00E2me saumure",
+      "French": "\u00C2me de saumure",
       "English": "Brinesoul"
     },
     "DMetdzt1VJL2Y62i": {
@@ -15547,6 +15611,10 @@
     "ecJms2jtd6cZ5rQK": {
       "French": "Oreilles arrondies",
       "English": "Round Ears"
+    },
+    "EcQvuGYDJdqTfGuX": {
+      "French": null,
+      "English": "Manifold Edge (Outwit)"
     },
     "ecV3Nljvs4FOBS27": {
       "French": "Entrer en r\u00E9sonance",
@@ -16881,7 +16949,7 @@
       "English": "Brightsoul"
     },
     "iCsHR5tdSXDHGjCv": {
-      "French": "Renifleur de L\u00E8pre",
+      "French": "Renifleur de l\u00E8pre",
       "English": "Plague Sniffer"
     },
     "iCv8KTZ5PcF4GqeV": {
@@ -17005,7 +17073,7 @@
       "English": "Underwater Marauder"
     },
     "IQ9C7glCXVgYecz1": {
-      "French": "De l\u0027obscurit\u00E9 \u00E0 la lumi\u00E8re",
+      "French": "De la lumi\u00E8re \u00E0 l\u0027obscurit\u00E9",
       "English": "Light From Darkness"
     },
     "Iqa96LHn3Bs2xEJA": {
@@ -17155,6 +17223,10 @@
     "J2CPfHKPvu6RGfY6": {
       "French": "Pleinement volant",
       "English": "Fully Flighted"
+    },
+    "J3R0vx1lszU3CLp5": {
+      "French": null,
+      "English": "Fiendsbane Oath (Redeemer)"
     },
     "j49fEU2TWJUaxD30": {
       "French": "Expertise avec les armes gnomes",
@@ -17455,6 +17527,10 @@
     "K3Au5071pfvNwGob": {
       "French": "Magie cach\u00E9e",
       "English": "Hidden Magic"
+    },
+    "K3QkcNWY8qpNEJrk": {
+      "French": null,
+      "English": "Dragonslayer Oath (Liberator)"
     },
     "K3TasgeZLJQ84qtZ": {
       "French": "\u00C9volution primordiale",
@@ -17816,6 +17892,10 @@
       "French": "Expertise du terrain (Marais)",
       "English": "Terrain Expertise (Swamp)"
     },
+    "lDfOzhKJoTCkLPtn": {
+      "French": null,
+      "English": "Shining Oath (Liberator)"
+    },
     "LDIZtE7saDLSBduG": {
       "French": "Diversion r\u00E9active",
       "English": "Reactive Distraction"
@@ -18047,6 +18127,10 @@
     "lZ0swL9EEUgbAuaZ": {
       "French": "Ripose du bretteur",
       "English": "Swashbuckler\u0027s Riposte"
+    },
+    "LZsTt6zPZfNyjIZl": {
+      "French": null,
+      "English": "Dragonslayer Oath (Paladin)"
     },
     "m0ot9Qydb9SYWHis": {
       "French": "Frappe encha\u00EEn\u00E9e",
@@ -19057,7 +19141,7 @@
       "English": "Determined Lore Seeker"
     },
     "OZtoTusMmCJymObT": {
-      "French": "Coupe-limace",
+      "French": "Coupe-sangsue",
       "English": "Leech-Clipper"
     },
     "OzvvsyjAWWij4mmm": {
@@ -19385,7 +19469,7 @@
       "English": "Foresee Danger"
     },
     "PVkAEBlRSJHe3JCz": {
-      "French": "straveika",
+      "French": "Straveika",
       "English": "Straveika"
     },
     "pVLdMOqYwul745k3": {
@@ -19480,6 +19564,10 @@
       "French": "Forme du fi\u00E9lon",
       "English": "Form Of The Fiend"
     },
+    "QFFbmQ5yrBSjbAj3": {
+      "French": null,
+      "English": "Esoteric Oath (Redeemer)"
+    },
     "Qfn7lmOeXfBtpG4O": {
       "French": "Botte empalante",
       "English": "Impaling Finisher"
@@ -19557,7 +19645,7 @@
       "English": "Litany Of Self-Interest"
     },
     "qm1lIMLVdsQtVFT0": {
-      "French": "\u00C2metemp\u00EAtueuse",
+      "French": "\u00C2me temp\u00EAtueuse",
       "English": "Stormsoul"
     },
     "qMa2fIP2nqrFzHrq": {
@@ -19645,7 +19733,7 @@
       "English": "Exhort The Faithful"
     },
     "qVk9htKv47niPmXS": {
-      "French": "Vision profonde",
+      "French": "Vision des profondeurs",
       "English": "Deep Vision"
     },
     "qvLcZGsV0HP2O0CG": {
@@ -19655,6 +19743,10 @@
     "qWb5IxkBUpJWKSLf": {
       "French": "R\u00E9silence du champion",
       "English": "Champion Resiliency"
+    },
+    "QWPFf6NOObxaZJwW": {
+      "French": null,
+      "English": "Manifold Edge (Flurry)"
     },
     "qX9ZtfaAj6rxrVA7": {
       "French": "Ma\u00EEtre des multiples postures",
@@ -19961,7 +20053,7 @@
       "English": "Primal Focus"
     },
     "rswkPvZvEBXISH96": {
-      "French": "\u00C2megel\u00E9e",
+      "French": "\u00C2me gel\u00E9e",
       "English": "Rimesoul"
     },
     "rTjGshtUMHnlBUfH": {
@@ -20089,7 +20181,7 @@
       "English": "Ultimate Flexibility"
     },
     "sbAb2a6BzZpcYv8y": {
-      "French": "Pleine conscience de la m\u00E8re",
+      "French": "Instinct maternel conscient",
       "English": "Mother\u2019s Mindfulness"
     },
     "SBhzem6n3buoxlG5": {
@@ -20397,7 +20489,7 @@
       "English": "Extend Armament Alignment"
     },
     "T4ulOYkFh8gq2kY9": {
-      "French": "Endurci par la Mar\u00E9e",
+      "French": "Endurci par la mar\u00E9e",
       "English": "Tide-hardened"
     },
     "T4Xm8vYtnGMOM0Cw": {
@@ -20455,6 +20547,10 @@
     "tCuMXQ0yMrCNwzqW": {
       "French": "Toucher de r\u00E9silience",
       "English": "Resilient Touch"
+    },
+    "tdtCwmYoBMKzfhEp": {
+      "French": null,
+      "English": "Shining Oath (Redeemer)"
     },
     "tDWc2LQNl0Op1Auq": {
       "French": "Danse de la targe",
@@ -20713,7 +20809,7 @@
       "English": "Specialty Crafting (Stonemasonry)"
     },
     "twnZopGlB392hmqH": {
-      "French": "Projeter un personnage",
+      "French": "Accoutrement imaginaire",
       "English": "Project Persona"
     },
     "txgCXcNMDe9kO7N8": {
@@ -20741,7 +20837,7 @@
       "English": "Signifer\u0027s Sight"
     },
     "TYoE0GDF0URwQqZI": {
-      "French": "\u00C2mebrume",
+      "French": "\u00C2me brumeuse",
       "English": "Mistsoul"
     },
     "TYP0Ee4o3p9LDodd": {
@@ -20775,10 +20871,6 @@
     "u2rvvAqZBugZgcYg": {
       "French": "Cruaut\u00E9 sup\u00E9rieure",
       "English": "Greater Cruelty"
-    },
-    "u3qBWp8ecalSwEk4": {
-      "French": "Serment \u00E9sot\u00E9rique",
-      "English": "Esoteric Oath"
     },
     "U4AoJMBhJaFq5O1S": {
       "French": "Sacrifice du Champion",
@@ -21056,6 +21148,10 @@
       "French": "Vol de l\u0027oisillon",
       "English": "Fledgling Flight"
     },
+    "uv235v6hXCITAFej": {
+      "French": null,
+      "English": "Fiendsbane Oath (Liberator)"
+    },
     "uVXEZblPRuCyPRua": {
       "French": "Connaissance bardique",
       "English": "Bardic Lore"
@@ -21241,7 +21337,7 @@
       "English": "Legendary Monster Hunter"
     },
     "VFBQ1MskOascFDNf": {
-      "French": "Sort vapeur",
+      "French": "Sort de vapeur",
       "English": "Steam Spell"
     },
     "vfuHVSuExvtyajkW": {
@@ -21297,7 +21393,7 @@
       "English": "Safe House"
     },
     "VLCAFIXzUtiv1VuE": {
-      "French": "Queue suple",
+      "French": "Queue souple",
       "English": "Flexible Tail"
     },
     "VN3OHDYcnLaw0nW1": {
@@ -21319,10 +21415,6 @@
     "vQ4DNfpktmaqdgdM": {
       "French": "Initi\u00E9 du domaine \u00E9tendu",
       "English": "Expanded Domain Initiate"
-    },
-    "vQiUYpdgYnXg0oDX": {
-      "French": "Serment de lumi\u00E8re",
-      "English": "Shining Oath"
     },
     "vqLt1qjdrflTmdsw": {
       "French": "Furie du soleil",
@@ -21376,6 +21468,10 @@
       "French": "D\u00E9fenseur exp\u00E9riment\u00E9",
       "English": "Practiced Defender"
     },
+    "VU7aZC7L08Mk1GVA": {
+      "French": null,
+      "English": "Esoteric Oath (Liberator)"
+    },
     "vuApM8xHOZs4o6oS": {
       "French": "D\u00E9vouement du Ma\u00EEtre des sorts",
       "English": "Spellmaster Dedication"
@@ -21417,7 +21513,7 @@
       "English": "Green Tongue"
     },
     "vWf6uykXkQp1Li0r": {
-      "French": "\u00C2mevaporeuse",
+      "French": "\u00C2me vaporeuse",
       "English": "Fumesoul"
     },
     "vWrGwqy4AhHMPz8V": {
@@ -21581,7 +21677,7 @@
       "English": "Boneyard\u0027s Call"
     },
     "wFtJlamwRc6rSQmj": {
-      "French": "Trasnformation du rejeton",
+      "French": "Transformation du rejeton",
       "English": "Scion Transformation"
     },
     "wGaxWwJhIXbMJft1": {
@@ -21621,7 +21717,7 @@
       "English": "Thorough Research"
     },
     "wjhhlh82MABhfxCO": {
-      "French": "Vengeance Strix",
+      "French": "Vengeance strix",
       "English": "Strix Vengeance"
     },
     "wjnfdh6WzN7HbmeE": {
@@ -21717,7 +21813,7 @@
       "English": "Phonetic Training"
     },
     "WSxHCapuTn8uRdLI": {
-      "French": "Prise du dragon",
+      "French": "Emprise du dragon",
       "English": "Dragon Grip"
     },
     "wteuGNhOXLvBudRQ": {
@@ -22053,7 +22149,7 @@
       "English": "Quick Shot"
     },
     "xruboxaTF6nw8l7M": {
-      "French": "\u00C2mebourbier",
+      "French": "\u00C2me bourbier",
       "English": "Miresoul"
     },
     "XseJI9XhKNtZN8pv": {
@@ -22165,7 +22261,7 @@
       "English": "Invisible Trickster"
     },
     "y0Ru2hRmoRwkRsxZ": {
-      "French": "D\u00E9samrer avec la langue",
+      "French": "D\u00E9sarmer avec la langue",
       "English": "Tongue Disarm"
     },
     "y0vdu6DGhKKElmE6": {
@@ -22260,6 +22356,10 @@
       "French": "Opportuniste acrobatique",
       "English": "Tumbling Opportunist"
     },
+    "YbneCzvDEr76mrsS": {
+      "French": null,
+      "English": "Superior Sight (Darkvision)"
+    },
     "ybrx1nsg5J0L8d3j": {
       "French": "Clart\u00E9 partag\u00E9e",
       "English": "Shared Clarity"
@@ -22297,7 +22397,7 @@
       "English": "Improvised Critical"
     },
     "yEbXxbD317IZgtsN": {
-      "French": "\u00C2mepoussi\u00E9reuse",
+      "French": "\u00C2me poussi\u00E9reuse",
       "English": "Dustsoul"
     },
     "Yec6UwJf5FLvAbZ4": {
@@ -22529,7 +22629,7 @@
       "English": "Quickened Casting"
     },
     "z2z3UTayfUhcGazv": {
-      "French": "Peau balafre \u00E9paisse",
+      "French": "Peau \u00E9paisse balafr\u00E9e",
       "English": "Scar-Thick Skin"
     },
     "z54Jl3KRZpA2UaZV": {
@@ -22737,7 +22837,7 @@
       "English": "Perfect Shot"
     },
     "zs2FFGI88zB7EaBT": {
-      "French": "Int\u00E9rieur sombre",
+      "French": "Sombre introspection",
       "English": "Grim Insight"
     },
     "zSTPB1FFWMfA1JPi": {
@@ -22765,7 +22865,7 @@
       "English": "Pin to the Spot"
     },
     "ZUjjUj9lVGOKrJbp": {
-      "French": "Descendant de lieu idyllique",
+      "French": "Type idyllique",
       "English": "Idyllkin"
     },
     "zUtdBd3IbM7UX0AD": {
@@ -23264,13 +23364,29 @@
       "French": null,
       "English": "Spell Effect: Roar of the Wyrm"
     },
+    "1p5LEpMSRFG1099t": {
+      "French": null,
+      "English": "Spell Effect: Ki Form (Lawful)"
+    },
+    "1VuHjj32wge2gPOr": {
+      "French": null,
+      "English": "Spell Effect: Animal Feature (Wings)"
+    },
     "2SWUzp4JuNK5EX0J": {
       "French": null,
       "English": "Spell Effect: Adapt Self (Swim)"
     },
+    "2wfrhRLmmgPSKbAZ": {
+      "French": null,
+      "English": "Spell Effect: Animal Feature (Claws)"
+    },
     "3HEiYVhqypfc4IsP": {
       "French": null,
       "English": "Spell Effect: Safeguard Secret"
+    },
+    "3Ktyd5F9lOPo4myk": {
+      "French": null,
+      "English": "Spell Effect: Illusory Disguise"
     },
     "3qHKBDF7lrHw8jFK": {
       "French": "Effet : Assistance divine",
@@ -23280,9 +23396,17 @@
       "French": null,
       "English": "Spell Effect: Enlarge (Heightened 4th)"
     },
+    "4CUZSDn4BiqWpvZg": {
+      "French": null,
+      "English": "Spell Effect: Ki Strike (Air)"
+    },
     "4iakL7fDcZ8RT6Tu": {
       "French": null,
       "English": "Spell Effect: Face in the Crowd"
+    },
+    "4U9BWv0rSpGbU0wr": {
+      "French": null,
+      "English": "Spell Effect: Ki Strike (Evil)"
     },
     "542Keo6txtq7uvqe": {
       "French": null,
@@ -23292,6 +23416,10 @@
       "French": null,
       "English": "Spell Effect: Athletic Rush"
     },
+    "5MI2c9IgxfSeGZQo": {
+      "French": null,
+      "English": "Spell Effect: Wind Jump"
+    },
     "6embuvXCpS3YOD5u": {
       "French": null,
       "English": "Spell Effect: Resilient Touch"
@@ -23299,6 +23427,10 @@
     "6IvTWcispcDaw88N": {
       "French": null,
       "English": "Spell Effect: Insect Form (Ant)"
+    },
+    "70qdCBokXBvKIUIQ": {
+      "French": null,
+      "English": "Spell Effect: Vision of Weakness"
     },
     "782NyomkDHyfsUn6": {
       "French": null,
@@ -23340,6 +23472,10 @@
       "French": null,
       "English": "Spell Effect: Soothing Words"
     },
+    "b5OyBdc0bolgWZZT": {
+      "French": null,
+      "English": "Spell Effect: Tempest Form (Air)"
+    },
     "B6zSwNFJV3TMafHf": {
       "French": null,
       "English": "Spell Effect: Protection from Lawful"
@@ -23347,6 +23483,10 @@
     "b8bfWIICHOsGVzjp": {
       "French": null,
       "English": "Spell Effect: Monstrosity Form (Phoenix)"
+    },
+    "bbOdbGiRXGEQ2aY0": {
+      "French": null,
+      "English": "Spell Effect: Ki Form (Positive)"
     },
     "Bc2Bwuan3716eAyY": {
       "French": null,
@@ -23368,9 +23508,17 @@
       "French": null,
       "English": "Spell Effect: Insect Form (Scorpion)"
     },
+    "BQAb290GJQHiXtSW": {
+      "French": null,
+      "English": "Spell Effect: Ki Strike (Positive)"
+    },
     "BT1ofB6RvRocQOWO": {
       "French": null,
       "English": "Spell Effect: Animal Form (Bull)"
+    },
+    "C3RdbEQTvawqKAhw": {
+      "French": null,
+      "English": "Spell Effect: Tempest Form (Water)"
     },
     "ceEA7nBGNmoR8Sjj": {
       "French": null,
@@ -23387,6 +23535,10 @@
     "ctMxYPGEpstvhW9C": {
       "French": null,
       "English": "Spell Effect: Forbidding Ward"
+    },
+    "dCQCzapIk53xmDo5": {
+      "French": null,
+      "English": "Spell Effect: Animal Feature (Cat Eyes)"
     },
     "deG1dtfuQph03Kkg": {
       "French": null,
@@ -23420,6 +23572,10 @@
       "French": null,
       "English": "Spell Effect: Dragon Form (Blue)"
     },
+    "F0XnusshRzgMdFT1": {
+      "French": null,
+      "English": "Spell Effect: Ki Form (Force)"
+    },
     "F4DTpDXNu5IliyhJ": {
       "French": null,
       "English": "Spell Effect: Animal Form (Deer)"
@@ -23435,6 +23591,10 @@
     "fwaAe71qfnK7SiOB": {
       "French": null,
       "English": "Spell Effect: Primal Summons (Air)"
+    },
+    "GhGoZdAZtzZTYCzj": {
+      "French": null,
+      "English": "Spell Effect: Animal Feature (Jaws)"
     },
     "GhNVAYtoF5hK3AlD": {
       "French": "",
@@ -23452,9 +23612,17 @@
       "French": "Effet de sort : B\u00E9n\u00E9diction",
       "English": "Spell Effect: Bless"
     },
+    "h28nZ8JB5JBwr87U": {
+      "French": null,
+      "English": "Spell Effect: Ki Form (Negative)"
+    },
     "H6ndYYYlADWwqVQb": {
       "French": null,
       "English": "Spell Effect: Dragon Form (White)"
+    },
+    "HDKJAUXMbtxnBdgR": {
+      "French": null,
+      "English": "Spell Effect: Tempest Form (Mist)"
     },
     "hqe0hdGH1hvhcZyz": {
       "French": null,
@@ -23479,6 +23647,10 @@
     "Jemq5UknGdMO7b73": {
       "French": "Effet : Bouclier",
       "English": "Spell Effect: Shield"
+    },
+    "joCQGq27FylDuY9P": {
+      "French": null,
+      "English": "Spell Effect: Ki Strike (Chaotic)"
     },
     "JrNHFNxJayevlv2G": {
       "French": null,
@@ -23508,9 +23680,17 @@
       "French": null,
       "English": "Spell Effect: Animal Form (Snake)"
     },
+    "l8HkOKfiUqd3BUwT": {
+      "French": null,
+      "English": "Spell Effect: Ancestral Form"
+    },
     "l9HRQggofFGIxEse": {
       "French": null,
       "English": "Spell Effect: Heroism"
+    },
+    "lIl0yYdS9zojOZhe": {
+      "French": null,
+      "English": "Spell Effect: Life-Giving Form"
     },
     "llrOM8rPP9nxIuEN": {
       "French": null,
@@ -23535,6 +23715,10 @@
     "MjtPtndJx31q2N9R": {
       "French": "",
       "English": "Spell Effect: Amplifying Touch"
+    },
+    "mr6mlkUMeStdChxi": {
+      "French": null,
+      "English": "Spell Effect: Animal Feature (Owl Eyes)"
     },
     "N1EM3jRyT8PCG1Py": {
       "French": null,
@@ -23572,21 +23756,41 @@
       "French": null,
       "English": "Spell Effect: Dragon Form (Brass)"
     },
+    "oi5M6yQBlTKvLy29": {
+      "French": null,
+      "English": "Spell Effect: Gravity Weapon (3 Dice)"
+    },
     "oJbcmpBSHwmx6FD4": {
       "French": null,
       "English": "Spell Effect: Dinosaur Form (Deinonychus)"
+    },
+    "OplbQWW6i1NtMq9f": {
+      "French": null,
+      "English": "Spell Effect: Ki Strike (Good)"
     },
     "phIoucsDa3iplMm2": {
       "French": null,
       "English": "Spell Effect: Elemental Form (Fire)"
     },
+    "PNEGSVYhMKf6kQZ6": {
+      "French": null,
+      "English": "Spell Effect: Call to Arms"
+    },
     "ppVKJY6AYggn2Fma": {
       "French": null,
       "English": "Spell Effect: Goodberry"
     },
+    "PQHP7Oph3BQX1GhF": {
+      "French": null,
+      "English": "Spell Effect: Longstrider"
+    },
     "ptOqsN5FS0nQh7RW": {
       "French": null,
       "English": "Spell Effect: Animal Form (Cat)"
+    },
+    "qhNUfwpkD8BRw4zj": {
+      "French": null,
+      "English": "Spell Effect: Magic Hide"
     },
     "qkwb5DD3zmKwvbk0": {
       "French": "Effet : Armure du mage",
@@ -23620,6 +23824,10 @@
       "French": null,
       "English": "Spell Effect: Dragon Form (Black)"
     },
+    "rnu7tqMPe3Qm0apj": {
+      "French": null,
+      "English": "Spell Effect: Ki Strike (Fire)"
+    },
     "s6CwkSsMDGfUmotn": {
       "French": null,
       "English": "Spell Effect: Death Ward"
@@ -23652,6 +23860,14 @@
       "French": null,
       "English": "Spell Effect: Animal Form (Ape)"
     },
+    "tNryw0Rl4L8LF8Yq": {
+      "French": null,
+      "English": "Spell Effect: Gravity Weapon (4 Dice)"
+    },
+    "tTRy1cc24ApPnym8": {
+      "French": null,
+      "English": "Spell Effect: Ki Strike (Water)"
+    },
     "tu8FyCtmL3YYR2jL": {
       "French": null,
       "English": "Spell Effect: Plant Form (Arboreal)"
@@ -23664,9 +23880,29 @@
       "French": null,
       "English": "Spell Effect: Tanglefoot"
     },
+    "U2dJnkoGSCYOsQFI": {
+      "French": null,
+      "English": "Spell Effect: Gravity Weapon (1 Die)"
+    },
+    "U2ekk5iBaSfZlEkp": {
+      "French": null,
+      "English": "Spell Effect: Ki Strike (Earth)"
+    },
+    "ubT5UGReu1PoeCL0": {
+      "French": null,
+      "English": "Spell Effect: Ki Strike (Negative)"
+    },
     "uDOxq24S7IT2EcXv": {
       "French": null,
       "English": "Spell Effect: Object Memory (Weapon)"
+    },
+    "UH2sT6eW5e31Xytd": {
+      "French": null,
+      "English": "Spell Effect: Dutiful Challenge"
+    },
+    "uJNDI3CGGOtcG8nB": {
+      "French": null,
+      "English": "Spell Effect: Gravity Weapon (2 Dice)"
     },
     "UjoNm3lrhlg4ctAQ": {
       "French": null,
@@ -23688,9 +23924,17 @@
       "French": null,
       "English": "Spell Effect: Inspire Heroics (Courage, \u002B3)"
     },
+    "vLdt7vdUPv3Jdkgq": {
+      "French": null,
+      "English": "Spell Effect: Ki Strike (Force)"
+    },
     "W0PjCMyGOpKAuyKX": {
       "French": null,
       "English": "Spell Effect: Weapon Surge (Major Striking)"
+    },
+    "X2BGmuKdGVj4YYyp": {
+      "French": null,
+      "English": "Spell Effect: Ki Strike (Lawful)"
     },
     "X7RD0JRxhJV9u2LC": {
       "French": null,
@@ -23703,6 +23947,10 @@
     "Xl48OsJ47oDVZAVQ": {
       "French": null,
       "English": "Spell Effect: Primal Summons (Earth)"
+    },
+    "Xlwt1wpjEKWBLUjK": {
+      "French": null,
+      "English": "Spell Effect: Animal Feature (Fish Tail)"
     },
     "XMBoKRRyooKnGkHk": {
       "French": null,
@@ -24533,6 +24781,10 @@
     "cOwSsSXRsBaXUvlr": {
       "French": "Stase",
       "English": "Stasis"
+    },
+    "CPNlhDQP3aDmLzB3": {
+      "French": null,
+      "English": "Ordained Purpose"
     },
     "CQb8HtQ1BPeZmu9h": {
       "French": "Idiotie",
@@ -25621,6 +25873,10 @@
     "LX4pCagYLpc9hEji": {
       "French": "Leurre aromatique",
       "English": "Aromatic Lure"
+    },
+    "lXxP1ziyf4ozkpmv": {
+      "French": null,
+      "English": "Split the Tongue"
     },
     "lY9fOk1qBDDhBT8s": {
       "French": "Champ protecteur",

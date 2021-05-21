@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/lightning-tongue.json
 layout: dons
 ---
-Votre langue pointe plus rapidement que l'œil peut le percevoir pourrécupérer les objets abandonnés. Vous Interagissez pour récupérer un objet unique non porté d'Encombrement léger à moins de 3 m de vous. Si vous n'avez pas les mains libres pour tenir l'objet, il chute au sole dans votre case.
+Votre langue pointe plus rapidement que l'œil peut le percevoir pour récupérer les objets abandonnés. Vous Interagissez pour récupérer un objet unique non tenu d'Encombrement léger situé à moins de 3 m de vous. Si vous n'avez pas les mains libres pour attraper l'objet, il chute au sol dans votre case.

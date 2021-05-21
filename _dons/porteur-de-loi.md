@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous possédez dans votre lignée des archons: les incarnations des vertus du paradis, gardiens des sept niveaux de la montagne du Paradis et promoteurs de la loi et de la vertu parmi les mortels. Votre propre vertu et votre esprit très ordonné vous protègent des ennemis qui voudraient retourner vos émotions contre vous.
 
-Vous obtenez un bonus de circonstances de +1 aux jets de sauvegarde contre les effets d'émotion et si vous obtenez un succès, sur un jet de sauvegarde conre un effet d'émotion, vous considérez qu'il s'agit un succès critique à la place.
+Vous obtenez un bonus de circonstances de +1 aux jets de sauvegarde contre les effets d'émotion et si vous obtenez un succès, sur un jet de sauvegarde contre un effet d'émotion, vous considérez qu'il s'agit un succès critique à la place.

@@ -10,6 +10,7 @@ layout: dons
 ---
 **Déclencheur** Vous utilisez Férocité orque
 
+<hr/>
 Vous vous déchainez vicieusement même lorsque vous repoussez la mort.
 
 Faites une unique Frappe au corps-à-corps. Si cette Frappe amène un ennemi à 0 Points de vie, cette activation de Férocité orque n'est pas décomptée de sa fréquence d'utilisation.

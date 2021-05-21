@@ -8,4 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/aquatic-camouflage.json
 layout: dons
 ---
-Vous vous fondez dans les vagues. Alors que vous êtes submergé dans l'eau, tant qu'un observateur est à au moins 6 m de vous, vous n'avez pas besoin d'abri vis-à-vis de cet observateur pour vous cacher ou Être furtif.
+Vous vous fondez dans les vagues.
+
+Lorsque vous êtes immergé dans l'eau, tant qu'un observateur est à au moins 6 m de vous, vous n'avez pas besoin d'abri vis-à-vis de cet observateur pour vous Cacher ou Être furtif.

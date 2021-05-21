@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/startling-appearance-fleshwarp.json
 layout: dons
 ---
-Vous êtes qualifié en Intimidation (ou une autre compétence de votre choix, si vous étiez déjà qualifié en Intimidation) et obtenez le don de compétence[Regard Intimidant](regard-intimidant.html) en tant que don supplémentaire.
+Vous êtes qualifié en Intimidation (ou une autre compétence de votre choix, si vous étiez déjà qualifié en Intimidation) et obtenez le don de compétence [Regard Intimidant](regard-intimidant.html) en tant que don supplémentaire.

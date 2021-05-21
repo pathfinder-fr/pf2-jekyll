@@ -8,4 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/shinstabber.json
 layout: dons
 ---
-Vous pouvez vous précipiter autour et entre les jambes de votre alliés plus grands sans leur faire de croc-en-jambe. Tant que vous êetes Petit ou plus petit, vous pouvez terminer votre déplacement dans la même case qu'un allié de taille Moyenne ou plus grande. Seul un total de deux créatures peuvent partager la même case en utilisant cette capacité ou une autre similaire.
+Vous pouvez circuler autour et même entre les jambes de votre alliés plus grands sans risque de leur faire de croc-en-jambe.
+
+Tant que vous êtes de tailler Petite ou inférieure, vous pouvez terminer votre déplacement dans la même case qu'un allié de taille Moyenne ou supérieure. Seul un total de deux créatures peuvent partager la même case en utilisant cette capacité ou une autre similaire.

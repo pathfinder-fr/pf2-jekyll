@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/archon-magic.json
 layout: dons
 ---
-Vous pouvez puiser dans la magie du Paradis qui est votre droit de naissance.
+Vous pouvez puiser dans la magie du Paradis du fait de votre naissance.
 
 Vous pouvez Lancer [Flamme éternelle](../sorts/flamme-éternelle.html) et [Protection d'autrui](../sorts/protection-d-autrui.html) une fois par jour chacun comme des sorts divins innés de niveau 2.

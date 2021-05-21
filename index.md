@@ -20,12 +20,13 @@ title: Bienvenue
   - les [ascendances](ascendances-et-historiques/ascendances.md)
     - [Liste des ascendances](ascendances-et-historiques/liste-des-ascendances.md)     
   - les [Historiques](ascendances-et-historiques/historiques.md)
-    - [Liste des Historiques](ascendances-et-historiques/liste des historiques.md)
+    - [Liste des Historiques](ascendances-et-historiques/liste-des-historiques.md)
   - les [Langues](ascendances-et-historiques/langues.md)
 
 # Les classes
 - les [classes](classes/classes.md)
 - [lire les rubriques consacrées aux classes](classes/lire-les-classes.md)
+- pages des classes (sorts focalisés éventuels de la classe)
 - les [compagnons animaux](classes/compagnons-animaux.md)
   - les différents [types de compagnons animaux](classes/types-de-compagnons-animaux.md)
   - les [compagnons animaux spécialisés](classes/compagnons-animaux-specialises.md)
@@ -35,6 +36,9 @@ title: Bienvenue
 - les règles des [archétypes](archetypes/index.md)
   - les [archétypes multiclasse](archetypes/multiclasse.md)
   - les [archétypes de classe](archetypes/de-classe.md)
+
+Reste la question des capacités de classe :
+- domaines des prêtres
 
 # Les compétences
 - les [compétences](competences/competences.md)
@@ -81,22 +85,75 @@ title: Bienvenue
 - [Matériel magique](equipement/materiel-magique.md)
 
 # Les sorts
-  - Lancer des sorts
-  - tours de magie, sorts focalisés, sorts innés
-  - emplacements de sorts
-  - Lire un sort
+  - L'explication des [sorts](sorts/sorts.md)
+  - Les règles pour [Lancer des sorts](sorts/lancer-des-sorts.md)
+  - Les [emplacements de sorts](sorts/emplacements.md)
+  - [tours de magie, sorts focalisés, sorts innés](sorts/autres-sorts.md)
+    - Lire les [statistiques des sorts](sorts/lire-un-sort.md)
   - Listes de sorts
     - [Liste arcanique](sorts/liste-arcanique.md)
     - [Liste divine](sorts/liste-divine.md)
     - [liste occulte](sorts/liste-occulte.md)
     - [liste primordiale](sorts/liste-primordiale.md)
-    - [liste des sorts focalisés](sorts/liste-focalises.md)
     - [liste des rituels](sorts/liste-rituels.md)
-  - Les [sorts](equimement/sorts.md)
+  - Les descriptions des différents sorts
+
+# La religion et les domaines
+  - Les [divinités](religion/divinites.md)
+    - bénédictions et malédictions
+  - Les [religions et philosophies](religion/religions-et-philosophies.md)
+  - Les [domaines](religion/domaines.md)
+
+# Jouer une partie
+  - Les [règles générales](jouer/regles-generales.md) et les [conventions de jeu](jouer/conventions.md)
+    - Les [tests](jouer/regles-generales/tests.md)
+    - Les [dégâts](jouer/regles-generales/degats.md)
+    - Les [états](jouer/regles-generales/etats/index.md)
+    - Les [effets](jouer/regles-generales/effets.md)
+    - Les [afflictions](jouer/regles-generales/afflictions.md)
+    - Le [contre](jouer/regles-generales/contre.md)
+    - Les [points de vie, la guérison et la mort](jouer/regles-generales/vie.md)
+    - Les [actions](jouer/regles-generales/actions.md)
+    - Les [déplacements](jouer/regles-generales/deplacements.md)
+    - La [perception](jouer/regles-generales/perception.md)
+    - Les [points d'héroïsme](jouer/regles-generales/heroisme.md)
+  - Le Mode rencontre
+    - La [structure et les tours](jouer/mode-rencontre/structure-et-tours.md)
+    - Les [actions basiques, les activités et les réactions pendant les rencontres](jouer/mode-rencontre/actions-basiques.md)
+    - Les [déplacements pendant les rencontres](jouer/mode-rencontre/deplacements.md)
+    - Les [batailles spéciales](jouer/mode-rencontre/batailles-speciales.md)
+  - Le [mode exploration](jouer/mode-exploration.md)
+    - La vitesse de voyage
+    - Les activités d'exploration
+    - Le Repos et les préparatifs quotidiens
+  - Le [Mode intermède](jouer/mode-intermede.md)
+    - Le repos long
+    - Le réapprentissage
+    - Les autres activités d'intermède
+
+# Diriger une partie
+  - Diriger une partie
+  - Gérer les modes de jeu
+  - Degrés de difficulté
+  - Récompenses
+  - Environnement
+  - Dangers
+
+# Artisanat et trésors
+  - Armes
+  - Armures
+  - Baguettes
+  - Bâtons
+  - Boucliers
+  - Consommables
+  - Matériaux
+  - Objets alchimiques
+  - Objets portés
+  - Pièges artisanaux
+  - Runes
+  - Structures
 
 ## Rubriques diverses
 - [Liste des actions](actions/index.html)
-- [Liste des états préjudiciables](etats/index.html)
-
-
-Pour la rareté, voir comment la traiter (couleur ou indication C PC ou R pour Courant, peu courant ou rare)
+- [Annexe des états](jouer/etats/index.md)
+- Glossaire et index

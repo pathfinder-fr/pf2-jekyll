@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/eerie-compression.json
 layout: dons
 ---
-Vos membres et même votre torse peut s'effondrer sur eux-mêmes, vous permettant de passer par de petits espaces  comme si vous étiez une créature de taille Petite. Vous pouvez vous déplacer à votre pleine Vitesse alors que vous vous Faufilez.
+Vos membres et même votre torse peuvent se replier sur eux-mêmes, vous permettant de passer par de petits espaces comme si vous étiez une créature de taille Petite. Vous pouvez vous déplacer à votre pleine Vitesse alors que vous vous Faufilez.

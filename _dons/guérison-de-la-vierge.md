@@ -10,6 +10,6 @@ layout: dons
 ---
 **Fréquence** une fois par minute
 
-**Déclencheur** Vous lancez un sort occulte ou un sort inné provenant d'un don d'ascendance de changelin qui ne sont pas des tours de magie.
+**Déclencheur** Vous lancez un sort occulte ou un sort inné provenant d'un don ancestral de changelin qui ne sont pas des tours de magie.
 
 Vous pouvez puiser dans une partie de la magie qui coule dans votre sang pour vous donner de la vie. Vous obtenez un nombre de Points de vie temporaire égal à la moitié de votre niveau (minimum 1) qui dure jusqu'à la fin de votre prochain tour.

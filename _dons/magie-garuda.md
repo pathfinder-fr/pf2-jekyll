@@ -8,4 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/garuda-magic.json
 layout: dons
 ---
-Vous descendez des merveilleux Garudas et leurs sens aiguisés se manifestent dans vos prouesses magiques. Vous pouvez lancer [Flou](../sorts/flou.html) et [Détection de l'invisibilité](../sorts/détection-de-l-invisibilité.html) chacun une fois par jour comme des sorts divins innés de niveau 2.
+Vous descendez des merveilleux Garudas et leurs sens aiguisés se manifestent dans vos prouesses magiques.
+
+Vous pouvez lancer [Flou](../sorts/flou.html) et [Détection de l'invisibilité](../sorts/détection-de-l-invisibilité.html) une fois par jour chacun comme des sorts divins innés de niveau 2.

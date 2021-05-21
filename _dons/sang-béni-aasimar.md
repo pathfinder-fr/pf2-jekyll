@@ -10,6 +10,6 @@ layout: dons
 ---
 Votre sans fraichement répandu est sanctifié et l'ingérer cause des effets similaires à ceux de l'[Eau bénite](../équipements/eau-bénite.html).
 
-Lorsqu'un fiélon, un mort-vivant ou une créature avec une faiblesse aux dégats du bien boit votre sang ou vous inflige des dégâts perforants ou tranchants avec des mâchoires, des crocs ou une attaque similaire, cette créature subit [[/r 1d6 #bien]] dégâts du bien.
+Lorsqu'un fiélon, un mort-vivant ou une créature avec une faiblesse aux dégats Bons boit votre sang ou vous inflige des dégâts perforants ou tranchants avec des mâchoires, des crocs ou une attaque similaire, cette créature subit [[/r 1d6 #bien]] dégâts du bien.
 
 Vous obtenez un bonus de circonstances de +4 aux tests d'Artisanat pour [Fabriquer](../actions/fabriquer.html) de l'eau bénite en utilisant votre propre sang comme un des ingrédients.

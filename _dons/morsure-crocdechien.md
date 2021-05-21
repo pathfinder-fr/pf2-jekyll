@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/dogfang-bite.json
 layout: dons
 ---
-Vous pouvez blanacer votre bec pour trancher vos ennemis lorsque vos attaques perforantes n'y parviennent pas. Votre attaque de bec à mains nues obtient le trait d'arme Polyvalent T.
+Vous pouvez balancer votre bec pour trancher vos ennemis lorsque vos attaques perforantes n'y parviennent pas. Votre attaque de bec à mains nues obtient le trait d'arme Polyvalent T.

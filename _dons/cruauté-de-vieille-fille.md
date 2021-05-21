@@ -8,4 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/crone-s-cruelty.json
 layout: dons
 ---
-l'âme remplie de rancœur et de haine, vous déchirez les esprits de ceux qui vous déplaisent. Vous pouvez lancer [Déformer l'esprit](../sorts/déformer-l-esprit.html) une fois par jour comme un sort inné occulte.
+l'âme remplie de rancœur et de haine, vous déchirez les esprits de ceux qui vous déplaisent.
+
+Vous pouvez lancer [Déformer l'esprit](../sorts/déformer-l-esprit.html) une fois par jour comme un sort inné occulte.

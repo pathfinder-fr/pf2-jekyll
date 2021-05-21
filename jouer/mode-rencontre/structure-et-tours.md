@@ -1,0 +1,58 @@
+---
+Title : Le Mode rencontre
+---
+Quand chaque action est importante, vous entrez alors dans le mode de jeu de rencontre. Dans ce mode, le temps se divise en rounds, qui représentent chacun 6 s dans le monde du jeu. Lors d’un round, chaque participant joue à son tour dans un ordre préétabli. Lors de votre tour, vous pouvez entreprendre desactions et, en fonction de la manière dont se déroule cette rencontre, vous pourrez peut-être utiliser des réactions et des actions gratuites lors de votre tour ou de celui d’autres créatures.
+
+## Structure
+Une rencontre se compose d’une série de rounds au cours desquels les personnages joueurs, leurs adversaires et les autres participants agissent les uns après les autres. Au début de la rencontre, vous déterminez l’initiative et l’ordre de jeu par des jets de dés, puis enchaînez les rounds jusqu’à ce qu’un dénouement soit atteint et que la rencontre prenne fin. Les règles présentées dans cette section sont spécifiques à une rencontre de combat (une bataille), mais cette structure générale peut être utilisée pour tous les types de rencontre. 
+
+### Étape 1 : Déterminer l’initiative
+Quand le MJ le demande, vous faites un **jet d’initiative** afin de déterminer votre place dans l’**ordre d’initiative** qui est l’ordre dans lequel chaque participant à la rencontre va jouer son tour. Les jets d’initiatives marquent le début d’une rencontre. Dans la majorité des cas, vous faites votre jet d’initiative avant de commencer un combat.
+
+Vous déterminez généralement votre initiative à l’aide d’un test de Perception : plus vous êtes conscient de votre environnement, plus vous êtes en mesure de réagir rapidement. Cela, étant, le MJ pourra parfois vous demander de faire un autre type de test. Par exemple, si vous êtes en mode exploration et que vous tentez d’Échapper aux regards, vous devrez faire un test de Discrétion. Une **rencontre sociale** fera quant à elle appel à un test de Duperie ou de Diplomatie.
+
+Le MJ lance l’initiative de tous les participants à une rencontre qui ne sont pas des personnages joueurs. Si parmi ces participants se trouvent des créatures identiques, le MJ peut faire un jet d’initiative commun pour l’ensemble de ces créatures et les faire jouer dans l’ordre de son choix pendant leur tour. Un tel mode de fonctionnement peut cependant rendre les batailles moins prévisibles et plus dangereuses, certains MJ préfèrent donc faire un jet d’initiative pour chaque créature quand cela n’est pas trop long. 
+
+À la différence d’un test classique, dont le résultat est comparé à un DD, les résultats des jets d’initiative sont classés par ordre de grandeur. Ce classement détermine l’ordre dans lequel les participants à la rencontre agissent, qui s’appelle l’ordre d’initiative. Le personnage dont le résultat est le plus élevé commence. Le second résultat le plus élevé suit et ainsi de suite jusqu’à la créature dont le résultat est le moins élevé et qui joue en dernier. Si votre résultat est égal à celui d’un adversaire, celui-ci joue en premier. Si votre résultat est égal à celui d’un autre PJ, vous pouvez décider entre vous qui jouera le premier lorsque votre tour arrive dans l’ordre d’initiative. Une fois cette décision arrêtée, cependant, vos places dans l’ordre d’initiative ne changent généralement plus jusqu’à la fin de la rencontre.
+
+###### Le suivi de l’initiative
+Le MJ est chargé de suivre l’ordre d’initiative pendant les rencontres. Rien ne s’oppose généralement à ce que les joueurs connaissent cet ordre, dans la mesure où ils verront bien qui agit quand et connaissent leurs résultats respectifs. Cependant, le MJ peut vouloir cacher les noms des adversaires que les PJ n’ont pas encore identifiés.
+
+Une fois que l’ordre d’une rencontre est fixé, il n’est généralement pas nécessaire de conserver les résultats des jets d’initiative initiaux. Le MJ peut créer une liste simple, utiliser une série de cartes ou d’autres indicateurs, ou encore un *Combat Pad* Pathfinder, qui est équipé d’aimants qui lui permettront de réorganiser cet ordre en toute simplicité.
+
+**Changer l’ordre d’initiative**  
+Toute méthode utilisée pour garder une trace de l’ordre d’initiative doit être flexible, car cet ordre peut être modifié. En effet, une créature peut utiliser l’action basique Retarder pour changer sa place dans cet ordre, auquel cas vous pouvez l’effacer de la liste ou mettre son marqueur de côté jusqu’à ce qu’elle entre de nouveau dans l’ordre d’initiative. Quand une créature est assommée, sa place dans l’ordre d’initiative change également (voir la section 
+« Assommé et mourant »). Utiliser l’action basique Préparer ne modifie par contre pas la place d’une créature dans l’ordre d’initiative, car l’action désignée devient alors une réaction
+
+### Étape 2 : Jouer un round
+Un round commence quand le participant qui a obtenu le résultat le plus élevé à son jet d’initiative commence son tour et il prend fin quand celui qui a obtenu le résultat le moins élevé à son jet d’initiative termine son tour. La manière dont se déroule un tour est décrite plus bas. Les créatures peuvent également agir hors de leur tour grâce à des réactions et des actions gratuites.
+
+### Étape 3 : Commencer le round suivant
+Une fois que tous les participants à une rencontre ont joué à leur tour, le round actuel prend fin et le suivant peut commencer. Vous n’avez pas besoin de refaire de jets d’initiative. Le nouveau round se déroule dans le même ordre que le précédent et le cycle se répète ainsi jusqu’à la fin de la rencontre.
+
+### Étape 4 : Terminer la rencontre
+La rencontre prend fin quand vos adversaires sont vaincus, que vous avez conclu une trêve, ou si un événement ou une situation particulière met fin au combat. Vous et les autres participants n’êtes alors plus soumis à l’ordre d’initiative et vous retrouvez un mode de jeu plus libre, ce qui se traduit généralement par un retour au **mode exploration**. Parfois, au terme d’une rencontre, le MJ distribue des points d’expérience au groupe ou vous trouvez des trésors à vous partager.
+
+## Tours
+Quand c’est à votre tour d’agir, vous pouvez choisir de faire des actions uniques ({s:1a}), de brèves activités ({s:2a} et {s:3a}), des réactions ({s:ra}), ou des actions gratuites ({s:0a}). Quand vous avez terminé, votre tour prend fin et le personnage suivant dans l’ordre d’initiative commence son tour. Il est parfois important de savoir à quel moment quelque chose se passe lors de votre tour, c’est pourquoi un tour est segmenté en trois parties.
+
+### Étape 1 : Commencez votre tour
+De nombreuses choses se déroulent automatiquement au début de votre tour. Il s’agit généralement du point de repère utilisé pour noter le temps qui passe pour les effets qui durent plusieurs tours. Au début de chacun de vos tours, accomplissez ce qui suit dans l’ordre de votre choix :
+- Si vous avez créé un effet qui dure un nombre de rounds donné, réduisez la quantité de rounds restants de 1. L’effet prend fin quand cette durée atteint 0. Par exemple, si vous vous êtes lancé un sort qui dure 3 rounds lors de votre premier tour de combat, celui-ci vous affecte pendant ce premier round, puis sa durée est réduite à 2 rounds au début de votre second tour, à 1 round au début de votre troisième tour et il prend fin au début de votre quatrième round.
+- Vous pouvez utiliser une action gratuite ou une réaction dont le déclencheur est « votre tour commence » ou quelque chose de comparable.
+- Si vous êtes mourant, faites un test de récupération.
+- Finissez de faire tout ce qui est censé se dérouler au début de votre tour. Le début de votre tour se termine toujours de la même manière.
+- Regagnez 3 actions et 1 réaction. Si vous n’avez pas utilisé la réaction gagnée au tour précédent, vous la perdez. Vous ne pouvez pas en effet « mettre de côté » les actions ou les réactions gagnées lors d’un tour pour les utiliser au tour suivant. Si un état vous empêche d’agir, vous ne regagnez pas vos actions ni votre réaction. Certains pouvoirs et états (comme accéléré ou ralenti) peuvent modifier le nombre d’actions que vous regagnez, voire vous empêcher de regagner votre réaction. Si vous perdez des actions et gagnez des actions supplémentaires (par exemple si vous vous trouvez à la fois dans l’état accéléré et ralenti), vous choisissez quelles actions vous perdez. 
+
+## Étape 2 : Agissez
+Lors de votre tour, vous pouvez utiliser des actions dans l’ordre que vous souhaitez. Cependant, vous devez compléter une action ou une activité avant de pouvoir en entreprendre une autre. Par exemple, vous ne pouvez pas utiliser une action unique en plein milieu d’une activité à deux actions que vous avez commencée. Les actions que vous pouvez utiliser dépendent généralement de vos capacités de classe, de vos compétences, de vos dons et de vos objets. Il existe cependant un certain nombre d’actions par défaut que tout le monde peut accomplir et qui vous sont décrites dans la section « Actions basiques » ci-dessous. Certains effets peuvent vous empêcher d’agir. Si vous ne pouvez pas agir, vous ne pouvez pas utiliser d’action, ni de réaction ou d’action gratuite.
+
+Si vous entamez une activité à 2 ou 3 actions lors de votre tour, vous devez être en mesure de la compléter lors de votre tour. Vous ne pouvez pas, par exemple, commencer un Saut en hauteur en utilisant votre dernière action d’un tour puis le compléter en utilisant votre première action du tour suivant. Une fois que vous avez dépensé vos 3 actions, votre tour prend fin (comme décrit dans l’Étape 3) et celui de la créature suivante commence. Vous pouvez aussi décider de ne pas utiliser toutes vos actions et terminer votre tour de manière anticipée. Dès que votre tour prend fin, vous perdez toutes les actions que vous n’avez pas utilisées, mais pas votre réaction ni votre capacité à utiliser des actions gratuites.
+
+## Étape 3 : Terminez votre tour
+Une fois que vous avez accompli tout ce que vous vouliez avec les actions à votre disposition, vous atteignez la fin de votre tour. Vous pouvez accomplir ce qui suit dans l’ordre de votre choix. Une fois que vous avez fini de jouer, vous laissez la place à la créature suivante dans l’ordre d’initiative.
+- Mettez fin à tous les effets qui durent jusqu’à la fin de votre tour. Par exemple, les sorts avec une durée maintenue se terminent à la fin de votre tour, sauf si vous 
+avez utilisé l’action Maintenir un sort pendant votre tour pour en allonger encore la durée. Certains effets causés par des ennemis peuvent également durer un certain nombre de vos tours et vous en réduisez alors la durée de 1 lors de cette étape, en mettant un terme à l’effet quand sa durée atteint 0.
+- Si vous vous trouvez dans l’état dégâts persistants, c’est à ce moment que ces dégâts vous sont infligés. Après avoir subi ces dégâts, vous pouvez tenter le test nu qui vous permettra, peut-être, de mettre un terme à ces dégâts persistants. Vous faites ensuite tous les jets de sauvegarde liés aux afflictions dont vous souffrez. De nombreux autres états changent à la fin de votre tour, comme l’état Effrayé, dont l’intensité baisse. Ces changements d’état interviennent cependant après que vous avez subi les potentiels dégâts persistants qui vous affectent, fait un test nu pour y mettre fin, et fait les jets de sauvegarde contre les afflictions qui vous affectent. 
+- Vous pouvez utiliser une action gratuite ou une réaction dont le déclencheur est « Votre tour se termine » ou quelque chose de comparable.
+- Finissez de faire tout ce qui est censé se dérouler à la fin de votre tour.

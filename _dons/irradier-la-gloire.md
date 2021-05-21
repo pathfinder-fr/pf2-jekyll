@@ -8,7 +8,7 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/radiate-glory.json
 layout: dons
 ---
-Votre gloire intérieur irradie dans le monde avec tout le pouvoir divin des plans célestes pendant 1 minute.
+Votre gloire intérieur irradie dans le monde avec tout le pouvoir divin des plans célestes pendant une minute.
 
 Toute créature qui peut vous voir alors que vous irradiez le gloire doit tenter un jet de Volonté contre le plus élevé entre votre DD de classe ou votre DD de sort. La créature devient alors temporairement immunisée à cet effet pendant 24 heures.
 

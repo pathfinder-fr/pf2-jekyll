@@ -8,4 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/aggravating-scratch.json
 layout: dons
 ---
-Vos griffes charrient une substance irritante qui est inoffensive pour vous mais qui peut causer des dégâts aux autres. Vos [Frappes](../actions/frapper.html) de griffe infligent [[/r 1d4 #dégâts persistants de poison]] dégâts persistants de poison sur un coup critique.
+Vos griffes charrient une substance irritante qui est inoffensive pour vous mais qui est dommageable pour les autres.
+
+Vos [Frappes](../actions/frapper.html) de griffe infligent [[/r 1d4 #dégâts persistants de poison]] dégâts persistants de poison sur un coup critique.

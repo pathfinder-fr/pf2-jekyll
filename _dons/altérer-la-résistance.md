@@ -12,4 +12,6 @@ layout: dons
 
 **Déclencheur** Vous subissez des dégâts d'acide, d'électricité ou de son.
 
-Vous vous concentrez sur vos géniteurs protéens pour changer votre résistance à l'énergie. La résistance à l'énergie que vous avez obtenu de votre héritage ganzi change pour correspondre aux dégâts déclencheurs. Ce changement survient après avoir subi les dégâts.
+Vous vous concentrez sur vos géniteurs protéens pour changer votre résistance à l'énergie.
+
+La résistance à l'énergie que vous avez obtenu de votre héritage ganzi change pour correspondre aux dégâts déclencheurs. Ce changement survient après avoir subi les dégâts.

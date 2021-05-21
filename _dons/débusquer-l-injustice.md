@@ -10,4 +10,4 @@ layout: dons
 ---
 **Fréquence** une fois par jour
 
-Lorsque vous passez un moment à vous concentrer, vous pouvez localiser les signes révélateurs d’une corruption, quelle que soit la façon dont ses derniers vous sont cachés. Pendant 1 minute, vous pouvez voir à travers la pierre, le bois, ou toute barrière similaire sur une profondeur de 1,5 m comme si le matériau n’existait pas (même si la présence de métal ou des barrières plus denses bloquent cet effet).
+Lorsque vous passez un moment à vous concentrer, vous pouvez localiser les signes révélateurs d’une corruption, quelle que soit la façon dont ses derniers vous sont cachés. Pendant 1 minute, vous pouvez voir à travers la pierre, le bois ou toute barrière similaire sur une profondeur de 1,5 m comme si le matériau n’existait pas (même si la présence de métal ou des barrières plus denses bloquent cet effet).

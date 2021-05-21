@@ -8,4 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/big-mouth.json
 layout: dons
 ---
-Vos abajoues sont particulièrement élastiques. Au lieu d'y emmagasiner jusqu'à quatre objet d'Encombrement léger, vous pouvez y placer des objets atteignant 1 Encombrement. La taille maximale de chaque objet donné reste inchangée.
+Vos abajoues sont particulièrement élastiques.
+
+Au lieu d'y emmagasiner jusqu'à quatre objet d'Encombrement léger, vous pouvez y placer des objets atteignant 1 Encombrement. La taille maximale de chaque objet donné reste inchangée.

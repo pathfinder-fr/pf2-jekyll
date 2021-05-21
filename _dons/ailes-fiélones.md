@@ -12,4 +12,4 @@ layout: dons
 
 Vous pouvez faire un effort pour invoquer des ailes de chauve-souris ou d'allure fiélone qui apparaissent dans votre dos, similaires en apparence à celles de vos ancêtres fiélons.
 
-Une fois manifestées, ces ailes demeurent pendant 10 minutes. Vous obtenez une vitesse de Vol égale à votre Vitesse au sol lorsque vous vos ailes se sont manifestées.
+Une fois manifestées, ces ailes demeurent pendant 10 minutes. Vous obtenez une vitesse de Vol égale à votre Vitesse au sol lorsque vos ailes sont présentes.

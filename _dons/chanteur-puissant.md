@@ -10,4 +10,4 @@ layout: dons
 ---
 Rester juste, obtenir le bon contrôle de son souffle ou faire l'effort de se souvenir des paroles sont bien moins importants que la véritable mesure d'un bon chanteur : le volume !
 
-La portée de votre Chant gobelin est augmentée à 18 m et vous pouvez cibler un ennemi supplémentaire lorsque vous l'utilisez.
+La portée de votre Chant gobelin passe à 18 m et vous pouvez cibler un ennemi supplémentaire lorsque vous l'utilisez.

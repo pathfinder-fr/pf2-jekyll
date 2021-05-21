@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous avez une profonde connection avec les royaumes fiélons, vous permettant de convoquer un fiélon qui correspond à votre propre lignage.
 
-Une fois par jour, vous pouvez Lancer  [Convocation de fiélon](../sorts/convocation-de-fiélon.html) comme un sort divin inné de niveau 5. Le fiélon que vous convoquez doit correspondre à votre propre lignage.
+Une fois par jour, vous pouvez Lancer [Convocation de fiélon](../sorts/convocation-de-fiélon.html) comme un sort divin inné de niveau 5. Le fiélon que vous convoquez doit correspondre à votre propre lignage.

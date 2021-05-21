@@ -10,4 +10,4 @@ layout: dons
 ---
 Être élevé parmi les hommes-félins vous a appris leurs valeurs traditionnelles que sont la liberté de voyager, l'administration des terres et les rapides réactions lorsque votre curiosité est source de problèmes.
 
-Vous obtenez le rang qualifié en Acrobaties et en Survie. Si vous devriez déjà être qualifié dans l'une de ces compétences (par le biais de votre historique ou de votre classe, par exemple), vous êtes qualifié avec une compétence de votre choix à la place. Vous êtes aussi qualifié en Connaissance des Hommes-félins.
+Vous obtenez le rang qualifié en Acrobaties et en Survie. Si vous devriez déjà être qualifié dans l'une de ces compétences (par le biais de votre historique ou de votre classe, par exemple), vous êtes qualifié dans une compétence de votre choix à la place. Vous êtes aussi qualifié en Connaissance des Hommes-félins.

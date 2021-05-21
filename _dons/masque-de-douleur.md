@@ -12,4 +12,6 @@ layout: dons
 
 **Condition** Vous portez votre *masque de guerre*.
 
-Votre masque a évolué en une manifestation de votre douleur, que vous pouvez relâcher. La créature que vous réussissez à démoraliser subit [[/r 2d6 #mentaux]] dégâts mentaux ou [[/r 4d6 #mentaux]] dégâts mentaux si vous êtes légendaire en Intimidation. La cible est alors temporairement immunisée aux dégâts supplémentaires de Masque de douleur pendant 24 heures.
+Votre masque a évolué en une manifestation de votre douleur, que vous pouvez déchainer.
+
+La créature que vous réussissez à démoraliser subit [[/r 2d6 #mentaux]] dégâts mentaux ou [[/r 4d6 #mentaux]] dégâts mentaux si vous êtes légendaire en Intimidation. La cible est alors temporairement immunisée aux dégâts supplémentaires de Masque de douleur pendant 24 heures.

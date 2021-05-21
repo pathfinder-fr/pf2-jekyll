@@ -8,4 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/cloud-gazer.json
 layout: dons
 ---
-Votre lien avec l'air vous permet de voir à travers les brumes obscurcissantes=. Vous pouvez voir assez bien à travers le brouillard, la brume et les nuages qui devraient normalement [Masquer](../conditions/masqué.html) les créatures que vous n'avez pas beoin de réussir à un test nu pour cibler les créatures bénéficiant d'un tel camouflage.
+Votre lien avec l'air vous permet de voir à travers les brumes obscurcissantes.
+
+Vous pouvez voir suffisamment bien à travers le brouillard, la brume et les nuages que vous n'avez pas besoin de réussir à un test nu pour cibler les créatures [Masquées](../conditions/masqué.html) par un tel camouflage.

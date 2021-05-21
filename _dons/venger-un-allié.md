@@ -12,6 +12,6 @@ layout: dons
 
 **Conditions** Vous êtes adjacent à un allié avec la condition [Mourant](../conditions/mourant.html).
 
-Bien que vous sachiez que vous allez finalement survivre à vos compagnons, les voir aux portes de la mort apporte la clarté à vos attaques.
+Bien que vous sachiez que vous allez finalement survivre à vos compagnons, les voir aux portes de la mort apporte de la clarté à vos attaques.
 
-Faites une [Frappe](../actions/frapper.html). Lancez deux fois le jet d'attaque et utiliser le meilleur résultat.
+Faites une [Frappe](../actions/frapper.html). Lancez deux fois le jet d'attaque et utilisez le meilleur résultat.

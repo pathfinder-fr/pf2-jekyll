@@ -8,4 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/elemental-trade.json
 layout: dons
 ---
-Vous possédez un lien fort avec la pierre et le métal. Vous devenez qualifié en Artisanat. Si vous deviez  automatiquement être en Artisanat (de par votre historique ou votre classe, par exemple), vous devenez qualifié à la place dans une compétence de votre choix. Vous obtenez le don de compétence Artisanat spécialisé à la fois pour [Taille de pierre](artisanat-spécialisé-taille-de-pierre.html) and [Forge](artisanat-spécialisé-forge.html).
+Vous possédez un lien fort avec la pierre et le métal.
+
+Vous êtes qualifié en Artisanat. Si vous deviez  automatiquement être en Artisanat (de par votre historique ou votre classe, par exemple), vous devenez qualifié à la place dans une compétence de votre choix. Vous obtenez le don de compétence Artisanat spécialisé à la fois pour [Taille de pierre](artisanat-spécialisé-taille-de-pierre.html) and [Forge](artisanat-spécialisé-forge.html).

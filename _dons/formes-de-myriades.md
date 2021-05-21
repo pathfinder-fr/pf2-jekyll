@@ -8,4 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/myriad-forms.json
 layout: dons
 ---
-Avec un peu de découverte de vous même, vous trouvez une nouvelle forme. Vous obtenez la forme alternative d'un héritage kitsune autre que le vôtre, l'ajoutant aux options de votre Changement de forme.
+Avec un peu de découverte de vous même, vous trouvez une nouvelle forme.
+
+Vous obtenez la forme alternative d'un héritage kitsune différent du vôtre, l'ajoutant aux options de votre Changement de forme.

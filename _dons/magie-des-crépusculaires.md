@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/duskwalker-magic.json
 layout: dons
 ---
-Votre relation avec les psychopompes vous donne le pouvoir de jeter un œil dans le futur proche et de protéger les corps des ravages de la mort-vivance.
+Votre relation avec les psychopompes vous donne le pouvoir de jeter un œil dans le futur proche et celui de protéger les corps des ravages de la mort-vivance.
 
-Vous pouvez Lancer [Augure](../sorts/augure.html) et [Préservation des morts](../sorts/préservation-des-morts.html) chacun une fois par jour comme des sorts innés divins de niveau 2.
+Vous pouvez Lancer [Augure](../sorts/augure.html) et [Préservation des morts](../sorts/préservation-des-morts.html) une fois par jour chacun comme des sorts innés divins de niveau 2.

@@ -8,4 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/kitsune-spell-mysteries.json
 layout: dons
 ---
-Vous connaissez davantage de magie kitsune. Au cours de vos préparatifs quotidiens, choisissez [Imprécation](../sorts/imprécation.html), [Objet illusoire](../sorts/objet-illusoire.html) ou [Sanctuaire](../sorts/sanctuaire.html). Vous pouvez lancer ce sort comme un sort inné divin de niveau 1 une fois par jour durant cette journée.
+Vous connaissez davantage de magie kitsune.
+
+Au cours de vos préparatifs quotidiens, choisissez [Imprécation](../sorts/imprécation.html), [Objet illusoire](../sorts/objet-illusoire.html) ou [Sanctuaire](../sorts/sanctuaire.html). Vous pouvez lancer ce sort comme un sort inné divin de niveau 1 une fois par jour durant cette journée.

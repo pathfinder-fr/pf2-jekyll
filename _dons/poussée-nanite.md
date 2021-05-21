@@ -10,6 +10,6 @@ layout: dons
 ---
 **Fréquence** une fois par heure
 
-**Déclencheur** Vous tentez un test de compétences nécessitant tris actions ou moins.
+**Déclencheur** Vous tentez un test de compétences nécessitant trois actions ou moins.
 
-Vous stimulez vos nanites, forçant votre corps à accroître temporrairement son efficacité. Vous obtenez un bonus de statut de +2 au test de compétence déclencheur. De plus, votre circuiterie brille, illuminant une émanation de 3 m de lumière faible pendant 1 round.
+Vous stimulez vos nanites, forçant votre corps à accroître temporrairement son efficacité. Vous obtenez un bonus de statut de +2 au test de compétence déclencheur. De plus, votre circuiterie brille, produisant une lumière faible dans une émanation de 3 m pendant 1 round.

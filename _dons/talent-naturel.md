@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/natural-skill.json
 layout: dons
 ---
-Votre sagacité vous permet d’apprendre de nombreuses compétences. Vous gagnez le rang de maîtrise qualifié dans deux compétences de votre choix
+Votre sagacité vous permet d’apprendre de nombreuses compétences. Vous gagnez le rang de maîtrise qualifié dans deux compétences de votre choix.

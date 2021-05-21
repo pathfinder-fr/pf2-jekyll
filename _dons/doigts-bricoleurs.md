@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous êtes doué avec vos mains et pouvez rapidement improviser une réparation pour un équipement cassé ou endommagé.
 
-Vous êtes qualifié en Artisanat. Si vous devriez déjà être qualifié en Artisanat (par votre historique ou votre classe par exemple), vous devenez qualifié en une compétence de votre choix. Vous pouvez [Réparer](../actions/réparer.html) un objet sans utiliser un kit de réparation sans subir la pénalité de circonstance de -2, en improvisant des outils avec ce qui vous tombe sous la main.
+Vous êtes qualifié en Artisanat. Si vous devriez déjà être qualifié en Artisanat (par votre historique ou votre classe par exemple), vous devenez qualifié en une compétence de votre choix. Vous pouvez [Réparer](../actions/réparer.html) un objet sans utiliser un kit de réparation sans subir la pénalité de circonstances de -2, en improvisant des outils avec ce qui vous tombe sous la main.

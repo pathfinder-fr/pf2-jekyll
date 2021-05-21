@@ -10,6 +10,6 @@ layout: dons
 ---
 **Accès** ethnie Kellide
 
-Vous et votre famille avez combattu longuement et durement contre les sorcières et plus particulièrement contre les sorcières de l'hiver d'Irrisen et vous êtes conscient des malédictions et des pouvoirs d'Outre-monde accordés par leurs patrons.
+Vous et votre famille avez combattu longuement et durement contre les sorcières et plus particulièrement contre les sorcières de l'hiver d'Irrisen et vous êtes conscient des malédictions et des pouvoirs d'Outre-monde que leur accordent leurs patrons.
 
-Vous obtenez un bonus de circonstances de +1 aux jets de sauvegarde contre les malédictions et aux jets de sauvegarde contre les sorts lancés par les sorcières ou les guenaudes. Si vous obtenez une réussite contre une malédiction ou un sort lancé par une sorcière ou une guenaude, vous obtenez à la place une réussite critique.
+Vous obtenez un bonus de circonstances de +1 aux jets de sauvegarde contre les malédictions et aux jets de sauvegarde contre les sorts lancés par les sorcières ou les guenaudes. Si vous obtenez un succès contre une malédiction ou un sort lancé par une sorcière ou une guenaude, vous obtenez à la place un succès critique.

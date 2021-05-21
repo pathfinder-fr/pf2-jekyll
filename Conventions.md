@@ -15,7 +15,7 @@ Donne :
 - ![deux actions](/images/2actions.png)
 - ![trois actions](/images/3actions.png)
 - ![action gratuite](/images/actiongratuite.png)
-- ![réaction](/images/réaction.png)
+- ![réaction](/images/reaction.png)
 
 ## Tableaux
 Supprimer la numérotation de chaque tableau Tableau 1-1 : bidule devient Tableau du bidule  

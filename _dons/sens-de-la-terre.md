@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/earthsense.json
 layout: dons
 ---
-Votre lien avec la terre et la pierre vous permet de sentir le plus léger des déplacements qui les affecte, jusqu'au frottement d'un galet. Vous obtenez perception des vibrations comme un sens imprécis avec une portée de 9 m.
+Votre lien avec la terre et la pierre vous permet de sentir le plus léger des déplacements qui les affecte, jusqu'au frottement d'un galet. Vous obtenez Perception des vibrations comme un sens imprécis avec une portée de 9 m.

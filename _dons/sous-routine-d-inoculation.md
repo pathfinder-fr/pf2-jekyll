@@ -8,4 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/inoculation-subroutine.json
 layout: dons
 ---
-Vos nanites rejettent les maladies avec aise. Chaque fois que vous obtenez un succès à un jet de Vigueur contre une maladie qui vous affecte, vous réduisez son stade par 2 ou par 1 contre une maladie virulente. Chaque succès critique que vous atteignez contre une maladie qui vous affecte réduit son stade par 3 ou par 2 contre une maladie virulente.
+Vos nanites rejettent les maladies avec facilité.
+
+Chaque fois que vous obtenez un succès à un jet de Vigueur contre une maladie qui vous affecte, vous réduisez son stade de 2 ou de 1 si c'est une maladie virulente. Chaque succès critique que vous obtenez contre une maladie qui vous affecte réduit son stade de 3 ou de 2 si c'est une maladie virulente.

@@ -10,6 +10,6 @@ layout: dons
 ---
 **Fréquence** une fois par minute
 
-**Déclencheur** Vous lancez un sort inné issu d'un héritage gnome ou d'un don d'ascendance.
+**Déclencheur** Vous lancez un sort inné issu d'un héritage gnome ou d'un don ancestral.
 
 Le jaillissement de votre magie inné rafraichit votre corps. Vous obtenez un nombre de points de vie temporaires égal à la moitié de votre niveau (minimum 1) qui dure jusqu'à la fin de votre prochain tour.

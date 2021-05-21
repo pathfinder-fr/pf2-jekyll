@@ -8,4 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/silent-step.json
 layout: dons
 ---
-Vous disparaissez avec des foulées silencieuses. Vous Faites un pas, puis vous vous Cachez ou Êtes furtif. Vous avez toujours besoin de remplir les conditions pour vous Cacher ou Être furtif, comme d'ordinaire.
+Vous disparaissez à pas feutrés.
+
+Vous Faites un pas, puis vous vous Cachez ou Êtes furtif. Vous avez toujours besoin de remplir les conditions pour vous Cacher ou Être furtif, comme à l'ordinaire.

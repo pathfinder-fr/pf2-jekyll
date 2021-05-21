@@ -10,7 +10,7 @@ layout: dons
 ---
 Vous portez des cicatrices ou des tatouages améliorés par la marque des prouesses de votre communauté.
 
-Lorsque vous choisisez ce don, choisissez une des options listées ci-dessous. Lorsque vous obtenez un coup critique en utilisant une arme du groupe indiqué, vous appliquez l'effet de critique de spécialisation de l'arme.
+Lorsque vous choisisez ce don, choisissez une des options listées ci-dessous. Lorsque vous obtenez un coup critique en utilisant une arme du groupe indiqué, vous appliquez l'effet critique spécialisé de l'arme.
 
 Vous obtenez une grande marque ou un tatouage de la forme de l'emblême choisi ou une image similaire (par exemple, la hache pourrait être remplacée par un ours ou un autre symbole de force brute, alors que le bouclier pourrait être une tortue ou un autre symbole associé à une forte capacité défensive) et obtenez l'avantage indiqué.
 

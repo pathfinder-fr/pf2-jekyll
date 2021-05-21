@@ -10,6 +10,6 @@ layout: dons
 ---
 **Conditions** Vous êtes [Saisi](../conditions/agrippé-empoigné.html), [Immobilisé](../conditions/immobilisé.html) ou [Entravé](../conditions/entravé.html).
 
-Vous avez la capacité de rapidement vous échapper des effets qui vous entravent. Faites un test pour vous Échapper. En cas de succès, vous pouvez Marchez rapidement, Faire un pas ou porter une Frappe avec une attaque à mains nues qui cible la créature à laquelle vous avez échappé. En cas d'échec, vous tentez de vous Échapper une seconde fois.
+Vous avez la capacité de rapidement vous échapper des effets qui vous entravent. Faites un test pour vous Échapper. En cas de succès, vous pouvez Marcher rapidement, Faire un pas ou porter une Frappe avec une attaque à mains nues qui cible la créature à laquelle vous avez échappé. En cas d'échec, vous tentez de vous Échapper une seconde fois.
 
 Vous augmentez votre pénalité d'attaque multiple en fonction des actions que vous avez entreprises, mais seulement après avoir terminé les deux actions.

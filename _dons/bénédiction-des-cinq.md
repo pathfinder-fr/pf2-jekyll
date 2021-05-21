@@ -10,4 +10,6 @@ layout: dons
 ---
 **Fréquence** une fois par jour
 
-Vous faites appel au Dieu griffu pour soigner vos alliés. Vous lancez la version en 3 actions de guérison, intensifiée jusqu’à 1 niveau de moins que la moitié de votre niveau, arrondi à l’entier supérieur. Vous pouvez sélectionner jusqu’à quatre créatures dans la zone qui ne seront pas affectées par le sort. Vous pouvez, à la place, utiliser ce pouvoir pour ramener à la vie une créature située à moins de 10 m et qui est morte le dernier round. Si vous le faites, la créature est restaurée avec 1 point de vie et se retrouve condamnée 1 pendant 24 heures
+Vous faites appel au Dieu griffu pour soigner vos alliés. Vous lancez la version en 3 actions de [Guérison](../sorts/guérison.html), intensifiée jusqu’à 1 niveau de moins que la moitié de votre niveau, arrondi à l’entier supérieur. Vous pouvez sélectionner jusqu’à quatre créatures dans la zone qui ne seront pas affectées par le sort.
+
+Vous pouvez, à la place, utiliser ce pouvoir pour ramener à la vie une créature située à moins de 9 m et qui est morte le dernier round. Si vous le faites, la créature est restaurée avec 1 point de vie et se retrouve condamnée 1 pendant 24 heures.

@@ -10,6 +10,6 @@ layout: dons
 ---
 **Accès** nationalité Chélaxienne
 
-Vous avez suffisamment de pratique pour vous fondre dans l'arrière-plan des rues et des salons de gens plus importants que vous pour parvenir à faire en sorte d'être considéré comme quantité négligeable.
+Vous avez suffisamment de pratique pour vous fondre dans l'arrière-plan des rues et des salons de gens plus importants que vous pour faire en sorte d'être considéré comme quantité négligeable.
 
 Lorsque vous vous trouvez dans une foule ou dans une zone urbaine assez empruntée, vous pouvez essayer de vous [Cacher](../actions/se-cacher.html) ou d'[Être Furtif](../actions/être-furtif.html), même lorsque vous êtes Observé. En cas de succès, vous n'êtes ni Caché ni Non-détecté, mais les autres créatures ne font simplement pas attention à vous, même si elles peuvent vous voir. Vous ne pouvez utiliser cette capacité face à des observateurs qui vous ont déjà vu accomplir des actions importunes ou notables. Si vous accomplissez une action autre que vous Cacher ou être Furtif ou que vous entreprenez une autre action notable (à l'appréciation du MJ), les observateurs vous remarquent alors.

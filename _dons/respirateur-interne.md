@@ -8,4 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/internal-respirator.json
 layout: dons
 ---
-Votre corps peut synthétiser l'oxygène pendant des périodes limitées de temps. Lorsque vous retenez votre souffle, vous pouvez le faire pendant une heure supplémentaire grâce à vos réservoirs d'air intérieur. Au terme de cette heure, vos réservoirs d'air sont épuisés. Remplir vos réservoirs d'air prend 10 minutes d'exposition à l'air respirable.
+Votre corps peut synthétiser l'oxygène pendant des périodes limitées de temps.
+
+Lorsque vous retenez votre souffle, vous pouvez le faire pendant une heure supplémentaire grâce à vos réservoirs d'air intérieur. Au terme de cette heure, vos réservoirs d'air sont épuisés. Remplir vos réservoirs d'air prend 10 minutes d'exposition à l'air respirable.

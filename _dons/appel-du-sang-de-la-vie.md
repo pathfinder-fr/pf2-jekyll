@@ -8,4 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/lifeblood's-call.json
 layout: dons
 ---
-L'impulsion pour survivre et continuer à vous battre résonne fort en vous. Vous obtenez un bonus de circonstance aux jets de dégâts à vos fraes au corps-à-corps égales à deux fois la somme de vos conditions blessé et condamné (jusqu'à un bonus de circonstance maximum de +8 aux dégâts) lorsque vous avez l'une ou les deux conditions.
+L'impulsion pour survivre et continuer à vous battre résonne fort en vous.
+
+Vous obtenez un bonus de circonstances aux jets de dégâts à vos frappes au corps-à-corps égal à deux fois la somme de vos conditions Blessé et Condamné (jusqu'à un bonus de circonstance maximum de +8 aux dégâts) lorsque vous avez l'une ou les deux conditions.

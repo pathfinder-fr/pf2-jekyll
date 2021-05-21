@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/wing-step.json
 layout: dons
 ---
-Avec un rapide battement d'ailes, vous êtes léger sur vos pieds lorsque vous vous déplacez. Vous faites un pas deux fois.
+D'un vif battement d'ailes, vous restez léger sur vos pieds lorsque vous vous déplacez. Vous Faites un pas deux fois.

@@ -10,6 +10,8 @@ layout: dons
 ---
 **Fréquence** une fois par jour
 
-**Déclencheur** Vous avez la condition mourante et êtes sur le point de tenter un test de récupération.
+**Déclencheur** Vous avez la condition mourant et êtes sur le point de tenter un test de récupération.
 
-Vos nanites sont programmés pour automatiquement vous faire revivre. Vous êtes ramené à 1 Point de vie, perdez les conditions mourant et inconscient et pouvez agir normalement lors de ce tour. Vous obtenez ou augmentez la condition Blessé  comme à l'ordinaire lorsque vous perdez la condition mourant de cette manière.
+Vos nanites sont programmés pour automatiquement vous faire revivre.
+
+Vous êtes ramené à 1 Point de vie, perdez les conditions mourant et inconscient et pouvez agir normalement lors de ce tour. Vous obtenez ou augmentez la condition Blessé comme à l'ordinaire lorsque vous perdez la condition mourant de cette manière.

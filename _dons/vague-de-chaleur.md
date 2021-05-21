@@ -12,4 +12,4 @@ layout: dons
 
 **Fréquence** une fois toutes les 10 minutes
 
-Vous maîtrisez les flammes qui arrivent et les transformez en un écran de chaleur et de fumée qui vous masquent jusqu'au début de votre prochain tour.
+Vous maîtrisez les flammes qui arrivent et les transformez en un écran de chaleur et de fumée qui vous masque jusqu'au début de votre prochain tour.

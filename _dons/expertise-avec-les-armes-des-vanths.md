@@ -8,4 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/vanth-s-weapon-expertise.json
 layout: dons
 ---
-Les vanths eux-mêmes vous reconnaissent comme une faucheuse honoraire. Lorsque vous obtenez une capacité de classe qui vous accorde la maîtrise expert ou supérirreur avec une ou plusieurs armes données, vous obtenez aussi cette maîtrise avec les bô, les arcs longs, les arcs longs composites, les bâtons et les faux.
+Les vanths eux-mêmes vous reconnaissent comme une faucheuse honoraire.
+
+Lorsque vous obtenez une capacité de classe qui vous accorde la maîtrise experte ou supérieure avec une arme, vous obtenez aussi cette maîtrise avec les bô, les arcs longs, les arcs longs composites, les bâtons et les faux.

@@ -10,6 +10,6 @@ layout: dons
 ---
 Votre *masque de guerre* affûte votre relation avec la source de la puissance de votre masque.
 
-Au cours de vos préparatifs quotidiens, choisissez [Terreur](../sorts/terreur.html), [Douleur fantôme](../sorts/douleur-fantôme.html) ou [Coup au but](../sorts/coup-au-but.html).
+Au cours de vos préparatifs quotidiens, choisissez [Coup au but](../sorts/coup-au-but.html), [Douleur fantôme](../sorts/douleur-fantôme.html) ou [Terreur](../sorts/terreur.html).
 
-Jusqu'à vos prochains préparatifs quotidiens, vous pouvez lancer ce sort comme un sort inné de niveau 1 une fois par jour ; la tradition du sort est determinée par celle qui est liée à votre *masque de guerre*. Vous devez être en train de porter votre *masque de guerre* pour Lancer le sort.
+Jusqu'à vos prochains préparatifs quotidiens, vous pouvez lancer ce sort comme un sort inné de niveau 1 une fois par jour ; la tradition du sort est determinée par celle qui est liée à votre masque de guerre. Vous devez être en train de porter votre masque de guerre pour Lancer le sort.

@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous savez comment utiliser efficacement les armes qui griffent vos ennemis.
 
-Lorsque vous obtenez un coup critique en utilisant une arme avec le trait homme-félin ou une des armes figurant parmi celles du don Familiarité avec les armes des hommes-félins, vous appliquez son effet de spécialisation critique.
+Lorsque vous obtenez un coup critique en utilisant une arme avec le trait homme-félin ou une des armes figurant parmi celles du don Familiarité avec les armes des hommes-félins, vous appliquez son effet critique spécialisé.

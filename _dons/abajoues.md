@@ -8,7 +8,7 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/cheek-pouches.json
 layout: dons
 ---
-Vos joues sont élastiques et vous pouvez emmagasiner jusqu'à quatre objets d'Encombrement léger ou moins dans ces abajoues. Aucun de ces objets ne peut avoir une dimension plus longue que 30 cm.
+Vos joues sont extensibles et vous pouvez y ranger jusqu'à quatre objets d'Encombrement léger ou inférieur. Aucun de ces objets ne peut avoir une dimension plus longue que 30 cm.
 
 Tant que vous disposez d'au moins un objet dans vos abajoues, votre discours est difficile à comprendre et se remarque.
 

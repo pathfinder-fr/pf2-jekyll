@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous vous serrez, vous déplacez furtivement et glissez d'abri en abri rapidement avec une grande discrétion.
 
-Vous pouvez vous déplacer à votre Vitesse lorsque vous êtes furtif.
+Vous pouvez vous déplacer de votre Vitesse lorsque vous Êtes furtif.

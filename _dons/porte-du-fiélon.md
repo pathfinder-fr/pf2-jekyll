@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/fiend-s-door.json
 layout: dons
 ---
-Comme de nombreux fiélons, vous avez la faculté surnaturelle de vous téléporter vers la sécurité.
+Comme de nombreux fiélons, vous avez la faculté surnaturelle de vous téléporter en sécurité.
 
 Une fois par jour, vous pouvez Lancer [Porte dimensionnelle](../sorts/porte-dimensionnelle.html) comme un sort inné divin de niveau 5.

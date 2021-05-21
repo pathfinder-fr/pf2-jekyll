@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/hobgoblin-lore.json
 layout: dons
 ---
->Vous avez étudié les exercices et techniques traditionnels hobgobelins qui ont tous une tournure militaire.
+>Vous avez étudié les exercices et techniques traditionnels hobgobelins qui ont tous un aspect militaire.
 
-Vous êtes qualifié en Athlétisme et Artisanat. Pour chacune de ces compétences dans laquelle vous étiez déjà qualifié, vous devenez qualifié dans une compétence de votre choix. Vous êtes également qualifié en Connaissance.
+Vous êtes qualifié en Athlétisme et Artisanat. Pour chacune de ces compétences dans laquelle vous étiez déjà qualifié, vous devenez qualifié dans une compétence de votre choix. Vous êtes également qualifié en Connaissance hobgobeline.

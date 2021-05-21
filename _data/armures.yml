@@ -1188,9 +1188,9 @@ armure-de-chevalier-infernal:
 armure-de-peau:
   id: AnwzlOs0njF9Jqnr
   nom: Armure de peau
-  nomEn: Hide
+  nomEn: Hide Armor
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/AnwzlOs0njF9Jqnr.htm
-  urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Hide.json
+  urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Hide Armor.json
   type: medium
   bonus: 3
   level: 0

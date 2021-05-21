@@ -10,7 +10,7 @@ layout: actions
 type: action
 typeFr: Action Unique
 ---
-**Conditions** Vous avez des [outils de voleur](../équipements/outils-de-voleur.html)
+**Conditions** Vous maniez ou portez des [outils de voleur](../équipements/outils-de-voleur.html)
 
 Déverrouiller une serrure sans sa clef est très similaire au Désamorçage d’un dispositif mais le DD du test est déterminé par la complexité et la structure de la serrure que vous tentez de crocheter (les serrures et leur DD sont décrits à leurs descriptions). Les serrures de qualité supérieure peuvent nécessiter plusieurs succès pour parvenir à les déverrouiller car sinon, même un cambrioleur sans talent pourrait facilement ouvrir toutes les serrures en répétant ses tests jusqu’à obtenir un 20 naturel. Si vous ne disposez pas d’outils appropriés, le MJ peut vous autoriser à utiliser des outils improvisés, considérés comme des outils de mauvaise qualité, en fonction des spécificités de chaque serrure.
 
@@ -18,4 +18,4 @@ Déverrouiller une serrure sans sa clef est très similaire au Désamorçage d�
 
 **Succès** Vous déverrouillez la serrure ou vous obtenez un succès pour réussir à ouvrir une serrure complexe.
 
-**Échec critique** Vous cassez vos outils. Les Réparer nécessite l’utilisation de la compétence Artisanat pour [Réparer](réparer.html) ou leur remplacement.
+**Échec critique** Vous cassez vos outils. Les Réparer nécessite l’utilisation de la compétence Artisanat pour [Réparer](réparer.html) ou autrement de les échanger avec des [Crochets de remplacement](../équipements/crochets-de-remplacement.html).

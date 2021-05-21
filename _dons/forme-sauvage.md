@@ -10,4 +10,4 @@ layout: dons
 ---
 Votre forme hybride est une bête massive
 
-Sous votre forme hybride, vous obtenez les effets d'[AgrandissementS](../sorts/agrandissement.html).
+Sous votre forme hybride, vous obtenez les effets d'[Agrandissement](../sorts/agrandissement.html).

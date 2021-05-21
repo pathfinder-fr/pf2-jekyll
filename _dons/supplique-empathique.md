@@ -12,8 +12,8 @@ layout: dons
 
 La manière dont vous vous êtes entraîné à vous tasser ou à faire les yeux de chien battu provoque une réponse empathique de la part de votre agresseur. Faites un test de Diplomatie contre le DD de Volonté de l'agresseur.
 
-**Succès critique** La créature retient son attaque , gâchant cette action et ne peut utiliser d'action hostile à votre encontre  jusqu'au début de son prochain tour.
+**Succès critique** La créature retient son attaque, gâchant cette action et ne peut utiliser d'action hostile à votre encontre jusqu'au début de son prochain tour.
 
-**Succès** La créature subit une pénalité de circonstance de –2 aux dégâts de l'attaque qui l'a déclenchée et à toutes les Frappes contre vous jusq'au début de son prochain tour. La pénalité est de –4 si vous êtes un expert en Diplomatie, de –6 si vous êtes un maître et de –8 si vous êtes légendaire.
+**Succès** La créature subit une pénalité de circonstance de –2 aux dégâts de l'attaque qui l'a déclenchée et à toutes les Frappes contre vous jusqu'au début de son prochain tour. La pénalité est de –4 si vous êtes un expert en Diplomatie, de –6 si vous êtes un maître et de –8 si vous êtes légendaire.
 
 **Échec** L'attaque de la créature n'est pas affectée et la créature est temporairement immunisée à votre supplique empathique pendant 24 heures.

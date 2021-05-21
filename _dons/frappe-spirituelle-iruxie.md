@@ -8,4 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/iruxi-spirit-strike.json
 layout: dons
 ---
-Vos attaques à mains nues Iruxie canalisent l'énergie spirituelle de votre ancêtres. Toute les attaques à mains nues que vous obtenez de votre héritage Iruxi ou de dons d'ascendance obtiennent les effets de la rune de propriété [Spectrale](../équipements/spectrale-rune.html).
+Vos attaques à mains nues Iruxie canalisent l'énergie spirituelle de vos ancêtres.
+
+Toute les attaques à mains nues que vous obtenez de votre ascendance iruxie ou de dons ancestraux possèdent les effets de la rune de propriété [Spectrale](../équipements/spectrale-rune.html).

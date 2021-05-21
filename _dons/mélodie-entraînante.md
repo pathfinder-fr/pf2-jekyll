@@ -8,7 +8,7 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/catchy-tune.json
 layout: dons
 ---
-Vous créez une mélodie si entraînante, vos ennemis ne peuvent s'empêcher de danser le long. Faites un test de Représentation contre le DD de Volonté de tous les ennemis dans une émanation de 9 m.
+Vous créez une mélodie si entraînante que vos ennemis ne peuvent s'empêcher de danser tout du long. Faites un test de Représentation contre le DD de Volonté de tous les ennemis dans une émanation de 9 m.
 
 **Succès Critique** La cible subit une pénalité de statut de –3 m à sa Vitesse et est [Pris au dépourvu](../conditions/pris-au-dépourvu.html), les deux pendant 1 round.
 

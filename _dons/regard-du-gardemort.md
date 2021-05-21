@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/tomb-watcher-s-glare.json
 layout: dons
 ---
-Lorsque vous obtenez un coup critique sur une créature morte-vivante ou si une créature morte-vivante manque un jet de sauvegarde contre l'une de vos capacités, vous concentrez votre courroux divin dans le cœur de votre ennemi.
+Lorsque vous obtenez un coup critique sur une créature morte-vivante ou si une créature morte-vivante obtient un échec critique à un jet de sauvegarde contre l'une de vos capacités, vous concentrez votre courroux divin dans le cœur de votre ennemi.
 
 Le mort-vivant est [Affaibli](../conditions/affaibli.html) 1 pendant 1 round.

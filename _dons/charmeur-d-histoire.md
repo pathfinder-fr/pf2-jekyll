@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/story-crooner.json
 layout: dons
 ---
-Vous êtes un tisseur d'histoires talentueux et utilisez votre voix efficacement. Vous êtes qualifié en Représentation. Si vous deviez déjà être qualifié automatiquement en Représentation, vous devenez qualifié en une compétence de votre choix. Vous obtenez aussi le don de compétence [Représentation Impressionnante](représentation-impressionnante.html) et obtenez un bonus de circonstances de +1 lorsque vous faites une Représentation pour un public de Strix.
+Vous êtes un tisseur d'histoires talentueux et vous utilisez votre voix efficacement. Vous êtes qualifié en Représentation. Si vous deviez déjà être qualifié automatiquement en Représentation, vous devenez qualifié en une compétence de votre choix. Vous obtenez aussi le don de compétence [Représentation Impressionnante](représentation-impressionnante.html) et obtenez un bonus de circonstances de +1 lorsque vous faites une Représentation pour un public de Strix.

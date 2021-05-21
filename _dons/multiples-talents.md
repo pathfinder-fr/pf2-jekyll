@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous avez appris à partager votre attention entre plusieurs classes à la fois avec aisance.
 
-Vous gagnez un don de dévouement multiclasse de niveau 2, même si vous ne pouvez pas en principe gagner d’autre don de dévouement avant de choisir davantage de dons de votre archétype actuel. Si vous êtes un demi-elfe, vous n’avez pas besoin de posséder les valeurs de caractéristiques nécessaires dans les prérequises de ce don.
+Vous gagnez un don de dévouement multiclasse de niveau 2, même si vous ne pouvez pas en principe gagner d’autre don de dévouement avant de choisir davantage de dons de votre archétype actuel. Si vous êtes un demi-elfe, vous n’avez pas besoin de posséder les valeurs de caractéristiques nécessaires dans les prérequis de ce don.

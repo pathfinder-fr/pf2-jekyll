@@ -8,4 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/accursed-claws.json
 layout: dons
 ---
-Vos griffes portent la magie de votre mère guenaude. Lorsque vous obtenez un coup critique avec votre Frappe de griffe, la cible subit [[/r 1d4 #dégâts persistants mentaux]] dégâts persistants mentaux supplémentaires.
+Vos griffes portent la magie de votre mère guenaude.
+
+Lorsque vous obtenez un coup critique avec votre Frappe de griffe, la cible subit [[/r 1d4 #dégâts mentaux persistants]] dégâts mentaux persistants supplémentaires.

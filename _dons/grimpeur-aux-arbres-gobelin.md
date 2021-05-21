@@ -8,7 +8,7 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/tree-climber-goblin.json
 layout: dons
 ---
-Le temps passé en forêt ou dans les canopées des jungles vous a appris à crapahuter dans les branches avec un pied assuré.
+Le temps passé en forêt ou dans les canopées des jungles vous a appris à crapahuter dans les branches avec assurance.
 
 Vous gagnez une vitesse d'escalade de 3 m.
 

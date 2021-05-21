@@ -10,4 +10,6 @@ layout: dons
 ---
 **Fréquence** une fois par jour
 
-Votre prochain sort de  feu laisse des cendres sur son passage. Si votre prochaine action consiste à Lancer un sort avec le trait feu, pendant 1 minute, la zone de votre sort devient un terrain difficile et dangereux, infligeant 1 dégât de feu pour chaque case qu'une créature traverse.
+Votre prochain sort de feu laisse des braises dans son sillage.
+
+Si votre prochaine action consiste à Lancer un sort avec le trait feu, pendant 1 minute, la zone de votre sort devient un terrain difficile et dangereux, infligeant 1 dégât de feu pour chaque case qu'une créature traverse.
