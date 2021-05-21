@@ -10,4 +10,6 @@ layout: dons
 ---
 **Déclencheur** Vous obtenez un succès en Cherchant une créature cachée ou non détectée.
 
-Vous poussez un grognement sourd pour Démoraliser une créature que vous venez juste de trouver. Vous ne subissez pas la pénalité de –4 liée au fait de ne pas partager de langue avec cette créature.
+Vous poussez un grognement sourd pour Démoraliser une créature que vous venez juste de débusquer.
+
+Vous ne subissez pas la pénalité de –4 liée au fait de ne pas partager de langue avec cette créature.

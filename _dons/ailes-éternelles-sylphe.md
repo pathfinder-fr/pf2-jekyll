@@ -8,4 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/eternal-wings-sylph.json
 layout: dons
 ---
-Vos ailes sont maintenant une partie permanente de votre corps. Vous obtener les effets d'Ailes d'air tout le temps au lieu simplement d'une fois par jour pendant 10 minutes.
+Vos ailes sont maintenant une partie permanente de votre corps.
+
+Vous obtenez les effets d'Ailes d'air tout le temps au lieu simplement d'une fois par jour pendant 10 minutes.

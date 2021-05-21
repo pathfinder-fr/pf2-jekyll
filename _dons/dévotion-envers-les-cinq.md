@@ -8,4 +8,8 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/dedication-to-the-five.json
 layout: dons
 ---
-Votre dévotion envers le Dieu griffu est proche de celui d’un prêtre. Vous gagnez le don de prêtre [Initié du domaine](initié-du-domaine.html), mais vous devez choisir entre perfection, protection, tyrannie ou zèle comme votre domaine. De plus, vous pouvez utiliser n’importe quel symbole religieux d'Abadar, d'Asmodéus, de Iomedae, d'Irori ou de Torag comme focaliseur divin.
+Votre dévotion envers le Dieu griffu est proche de celui d’un prêtre.
+
+Vous gagnez le don de prêtre [Initié du domaine](initié-du-domaine.html), mais vous devez choisir votre domaine parmi perfection, protection, tyrannie ou zèle.
+
+De plus, vous pouvez utiliser n’importe quel symbole religieux d'Abadar, d'Asmodéus, de Iomedae, d'Irori ou de Torag comme focaliseur divin.

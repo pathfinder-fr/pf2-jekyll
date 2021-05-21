@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/shadow-blending.json
 layout: dons
 ---
-**Déclencheur** Une créature tente un test nu pour vous cibler alors que vous ciblez tandis que vous êtes [Masqué](../conditions/masqué.html) ou [Caché](../conditions/caché.html) à cause d'une lumière faible ou de l'obscurité.
+**Déclencheur** Une créature tente un test nu pour vous cibler alors que vous êtes [Masqué](../conditions/masqué.html) ou [Caché](../conditions/caché.html) à cause d'une lumière faible ou de l'obscurité.
 
-Vous attirez le ombres pour créer un voile. Augmentez le DD du test nu de 2.
+Vous attirez les ombres pour créer un voile. Augmentez le DD du test nu de 2.

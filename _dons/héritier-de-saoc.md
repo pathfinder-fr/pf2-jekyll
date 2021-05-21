@@ -8,4 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/heir-of-the-saoc.json
 layout: dons
 ---
-Dans le passé, vous auriez été un fier initié de la Fraternité de Saoc. Aujourd'hui, vous portez leur héritage. Lorsque vous utilisez Astologie Saoc, lancez à la place 1d4 ; sur un 1, vous subissez une pénalité de –1 au test de compétence. Sur tout autre résultat, vous obtenez un bonus de circonstance égale à la valeur obtenue (par exemple, un bonus de circonstances de +3 sur un 3).
+Dans le passé, vous auriez été un fier initié de la Fraternité de Saoc.
+
+Aujourd'hui, vous portez leur héritage. Lorsque vous utilisez Astrologie Saoc, lancez à la place 1d4 ; sur un 1, vous subissez une pénalité de –1 au test de compétence. Sur tout autre résultat, vous obtenez un bonus de circonstance égal à la valeur obtenue (par exemple, un bonus de circonstances de +3 sur un 3).

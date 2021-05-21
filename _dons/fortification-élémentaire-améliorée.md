@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/improved-elemental-bulwark.json
 layout: dons
 ---
-Vous obtenez une résistance de 10 de Fortification élémentaire au lieu de 5.
+Fortification élémentaire vous accorde une résistance élémentaire de 10.

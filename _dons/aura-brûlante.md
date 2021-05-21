@@ -12,4 +12,6 @@ layout: dons
 
 **Déclencheur** Votre tour débute.
 
-Vous explosez de flammes. Les ennemis dans une émanation de 6 m subissent [[/r 7d6 #feu]] dégâts de feu (jet de Réflexes basique en utilisant le plus élevé entre votre DD de classe et votre DD de sort). Les alliés dans la zone sont [Accélérés](../conditions/accéléré.html) pendant 1 round et peuvent utiliser l'action supplémentaire pour Frapper ou Marcher rapidement.
+Vous Vous enflammez.
+
+Vos ennemis dans une émanation de 6 m subissent [[/r 7d6 #feu]] dégâts de feu (jet de Réflexes basique en utilisant le plus élevé entre votre DD de classe et votre DD de sort). Les alliés dans la zone sont [Accélérés](../conditions/accéléré.html) pendant 1 round et peuvent utiliser l'action supplémentaire pour Frapper ou Marcher rapidement.

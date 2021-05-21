@@ -10,4 +10,4 @@ layout: dons
 ---
 **Fréquence** une fois par jour
 
-Vous déployez vos ailes pour le voyage et les gardez dépliées pendant 10 minutes. Vous obtenez une vitesse de Vol égale à votre Vitesse au sol tant que vos ailessont déployées. Si vous possédez Vol de l'oisillon, vous obtenz un bonus de statut de +3 m à votre Vitesse de vol avec Vol juvénile. Comme à l'ordinaire, comme votre Vitesse de vol est dérivvée de votre Vitesse au sol, ce bonus de statut n'est pas cumulable avec un bonus de statut à votre Vitesse au sol, si vous en avez une.
+Vous déployez vos ailes pour le voyage et pouvez les garder dépliées pendant 10 minutes. Vous obtenez une vitesse de Vol égale à votre Vitesse au sol tant que vos ailes sont déployées. Si vous possédez Vol de l'oisillon, vous obtenez un bonus de statut de +3 m à votre Vitesse de vol avec Vol juvénile. Comme à l'ordinaire, comme votre Vitesse de vol est dérivée de votre Vitesse au sol, ce bonus de statut n'est pas cumulable avec un bonus de statut à votre Vitesse au sol, si vous en avez un.

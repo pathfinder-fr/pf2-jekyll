@@ -10,4 +10,6 @@ layout: dons
 ---
 **Fréquence** une fois par jour
 
-Votre lignage péri a ouvert votre esprit à la puissance brute du feu et son essence purificatrice. Vous pouvez passer 1 minute de préparation concentrée avant d'entrer dans un feu de votre taille ou supérieur pour vous téléporter vers tout feu qui est de votre taille ou supérieur à 7,5 km de distance. Vous ne subissez pas de dégât en entrant ou en sortant de ces feux en utilisant cette capacité. Une fois que vous avez pénétré le feu vous connaissez approximativement les lieux des autres feux à portée du feu d'origine si vous préférez. Vous ne pouvez transporter d'espaces extradimensionnel lorsque vous vous téléportez ; si vous tentez de le faire, l'activité échoue.-
+Votre lignage péri a ouvert votre esprit à la puissance brute du feu et à son essence purificatrice.
+
+Vous pouvez passer 1 minute à vous concentrer et vous préparer avant d'entrer dans un feu de votre taille ou supérieur pour vous téléporter vers tout feu qui est de votre taille ou supérieur à 7,5 km de distance. Vous ne subissez aucun dégât en entrant ou en sortant de ces feux en utilisant cette capacité. Une fois que vous avez pénétré le feu, vous connaissez les lieux approximatifs des autres feux à portée du feu d'origine si vous préférez. Vous ne pouvez transporter aucun espace extradimensionnel lorsque vous vous téléportez ; si vous tentez de le faire, l'activité échoue.

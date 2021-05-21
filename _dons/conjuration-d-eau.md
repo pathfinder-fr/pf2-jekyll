@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/water-conjuration.json
 layout: dons
 ---
-Vous emportez l'océan avec vous partout où vous allez.
+Vous emportez l'océan avec vous où que vous alliez.
 
 Vous pouvez lancer [Création d'eau](../sorts/création-d-eau.html) comme un sort inné primordial une fois par jour. Chaque fois que vous créez de l'eau, vous choisissez si vous créer de l'eau douce ou de l'eau salée.

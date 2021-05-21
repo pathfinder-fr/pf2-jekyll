@@ -8,4 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/war-conditioning.json
 layout: dons
 ---
-Vous avez un entraînement extensif dans les environnements reculés, vous permettant de vous déplacer dans ces zones facilement. Lorsque vous obtenez ce don, vous pouvez choisir soit une vitesse d'Escalade de 6 m soit une vitesse de Natation de 6 m.
+Vous avez un entraînement approfondi dans les environnements reculés, vous permettant de vous déplacer dans ces zones facilement.
+
+Lorsque vous obtenez ce don, vous pouvez choisir entre une vitesse d'Escalade de 6 m et une vitesse de Natation de 6 m.

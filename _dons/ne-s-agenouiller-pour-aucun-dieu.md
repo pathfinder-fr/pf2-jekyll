@@ -12,4 +12,4 @@ layout: dons
 
 La méfiance de vos ancêtres vis-à-vis de la magie et l'état d'esprit strictement égalitaire de votre peuple font que certaines formes de magie n'ont que peu d'effet sur vous.
 
-Lorsque vous utilisez votre réaction [Appel du sang ancien](../actions/appel-du-sang-ancien.html) contre un sort divin et obtenez un échec critique sur le jet de sauvegarde contre ce sort, vous n'obtenez qu'un échec à la place.
+Lorsque vous utilisez votre réaction [Appel du sang ancien](../actions/appel-du-sang-ancien.html) contre un sort divin et obtenez un échec critique sur le jet de sauvegarde contre ce sort, vous considérez qu'il s'agit d'un échec à la place.

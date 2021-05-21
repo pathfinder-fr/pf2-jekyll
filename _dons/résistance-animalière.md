@@ -8,4 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/animalistic-resistance.json
 layout: dons
 ---
-Vos liens animaliers vous aident à résister aux afflictions naturelles. Vous obtenez un bonus de circonstances de +2 aux jets pour résister aux maladies et aux poisons.
+Vos liens avec le monde animal vous aident à résister aux afflictions naturelles.
+
+Vous obtenez un bonus de circonstances de +2 aux jets pour résister aux maladies et aux poisons.

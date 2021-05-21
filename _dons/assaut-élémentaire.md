@@ -10,4 +10,4 @@ layout: dons
 ---
 **Fréquence** une fois par jour
 
-Vous voilez vos bras et les armes tenues de magie élémentaire. Choisissez un élément. Jusqu'à la fin de votre prochain tour, vos Frappes infligent [[/r 1d6]] dégâts supplémentaires du type indiqué et ont le trait correspondant à l'élément : électricité pour l'air, contondants pour la terre, feu pour le feu ou froid pour l'eau.
+Vous enveloppez vos bras et les armes que vous tenez de magie élémentaire. Choisissez un élément. Jusqu'à la fin de votre prochain tour, vos Frappes infligent [[/r 1d6]] dégâts supplémentaires du type indiqué et ont le trait correspondant à l'élément : électricité pour l'air, contondants pour la terre, feu pour le feu ou froid pour l'eau.

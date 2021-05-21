@@ -10,4 +10,4 @@ layout: dons
 ---
 Votre capacité à vous fondre dans le paysage vous permet de disparaître entièrement ou d'apparaître innofensif même face aux effets magiques.
 
-Vous obtenez [Invisibilité](../sorts/invisibilité.html) et [Détection faussée](../sorts/détection-faussée.html) comme des sorts occultes innés de niveau 2. Vous ne pouvez cibler que vous-même avec *invisibilité* et vous devez être la cible primaire de *détection faussée*. Vous pouvez lancer chacun de ses sorts une fois par jour.
+Vous obtenez [Invisibilité](../sorts/invisibilité.html) et [Détection faussée](../sorts/détection-faussée.html) comme des sorts occultes innés de niveau 2. Vous ne pouvez cibler que vous-même avec invisibilité et vous devez être la cible primaire de détection faussée. Vous pouvez lancer chacun de ses sorts une fois par jour.

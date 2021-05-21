@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/graceful-guidance.json
 layout: dons
 ---
-Vous pouvez démontrer comment vous écarter rapidement du passage de dangereux effets. Vous pouvez utiliser l'action Aider pour accorder un bonus au jet de sauvegarde de Réflexes d'un allié. Comme habituellement avec Aider, vous avez besoin de vous préparer en utilisant une action lors de votre tour pour encourager l'allié.
+Vous pouvez démontrer comment vous écarter rapidement du passage de dangereux effets. Vous pouvez utiliser l'action Aider pour accorder à un allié un bonus au jet de Réflexes. Comme habituellement avec Aider, vous avez besoin de vous préparer en utilisant une action lors de votre tour pour encourager l'allié.

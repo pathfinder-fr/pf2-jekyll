@@ -1,7 +1,7 @@
 ---
 # ATTENTION : Ne modifiez pas ce fichier
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
-title: Renifleur de Lèpre
+title: Renifleur de lèpre
 titleEn: Plague Sniffer
 id: iCsHR5tdSXDHGjCv
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/iCsHR5tdSXDHGjCv.htm

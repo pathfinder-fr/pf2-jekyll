@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/metal-veined-strikes.json
 layout: dons
 ---
-De veines métalliques grandissent à travers votre corps, procurant à vos aattaques à mains nues des reflets métalliques.
+De veines métalliques grandissent à travers votre corps, procurant à vos attaques à mains nues des reflets métalliques.
 
-Choisissez soit fer froid, soit rgent. Vos attaques à mains nues sont considérées comme des du type du métal choisi.
+Choisissez soit fer froid, soit argent. Vos attaques à mains nues sont considérées comme des du type du métal choisi.

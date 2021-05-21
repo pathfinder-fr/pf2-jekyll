@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/gripping-limbs.json
 layout: dons
 ---
-Les nodules, les crochets ou les griffes sur vos membres vous permettent de vous accrocher aux surfaces avec facilité. Vous obtenez une vitesse d'escalade de 4,5 m.
+Des nodules, des crochets ou des griffes sur vos membres vous permettent de vous accrocher aux surfaces avec facilité. Vous obtenez une vitesse d'escalade de 4,5 m.

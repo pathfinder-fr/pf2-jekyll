@@ -12,4 +12,4 @@ layout: dons
 
 **Déclencheur** Une créature vivante dans les 18 m devrait mourir.
 
-L'énergie qui coule dans votre sang peut préserver une vie dans les temps les plus difficiles. La créature déclencheuse reçoit les effets de [Souffle de vie](../sorts/souffle-de-vie.html), sauf qu'ils récupèrent un nombre de Points de vie égaux à  [[/r 6d8 #healing (plus votre mod. de Con)]] plus votre modificateur de Constitution.
+L'énergie qui coule dans votre sang peut préserver une vie dans les temps les plus difficiles. La créature déclencheuse reçoit les effets de [Souffle de vie](../sorts/souffle-de-vie.html), sauf qu'ils récupèrent un nombre de Points de vie égaux à  [[/r 6d8 #soins (plus votre modificateur de Constitution)]] plus votre modificateur de Constitution.

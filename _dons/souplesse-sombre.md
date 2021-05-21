@@ -10,6 +10,6 @@ layout: dons
 ---
 Votre corps est presque aussi souple que votre ombre.
 
-Vorsque vous obtenez un échec critique à vous Faufiler, vous obtenez un échec à la place.
+Lorsque vous obtenez un échec critique à vous Faufiler, vous obtenez un échec à la place.
 
-De plus, lorsque vous obtenez un succès à un test pour vous Échapper, vous considérez qu'il s'agit d'un succès à la place ; si vous obtenez un succès critique, vous pouvez Faire un pas au lieu de Marcher rapidement de 1,5 m.
+De plus, lorsque vous obtenez un succès à un test pour vous Échapper, vous considérez qu'il s'agit d'un succès à la place ; si vous obtenez un succès critique, vous pouvez Faire un pas de 1,5 m au lieu de Marcher rapidement.

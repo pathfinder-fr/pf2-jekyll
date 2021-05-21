@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous ouvrez vos yeux vestigiaux, déroulez les rabats de peau de vos tympans ou améliorez autrement vos sens.
 
-Jusqu'au début de votre prochain tour, vous obtenez les avantages suivants : vous ne pouvez être pris en tenaille ; lorsque vous Cherchez des créatures, vous pouvez passer en revue un cône de 18 m ou une explosion de 9 m au lieu de la zone normale ; et lorsque vous Cherchez des objets cachés, vous pouvez chercher dans une zone de 4,5 m au lieu de la zone normale.
+Jusqu'au début de votre prochain tour, vous obtenez les avantages suivants : vous ne pouvez être pris en tenaille ; lorsque vous Cherchez des créatures, vous pouvez passer en revue un cône de 18 m ou une explosion de 9 m au lieu de la zone normale ; et lorsque vous Cherchez des objets cachés, vous pouvez chercher dans une zone de 4,5 m au lieu de la zone habituelle.

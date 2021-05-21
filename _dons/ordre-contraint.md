@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/enforced-order.json
 layout: dons
 ---
-Vous ne manquez jamais d'abattre les atteintes toujours en constante expansion du chaos. Toute vos Frappes d'arme et à mains nues infligent 1 dégât supplémentaire de loi et possèdent les traits magique et loyal.
+Vous ne manquez jamais d'abattre les étendues toujours plus vastes du chaos. Toutes vos Frappes d'arme et à mains nues infligent 1 dégât supplémentaire de loi et possèdent les traits magique et loyal.

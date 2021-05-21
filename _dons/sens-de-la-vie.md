@@ -10,4 +10,4 @@ layout: dons
 ---
 Comme vos ancêtres psychopompes, vous possédez une capacité limitée pour sentir la force vitale.
 
-Vous obtenez sens de la vie comme un sens imprécis avec une porté de 3 m. Cela vous permet de sentir la force vitale des créatures vivantes et sa force opposée qui anime les morts-vivants, bien que vous ne puissiez pas faire la différence entre les deux.
+Vous obtenez Sens de la vie comme un sens imprécis avec une porté de 3 m. Cela vous permet de sentir la force vitale des créatures vivantes et sa force opposée qui anime les morts-vivants, bien que vous ne puissiez pas faire la différence entre les deux.

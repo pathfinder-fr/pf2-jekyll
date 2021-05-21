@@ -8,4 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/bone-investiture.json
 layout: dons
 ---
-Vous vous recouvrez d'os spirituels de dinosaure pour devenir un dinosaure Très Grand. Vous pouvez lancer [Forme de dinosaure](../sorts/forme-de-dinosaure.html) au niveau 5 sur vous-même comme un sort inné primordial une fois par jour.
+Vous vous recouvrez d'os spirituels de dinosaure pour devenir un dinosaure Très Grand.
+
+Vous pouvez lancer [Forme de dinosaure](../sorts/forme-de-dinosaure.html) au niveau 5 sur vous-même comme un sort inné primordial une fois par jour.

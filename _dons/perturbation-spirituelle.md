@@ -8,4 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/spiritual-disruption.json
 layout: dons
 ---
-Vous canalisez un pouvoir perturbateur qui coupe le lien spirituel d’un adversaire avec sa magie hérétique. Effectuez une Frappe au corps à corps. Si l’attaque touche, à chaque fois que la cible tente de lancer un sort divin ou occulte, le sort est perturbé à moins qu’un test nu DD5 soit réussi (DD 7 en cas ede coup critique) ; si la cible est également stupéfiée, elle doit tenter le plus difficile des deux tests nus (mais pas les deux). Cet effet dure 1 minute.
+Vous canalisez un pouvoir perturbateur qui coupe le lien spirituel d’un adversaire avec sa magie hérétique.
+
+Effectuez une Frappe au corps à corps. Si l’attaque touche, à chaque fois que la cible tente de lancer un sort divin ou occulte, le sort est perturbé à moins qu’un test nu DD5 soit réussi (DD 7 en cas de coup critique) ; si la cible est également [Stupéfiée](../conditions/stupéfié.html), elle doit tenter le plus difficile des deux tests nus (mais pas les deux). Cet effet dure 1 minute.

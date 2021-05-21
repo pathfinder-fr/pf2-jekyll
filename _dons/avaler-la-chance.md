@@ -14,4 +14,4 @@ layout: dons
 
 Lorsque quelqu'un essaie de modifier le destin, vous ruinez son interférence. L'effet déclencheur est interrompu.
 
-Si c'est un effet de malchance, Avaler la chance obtient le trait chance ; si c'est un effet de chance, Avaler la chance obtient le trait malchance. Cet effet de chance ou de malchance s'applique au même jet que l'aurait fait l'effet déclencheur, de sorte que vous ne pourriez annuler un effet de chance avec Avaler la chance et alors applique un effet de malchance au même jet.
+Si c'est un effet de malchance, Avaler la chance obtient le trait chance ; si c'est un effet de chance, Avaler la chance obtient le trait malchance. Cet effet de chance ou de malchance s'applique au même jet que le ferait l'effet déclencheur, de sorte que vous ne pourriez annuler un effet de chance avec Avaler la chance puis appliquer un effet de malchance au même jet.

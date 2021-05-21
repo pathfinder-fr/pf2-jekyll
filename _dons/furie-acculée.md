@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/cornered-fury.json
 layout: dons
 ---
-Lorsque vous êtes physiquement surclassé, vous combattez avec une férocité inattentude.
+Lorsque vous êtes physiquement surclassé, vous combattez avec une férocité inattendue.
 
 Si un adversaire d'une taille plus grande que vous obtient un coup critique et vous fait subir des dégâts, cet adversaire est [Pris au dépourvu](../conditions/pris-au-dépourvu.html) par rapport à vous pendant 1 round.

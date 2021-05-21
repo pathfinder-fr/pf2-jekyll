@@ -10,10 +10,10 @@ layout: dons
 ---
 **Fréquence** une fois par jour
 
-En dépit d'une vie emplie de décisions questionnables, vous avez réussi à survivre, comme si vous aviez une chance insolente vous permettant d'éviter les conséquences de vos propres actes.
+En dépit d'une vie emplie de décisions douteuses, vous avez réussi à survivre, comme si une chance insolente vous permettait d'éviter les conséquences de vos propres actes.
 
-Pour le restant de votre tour, si vous obtenez un échec ou un échec critique sur un jet de sauvegarde contre un effet dommageable, vous obtenez un succès à la place. De plus, les ennemis et les dangers qui devraient vous endommager durant ce tour obtiennent le minimum possible des dégâts.
+Pour le restant de votre tour, si vous obtenez un échec ou un échec critique sur un jet de sauvegarde contre un effet dommageable, vous obtenez un succès à la place. De plus, les ennemis et les dangers qui devraient vous endommager durant ce tour obtiennent le minimum possible de dégâts.
 
-Ces avantages ne s'appliquent qu'aux effets dommageables entièrement subis durant le tour au cours duquel vous activez Dangereux abandon, comme courir à travers un <a class="entity-link" data-pack="pf2e.spells-srd" data-id="iL6TujgTCtRRa0Y0" draggable="true">Mur prismatique</a>.
+Ces avantages ne s'appliquent qu'aux effets dommageables entièrement subis durant le tour au cours duquel vous activez Dangereux abandon, comme courir à travers un [Mur prismatique](../sorts/mur-prismatique.html).
 
 Les dégâts persistants et les conditions qui s'appliquaient antérieurement à votre tour produisent leurs effets normalement et, dès que votre tour se termine, vous êtes de nouveau sujet aux entières conséquences de tous les dangers qui vous menacent encore.

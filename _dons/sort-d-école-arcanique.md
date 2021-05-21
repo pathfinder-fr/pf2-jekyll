@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/arcane-school-spell.json
 layout: dons
 ---
-Vous gagnez les avantages d’incantation basique. Chaque fois que vous obtenez, avec l’archétype magicien, un emplacement de sort d’un nouveau niveau, ajoutez à votre grimoire deux sorts ordinaires de ce niveau.
+Sélectionnez une école de magie arcanique. Vous gagnez le sort d’école initial de cette école. Si vous n’en avez pas déjà une, vous gagnez également une réserve de focalisation d’une valeur de 1 point de focalisation, que vous pouvez Refocaliser par l’étude (pour plus d’informations sur les écoles arcaniques.

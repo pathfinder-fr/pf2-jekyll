@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous puisez dans le sang de vos ennemis pour qu'il vous accorde de la vigueur.
 
-Une fois par jour, vous pouvez Lancer [Saignée du vampire](../sorts/saignée-du-vampire.html) comme un sort divin inné de niveau 7.
+Une fois par jour, vous pouvez Lancer [Saignée du vampire](../sorts/saignée-du-vampire.html) comme un sort divin inné au niveau 7.

@@ -12,4 +12,4 @@ Vous pouvez vous transformer et adopter une forme humaine spécifique à l'aspec
 
 Utiliser Forme à long nez compte comme la création d'un déguisement lorsqu'il s'agit d'utiliser la Duperie pour [Vous déguiser](../actions/se-déguiser.html). Compte tenu de votre transformation imparfaite, votre transformation ne trompe pas automatiquement le DD de Perception lorsqu'il s'agit de déterminer si vous êtes humain, bien que vous puissiez être capable d'expliquer ou de cacher vos traits tengu.
 
-Vous perdez votre attaque à mains nues de bec sous votre forme humaine ainsi que toute autre Frappe à mains nues que vous avez obtenu du fait de votre héritage tengu ou d'un don d'ascendance. Vous pouvez rester sous la forme humaine indéfiniment et pouvez vous transformer en votre forme tengu en utilisant de nouveau cette action.
+Vous perdez votre attaque à mains nues de bec sous votre forme humaine ainsi que toute autre Frappe à mains nues que vous avez obtenu du fait de votre héritage tengu ou d'un don ancestral. Vous pouvez rester sous la forme humaine indéfiniment et pouvez reprendre votre forme tengu en utilisant de nouveau cette action.

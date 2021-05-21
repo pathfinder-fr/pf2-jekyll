@@ -10,4 +10,4 @@ layout: dons
 ---
 **Fréquence** une fois par jour
 
-Vous puisez dans le puits de la connaissance collective de l'esprit divin, triant rapidement une quasi infinité de variables pour lire votre environnement. Pendant 1 minute, vous obtenez un sens précis de déplacementdans les 18 m, vous pouvez voir les objets et les créatures invisibles et vous obtenez les effets de [Vision lucide](../sorts/vision-lucide.html) au niveau 9.
+Vous puisez dans le puits de la connaissance collective de l'esprit divin, triant rapidement une quasi infinité de variables pour lire votre environnement. Pendant 1 minute, vous obtenez un Perception des déplacements (précis) dans les 18 m, vous pouvez voir les objets et les créatures invisibles et vous obtenez les effets de [Vision lucide](../sorts/vision-lucide.html) au niveau 9.

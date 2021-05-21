@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/beast-trainer.json
 layout: dons
 ---
-Vous avez une capacité inné impressionnante pour apprivoiser et donner des ordres aux bêtes féroces. Vous devenez qualifié dans la compétence Nature et obtenez le don de compétence [Dressage animalier](dressage-animalier.html).
+Vous avez une capacité inné impressionnante pour apprivoiser et donner des ordres aux bêtes féroces. Vous êtes qualifié dans la compétence Nature et obtenez le don de compétence [Dressage animalier](dressage-animalier.html).

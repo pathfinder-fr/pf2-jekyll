@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/vanth-s-weapon-execution.json
 layout: dons
 ---
-Vous êtes entraîné dans la manière la plus délicate d'infliger la mort. Lorsque vous infligez un coup critique en utilisant un bô, un arc long, un arc long composite, un bâtons ou une faux vous appliquez l'effet du critique de spécialisation.
+Vous êtes entraîné dans la manière la plus délicate d'infliger la mort. Lorsque vous infligez un coup critique en utilisant un bô, un arc long, un arc long composite, un bâton ou une faux vous appliquez l'effet du critique de spécialisation.

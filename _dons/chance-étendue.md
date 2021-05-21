@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous êtes plus chanceux que la plupart des hommes-félins.
 
-Vous pouvez déclencher Chance féline lorsque vous obtenez un échec ou un échec critique à un jet de Vigueur ou de Volonté en plus du jet de Réflexes. Vous ne pouvez cependant utiliser Chance féline plus d'une seule fois par jour.
+Vous pouvez déclencher votre Chance féline lorsque vous obtenez un échec ou un échec critique à un jet de Vigueur ou de Volonté en plus du jet de Réflexes. Vous ne pouvez cependant utiliser Chance féline plus d'une seule fois par jour.

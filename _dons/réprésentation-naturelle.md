@@ -10,4 +10,4 @@ layout: dons
 ---
 L'animation vous est naturelle.
 
-Vous devenez qualifié en Représentation et obtenez un don de compétence en Représentation de niveau 1.
+Vous êtes qualifié en Représentation et obtenez un don de compétence en Représentation de niveau 1.

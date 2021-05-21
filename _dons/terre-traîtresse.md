@@ -10,4 +10,6 @@ layout: dons
 ---
 **Fréquence** une fois toutes les 10 minutes
 
-Vous avez le pouvoir de briser la terre en une forme de votre invention. Vous brisez le sol en dessous de vous créant un terrain difficile dans une émanation de 1,5 m centré sur un coin de votre case.
+Vous avez le pouvoir de briser la terre en une forme de votre invention.
+
+Vous brisez le sol en dessous de vous créant un terrain difficile dans une émanation de 1,5 m centré sur un coin de votre case.

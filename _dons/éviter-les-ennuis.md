@@ -10,4 +10,4 @@ layout: dons
 ---
 **Déclencheur** Une créature vous manque avec une attaque au corps-à-corps.
 
-Vous vous glissez par l'ouverture créée par votre ennemi. Marchez rapidement jusqu'à votre Vitesse. Ce déplacement ne déclenche pas les réactions basées surr le déplacement provenant de la créature qui vous a manqué.
+Vous vous glissez par l'ouverture créée par votre ennemi. Marchez rapidement de votre Vitesse. Ce déplacement ne déclenche pas les réactions basées sur le déplacement provenant de la créature qui vous a manqué.

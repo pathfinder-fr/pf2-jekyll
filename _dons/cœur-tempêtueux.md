@@ -8,4 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/stormy-heart.json
 layout: dons
 ---
-Le pouvoir élémentaire dans votre sang est une tempête qui fait rage. Vous pouvez Invoquer les éléments avec une fréquence d'une fois toutes les 10 minutes, au lieu d'une fois par jour.
+Le pouvoir élémentaire dans votre sang est une tempête qui fait rage.
+
+Vous pouvez Invoquer les éléments avec une fréquence d'une fois toutes les 10 minutes, au lieu d'une fois par jour.

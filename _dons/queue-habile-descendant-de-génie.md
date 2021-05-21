@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/skillful-tail-geniekin.json
 layout: dons
 ---
-Vous êtes né avec une queue et avec la pratique vous avez appris à accomplir les actions d'interaction simples avec elle, tel qu'ouvrir une porte non verrouillée. Votre queue ne peut accomplir des actions qui nécessitent les doigts ou une dextérité manuelle significative, incluant toute action qui devrait nécessitéer un test pour accomplir et vous ne pouvez l'utiliser pour tenir des objets.
+Vous êtes né avec une queue et, avec la pratique, vous avez appris à accomplir les actions d'interaction simples avec elle, tel qu'ouvrir une porte non verrouillée. Votre queue ne peut accomplir des actions qui nécessitent des doigts ou une dextérité manuelle significative, incluant toute action qui devrait nécessiter un test pour l'accomplir et vous ne pouvez pas non plus l'utiliser pour tenir des objets.

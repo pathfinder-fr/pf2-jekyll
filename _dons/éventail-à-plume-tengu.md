@@ -8,7 +8,13 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/tengu-feather-fan.json
 layout: dons
 ---
-Vous avez appris à lier certaines de vos plumes ensemble pour former un éventail pour concentrer votre magie ancestrale. Vous obtenez un *éventail à plume Tengu* : un objet magique d'Encombrement léger avec un niveau égal à votre niveau et les traits évocation et primordial. Vous (et seulement vous) vouvez utiliser *éventail à plume Tengu* pour lancer la magie Tengu. Si votre éventail est perdu ou détruit, vous pouvez créer un remplacement durant vos préparatifs quotidiens ; si vous le faites, votre précédent éventail redevient des plumes banales. Des dons supplémentaires vous accordent des activations additionnelles de votre *éventail de plume Tengu *, mais vous n'avez droit qu'à trois activations par jour, peu importe combien de dons vous possédez. Le DD pour les sorts que vous lancez avec votre *éventail de plume Tengu* est le plus élevé entre votre DD de classe ou votre DD de sort. Vous pouvez lancer [Bourrasque de vent](../sorts/bourrasque.html) au niveau 1 en activant votre *éventail de plume Tengu*.
+Vous avez appris à lier certaines de vos plumes ensemble pour former un éventail pour concentrer votre magie ancestrale. Vous obtenez alors un *éventail à plume Tengu* : un objet magique d'Encombrement léger avec un niveau égal au votre et les traits évocation et primordial. Vous (et seulement vous) pouvez utiliser l'éventail à plume Tengu pour Lancer la magie Tengu. Si votre éventail est perdu ou détruit, vous pouvez créer un remplaçant au cours de vos préparatifs quotidiens ; si vous le faites, votre précédent éventail redevient fait de plumes banales.
+
+D'autres dons vous accordent des activations supplémentaires de votre éventail à plume Tengu, mais vous n'avez droit qu'à trois activations maximum par jour, peu importe combien de dons vous possédez.
+
+Le DD des sorts que vous lancez avec votre éventail à plume Tengu est le plus élevé entre votre DD de classe ou votre DD de sort.
+
+Vous pouvez lancer [Bourrasque de vent](../sorts/bourrasque.html) au niveau 1 en activant votre éventail à plume Tengu.
 
 **Activation** Interaction ;
 

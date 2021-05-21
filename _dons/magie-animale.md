@@ -10,4 +10,4 @@ layout: dons
 ---
 Votre changement de forme vous accorde un lien magique avec le monde animal.
 
-Vous pouvez lancer [Mesager animal](../sorts/messager-animal.html), [Apaisement des émotions](../sorts/apaisement-des-émotions.html) (animaux seulement) et [Communication avec les Animaux](../sorts/communication-avec-les-animaux.html) comme des sorts innés primordiaux de niveau 2, chacun une fois par jour. Ces sorts utilisent le plus élevé entre votre DD de classe ou votre DD de sort.
+Vous pouvez lancer [Mesager animal](../sorts/messager-animal.html), [Apaisement des émotions](../sorts/apaisement-des-émotions.html) (animaux seulement) et [Communication avec les Animaux](../sorts/communication-avec-les-animaux.html) comme des sorts innés primordiaux de niveau 2, une fois par jour chacun. Ces sorts utilisent le plus élevé entre votre DD de classe ou votre DD de sort.

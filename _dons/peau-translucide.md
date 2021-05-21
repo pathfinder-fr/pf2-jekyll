@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/translucent-skin.json
 layout: dons
 ---
-Votre corps est translucide sous l'eau. Lorsque vous êtes complètement submergé dans l'eau, vous pouvez vous Cacherdes autres créatures même si vous n'avez pas d'abri à leur égardet n'êtes pas [Masqué](../conditions/masqué.html) pour eux.
+Votre corps est translucide sous l'eau. Lorsque vous êtes complètement immergé dans l'eau, vous pouvez vous Cacher des autres créatures même si vous n'avez pas d'abri à leur égard et n'êtes pas [Masqué](../conditions/masqué.html) pour eux.

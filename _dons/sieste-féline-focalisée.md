@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/focused-cat-nap.json
 layout: dons
 ---
-Lorsque vous faites une Sieste féline, vous pouvez aussi Refocaliser en rêvant d'une activité qui le permet.
+Lorsque vous faites une Sieste féline, vous pouvez aussi Refocaliser en rêvant d'une activité qui vous le permet.

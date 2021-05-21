@@ -8,4 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/briar-battler.json
 layout: dons
 ---
-Vous avez appris à utiliser les racines, les fissures, les sols accidentés et les sous-bois denses à votre avantage. Lorsque vous êtes sur un terrain difficile du fait d'une caractéristique environnementale, vous pouvez vous Mettre à l'abri, même si la topographie du terrain n'est pas assez grande pour que vous puissiez vous Mettre à l'abri.
+Vous avez appris à utiliser les racines, les fissures, les sols accidentés et les sous-bois denses à votre avantage.
+
+ Lorsque vous êtes sur un terrain difficile du fait d'une caractéristique environnementale, vous pouvez vous Mettre à l'abri, même si la topographie du terrain ne devrait pas normalement être suffisante pour que vous puissiez vous Mettre à l'abri.

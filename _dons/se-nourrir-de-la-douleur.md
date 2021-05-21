@@ -10,6 +10,8 @@ layout: dons
 ---
 **Fréquence** une fois par heure
 
-**Déclencheur** Vous infligez les dégâts mentaux.
+**Déclencheur** Vous infligez des dégâts mentaux.
 
-Le retour psychique de la douleur d'une autre créature vous remplit avec une vie fausse. Vous obtenez des points de vie temporaires égaux à la moitié des dégâts mentaux que vous avez infligé grâce à l'effet déclencheur. Si l'action déclencheuse inflige des dégâts mentaux à plusieurs créatures, calculez ces points de vie temporaires en utilisant la créature qui a pris le plus de dégâts. Vous perdez tous les points de vie temporaires après 1 minute.
+Le retour psychique de la douleur d'une autre créature vous remplit d'une fausse vitalité.
+
+Vous obtenez des points de vie temporaires égaux à la moitié des dégâts mentaux que vous avez infligé grâce à l'effet déclencheur. Si l'action déclencheuse inflige des dégâts mentaux à plusieurs créatures, calculez ces points de vie temporaires en utilisant la créature qui a pris le plus de dégâts. Vous perdez tous point de vie temporaires restants au bout d'une minute.

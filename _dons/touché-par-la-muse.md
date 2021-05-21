@@ -10,4 +10,4 @@ layout: dons
 ---
 Votre sang résonne du pouvoir libérateur des azatas, incarnations vivantes de le liberté du royaume sauvage de l'Élysée.
 
-Vous obtenez un bonus de circonstances de +1 aux tests pour vous [Échapper](../actions/s-échapper.html). Lorsque vous obtenez un échec critique sur un test pour vous Échapper, vous obtenez un échec à la place et lorsque vous obtnez un succès, vous considérez qu'il s'agit d'un succès critique à la place.
+Vous obtenez un bonus de circonstances de +1 aux tests pour vous [Échapper](../actions/s-échapper.html). Lorsque vous obtenez un échec critique sur un test pour vous Échapper, vous obtenez un échec à la place et lorsque vous obtenez un succès, vous considérez qu'il s'agit d'un succès critique à la place.

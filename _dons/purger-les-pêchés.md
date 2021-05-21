@@ -10,4 +10,6 @@ layout: dons
 ---
 **Fréquence** une fois par jour
 
-Vous en appelez à vos ancêtres célestes pour purger votre corps de toutes les toxines et impuretés. Pour chaque mamadie ou poison qui vous affecte actuellement, tentez un test de Religion pour contrer cette maladie ou ce poison. Comme à l'ordinaire, votre niveau de contre est égal à la moitié de votre niveau, arrondi au supérieur.
+Vous en appelez à vos ancêtres célestes pour purger votre corps de toutes les toxines et impuretés.
+
+Pour chaque maladie ou poison qui vous affecte actuellement, tentez un test de Religion pour contrer cette maladie ou ce poison. Comme à l'ordinaire, votre niveau de contre est égal à la moitié de votre niveau, arrondi au supérieur.

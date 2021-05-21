@@ -10,4 +10,4 @@ layout: dons
 ---
 **Accès** ethnie Uhlam
 
-Votre famille a instillé en vous des valeurs d'implication' et de patience depuis votre plus jeune âge. Vous obtenez un bonus de circonstances de +1 aux tests pour accomplir une activité d'intermède.
+Votre famille a instillé en vous des valeurs d'implication et de patience depuis votre plus jeune âge. Vous obtenez un bonus de circonstances de +1 aux tests pour accomplir une activité d'intermède.

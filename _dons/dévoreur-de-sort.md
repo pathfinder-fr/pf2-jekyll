@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous ne faites pas que résister à la magie ; vous la dévorez.
 
-Lorsque vous réussissez un jet de sauvegarde contre un sort ou un effet magique, vous obtenez des Points de vie temporaires supplémentaires en nombre égal au double du niveau du sort ou au niveau de l'effet si l'effet magique n'est pas un sort. Ces points de vie temporaires durent jusq'à la fin de votre prochain tour.
+Lorsque vous réussissez un jet de sauvegarde contre un sort ou un effet magique, vous obtenez des Points de vie temporaires supplémentaires en nombre égal au double du niveau du sort ou au niveau de l'effet si l'effet magique n'est pas un sort. Ces points de vie temporaires durent jusqu'à la fin de votre prochain tour.

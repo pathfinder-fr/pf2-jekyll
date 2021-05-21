@@ -10,6 +10,6 @@ layout: dons
 ---
 **Fréquence** une fois par jour
 
-**Déclencheur** Vous êtes sur le point d'essayer un testde compétence ou un jet de sauvegarde.
+**Déclencheur** Vous êtes sur le point d'essayer un test de compétence ou un jet de sauvegarde.
 
-Les étoiles vous accordent l'inuition qui guide guide vos actions. Vous lancez deux fois et prenez le meilleur résultat. Si c'est la nuit et que vous pouvez voir les étoiles, vous obtenez un bonus de circonstances de +1 au jet déclencheur.
+Les étoiles vous accordent l'intuition qui guide vos actions. Vous lancez deux fois les dés et choisissez le meilleur résultat. Si c'est la nuit et que vous pouvez voir les étoiles, vous obtenez un bonus de circonstances de +1 au jet déclencheur.

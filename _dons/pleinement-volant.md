@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/fully-flighted.json
 layout: dons
 ---
-Vous obtenez les effets de Vol juvénile à tout moment, au lieu de juste une fois par jour pendant 10 minutes. Cela inclut le bonus de statut à votre Vitese si vous avez Vol de l'oisillon.
+Vous obtenez les effets de Vol juvénile à tout moment, et plus seulement une fois par jour pendant 10 minutes. Cela inclut le bonus de statut à votre Vitesse si vous avez Vol de l'oisillon.

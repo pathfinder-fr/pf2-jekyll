@@ -10,4 +10,6 @@ layout: dons
 ---
 **Fréquence** une fois toutes les 10 minutes
 
-Avec de lourds battements d'ailes, vous soulevez une bourrasque furieuse directement sur vos adversaires. Cette explosion d'air possède les effets de [Bourrasque de vent](../sorts/bourrasque.html) avec un DD égal - au plus élevé - entre votre DD de classe ou votre DD de sort.
+Avec de lourds battements d'ailes, vous soulevez une bourrasque furieuse directement sur vos adversaires.
+
+Cette explosion d'air possède les effets de [Bourrasque de vent](../sorts/bourrasque.html) avec un DD égal au plus élevé entre votre DD de classe ou votre DD de sort.

@@ -14,4 +14,6 @@ layout: dons
 
 **Conditions** Le danger n'est pas brisé.
 
-Vous éveillez un esprit de la création à l'intérieur du danger. Vous apprenez les effets du danger. Une fois au cours des 10 minutes suivantes, lorsque vous observez une créature entreprendre une action qui devrait déclencher une des réactions du danger ou des actions libres si vous ne l'avez pas Désarmé, vous pouvez utiliser une réaction pour réarmer le danger, de sorte que la créature observée le déclenche immédiatement.
+Vous éveillez un esprit de la création à l'intérieur du danger.
+
+Vous apprenez les effets du danger. Une fois au cours des 10 minutes suivantes, lorsque vous observez une créature entreprendre une action qui devrait déclencher une des réactions ou une des actions libres du danger si vous ne l'aviez pas Désamorcé, vous pouvez utiliser une réaction pour réarmer le danger, de sorte que la créature observée le déclenche immédiatement.

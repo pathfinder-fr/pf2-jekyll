@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/perfect-dive.json
 layout: dons
 ---
-Vous plongez dans l'eau avec une compétence exceptionnelle et un lien avec les vagues, poussant l'eau elle-même à amortir votre chute. Vous Bondissez intentionnellement ou tombez autrement dans l'eau, ne subissant aucun dégât de chute quelle que soit la distance.
+Vous plongez dans l'eau avec une compétence exceptionnelle et possédez un lien avec les vagues, poussant l'eau elle-même à amortir votre chute. Vous Bondissez intentionnellement ou tombez autrement dans l'eau sans subir le moindre dégât de chute, quelle que soit la distance.

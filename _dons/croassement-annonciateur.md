@@ -12,4 +12,4 @@ layout: dons
 
 **Déclencheur** Une créature dans les 18 m va faire un jet d'attaque ou un test de compétence.
 
-Vous croasser de façon inquiétante, maudissant la créature avec de la malchance. La créature ciblée doit lancer deux fois le test déclencheur et conserver le plus mauvais résultat.
+Vous croassez de façon inquiétante, maudissant la créature avec de la malchance. La créature ciblée doit lancer deux fois le test déclencheur et conserver le plus mauvais résultat.

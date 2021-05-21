@@ -8,4 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/thorned-seedpod.json
 layout: dons
 ---
-Lorsque votre cosse frappe un coup felling, ils éclatent en des lianes vicieusement épineuse. Lorsque vous obtenez un coup critique avec une frappe de cosse, les lianes se tordent et poignardent votre adversaire, infligeant [[/r 1d4 #dégâts perforants persistants]] dégâts perforants persistants.
+Lorsque votre cosse inflige un terrible coup, elle éxplose sous forme de lianes vicieusement épineuses.
+
+Lorsque vous obtenez un coup critique avec une frappe de cosse, les lianes se tordent et poignardent votre adversaire, infligeant [[/r 1d4 #dégâts perforants persistants]] dégâts perforants persistants.

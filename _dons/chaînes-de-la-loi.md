@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous tentez de soumettre une cible avec une attaque suivie d’une empoignade.
 
-Effectuez une Frappe au corps à corps. Si elle touche et inflige des dégâts, vous pouvez tenter un test d’Athlétisme pour Saisir la créature que vous avez touchée. Si vous tenez un fléau d’armes, vous pouvez ignorer la condition d’avoir une main libre pour Saisir. Les deux attaques comptent dans le calcul de votre malus d’attaques multiples mais le malus n’augmente qu’après avoir effectué ces deux attaques.
+Effectuez une Frappe au corps à corps. Si elle touche et inflige des dégâts, vous pouvez tenter un test d’Athlétisme pour Saisir la créature que vous avez touchée. Si vous tenez un fléau d’armes, vous pouvez ignorer la condition d’avoir une main libre pour Saisir. Les deux attaques comptent dans le calcul de votre malus d’attaques multiples mais le malus n’augmente qu’après avoir effectué ces deux attaques.

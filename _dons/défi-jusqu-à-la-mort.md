@@ -10,6 +10,6 @@ layout: dons
 ---
 **Accès** Elfe de la Tour acérée
 
-Vous abhorrez les Alghollthus et leur magie de l'esprit et vous avez été entraîné à préférer la mort plutôt que de permettre d'être l'objet d'une manipulation mentale.
+Vous abhorrez les Alghollthus et leur magie de l'esprit et vous avez été entraîné à préférer la mort plutôt que de céder à la manipulation mentale.
 
 Si vous débutez votre tour [Confus](../conditions/confus.html), [Contrôlé](../conditions/contrôlé.html) ou [En fuite](../conditions/en-fuite.html) à cause de l'échec d'un jet de Volonté, vous pouvez tenter un jet de Volonté contre le même DD ; sur un succès, vous êtes [Paralysé](../conditions/paralysé.html) jusqu'à votre prochain tour, au lieu d'agir contre votre volonté.

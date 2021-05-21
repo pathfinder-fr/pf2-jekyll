@@ -8,4 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/cave-climber.json
 layout: dons
 ---
-Après avoir passé des années à ramper et grimper dans les cavernes, vous n’avez aucun mal à escalader les obstacles qui se dressent sur votre chemin. Vous gagnez une Vitesse d’escalade de 3 m.
+Après avoir passé des années à ramper et grimper dans les cavernes, vous n’avez aucun mal à escalader les obstacles qui se dressent sur votre chemin.
+
+Vous gagnez une Vitesse d’escalade de 3 m.

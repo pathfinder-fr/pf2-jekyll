@@ -8,4 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/gnaw.json
 layout: dons
 ---
-Avec assez de temps et de détermination, vous pouvez mâchonner presque tout. Vous infligez le double des dégâts de votre mâchoires à un objet inanimé non tenu.
+Avec assez de temps et de détermination, vous pouvez mâchonner presque tout.
+
+Vous infligez le double des dégâts de vos mâchoires à un objet inanimé non tenu.

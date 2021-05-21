@@ -8,7 +8,7 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/fiendish-lore.json
 layout: dons
 ---
-Vous avez été élevé par un fiélon ou un connaisseur de fiélon ou vous vous êtes dévoué à la recherche des secrets des royaumes fiélons.
+Vous avez été élevé par un tieffelin ou un parent fiélon ou vous vous êtes dévoué à la recherche des secrets des royaumes fiélons.
 
 Vous êtes qualifié en Intimidation et en Religion. Si vous devriez automatiquement être qualifié en une de ces compétences (par le biais de votre historique ou de votre classe, par example), vous êtes qualifié dans une compétence de votre choix.
 

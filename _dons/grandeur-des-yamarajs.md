@@ -10,4 +10,6 @@ layout: dons
 ---
 **Fréquence** une fois par jour
 
-Vous vous êtes vu confié une parcelle du pouvoir des yamaraj, les magistrats des morts qui ont accepté que les crépusculaires puissent exister. Vous exhalez une explosion de vent glacial et d'insectes affamés. C'est un cône de 9 m qui inflige [[/r 14d6 #tranchants]] dégâts tranchants et [[/r 4d6 #dégâts tranchants persistants]] dégâts tranchants persistants (jet de Réflexes basique en utilisant le plus élevé entre votre DD de classe et votre DD de sort). En cas d'échec critique, les cibles deviennent aussi [Malades](../conditions/malade.html) 2.
+Vous vous êtes vu confié une parcelle du pouvoir des yamaraj, les magistrats des morts qui ont accepté que les crépusculaires puissent exister.
+
+ Vous exhalez une explosion de vent glacial et d'insectes affamés. C'est un cône de 9 m qui inflige [[/r 14d6 #tranchants]] dégâts tranchants et [[/r 4d6 #dégâts tranchants persistants]] dégâts tranchants persistants (jet de Réflexes basique en utilisant le plus élevé entre votre DD de classe et votre DD de sort). En cas d'échec critique, les cibles deviennent aussi [Malades](../conditions/malade.html) 2.

@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/shared-luck-catfolk.json
 layout: dons
 ---
-Lorsque vous utilisez Chance féline pour relancer un jet de Réflexes, toutes les créatures que vous choisissez dans les 3 m qui ont obtenu un échec à leur jet de Réflexes contre le même effet (tel qu'un sort unique) peuvent aussi relancer leurs jets de Sauvegarde et utiliser le meilleur résultat.
+Lorsque vous utilisez Chance féline pour relancer un jet de Réflexes, toutes les créatures que vous choisissez dans les 3 m qui ont obtenu un échec à leur jet de Réflexes contre le même effet (comme un unique sort) peuvent aussi relancer leurs jets de Sauvegarde et utiliser le meilleur résultat.

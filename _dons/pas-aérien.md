@@ -10,6 +10,8 @@ layout: dons
 ---
 **Fréquence** une fois par jour
 
-**Déclencheur** Une créature vous cible avec une attaquee ou un effet autre qui vous cible et vous pouvez voir l'attaquant.
+**Déclencheur** Une créature vous cible avec une attaque ou un effet autre qui vous cible et vous pouvez voir l'attaquant.
 
-Vous créez une couverture de brouillard dans une explosion de 1,5 m centrée sur un coin de votre case. Toutes les créatures dans cette zone sont [Masquées](../conditions/masqué.html) et toutes les autres lui sont masquées. Ce camouflage s'applique à l'effet déclencheur et le brouillard dure pendant 1 minute ou jusqu'à être dispersé par un vent fort. Après avoir résolu l'effet déclencheur, vous Faites un pas. Si un effet vous empêche de Faire un pas, vous tentez d'Échapper à l'effet et Faites un pas en cas de succès.
+Vous créez une couverture de brouillard dans une explosion de 1,5 m centrée sur un coin de votre case.
+
+Toutes les créatures dans cette zone sont [Masquées](../conditions/masqué.html) et toutes les autres leur sont masquées. Ce camouflage s'applique à l'effet déclencheur et le brouillard dure pendant 1 minute ou jusqu'à être dispersé par un vent fort. Après avoir résolu l'effet déclencheur, vous Faites un pas. Si un effet vous empêche de Faire un pas, vous tentez d'Échapper à l'effet et Faites un pas en cas de succès.

@@ -8,4 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/qlippoth-magic.json
 layout: dons
 ---
-Vous avez profondément étudié les secrets de votre sang et pouvez forcer la réalité à agir contre ses propres souhaits. Vous pouvez lancer [Flou](../sorts/flou.html) et [Silence](../sorts/silence.html) une fois par jour chacun comme des sorts divins de niveau 2.
+Vous avez profondément étudié les secrets de votre sang et pouvez forcer la réalité à agir contre ses propres souhaits.
+
+Vous pouvez lancer [Flou](../sorts/flou.html) et [Silence](../sorts/silence.html) une fois par jour chacun comme des sorts divins de niveau 2.

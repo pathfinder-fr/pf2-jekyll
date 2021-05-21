@@ -10,4 +10,4 @@ layout: dons
 ---
 **Fréquence** une fois par jour
 
-Vous pouvez faire l'effort de conjurer des ailes emplumées ou nuageuses de votre dos. Une fois qu'elles se sont manifestées, ces ailes persistent pendant 10 minutes. Vous obtenez un vitesse de Vol égale à votre Vitesse au sol tant que vos ailes sont présentes.
+Vous pouvez faire l'effort de conjurer des ailes emplumées ou nuageuses dans votre dos. Une fois qu'elles se sont manifestées, ces ailes persistent pendant 10 minutes. Vous obtenez un vitesse de Vol égale à votre Vitesse au sol tant que vos ailes sont présentes.

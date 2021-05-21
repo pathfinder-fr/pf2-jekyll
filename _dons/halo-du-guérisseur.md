@@ -10,4 +10,4 @@ layout: dons
 ---
 **Déclencheur** Vous ou vos alliés dans les 9 m récupère des Points de vie alors que votre halo est actif.
 
-Votre halo peut améliorer l'énergie positive. Les créatures qui ont récupéré des Points de vie d'un effet de guérison positive récupèrent [[/r 1d6]] Points de vie supplémentaires. Les créatures qui ont bénéficié de ce pouvoir deviennent temporairement immunisées pour son effet pendant les 10 prochaines minutes.
+Votre halo peut augmenter l'énergie positive. Les créatures qui ont récupéré des Points de vie d'un effet de guérison positive récupèrent [[/r 1d6]] Points de vie supplémentaires. Les créatures qui ont bénéficié de ce pouvoir deviennent temporairement immunisées à son effet pendant les 10 prochaines minutes.

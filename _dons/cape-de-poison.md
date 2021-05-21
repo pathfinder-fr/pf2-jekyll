@@ -10,4 +10,4 @@ layout: dons
 ---
 **Fréquence** une fois parr jour
 
-Vous secretez une cape de poison concentrée qui blesse quiconque ose vous attaquer. Pendant 1 minute, toute créature qui vous touche ou vous blesse avec une attaque à mains nues ou une attaque d'arme au corps-à-corps sans le trait allongesubit [[/r 3d6 #poison]] dégâts de poison.
+Vous sécrétez une cape de poison concentrée qui blesse quiconque ose vous attaquer. Pendant 1 minute, toute créature qui vous touche ou vous blesse avec une attaque à mains nues ou une attaque d'arme au corps-à-corps sans le trait allonge subit [[/r 3d6 #poison]] dégâts de poison.

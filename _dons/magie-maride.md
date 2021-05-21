@@ -8,4 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/marid-magic.json
 layout: dons
 ---
-Vous canalisez la magie des Marides. Vous pouvez lancer [Poussée hydraulique](../sorts/poussée-hydraulique.html) et [Brume de dissimulation](../sorts/brume-de-dissimulation.html) chacun une fois par jour comme des sorts innés arcaniques de niveau 2.
+Vous canalisez la magie des Marides.
+
+Vous pouvez lancer [Poussée hydraulique](../sorts/poussée-hydraulique.html) et [Brume de dissimulation](../sorts/brume-de-dissimulation.html) une fois par jour chacun comme des sorts innés arcaniques de niveau 2.

@@ -8,4 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/water-strider.json
 layout: dons
 ---
-L'eau supporte chacun de vos pas vous permettant de marcher à sa surface.Marchez rapidement jusqu'à votre Vitesse. Durant votre déplacement, vous pouvez traverser des liquides qui ne supportent pas votre poids. Si vous terminez votre déplacement sur une surface qui ne peut vous supportez, vous tombez dans le liquide à la fin de votre déplacement. Vous pouvez augmenter le nombre d'actions à 3 pour Marcher rapidement jusqu'à trois fois votre Vitesse.
+L'eau supporte chacun de vos pas vous permettant de marcher à sa surface.
+
+Marchez rapidement jusqu'à votre Vitesse. Durant votre déplacement, vous pouvez traverser des liquides qui ne supportent pas votre poids. Si vous terminez votre déplacement sur une surface qui ne peut vous supporter, vous tombez dans le liquide à la fin de votre déplacement. Vous pouvez augmenter le nombre d'actions à 3 pour Marcher rapidement jusqu'à trois fois votre Vitesse.

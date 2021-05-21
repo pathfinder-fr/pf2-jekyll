@@ -8,4 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/efreeti-magic.json
 layout: dons
 ---
-La magie de vos ancêtres éfrit coule à travers vous. Vouspouvez lancer [Agrandissement](../sorts/agrandissement.md) et [Objet illusoire](../sorts/objet-illusoire.md) une fois par jour chacun comme des sorts innés arcaniques de niveau 2.
+La magie de vos ancêtres éfrits coule en vous.
+
+Vous pouvez lancer [Agrandissement](../sorts/agrandissement.html) et [Objet illusoire](../sorts/objet-illusoire.html) une fois par jour chacun comme des sorts innés arcaniques de niveau 2.

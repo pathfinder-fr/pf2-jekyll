@@ -12,9 +12,9 @@ Une partie de votre corps possède une apparence fiélone évidente. Vos mains s
 
 Vous obtenez à votre choix une des attaques à mains nues suivantes. L'attaque est dans le groupe pugilat et possède les dégâts et les traits listés.
 
-- **Griffes** <a class="inline-roll roll" data-mode="roll" data-flavor="slashing" data-formula="1d4" title="slashing"><i class="fas fa-dice-d20"></i> 1d4</a> tranchants (à mains nues, agile, finesse, polyvalent perforant)
-- **Sabot** <a class="inline-roll roll" data-mode="roll" data-flavor="bludgeoning" data-formula="1d6" title="bludgeoning"><i class="fas fa-dice-d20"></i> 1d6</a> contondants (à mains nues, finesse)
-- **Mâchoires** <a class="inline-roll roll" data-mode="roll" data-flavor="piercing" data-formula="1d6" title="piercing"><i class="fas fa-dice-d20"></i> 1d6</a> perforants (à mains nues, finesse)
-- **Queue** <a class="inline-roll roll" data-mode="roll" data-flavor="bludgeoning" data-formula="1d4" title="bludgeoning"><i class="fas fa-dice-d20"></i>1d4</a> contondants (à mains nues, agile, finesse)
+- **Griffes** 1d4 dégâts tranchants (à mains nues, agile, finesse, polyvalent perforant)
+- **Sabot** 1d6 dégâts contondants (à mains nues, finesse)
+- **Mâchoires** 1d6 dégâts perforants (à mains nues, finesse)
+- **Queue** 1d4 dégâts contondants (à mains nues, agile, finesse)
 
 **Spécial** Vous ne pouvez choisir ce don qu'au niveau 1 et il ne peut faire l'objet d'un réapprentissage et vous ne pouvez pas changer le type d'attaque que vous avez obtenu.

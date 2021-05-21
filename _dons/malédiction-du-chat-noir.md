@@ -12,4 +12,6 @@ layout: dons
 
 **Déclencheur** Une créature dans les 9 m que vous pouvez voir devrait réussir son jet de sauvegarde.
 
-Vous feulez une malédiction malveillante sur la créature. La cible doit relancer le jet déclencheur et utiliser le pire résultat.
+Vous feulez une malédiction malveillante sur la créature.
+
+La cible doit relancer le jet déclencheur et utiliser le pire résultat.

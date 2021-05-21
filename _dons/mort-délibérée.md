@@ -10,8 +10,8 @@ layout: dons
 ---
 **Fréquence** une fois par jour
 
-**Déclencheur** Vous allez obtenir la condition Mourante en tant que résultat d'une attaque ou d'une capacité d'une autre créature’ et cette créature est dans votre allonge au corps-à-corps.
+**Déclencheur** Vous allez obtenir la condition Mourante en tant que résultat d'une attaque ou d'une capacité d'une autre créature et cette créature est à portée de votre allonge au corps-à-corps.
 
-Une fois, vous êtes mort à cause  de quelqu'un — un meurtrier, un soldat ou un tueur — choisi pour vous abattre. Juste avant de perdre conscience faites une Frappe au corps-à-corps contre la créature déclencheuse.
+Une fois, vous êtes mort à cause  de quelqu'un — un meurtrier, un soldat ou un tueur — qui a choisi de vous abattre. Juste avant de perdre conscience faites une Frappe au corps-à-corps contre la créature déclencheuse.
 
 **Spécial** Vous pouvez choisir ce don au niveau 1 et vous ne pouvez utiliser le réapprentissage pour perdre ou gagner ce don.

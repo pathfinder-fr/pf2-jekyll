@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/advanced-targeting-system.json
 layout: dons
 ---
-Vos processeurs oculaires sont améliorés avec un système de ciblage avancé, qui vous permet de plus facilement identifier votre ennemi et lire leurs déplacements. Vous pouvez lancer [Coup au but](../sorts/coup-au-but.html) une fois par jour comme un sort inné arcanique de niveau 1.
+Vos processeurs oculaires sont améliorés par un système de ciblage avancé qui vous permet de plus facilement identifier votre ennemi et de prédire ses déplacements. Vous pouvez lancer [Coup au but](../sorts/coup-au-but.html) une fois par jour comme un sort inné arcanique de niveau 1.

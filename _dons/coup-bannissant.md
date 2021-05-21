@@ -8,7 +8,7 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/banishing-blow.json
 layout: dons
 ---
-**Prérequis** [Serment du fléau des fiélons](serment-du-fléau-des-fiélons.html)
+**Prérequis** Serment du fléau des fiélons
 
 **Déclencheur** Vous utilisez votre réaction de champion, déclenchée par un fiélon situé dans votre allonge.  
 

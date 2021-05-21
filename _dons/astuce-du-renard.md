@@ -10,4 +10,6 @@ layout: dons
 ---
 **Fréquence** une fois par heure
 
-Vous avez toujours le temps pour une farce ou un canular. Vous Créez une diversion, Masquez un object ou de Cacher. Toutes les créatures qui ont été témoin de votre astuce de renard en sont averties, devenant temporairement immunisées à votre Astuce de renard pendant 24 heures.
+Vous avez toujours le temps pour une farce ou un canular.
+
+Vous Créez une diversion, Masquez un objet ou vous vous Cachez. Toutes les créatures qui ont été témoin de votre astuce de renard en sont averties, devenant temporairement immunisées à votre Astuce de renard pendant 24 heures.
