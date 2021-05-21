@@ -3021,6 +3021,32 @@ bandelettes-de-coups-puissants-+1:
     Vous pouvez améliorer, ajouter et transférer des runes depuis et vers les bandelettes, tout comme vous le feriez avec une arme, et vous pouvez aussi fixer dessus des talismans. Le cas échéant, considérez les bandelettes comme des armes de corps à corps du
     groupe du pugilat avec un Encombrement léger. Les runes de propriété ne s’appliquent que si l’attaque à mains nues que vous utilisez le permet. Par exemple, une propriété applicable à une arme tranchante ne fonctionne pas quand vous attaquez avec votre poing mais elle s’applique si vous attaquez avec des griffes ou une autre attaque à mains nues tranchantes.
 
+jeu-du-tourment-renforcé:
+  id: qtlkftQXfO4wuCVu
+  nom: Jeu du Tourment renforcé
+  nomEn: Hardened Harrow Deck
+  urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/qtlkftQXfO4wuCVu.htm
+  urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Hardened Harrow Deck.json
+  type: simple
+  niveau: 14
+  prix: 4,350 gp
+  rareté: rare
+  groupe: Fléchette
+  dommagesNb: 1
+  dommagesDé: d4
+  dommagesType: Perforant
+  poids: L
+  traits:
+    - Agile
+    - Jet 20 ft (6m)
+    - Mortel d10
+  description: |
+    Le jeu du Tourment est un jeu de cartes traditionnel utilisé par les devins Varisiens. Le jeu du Tourment renforcé est une version magique du jeu avec des cartes faites de fines plaques métalliques ornées de toutes les images communes aux jeux du Tourment classiques, mais avec des dessins plus angulaires. Vous pouvez lancer les cartes du jeu du Tourment renforcé comme des fléchettes de frappe supérieures +2 avec le trait Mortel d10. Une carte utilisée comme arme n’est pas détruite et peut être récupérée en 1 minute de recherche si elle ne peut pas être rappelée dans le paquet (voir l’entrée Activation du paquet ci-dessous). Cependant, s'il manque ne serait-ce qu'une seule carte dans le jeu, celui-ci ne peut pas être utilisé pour effectuer une lecture traditionnelle du tourment.
+    
+    Tant que vous portez plus de la moitié des cartes du jeu du tourment renforcé, lorsque vous réussissez un jet de sauvegarde contre un effet de peur, vous obtenez un succès critique à la place ; si vous avez déjà une capacité qui ferait d'un jet de sauvegarde contre un effet de peur réussi un succès critique, vous gagnez à la place un bonus de circonstances de +1 aux jets de sauvegarde contre les effets de peur.
+    
+    **Activation** <span style="font-family : 'Pathfinder2eActions' ; font-size : 1. 8em ; display : inline;">1 Sur ordre, Interagir ; **Effet** Toutes les cartes du jeu du tourment renforcé situées dans un rayon de 18 mètres et que vous pouvez voir reviennent dans le paquet.
+
 hachette:
   id: LGgvev6AV0So8tP9
   nom: Hachette
@@ -3192,9 +3218,9 @@ aube-du-chasseur:
     
     **Destruction** L'Aube du chasseur ne peut être détruite qu'en la plaçant sur le bûcher funéraire d'un dieu mort.
 
-accessoires:
+accessoires-d-infiltrateur:
   id: AYdpUABAZeZnSA7s
-  nom: Accessoires
+  nom: Accessoires d'Infiltrateur
   nomEn: Infiltrator's Accessory
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/AYdpUABAZeZnSA7s.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Infiltrator's Accessory.json
@@ -6500,15 +6526,21 @@ bâton-de-nécromancie:
     - Magique
     - Nécromancie
   description: |
-    Ce bâton tordu à l’aspect sinistre est orné d’un crâne hideux et de motifs osseux. Lorsque vous le maniez, vous bénéficiez d’un bonus de cir‑ constances de +2 aux tests pour identifier la magie nécromantique.   
+    Ce bâton tordu à l’aspect sinistre est orné d’un crâne hideux et de motifs osseux. Lorsque vous le maniez, vous bénéficiez d’un bonus de circonstances de +2 aux tests pour identifier la magie nécromantique.
     
-    **Activation** Lancer un sort; **Effet** Vous dépensez un certain nombre de charges du bâton pour lancer un sort de sa liste.   
+    **Activation** Lancer un sort; **Effet** Vous dépensez un certain nombre de charges du bâton pour lancer un sort de sa liste.
     
     **Conditions de fabrication** Fournir une incantation de tous les sorts de la liste et à tous les niveaux indiqués.
     
-    - **Tour de magie** [Chill Touch](../sorts/contact-glacial.html)
-    - **Niveau 1** [Grim Tendrils](../sorts/sinistres-volutes.html), [Ray of Enfeeblement](../sorts/rayon-affaiblissant.html)
-    - **Niveau 2** [Deafness](../sorts/surdité.html), [Gentle Repose](../sorts/préservation-des-morts.html)
+    - **Tour de magie** [Contact glacial](../sorts/contact-glacial.html)
+    - **Niveau 1** [Sinistres volutes](../sorts/sinistres-volutes.html), [Rayon affaiblissant](../sorts/rayon-affaiblissant.html)
+    - **Niveau 2** [Surdité](../sorts/surdité.html), [Préservation des morts](../sorts/préservation-des-morts.html)
+    
+    **Craft Requirements** Supply one casting of all listed levels of all listed spells.
+    
+    Effets automatiquement appliqués:
+    
+    - bonus de circonstances de +2 aux tests pour identifier la magie nécromantique
 
 bâton-de-nécromancie-supérieur:
   id: Ab5EjJyoRSec5YrW
@@ -6644,16 +6676,9 @@ bâton-de-la-providence:
     
      **Effet** Vous dépensez un certain nombre de charges du bâton pour lancer un sort de sa liste.
     
-    - **Cantrip** [assistance divine](../sorts/assistance-divine.html), [lumiere](../sorts/lumière.html)
+    - **Tour de magie** [assistance divine](../sorts/assistance-divine.html), [lumiere](../sorts/lumière.html)
     - **Niveau 1** @[bénédiction](../sorts/bénédiction.html), [création d'eau](../sorts/création-d-eau.html)
     - **Niveau 2** [augure](../sorts/augure.html), [création de nourriture](../sorts/création-de-nourriture.html), [détection de l'invisibilité](../sorts/détection-de-l-invisibilité.html), [rapport](../sorts/rapport.html)
-    - **Niveau 3** [passage sûr](../sorts/passage-sûr.html), [guide du pélerin](../sorts/guide-du-pélerin.html)
-    - **Niveau 4** [délivrance des malédictions](../sorts/délivrance-des-malédictions.html), [immunité contre les sorts](../sorts/immunité-contre-les-sorts.html), [rapport](../sorts/rapport.html)
-    - **Niveau 5** [Œil indiscret](../sorts/œil-indiscret.html), [étection de l'invisibilité](../sorts/détection-de-l-invisibilité.html), [immunité contre les sorts](../sorts/immunité-contre-les-sorts.html)
-    - **Niveau 6** [immunité contre les sorts](../sorts/immunité-contre-les-sorts.html), [précaution scintillante](../sorts/précaution-scintillante.html), [vision lucide](../sorts/vision-lucide.html)
-    - **Niveau 7** [égide énergétique](../sorts/égide-énergétique.html), [immunité contre les sorts](../sorts/immunité-contre-les-sorts.html)
-    - **Niveau 8** [inspiration divine](../sorts/inspiration-divine.html), [immunité contre les sorts](../sorts/immunité-contre-les-sorts.html)
-    - **Niveau 9** [prémonition](../sorts/prémonition.html), [présence écrasante](../sorts/présence-écrasante.html), [immunité contre les sorts](../sorts/immunité-contre-les-sorts.html)
     
     **Conditions de fabrication** Fournir une incantation de tous les sorts de la liste et à tous les niveaux énumérés.
     
@@ -6692,16 +6717,11 @@ bâton-de-la-providence-supérieur:
     
      **Effet** Vous dépensez un certain nombre de charges du bâton pour lancer un sort de sa liste.
     
-    - **Cantrip** [assistance divine](../sorts/assistance-divine.html), [lumiere](../sorts/lumière.html)
-    - **Niveau 1** @[bénédiction](../sorts/bénédiction.html), [création d'eau](../sorts/création-d-eau.html)
+    - **Tour de magie** [assistance divine](../sorts/assistance-divine.html), [lumiere](../sorts/lumière.html)
+    - **Niveau 1** [bénédiction](../sorts/bénédiction.html), [création d'eau](../sorts/création-d-eau.html)
     - **Niveau 2** [augure](../sorts/augure.html), [création de nourriture](../sorts/création-de-nourriture.html), [détection de l'invisibilité](../sorts/détection-de-l-invisibilité.html), [rapport](../sorts/rapport.html)
     - **Niveau 3** [passage sûr](../sorts/passage-sûr.html), [guide du pélerin](../sorts/guide-du-pélerin.html)
     - **Niveau 4** [délivrance des malédictions](../sorts/délivrance-des-malédictions.html), [immunité contre les sorts](../sorts/immunité-contre-les-sorts.html), [rapport](../sorts/rapport.html)
-    - **Niveau 5** [Œil indiscret](../sorts/œil-indiscret.html), [étection de l'invisibilité](../sorts/détection-de-l-invisibilité.html), [immunité contre les sorts](../sorts/immunité-contre-les-sorts.html)
-    - **Niveau 6** [immunité contre les sorts](../sorts/immunité-contre-les-sorts.html), [précaution scintillante](../sorts/précaution-scintillante.html), [vision lucide](../sorts/vision-lucide.html)
-    - **Niveau 7** [égide énergétique](../sorts/égide-énergétique.html), [immunité contre les sorts](../sorts/immunité-contre-les-sorts.html)
-    - **Niveau 8** [inspiration divine](../sorts/inspiration-divine.html), [immunité contre les sorts](../sorts/immunité-contre-les-sorts.html)
-    - **Niveau 9** [prémonition](../sorts/prémonition.html), [présence écrasante](../sorts/présence-écrasante.html), [immunité contre les sorts](../sorts/immunité-contre-les-sorts.html)
     
     **Conditions de fabrication** Fournir une incantation de tous les sorts de la liste et à tous les niveaux énumérés.
     
@@ -6736,24 +6756,20 @@ bâton-de-la-providence-majeur:
     
     Quand vous maniez ce bâton, vous gagnez un bonus d'objet de +1 sur les test de Survie pour s'orienter ou subsister, ainsi qu'aux tests de Religion pour se souvenir.
     
-     **Activation** Lancer un sort
+    **Activation** Lancer un sort
     
-     **Effet** Vous dépensez un certain nombre de charges du bâton pour lancer un sort de sa liste.
+    **Effet** Vous dépensez un certain nombre de charges du bâton pour lancer un sort de sa liste.
     
-    - **Cantrip** [assistance divine](../sorts/assistance-divine.html), [lumiere](../sorts/lumière.html)
+    - **Tour de magie** [assistance divine](../sorts/assistance-divine.html), [lumiere](../sorts/lumière.html)
     - **Niveau 1** @[bénédiction](../sorts/bénédiction.html), [création d'eau](../sorts/création-d-eau.html)
     - **Niveau 2** [augure](../sorts/augure.html), [création de nourriture](../sorts/création-de-nourriture.html), [détection de l'invisibilité](../sorts/détection-de-l-invisibilité.html), [rapport](../sorts/rapport.html)
     - **Niveau 3** [passage sûr](../sorts/passage-sûr.html), [guide du pélerin](../sorts/guide-du-pélerin.html)
     - **Niveau 4** [délivrance des malédictions](../sorts/délivrance-des-malédictions.html), [immunité contre les sorts](../sorts/immunité-contre-les-sorts.html), [rapport](../sorts/rapport.html)
     - **Niveau 5** [Œil indiscret](../sorts/œil-indiscret.html), [étection de l'invisibilité](../sorts/détection-de-l-invisibilité.html), [immunité contre les sorts](../sorts/immunité-contre-les-sorts.html)
     - **Niveau 6** [immunité contre les sorts](../sorts/immunité-contre-les-sorts.html), [précaution scintillante](../sorts/précaution-scintillante.html), [vision lucide](../sorts/vision-lucide.html)
-    - **Niveau 7** [égide énergétique](../sorts/égide-énergétique.html), [immunité contre les sorts](../sorts/immunité-contre-les-sorts.html)
-    - **Niveau 8** [inspiration divine](../sorts/inspiration-divine.html), [immunité contre les sorts](../sorts/immunité-contre-les-sorts.html)
-    - **Niveau 9** [prémonition](../sorts/prémonition.html), [présence écrasante](../sorts/présence-écrasante.html), [immunité contre les sorts](../sorts/immunité-contre-les-sorts.html)
     
     **Conditions de fabrication** Fournir une incantation de tous les sorts de la liste et à tous les niveaux énumérés.
     
-    <h />
     Effets appliqués automatiquement: 
     
     - +1 bonus d'objet aux tests de Survie pour S'Orienter ou Subsister,
@@ -6784,11 +6800,11 @@ bâton-de-la-providence-ultime:
     
     Quand vous maniez ce bâton, vous gagnez un bonus d'objet de +1 sur les test de Survie pour s'orienter ou subsister, ainsi qu'aux tests de Religion pour se souvenir.
     
-     **Activation** Lancer un sort
+    **Activation** Lancer un sort
     
-     **Effet** Vous dépensez un certain nombre de charges du bâton pour lancer un sort de sa liste.
+    **Effet** Vous dépensez un certain nombre de charges du bâton pour lancer un sort de sa liste.
     
-    - **Cantrip** [assistance divine](../sorts/assistance-divine.html), [lumiere](../sorts/lumière.html)
+    - **Tour de magie** [assistance divine](../sorts/assistance-divine.html), [lumiere](../sorts/lumière.html)
     - **Niveau 1** @[bénédiction](../sorts/bénédiction.html), [création d'eau](../sorts/création-d-eau.html)
     - **Niveau 2** [augure](../sorts/augure.html), [création de nourriture](../sorts/création-de-nourriture.html), [détection de l'invisibilité](../sorts/détection-de-l-invisibilité.html), [rapport](../sorts/rapport.html)
     - **Niveau 3** [passage sûr](../sorts/passage-sûr.html), [guide du pélerin](../sorts/guide-du-pélerin.html)
@@ -6801,55 +6817,6 @@ bâton-de-la-providence-ultime:
     
     **Conditions de fabrication** Fournir une incantation de tous les sorts de la liste et à tous les niveaux énumérés.
     
-    <h />
-    Effets appliqués automatiquement: 
-    
-    - +1 bonus d'objet aux tests de Survie pour S'Orienter ou Subsister,
-    - +1 bonus d'objet aux tests de Religion pour Se Souvenir
-
-bâton-de-la-providence-ultime:
-  id: ZPnQMNOyHjTkkGx4
-  nom: Bâton de la providence ultime
-  nomEn: Staff of Providence (Ture)
-  urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/ZPnQMNOyHjTkkGx4.htm
-  urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Staff of Providence (Ture).json
-  type: simple
-  niveau: 20
-  prix: 64,000 gp
-  rareté: common
-  groupe: Gourdin
-  dommagesNb: 1
-  dommagesDé: d4
-  dommagesType: Contondant
-  poids: 1
-  traits:
-    - Bâton
-    - Deux-mains d8
-    - Divination
-    - Magique
-  description: |
-    Un grand symbole stylisé d'un œil orne le haut de ce bâton en bois, représentant l'œil vigilant des pouvoirs divins. Le porteur du personnel peut guider et protéger, et voir des primes et des tragédies pouvant le toucher dans le futur.
-    
-    Quand vous maniez ce bâton, vous gagnez un bonus d'objet de +1 sur les test de Survie pour s'orienter ou subsister, ainsi qu'aux tests de Religion pour se souvenir.
-    
-     **Activation** Lancer un sort
-    
-     **Effet** Vous dépensez un certain nombre de charges du bâton pour lancer un sort de sa liste.
-    
-    - **Cantrip** [assistance divine](../sorts/assistance-divine.html), [lumiere](../sorts/lumière.html)
-    - **Niveau 1** @[bénédiction](../sorts/bénédiction.html), [création d'eau](../sorts/création-d-eau.html)
-    - **Niveau 2** [augure](../sorts/augure.html), [création de nourriture](../sorts/création-de-nourriture.html), [détection de l'invisibilité](../sorts/détection-de-l-invisibilité.html), [rapport](../sorts/rapport.html)
-    - **Niveau 3** [passage sûr](../sorts/passage-sûr.html), [guide du pélerin](../sorts/guide-du-pélerin.html)
-    - **Niveau 4** [délivrance des malédictions](../sorts/délivrance-des-malédictions.html), [immunité contre les sorts](../sorts/immunité-contre-les-sorts.html), [rapport](../sorts/rapport.html)
-    - **Niveau 5** [Œil indiscret](../sorts/œil-indiscret.html), [étection de l'invisibilité](../sorts/détection-de-l-invisibilité.html), [immunité contre les sorts](../sorts/immunité-contre-les-sorts.html)
-    - **Niveau 6** [immunité contre les sorts](../sorts/immunité-contre-les-sorts.html), [précaution scintillante](../sorts/précaution-scintillante.html), [vision lucide](../sorts/vision-lucide.html)
-    - **Niveau 7** [égide énergétique](../sorts/égide-énergétique.html), [immunité contre les sorts](../sorts/immunité-contre-les-sorts.html)
-    - **Niveau 8** [inspiration divine](../sorts/inspiration-divine.html), [immunité contre les sorts](../sorts/immunité-contre-les-sorts.html)
-    - **Niveau 9** [prémonition](../sorts/prémonition.html), [présence écrasante](../sorts/présence-écrasante.html), [immunité contre les sorts](../sorts/immunité-contre-les-sorts.html)
-    
-    **Conditions de fabrication** Fournir une incantation de tous les sorts de la liste et à tous les niveaux énumérés.
-    
-    <h />
     Effets appliqués automatiquement: 
     
     - +1 bonus d'objet aux tests de Survie pour S'Orienter ou Subsister,
