@@ -8,7 +8,7 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/penetrating-projectile.json
 layout: dons
 ---
-**Condition** Vous maniez une arme à distance ou de jet qui inflige des dégâts perçants.
+**Conditions** Vous maniez une arme à distance ou de jet qui inflige des dégâts perçants.
 
 Vos projectiles ne sont pas ralentis par la chair ou les os. Faites une Frappe à distance contre chaque créature sur une ligne de 9 m. Ces attaques ignorent la couverture moindre, la couverture et la couverture améliorée fournie par les créatures. Lancez les dégâts une seule fois et appliquez les à chaque créature que vous touchez.
 

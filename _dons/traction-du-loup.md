@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/wolf-drag.json
 layout: dons
 ---
-**Conditions** Vous êtes dans la Posture du loup
+**Conditions** Vous êtes dans la [Posture du loup](posture-du-loup.html)
 
-Vous fauchez les jambes de votre ennemi. Faites une Frappe de mâchoire de loup. Votre Frappe de mâchoire de loup bénéficie du trait fatal d12 et si elle réussit, la cible se retrouve À terre.
+Vous fauchez les jambes de votre ennemi. Faites une Frappe de mâchoire de loup. Votre Frappe de mâchoire de loup bénéficie du trait fatal d12 et si l'attaque est réussie, la cible se retrouve [À terre](../conditions/à-terre.html).

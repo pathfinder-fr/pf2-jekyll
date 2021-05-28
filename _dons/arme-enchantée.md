@@ -14,8 +14,8 @@ layout: dons
 
 Vous siphonnez l’énergie résiduelle du dernier sort que vous avez lancé pour l’injecter dans une arme que vous maniez. Jusqu’à la fin de votre tour, cette arme inflige 1d6 dégâts supplémentaires d’un type dépendant de l’école du sort juste lancé.
 
-- **Abjuration :** dégâts de force,
-- **Invocation ou transmutation :** du même type que l'arme,
-- **Divination, Enchantement ou Illusion :** dégâts mentaux,
-- **Évocation :** un type de dégâts du sort ou des dégâts de force si le sort ne fait pas de dégâts,
-- **Nécromancie :** dégâts d'énergie négative.
+- **Abjuration** dégâts de force,
+- **Invocation ou Transmutation** dégâts du même type que ceux de l'arme,
+- **Divination, Enchantment ou Illusion** dégâts mentaux,
+- **Évocation** d'un type infligé par le sort ou dégâts de force si le sort n'inflige pas de dégâts,
+- **Nécromancyie** dégâts négatifs

@@ -8,6 +8,8 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/detective-s-readiness.json
 layout: dons
 ---
-Lorsque vous êtes sur une affaire, vous restez vigilant et résolu à éviter les ficelles que votre suspect pourraient tirer.
+Lorsque vous êtes sur une affaire, vous restez vigilant et résolu à éviter les ficelles que votre suspect pourrait tirer.
 
-Vous obtenez votre bonus de circonstances issu de [Suivre une piste](../actions/suivre-une-piste.html) à vos jets de sauvegarde (et leurs DD, comme habituellement) contre le sujet d'une piste et vous pouvez utiliser [Partager les indices](../actions/partager-les-indices.html) pour aider un de vos alliés lors d'un jet de sauvegarde contre le sujet.
+Vous obtenez votre bonus de circonstances issu de [Suivre une piste](../actions/suivre-une-piste.html) à vos jets de sauvegarde (et leurs DD, comme à l'ordinaire) contre le sujet d'une piste et vous pouvez utiliser [Partager les indices](../actions/partager-les-indices.html) pour aider un de vos alliés lors d'un jet de sauvegarde contre le sujet.
+
+Effet: Partager les indices (Vivacité du détective)

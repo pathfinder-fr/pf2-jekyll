@@ -10,6 +10,6 @@ layout: dons
 ---
 **Déclencheur** Un allié dans les 9 m [Lance un sort](../actions/lancer-un-sort.html).
 
-Vous utilisez vos représentations pour compléter l'incantation des sorts d'un allié, lui procurant l'énergie magique pour ses sorts.
+Vous utilisez vos représentations pour compléter l'incantation des sorts d'un allié, lui fournissant l'énergie magique pour ses sorts.
 
-Faites un test de Représentation, en utilisant un DD très élevé pour du niveau de l'allié et soit vous dépensez un Point de focalisation (si le sort déclencheur est un sort de focalisation) soit vous dépensez un emplacement de sort d'au moins 1 niveau plus élevé que le sort déclencheur. Si vous réussissez le test de Représentation, le sort de votre allié ne lui coûte pas le Point de focalisation ou l'emplacement du sort.
+Faites un test de Représentation, en utilisant un DD très élevé pour le niveau de l'allié et soit vous dépensez un Point de focalisation (si le sort déclencheur est un sort de focalisation) soit vous dépensez un emplacement de sort d'au moins 1 niveau plus élevé que le sort déclencheur. Si vous réussissez le test de Représentation, le sort de votre allié ne lui coûte pas le Point de focalisation ou l'emplacement du sort.

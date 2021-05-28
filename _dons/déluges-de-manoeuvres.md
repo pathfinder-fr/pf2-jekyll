@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/flurry-of-maneuvers.json
 layout: dons
 ---
-Votre déluge est une combinaison de manœuvres. Vous pouvez remplacer l’une de vos attaques, ou les deux, lors d’un déluge de coups par des Saisies, des Poussées ou des Crocs‑en‑jambe.
+Votre déluge est une combinaison de manœuvres. Vous pouvez remplacer l’une de vos attaques, ou les deux, lors d’un déluge de coups par des [Saisies](../actions/saisir.html), des [Poussées](../actions/pousser.html) ou des [Crocs‑en‑jambe](../actions/croc-en-jambe.html).

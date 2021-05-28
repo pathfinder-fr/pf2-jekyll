@@ -8,7 +8,7 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/command-undead.json
 layout: dons
 ---
-Vous saisissez la force qui circule dans le corps d’un mort‑vivant et qui permet de l’animer afin de le plier à votre volonté. Si la prochaine action que vous effectuez consiste à lancer mise à mal en prenant pour cible un mort‑vivant, vous transformez les effets de ce sort. Au lieu des effets normaux de mise à mal, vous contrôlez la cible si son niveau est égal ou inférieur au vôtre −3. Elle peut faire un jet de Volonté pour ne pas être contrôlée. Si elle est déjà sous le contrôle de quelqu’un d’autre, celui‑ci fait aussi un jet de sauvegarde et le mort‑vivant utilise le meilleur résultat.
+Vous saisissez la force qui circule dans le corps d’un mort‑vivant et qui permet de l’animer afin de le plier à votre volonté. Si la prochaine action que vous effectuez consiste à lancer Mise à mal en prenant pour cible un mort‑vivant, vous transformez les effets de ce sort. Au lieu des effets normaux de Mise à mal, vous contrôlez la cible si son niveau est égal ou inférieur au vôtre −3. Elle peut faire un jet de Volonté pour ne pas être contrôlée. Si elle est déjà sous le contrôle de quelqu’un d’autre, celui‑ci fait aussi un jet de sauvegarde et le mort‑vivant utilise le meilleur résultat.
 
 **Succès critique** La cible ne subit aucun effet et elle est temporairement immunisée pendant 24 h.
 

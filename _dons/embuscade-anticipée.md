@@ -10,4 +10,4 @@ layout: dons
 ---
 En utilisant votre connaissance extensive des tactiques d'embuscade, vous gardez un œil pour toute créature cachée ou site dangereux, en vous déplaçant à la moitié de votre vitesse de voyage.
 
-Si vous anticipez une embuscade au début d'une renncontre, vous lancez un test de Perception pour votre initiative et tous les ennemis lancent un test de Discrétion pour l'initiative et subissent une pénalité circonstance de –2 à leurs tests de Discrétion.
+Si vous anticipez une embuscade au début d'une rencontre, vous lancez un test de Perception pour votre initiative et tous les ennemis lancent un test de Discrétion pour l'initiative et subissent une pénalité de circonstances de –2 à leurs tests de Discrétion.

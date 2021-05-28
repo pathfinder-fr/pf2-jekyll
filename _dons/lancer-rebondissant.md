@@ -8,7 +8,7 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/rebounding-toss.json
 layout: dons
 ---
-**Condition** Vous maniez une arme de jet.
+**Conditions** Vous maniez une arme de jet.
 
 Vous faites rebondir votre arme sur un ennemi pour en frapper un autre. Faites une Frappe à distance avec une arme de jet. Si ce coup est réussi, l'arme rebondit vers un ennemi situé à moins de 3 mètres de la cible initiale. Effectuez une autre Frappe contre cette deuxième cible.
 

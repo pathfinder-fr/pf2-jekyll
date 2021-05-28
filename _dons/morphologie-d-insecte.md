@@ -8,4 +8,8 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/insect-shape.json
 layout: dons
 ---
-Vous développez votre compréhension de la vie, ce qui vous permet de diversifier encore davantage les formes de créatures que vous pouvez adopter. Ajoutez les formes du sort forme d’insecte à celles de votre morphologie sauvage. Chaque fois que vous utilisez morphologie sauvage pour prendre la forme d’un insecte non volant indiqué dans forme de nuisible, la durée s’élève à 24 h au lieu de 10 minutes.
+Vous développez votre compréhension de la vie, ce qui vous permet de diversifier encore davantage les formes de créatures que vous pouvez adopter.
+
+Ajoutez les formes du sort [Forme d’insecte](../sorts/forme-d-insecte.html) à celles de votre morphologie sauvage.
+
+Chaque fois que vous utilisez morphologie sauvage pour prendre la forme d’un insecte non volant indiqué dans [Forme de nuisible](../sorts/forme-de-nuisible.html), la durée s’élève à 24 h au lieu de 10 minutes.

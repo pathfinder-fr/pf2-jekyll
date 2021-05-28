@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/elastic-mutagen.json
 layout: dons
 ---
-Vous pouvez donner à votre corps la consistance du vif-argent que vous voyez se tordre et s’enrouler dans vos mutagènes. À chaque fois que vous vous trouvez sous l’effet d’un mutagène de vif-argent, vous pouvez étirer vos jambes et Faire un pas d’un maximum de 3 m. Vous pouvez aussi vous faire petit et compresser votre corps afin de pouvoir traverser des espaces étroits comme si vous faisiez une catégorie de taille de moins, en plus des autres effets de l’action Se faufiler.
+Vous pouvez donner à votre corps la consistance du vif-argent que vous voyez se tordre et s’enrouler dans vos mutagènes. À chaque fois que vous vous trouvez sous l’effet d’un Mutagène de vif-argent, vous pouvez étirer vos jambes et Faire un pas d’un maximum de 3 m. Vous pouvez aussi vous faire petit et compresser votre corps afin de pouvoir traverser des espaces étroits comme si vous faisiez une catégorie de taille de moins, en plus de tout autre effets de l’action Se faufiler.

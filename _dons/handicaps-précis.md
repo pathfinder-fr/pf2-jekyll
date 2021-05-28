@@ -8,9 +8,7 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/precise-debilitations.json
 layout: dons
 ---
-**Prérequis** trafic de voleur, Frappe incapacitante
-
 Vous visez avec soin avant de distribuer gracieusement vos handicaps. Ajoutez les handicaps suivants à la liste de handicaps que vous utilisez avec Frappe incapacitante.
 
-- **Handicap:** Vos attaques infligent 2d6 dégâts de précision supplémentaires à la cible.
-- **Handicap:**  La cible devient [prise au dépourvu](../conditions/pris-au-dépourvu.html).
+- **Handicap** Vos attaques infligent 2d6 dégâts de précision supplémentaires à la cible.
+- **Handicap**  La cible est [Prise au dépourvu](../conditions/pris-au-dépourvu.html).

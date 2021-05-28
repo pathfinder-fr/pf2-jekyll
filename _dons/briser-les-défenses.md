@@ -10,4 +10,4 @@ layout: dons
 ---
 **Conditions** Une créature Effrayée est à portée de votre allonge au corps à corps.
 
-Votre agressivité entretient la terreur de votre ennemi. Faites une Frappe au corps à corps contre une créature Effrayée. Si vous touchez et infligez des dégâts, la cible est prise au dépourvu tant qu’elle conserve son état effrayé. Si la cible est déjà prise au dépourvu à cause de vous quand vous lui infligez des dégâts avec cette Frappe, elle ne peut pas réduire l’intensité de son état effrayé en dessous de 1 jusqu’au début de votre prochain tour.
+Votre agressivité entretient la terreur de votre ennemi. Faites une Frappe au corps à corps contre une créature [Effrayée](../conditions/effrayé.html). Si vous touchez et infligez des dégâts, la cible est [Prise au dépourvu](../conditions/pris-au-dépourvu.html) tant qu’elle conserve son état Effrayé. Si la cible est déjà Prise au dépourvu à cause de vous quand vous lui infligez des dégâts avec cette Frappe, elle ne peut pas réduire l’intensité de son état Effrayé en dessous de 1 jusqu’au début de votre prochain tour.

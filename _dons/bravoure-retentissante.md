@@ -9,3 +9,7 @@ urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/pack
 layout: dons
 ---
 Même vos peurs servent de combustible à votre esprit guerrier. Lorsque vous réussissez un jet de sauvegarde de Volonté de manière critique contre une capacité d'un adversaire, vous obtenez un bonus de statut de +1 à vos jets de sauvegarde et un nombre de points de vie temporaires égal à la moitié de votre niveau pendant 1 minute. Ces avantages sont doublés si vous obtenez une réussite critique contre un effet de peur.
+
+Effet: Bravoure retentissante
+
+Effet: Bravoure retentissante (contre la peur)

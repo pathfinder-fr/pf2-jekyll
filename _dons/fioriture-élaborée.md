@@ -12,4 +12,4 @@ Vous embellissez vos sorts avec des fioritures envoûtantes et de grandes décla
 
 Si la prochaine action que vous utilisez consiste à [Lancer un sort](../actions/lancer-un-sort.html), les créatures disposant de la capacité de Lancer ce sort ne savent pas automatiquement quel est le sort.
 
-De plus, les créatures qui sont témoins du lancement de votre sort subissent une pénalité de circonstance de -2 pour les tests pour  [Se souvenir](../actions/se-souvenir-connaissance.html) et aux test pour contrer le sort lors de son incantation (comme avec [Contresort](contresort-préparé.html)).
+De plus, les créatures qui sont témoins du lancement de votre sort subissent une pénalité de circonstances de -2 pour les tests pour [Se souvenir](../actions/se-souvenir-connaissance.html) et aux test pour contrer le sort lors de son incantation (comme avec [Contresort](contresort-préparé.html)).

@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/amplifying-touch.json
 layout: dons
 ---
-**Prérequis** sort de dévotion ([Imposition des mains](../sorts/imposition-des-mains.html))
+Vos énergies curatives renforcent les attaques. Un allié qui récupère des Points de vie par votre Imposition des mains obtient un bonus de statut de +1 à leurs jets d'attaque et infligent 1 point de dégât du bien supplémentaire à toutes ses [Frappes](../actions/frapper.html) jusqu'à la fin de leur prochain tour.
 
-Vos énergies curatrices renforce les attaques. Un allié qui récupère des Points de vie de votre *imposition des mains* obtient un bonus de statut de +1 à leurs jets d'attaque et infligent 1 point de dégât du bien supplémentaire à toutes leurs [Frappes](../actions/frapper.html) jusqu'à la fin de leur prochain tour.
+[Effet de sort : Toucher amplificateur](../effet-sorts/.html)

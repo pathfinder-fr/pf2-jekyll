@@ -12,4 +12,8 @@ layout: dons
 
 (Guerrier) Vous faites un bond impressionnant et frappez alors que vous êtes en l'air.
 
-Vous faites un Bond, un Saut en hauteur ou un Saut en longueur et tentez de faire une Frappe au corps à corps à n’importe quel moment pendant votre saut. Si vous étiez encore en l’air, vous tombez au sol immédiatement après votre Frappe, même si vous n’avez pas atteint la distance maximale que vous pouviez parcourir avec votre saut. Si vous chutez d’une distance inférieure ou égale à la hauteur de votre saut, vous ne subissez aucun dégât et retombez sur vos pieds. Quand vous faites un Saut en hauteur ou en longueur dans le cadre de l’action Bond soudain, le DD est déterminé de la même manière que le DD du Saut en longueur, et la distance maximale que vous pouvez parcourir est le double de votre Vitesse.
+Vous faites un [Bond](../actions/bondir.html), un [Saut en hauteur](../actions/sauter-en-hauteur.html) ou un [Saut en longueur](../actions/sauter-en-longueur.html) et tentez de faire une Frappe au corps à corps à n’importe quel moment pendant votre saut.
+
+Si vous étiez encore en l’air, vous tombez au sol immédiatement après votre Frappe, même si vous n’avez pas atteint la distance maximale que vous pouviez parcourir avec votre saut. Si vous chutez d’une distance inférieure ou égale à la hauteur de votre saut, vous ne subissez aucun dégât et retombez sur vos pieds.
+
+Quand vous faites un Saut en hauteur ou en longueur dans le cadre de l’action Bond soudain, le DD est déterminé de la même manière que le DD du Saut en longueur, et la distance maximale que vous pouvez parcourir est le double de votre Vitesse.

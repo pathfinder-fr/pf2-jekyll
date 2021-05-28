@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous apprenez une posture mystique qui transforme votre ki en fûmée collante qui enveloppe vos membres, collant à tout ce que vous touchez.
 
-Vous obtenez le sort ki [Posture des ombres tenaces](../sorts/posture-des-ombres-tenaces.html). Augmentez le nombre de points de focalisation de votre réserve de focalisation de 1. Adopter cette posture utilise un sort ki, les attaques d'ombre qu'il accorde n'en consomment pas de sorte que vous pouvez les utiliser aussi souvent que vous le souhaitez tant que vous êtes dans cette posture.
+Vous obtenez le sort ki [Posture des ombres tenaces](../sorts/posture-des-ombres-tenaces.html). Augmentez le nombre de points de focalisation de votre réserve de focalisation de 1. Adopter cette posture utilise un sort ki, les attaques d'ombre qu'il accorde n'en consomment pas de sorte que vous pouvez les utiliser aussi souvent que vous le souhaitez tant que vous restez dans cette posture.

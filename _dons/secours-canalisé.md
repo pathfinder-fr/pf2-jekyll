@@ -10,4 +10,4 @@ layout: dons
 ---
 La grâce divine vous permet de supprimer des états nuisibles.
 
-Vous pouvez sacrifier une guérison préparée dans vos emplacements de sort supplémentaires conférés par la source de guérison pour lancer l’un des sorts suivants à la place : Délivrance des malédictions, Délivrance des maladies, Délivrance de la paralysie ou Restauration. Le sort est intensifié jusqu’au même niveau que celui de la guérison que vous avez sacrifiée.
+Vous pouvez sacrifier une Guérison préparée dans vos emplacements de sort supplémentaires conférés par la source de guérison pour lancer l’un des sorts suivants à la place : [Délivrance des malédictions](../sorts/délivrance-des-malédictions.html), [Délivrance des maladies](../sorts/délivrance-des-maladies.html), [Délivrance de la paralysie](../sorts/délivrance-de-la-paralysie.html) ou [Restauration](../sorts/restauration.html). Le sort est intensifié jusqu’au même niveau que celui de la Guérison que vous avez sacrifiée.

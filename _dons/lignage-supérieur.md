@@ -8,6 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/greater-bloodline.json
 layout: dons
 ---
-**Prérequis** sort de lignage
-
 Une communion plus poussée avec l’héritage de votre lignage vous a permis de percer des secrets plus importants. Vous gagnez le sort de lignage supérieur associé à votre lignage. Augmentez de 1 le nombre de points de focalisation de votre réserve.

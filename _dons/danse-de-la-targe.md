@@ -10,4 +10,4 @@ layout: dons
 ---
 **Conditions** Vous maniez une [Targe](../équipements/targe.html).
 
-Vous faites tourner votre targe de manière défensive contre chaque attaque. Tant que vous êtes dans cette posture, vous avez constamment votre tarde levée comme si vous aviez utilisé [Lever un bouclier](../actions/lever-un-bouclier.html), tant que vous remplissez les conditions de cette action.
+Vous faites tourner votre targe de manière défensive contre chaque attaque. Tant que vous êtes dans cette posture, vous avez constamment votre targe levée comme si vous aviez utilisé [Lever un bouclier](../actions/lever-un-bouclier.html), tant que vous remplissez les conditions de cette action.

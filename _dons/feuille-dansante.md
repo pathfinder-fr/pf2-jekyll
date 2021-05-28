@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/dancing-leaf.json
 layout: dons
 ---
-Vous êtes aussi léger qu’une feuille qui virevolte dans la brise. Quand vous Bondissez ou réussissez un Saut en hauteur ou en longueur, augmentez la distance de votre saut de 1,50 m. Quand vous calculez les dégâts que vous subissez lors d’une chute, ne comptez pas la distance de chute parcourue en restant adjacent à un mur ou une paroi.
+Vous êtes aussi léger qu’une feuille qui virevolte dans la brise. Quand vous [Bondissez](../actions/bondir.html) ou réussissez un [Saut en hauteur](../actions/sauter-en-hauteur.html) ou en [longueur](../actions/sauter-en-longueur.html), augmentez la distance de votre saut de 1,50 m. Quand vous calculez les dégâts que vous subissez lors d’une chute, ne comptez pas la distance de chute parcourue en restant adjacent à un mur ou une paroi.

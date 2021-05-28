@@ -14,4 +14,4 @@ layout: dons
 
 (Magicien) Avec un geste compliqué, vous altérez l'énergie de votre sort pour sumonter les résistances.
 
-Si votre prochaine action consiste à Lancer un sort, ce dernier ignore chez la cible un nombre de points de résistance à l’acide, au froid, à l’électricité, au feu ou au son égal à votre niveau. Cela s’applique à tous les dégâts qu’inflige le sort, y compris les dégâts persistants et ceux causés par un effet continu du sort, comme le mur de mur de feu. Cela n’affecte pas les immunités d’une créature.
+Si votre prochaine action consiste à Lancer un sort, ce dernier ignore chez la cible un nombre de points de résistance à l’acide, au froid, à l’électricité, au feu ou au son égal à votre niveau. Cela s’applique à tous les dégâts qu’inflige le sort, y compris les dégâts persistants et ceux causés par un effet continu du sort, comme le mur créé par Mur de feu. Cela n’affecte pas les immunités d’une créature.

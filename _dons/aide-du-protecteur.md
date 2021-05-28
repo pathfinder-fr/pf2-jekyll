@@ -8,4 +8,8 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/warden-s-boon.json
 layout: dons
 ---
-Jusqu’à la fin de votre prochain tour, vous conférez à un allié les avantages décrits dans Chasser une proie et ceux de votre spécialité du chasseur en lui indiquant les vulnérabilités d’une créature. En fonction de la manière utilisée pour transmettre ces informations à votre allié (des gestes ou la voix), cette action possède le trait visuel ou audible.
+Jusqu’à la fin de votre prochain tour, vous conférez à un allié les avantages décrits dans Chasser une proie et ceux de votre Spécialité du chasseur en lui indiquant les vulnérabilités d’une créature. En fonction de la manière utilisée pour transmettre ces informations à votre allié (des gestes ou la voix), cette action possède le trait visuel ou audible.
+
+- Effet: Spécialité du chasseur, Déluge
+- Effet: Spécialité du chasseur Précision
+- Effet: Spécialité du chasseur, Ruse

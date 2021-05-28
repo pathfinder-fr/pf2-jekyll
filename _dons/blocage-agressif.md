@@ -12,6 +12,6 @@ layout: dons
 
 Vous bloquez l’attaque en repoussant votre adversaire ou en le déséquilibrant.
 
-Vous utilisez votre bouclier pour repousser la créature à l’origine du déclenchement, soit en la [Poussant](../actions/pousser.html) automatiquement de 1,50 m ou en la prenant au dépourvu jusqu’au début de votre prochain tour.
+Vous utilisez votre bouclier pour repousser la créature à l’origine du déclenchement, soit en la [Poussant](../actions/pousser.html) automatiquement de 1,50 m ou en la rendant [Prise au dépourvu](../conditions/pris-au-dépourvu.html) jusqu’au début de votre prochain tour.
 
-La créature à l’origine du déclenchement choisit si elle est déplacée ou [Prise au dépourvu](../conditions/pris-au-dépourvu.html). Si elle choisit d’être déplacée, c’est vous qui déterminez la direction de son déplacement. Si la créature Poussée cogne un objet solide, entre dans une case de terrain difficile ou dans l’espace d’une autre créature à cause de ce déplacement, elle est forcément prise au dépourvu et ne peut pas être déplacée.
+La créature à l’origine du déclenchement choisit si elle est déplacée ou [Prise au dépourvu](../conditions/pris-au-dépourvu.html). Si elle choisit d’être déplacée, c’est vous qui déterminez la direction de son déplacement. Si la créature Poussée cogne un objet solide, entre dans une case de terrain difficile ou dans l’espace d’une autre créature à cause de ce déplacement, elle est forcément Prise au dépourvu et ne peut pas être déplacée.

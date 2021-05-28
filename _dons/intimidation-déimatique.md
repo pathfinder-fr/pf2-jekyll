@@ -10,4 +10,4 @@ layout: dons
 ---
 En imitant le comportement menaçant d'un animal, vous donnez l'impression d'être plus large et plus imposant.
 
-Ttentez un test d'Intimidation pour [Démoraliser](../actions/démoraliser.html) et comparez le résultat au DD de Volonté de chaque créature animale, champignon et plante située dans un cône de 4,5 m. Lorsque vous le faites, l'action de démoraliser obtient le trait visuel et les créatures sont affectées si elles peuvent vous voir. Vous ne subissez pas de pénalité si la créature ne comprend pas votre langue.
+Faites un test d'Intimidation pour [Démoraliser](../actions/démoraliser.html) et comparez le résultat au DD de Volonté de chaque créature animale, champignon et plante située dans un cône de 4,5 m. Lorsque vous le faites, l'action de Démoraliser obtient le trait visuel et les créatures sont affectées si elles peuvent vous voir. Vous ne subissez pas de pénalité si la créature ne comprend pas votre langue.

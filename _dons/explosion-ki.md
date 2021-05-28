@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/ki-blast.json
 layout: dons
 ---
-Vous pouvez déclencher un puissant cône de force en canalisant votre ki. Vous obtenez le sort ki [explosion ki](explosion-ki.html). Augmentez de 1 le nombre de points de focalisation de votre réserve
+Vous pouvez déclencher un puissant cône de force en canalisant votre ki. Vous obtenez le sort ki [Explosion ki](explosion-ki.html). Augmentez de 1 le nombre de points de focalisation de votre réserve

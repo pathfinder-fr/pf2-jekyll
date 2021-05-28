@@ -10,4 +10,4 @@ layout: conditions
 ---
 Vous êtes fatigué et n’arrivez pas à rassembler vos forces. Vous subissez un malus de statut de −1 à votre CA et à vos jets de sauvegarde. Quand vous explorez, vous ne pouvez pas choisir d’activité d’exploration.
 
-Vous vous remettez de l’état fatigué au terme d’une nuit complète de repos.
+Vous vous remettez de l’état Fatigué au terme d’une nuit complète de repos.

@@ -8,10 +8,10 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/sleeper-hold.json
 layout: dons
 ---
-**Conditions** Vous empoignez ou entravez une créature.
+**Conditions** Vous [Empoignez](../conditions/agrippé-empoigné.html) ou [Entravez](../conditions/entravé.html) une créature.
 
-Vous pincez les points cruciaux du système nerveux de votre cible pour bloquer ses capacités fonctionnelles. Faites un test d’Athlétisme pour Saisir la créature, avec les effets de succès et de succès critique suivants au lieu des effets habituels.
+Vous pincez les points cruciaux du système nerveux de votre cible pour bloquer ses capacités fonctionnelles. Faites un test d’Athlétisme pour [Saisir](../actions/saisir.html) la créature, avec les effets de succès et de succès critique suivants au lieu des effets habituels.
 
 **Succès critique** La cible tombe inconsciente pendant une minute, mais elle reste debout et ne lâche pas ce qu’elle tient en mains.
 
-**Succès**La cible est [maladroite](../conditions/maladroit.html) 1 jusqu’à la fin de son prochain tour
+**Succès**La cible est [Maladroite](../conditions/maladroit.html) 1 jusqu’à la fin de son prochain tour

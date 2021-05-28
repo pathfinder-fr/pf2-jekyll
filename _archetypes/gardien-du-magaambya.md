@@ -54,7 +54,7 @@ Votre familier masque adapte rapidement sa forme matérielle, lui permettant d'o
 
 **Fréquence** une fois par jour
 
-**Condition** Vous n'avez pas encore agi à votre tour
+**Conditions** Vous n'avez pas encore agi à votre tour
 
 Vous invoquez votre entraînement de Détenteur des Flots pour vous aider à ajuster un sort à la situation actuelle. Jusqu'à la fin de votre tour, vous obtenez un unique don de métamagie de la classe de druide ou de magicien dont la condition de niveau ne dépasse pas la moitié de votre niveau.
 

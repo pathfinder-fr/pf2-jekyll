@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/house-of-imaginary-walls.json
 layout: dons
 ---
-Vous dressez une barrière imaginaire que les autres croient réelle. Vous apprenez le tour de magie de composition demeure aux murs imaginaires (page 386).
+Vous dressez une barrière imaginaire que les autres croient réelle. Vous apprenez le tour de magie de composition Demeure aux murs imaginaires.

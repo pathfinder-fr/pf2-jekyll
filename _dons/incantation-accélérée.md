@@ -10,4 +10,4 @@ layout: dons
 ---
 **Fréquence**une fois par jour
 
-Si votre prochaine action consiste à lancer un tour de magie de barde ou un sort de barde d’au minimum deux niveaux de moins que le sort de plus haut niveau que vous pouvez lancer, réduisez le nombre d’actions nécessaire à son incantation de 1 (1 action au minimum).
+Si votre prochaine action consiste à lancer un tour de magie ou un sort d’au minimum deux niveaux de moins que le sort de plus haut niveau que vous pouvez lancer, réduisez le nombre d’actions nécessaire à son incantation de 1 (1 action au minimum).

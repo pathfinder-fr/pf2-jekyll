@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/mature-animal-companion-druid.json
 layout: dons
 ---
-Votre compagnon animal grandit et il est à présent adulte, ce qui lui confère des capacités supplémentaires. Voir Les compagnons animaux pour plus d’informations. Votre compagnon animal est mieux dressé que la plupart. Lors d’une rencontre, même si vous n’effectuez pas l’action Diriger un animal, votre compagnon animal peut toujours effectuer une action à votre tour pour Marcher rapidement ou Frapper.
+Votre compagnon animal grandit et il est à présent adulte, ce qui lui confère des capacités supplémentaires. Votre compagnon animal est mieux dressé que la plupart. Lors d’une rencontre, même si vous n’effectuez pas l’action Diriger un animal, votre compagnon animal peut toujours effectuer une action à votre tour pour Marcher rapidement ou Frapper.

@@ -8,6 +8,8 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/smite-good.json
 layout: dons
 ---
-Votre allié lame partage votre goût du sang des créatures du bien. Choisissez un ennemi que vous pouvez voir. Jusqu'au début de votre prochain tour, vos [Frappes](../actions/frapper.html) contre cet adversaire en utilisant l'arme que votre allié lame habite infligent [[/r 4 #mal]] dégâts maléfiques supplémentaires, passant à [[/r 6 #mal]] si vous êtes maître avec cet arme.
+Votre allié divin lame partage votre goût du sang des créatures du bien. Choisissez un ennemi que vous pouvez voir. Jusqu'au début de votre prochain tour, vos Frappes contre cet adversaire en utilisant l'arme que votre allié divin lame habite infligent 4 dégâts maléfiques supplémentaires, qui passent à 6 si vous êtes maître avec cette arme.
 
-Si l'ennemi choisi  vous attaque avant le début de votre prochain tour, la durée s'étend jusqu'à la fin du prochain tour de cet ennemi. Si l'ennemi continue à vous attaquer à chaque tour, la durée continue à s'accroître.
+Si l'ennemi choisi vous attaque avant le début de votre prochain tour, la durée s'étend jusqu'à la fin du prochain tour de cet ennemi. Si l'ennemi continue à vous attaquer à chaque tour, la durée continue à s'accroître.
+
+Effet: Châtiment du bien

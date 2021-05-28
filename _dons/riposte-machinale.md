@@ -8,6 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/reflexive-riposte.json
 layout: dons
 ---
-**Prérequis** <a class="entity-link" data-pack="pf2e.classfeatures" data-id="Jtn7IugykXDlIoZq" draggable="true">Riposte opportune</a>
-
 Vous pouvez riposter presque sans y penser. Au début de chacun de vos tours, lorsque vous regagnez vos actions, vous obtenez une réaction supplémentaire qui ne peut être utilisée que pour accomplir une Riposte opportune.

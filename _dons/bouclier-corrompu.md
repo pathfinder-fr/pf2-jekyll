@@ -10,8 +10,8 @@ layout: dons
 ---
 Votre allié bouclier est plus que juste un esprit de protection — c'est un conduit pour la magie divine mortelle.
 
-Lorsque vous utilisez votre allié bouclier pour effectuer un [Blocage au bouclier](blocage-au-bouclier.html) contre une Frappe à mains nues de mêlée ou une arme de mêlée d'une créature adjacente, l'attaquant subit [[/r 1d6 #evil]] dégâts mauvais ou négatifs (à votre choix).
+Lorsque vous utilisez votre allié bouclier pour effectuer un [Blocage au bouclier](blocage-au-bouclier.html) contre une Frappe à mains nues de mêlée ou une arme de mêlée d'une créature adjacente, l'attaquant subit [[/r 1d6 #mal]] dégâts mauvais ou négatifs (selon votre choix).
 
 Si l'attaque ou la Frappe brise ou détruit votre bouclier, doublez ces dégâts supplémentaires.
 
-Les dégâts que l'attaquant subit augmentent à [[/r 2d6 #evil]] dégâts mauvais au niveau 11 et [[/r 3d6 #evil]] dégâts mauvais au niveau 16.
+Les dégâts que l'attaquant subit passent à [[/r 2d6]] dégâts au niveau 11 et [[/r 3d6]] dégâts au niveau 16.

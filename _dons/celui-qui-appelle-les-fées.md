@@ -8,4 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/fey-caller.json
 layout: dons
 ---
-Vous avez appris certains des subterfuges utilisés par les fées et vous exploitez ce savoir pour créer des illusions et des supercheries avec la magie primordiale. Ajoutez Déguisement illusoire, Objet illusoire, Scène illusoire et Voile à votre liste de sorts primordiaux.
+Vous avez appris certains des subterfuges utilisés par les fées et vous exploitez ce savoir pour créer des illusions et des supercheries avec la magie primordiale.
+
+Ajoutez [Déguisement illusoire](../sorts/déguisement-illusoire.html), [Objet illusoire](../sorts/objet-illusoire.html), [Scène illusoire](../sorts/scène-illusoire.html) et [Voile](../sorts/voile.html) à votre liste de sorts comme des sorts primordiaux.

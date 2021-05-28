@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/defensive-recovery.json
 layout: dons
 ---
-**Prérequis** source de mise à mal ou de guérison
+Votre foi vous offre une protection supplémentaire en plus de vous soigner. Si la prochaine action que vous effectuez consiste à lancer Mise à mal ou Guérison sur une unique cible et que celle‑ci récupère des points de vie grâce au sort, elle bénéficie également d’un bonus de statut de +2 à la CA et aux jets de sauvegarde pendant un round.
 
-Votre foi vous offre une protection supplémentaire en plus de vous soigner. Si la prochaine action que vous effectuez consiste à lancer mise à mal ou guérison sur une unique cible et que celle‑ci récupère des points de vie grâce au sort, elle bénéficie également d’un bonus de statut de +2 à la CA et aux jets de sauvegarde pendant un round.
+Effet: Récupération défensive

@@ -12,12 +12,12 @@ layout: dons
 
 Vous rouez de coups un adversaire tenu, en espérant l'assommer.
 
-Faites une [Frappe](../actions/frapper.html) de mêlée contre une crature que vous empoignez. Les dégâts de l'armee de cette Frappe sont des dégâts contondants. Si la frappe touche, la créature doit effectuer un jet de Vigueur contre votre DD de classe ; c'est un effet de mise hors combat.
+Faites une [Frappe](../actions/frapper.html) au corps-à-corps contre une crature que vous avez empoignée. Les dégâts de l'arme de cette Frappe sont des dégâts contondants. Si la frappe touche, la créature doit effectuer un jet de Vigueur contre votre DD de classe ; c'est un effet de mise hors combat.
 
 **Succès critique** La créature n'est pas affectée.
 
-**Succès** La créature est [Etourdie](../conditions/étourdi.html) 1.
+**Succès** La créature est [Étourdie](../conditions/étourdi.html) 1.
 
-**Échec** La créature est étourdie 2.
+**Échec** La créature est Étourdie 2.
 
-**Échec critique** La créature est étourdie 3.
+**Échec critique** La créature est Étourdie 3.

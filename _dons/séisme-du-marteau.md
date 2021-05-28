@@ -8,7 +8,7 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/hammer-quake.json
 layout: dons
 ---
-**Condition** Vous maniez une arme au corps à corps à deux mains qui n'a pas le trait finesse
+**Conditions** Vous maniez une arme au corps à corps à deux mains qui n'a pas le trait finesse
 
 Vous frappez le sol avec votre arme, renversant les créatures proches sur le sol.
 

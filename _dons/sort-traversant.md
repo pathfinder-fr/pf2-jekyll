@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/through-spell.json
 layout: dons
 ---
-Les sort que vous lancez se transforment brièvement en essence vitale, voyageant sans leur faire de mal à travers les créatures vivantes et mort-vivantes entre vous et votre cible, bloqué seulement par des objets solides.
+Les sort que vous lancez se transforment brièvement en essence vitale, voyageant sans leur faire de mal à travers les créatures vivantes et mort-vivantes entre vous et votre cible, bloqués seulement par des objets solides.
 
-Si la prochaine action que vous utilisez est de <a class="entity-link" data-pack="pf2e.actionspf2e" data-id="aBQ8ajvEBByv45yz" draggable="true">Lancer un sort</a> qui nécessite un jet d'attaue de sort, vos cibles ne bénéficient pas d'un abri procuré par des créatures vivantes ou mort-vivantes.
+Si la prochaine action que vous utilisez est de [Lancer un sort](../actions/lancer-un-sort.html) qui nécessite un jet d'attaque de sort, vos cibles ne bénéficient pas d'un abri procuré par des créatures vivantes ou mort-vivantes.

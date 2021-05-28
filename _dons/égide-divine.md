@@ -13,3 +13,5 @@ layout: dons
 Vous invoquez de l'énergie divine pour faire rempart, vous offrant une protection contre les autres traditions mais vous laissant exposé aux effets divins.
 
 Jusqu'au début de votre prochain tour, vous obtenez un bonus de circonstances de +1 aux jets de sauvegarde contre les effets magiques non divins, mais subissez aussi une pénalité de circonstances de –1 aux jets de sauvegarde contre les effets divins.
+
+Effet: Égide divine

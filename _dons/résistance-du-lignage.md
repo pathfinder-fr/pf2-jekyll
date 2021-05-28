@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/bloodline-resistance.json
 layout: dons
 ---
-Votre sang magique vous permet de mieux résister à la magie. Vous bénéficiez d’un bonus de statut de +1 à vos jets de sauvegarde contre les sorts et les effets magiques
+Votre sang magique vous permet de mieux résister à la magie. Vous bénéficiez d’un bonus de statut de +1 à vos jets de sauvegarde contre les sorts et les effets magiques.

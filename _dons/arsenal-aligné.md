@@ -14,4 +14,12 @@ Vous harmonisez une arme pour l’accorder aux préceptes de votre divinité. Qu
 
 Quand vous effectuez cette action, vous touchez une arme. Pendant un round, cette arme inflige 1d6 dégâts supplémentaires du type choisi aux créatures à l’alignement opposé. Par exemple, si vous choisissez l’alignement bon, l’arme inflige 1d6 dégâts bons supplémentaires aux créatures d’alignement mauvais. Si vous utilisez de nouveau Arsenal aligné, toute arme précédemment alignée n’inflige plus ces dégâts supplémentaires
 
+Effet: Arsenal aligné (Chaotique)
+
+Effet: Arsenal aligné (Mal)
+
+Effet: Arsenal aligné (Bon)
+
+Effet: Arsenal aligné (Loyal)
+
 **Spécial** Vous pouvez sélectionner ce don une deuxième fois, en choisissant l’autre composant de l’alignement de votre divinité. Quand vous utilisez Arsenal aligné, vous pouvez choisir l’un ou l’autre des composants d’alignement.

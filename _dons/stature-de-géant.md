@@ -11,3 +11,5 @@ layout: dons
 **Conditions** Vous êtes de taille Moyenne ou inférieure.
 
 Vous grandissez de façon incroyable. Vous devenez Grand, agrandissez votre allonge de 1,50 m et gagnez l’état Maladroit 1 jusqu’à ce que votre Rage prenne fin. Votre équipement grandit avec vous.
+
+Effet: Stature de géant

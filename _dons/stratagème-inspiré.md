@@ -8,10 +8,10 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/inspired-stratagem.json
 layout: dons
 ---
-**Déclencheur** Un des alliés requis est en train de tenter un jet d'attaque ou un test de compétence.
+**Déclencheur** Un des alliés requis va tenter un jet d'attaque ou un test de compétence.
 
-**Conditions** Vous passez 10 minutes au cours de vos préparatifs quotidiens à réviser des stratagèmes avec quatre alliés au maximum.
+**Conditions** Vous avez passé 10 minutes au cours de vos préparatifs quotidiens à réviser des stratagèmes avec quatre alliés au maximum pour la journée d'aventure.
 
-Vous conseillez rapidement votre allié, en utilisant votre précédente planification pour être certain que la chance ne puisse venir jeter un grain de sable inattendu dans vos prévisions.
+Vous conseillez rapidement votre allié, en utilisant le stratagème que vous avez planifié pour être certain que la chance ne puisse venir jeter un grain de sable inattendu dans vos prévisions.
 
 L'allié lance le test déclencheur deux fois et garde le meilleur des deux résultats. Cet allié devient temporairement immunisé à votre Stratagème inspiré jusqu'à vos prochains préparatifs quotidiens.

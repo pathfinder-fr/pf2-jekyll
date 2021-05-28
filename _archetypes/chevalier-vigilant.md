@@ -16,7 +16,7 @@ Prenant leur direction d'histoires héroïques de la Croisade étincelante, Les 
 
 Les archétypes suivants sont peu courants mais ils sont accessibles aux membres des Chevaliers de Dernier Rempart. Les personnages qui disposent de l'archétype de Sentinelle de Dernier Rempart peuvent choisir un de ces dons de dévouement même sans avoir obtenu trois dons de l'archétype de Sentinelle de Dernier-Rempart et chacun des dons de cet archétype sert à remplir la condition spéciale du don de [Dévouement de Sentinelle de Dernier-Rempart](../dons/dévouement-de-sentinelle-de-dernier-rempart.html) même s'il ne s'agit pas de ceux de l'archétype de Sentinelle de Dernier-Rempart.
 
-## [Dévouement de Chevalier vigilant](../dons/chevalier-vigilant.html) Don 6
+## [Dévouement de Chevalier vigilant](../dons/dévouement-de-chevalier-vigilant.html) Don 6
 
 **Prérequis** qualifié en Religion, tout alignement bon, membre des Chevaliers de Dernier-Rempart au rang de Chevalier
 

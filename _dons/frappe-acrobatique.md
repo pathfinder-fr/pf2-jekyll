@@ -8,7 +8,7 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/tumbling-strike.json
 layout: dons
 ---
-**Condition** Vous êtes adjacent à un ennemi.
+**Conditions** Vous êtes adjacent à un ennemi.
 
 Faites un test d'Acrobaties contre le DD de Réflexes d'un ennemi qui vous est adjacent.
 

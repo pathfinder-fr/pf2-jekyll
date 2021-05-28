@@ -8,6 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/castigating-weapon.json
 layout: dons
 ---
-**Prérequis** [Punition sacrée](punition-sacrée.html)
-
-La force punitive de votre divinité renforce votre corps pour que vous puissiez abattre les créatures malfaisantes. Après avoir blessé un fiélon avec une guérison, vos Frappes avec une arme ou à mains nues infligent aux fiélons, jusqu’à la fin de votre prochain tour, un montant de dégâts bons supplémentaires égal à la moitié du niveau de la guérison. Ces dégâts se cumulent avec les éventuels dégâts bons que l’arme inflige déjà (avec une rune sainte, par exemple).
+La force punitive de votre divinité renforce votre corps pour que vous puissiez abattre les créatures malfaisantes. Après avoir blessé un fiélon avec Guérison, vos Frappes avec une arme ou à mains nues infligent aux fiélons, jusqu’à la fin de votre prochain tour, un montant de dégâts bons supplémentaires égal à la moitié du niveau de Guérison. Ces dégâts se cumulent avec les éventuels dégâts bons que l’arme inflige déjà (avec une rune sainte, par exemple).
