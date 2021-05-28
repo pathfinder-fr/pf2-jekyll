@@ -8,6 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/deadly-poison-weapon.json
 layout: dons
 ---
-**Prérequis** @Compendium[pf2e.feats-srd.9Eufa07qvXG41QmG]{Arme empoisonnée améliorée  
-
-La puissance de vos poisons est dévastatrice. Lorsque vous appliquez un poison simple avec Arme empoisonnée, le poison inflige 4d4 dégâts de poison au lieu de 1d4 dégâts de poison. Lorsque vous appliquez un poison de blessure sur votre arme, le DD pour résister à ce poison augmente de 2, avec un maximum égal à votre DD de classe.
+La puissance de vos poisons est dévastatrice. Lorsque vous appliquez un poison simple avec Arme empoisonnée, le poison inflige [[/r 4d4 #poison]] dégâts de poison au lieu de [[/r 1d4 #poison]] dégâts de poison. Lorsque vous appliquez un poison de blessure sur votre arme, le DD pour résister à ce poison augmente de 2, avec un maximum égal à votre DD de classe.

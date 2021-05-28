@@ -8,8 +8,8 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/soulsight-sorcerer.json
 layout: dons
 ---
-L'essence spirituelle dans votre sang a ouvert vos sens au monde de l'au-delà. Vous obtenez sens spirituel comme un sens imprécis avec une portée de 18 m.
+L'essence spirituelle dans votre sang a ouvert vos sens au monde de l'au-delà. Vous obtenez Sens spirituel comme un sens imprécis avec une portée de 18 m.
 
 Sens spirituel vous permet de sentir les esprits des créatures, incluant les créatures vivantes, la plupart des morts-vivants intelligents et les apparitions dans la portée indiquée. Comme avec votre ouïe et les autres sens imprécis, vous avez toujours besoin de [Chercher](../actions/chercher.html) pour localiser une créature Non détectée.
 
-Comme sens spirituel détecte l'essence spirituelle et pas les corps physiques, elle peut détecter les esprits projetés par des sorts tels que [Projection d'image](../sorts/projection-d-image.html) ou les objets sans âmes possédés. Il ne peut détecter les corps sans âme, les créatures artificielles ou les objets et comme la plupart des sens, il ne peut passer à travers les objets solides.
+Comme Sens spirituel détecte l'essence spirituelle et pas les corps physiques, il peut détecter les esprits projetés par des sorts tels que [Projection d'image](../sorts/projection-d-image.html) ou les objets sans âmes possédés. Il ne peut détecter les corps sans âme, les créatures artificielles ou les objets et comme la plupart des sens, il ne peut passer à travers les objets solides.

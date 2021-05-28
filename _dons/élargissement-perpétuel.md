@@ -12,4 +12,4 @@ Vous avez étendu votre approvisonnement d'objets quasiment à l'infini.
 
 Choisissez un Domaine de recherche. Ajoutez un objet de la liste des options disponibles pour ce domaine de recherche issu d'infusions perpétuelles ou deux objets si vous choisissez votre propre domaine.
 
-Si vous possédez [Puissance perpétuelle](../capacité-classe/efficacité-perpétuelle-toxicologiste.html) ou [Perfection perpétuelle](../capacité-classe/perfection-perpétuelle-toxicologiste.html), vous obtenez un objet supplémentaire (ou objets si vous choisissez votre propre domaine) approprié pour le domaine que vous avez choisi, par exemple une version de plus haut niveau de la  bombe que vous avez choisi ou un nouveau poison.
+Si vous possédez [Puissance perpétuelle](../capacité-classe/efficacité-perpétuelle-toxicologiste.html) ou [Perfection perpétuelle](../capacité-classe/perfection-perpétuelle-toxicologiste.html), vous obtenez un objet supplémentaire (ou objets si vous choisissez votre propre domaine) approprié pour le domaine que vous avez choisi, par exemple une version de plus haut niveau de la bombe que vous avez choisi ou un nouveau poison.

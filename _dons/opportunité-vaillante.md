@@ -12,4 +12,4 @@ layout: dons
 
 **Conditions** Vous êtes affecté par [Inspiration vaillante](../sorts/inspiration-vaillante.html).
 
-Vous beuglez un appel aux armes féroce, vous donnant l'inspiration pour vous lâcher contre un adversaire. Faites une Frappe au corps-à-corps contre la créature déclencheuse. Si l'attaque est un coup critique et que le déclencheur était une action de manipulation, l'action est interrompue.
+Vous beuglez un appel aux armes féroce, vous donnant l'inspiration pour vous défouler contre un adversaire. Faites une Frappe au corps-à-corps contre la créature déclencheuse. Si l'attaque est un coup critique et que le déclencheur était une action de manipulation, l'action est interrompue.

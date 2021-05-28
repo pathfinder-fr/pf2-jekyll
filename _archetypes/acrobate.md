@@ -54,7 +54,7 @@ Vous pouvez faire un test d'Acrobaties au lieu d'un test d'Athlétisme lorsque v
 
 **Prérequis** Dévouement d'acrobate
 
-**Condition** Vous êtes adjacent à un ennemi
+**Conditions** Vous êtes adjacent à un ennemi
 
 Faites un test d'Acrobaties contre le DD de Réflexes d'un ennemi qui vous est adjacent.
 

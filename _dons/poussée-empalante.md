@@ -8,7 +8,7 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/impaling-thrust.json
 layout: dons
 ---
-**Condition** Vous maniez une arme de mêlée qui inflige des dégâts perforants.
+**Conditions** Vous maniez une arme de mêlée qui inflige des dégâts perforants.
 
 Vous empalez votre ennemi et le maintenez en position avec votre arme.
 

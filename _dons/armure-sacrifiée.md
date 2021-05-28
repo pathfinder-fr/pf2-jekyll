@@ -10,4 +10,4 @@ layout: dons
 ---
 **Déclencheur** Vous êtes touché par une [Frappe](../actions/frapper.html) qui inflige des dégâts physiques.
 
-Grâce à une sensibilité divine, vous déplacez votre corps pour amoindrir l'impact d'une attaque. Réduisez les dégâts que vous subissez d'un montant égal à deux fois votre niveau d'armure. Votre armure devient [Brisée](../conditions/brisé.html), réduisant ses Points de vie au niveau de son Seuil de rupture. Si votre armure était déjà endommagée, elle est détruite à la place.
+Grâce à une prémonition divine, vous déplacez votre corps pour amoindrir l'impact d'une attaque. Réduisez les dégâts que vous subissez d'un montant égal à deux fois le niveau de votre armure. Votre armure devient [Brisée](../conditions/brisé.html), réduisant ses Points de vie au niveau de son Seuil de rupture. Si votre armure était déjà endommagée, elle est détruite à la place.

@@ -1098,7 +1098,7 @@ targe-étincelante:
     
     **Déclencheur** Vous feintez;
     
-    **Condition** Vous avez levé votre targe étincelante;
+    **Conditions** Vous avez levé votre targe étincelante;
     
     **Effet** Lorsque vous feintez, la targe étincelante scintille puissamment. En cas de succès de la Feinte, la cible est éblouie pendant 1 round.
     

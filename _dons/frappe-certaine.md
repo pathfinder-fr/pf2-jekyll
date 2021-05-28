@@ -10,4 +10,4 @@ layout: dons
 ---
 Lorsque vous ne touchez pas franchement votre cible, vous parvenez quand même à infliger des dégâts superficiels. Effectuez une Frappe au corps à corps. Elle obtient l’effet d’échec suivant.
 
-<stong>Échec</stong> Votre attaque inflige les dégâts qu’elle devrait normalement infliger en cas de succès, en enlevant tous les dés de dégâts (vous retirez ainsi les dés de dégâts conférés par les runes d’arme, les sorts, les pouvoirs spéciaux, en plus des dés de dégâts d’arme).
+**Échec** Votre attaque inflige les dégâts qu’elle devrait normalement infliger en cas de succès, en enlevant tous les dés de dégâts (vous retirez ainsi les dés de dégâts conférés par les runes d’arme, les sorts, les pouvoirs spéciaux en plus des dés de dégâts d’arme).

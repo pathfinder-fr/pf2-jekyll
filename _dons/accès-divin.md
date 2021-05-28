@@ -8,7 +8,7 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/divine-access.json
 layout: dons
 ---
-Votre faculté à puiser dans la magie divine surpasse les sorts qui vous sont traditionnellement accessible (la liste des sorts divins).
+Votre faculté à puiser dans la magie divine surpasse les sorts qui vous sont traditionnellement accessibles (la liste des sorts divins).
 
 Choisissez une divinité qui accorde un des domaines correspondant à votre mystère. Ajoutez jusqu'à trois sorts de prêtre de votre choix accordés par cette divinité à votre liste de sorts. Vous pouvez choisir parmi ces sorts lorsque vous ajoutez ou modifiez des sorts dans votre répertoire de sorts.
 

@@ -8,6 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/wind-jump.json
 layout: dons
 ---
-**Prérequis** sorts ki
-
-Vous invoquez le vent pour qu’il vous soulève et que vous puissiez prendre votre envol en sautant. Vous obtenez le sort ki saut du vent (page 397). Augmentez de 1 le nombre de points de focalisation de votre réserve.
+Vous invoquez le vent pour qu’il vous soulève et que vous puissiez prendre votre envol en sautant. Vous obtenez le sort ki [Saut du vent](../sorts/saut-du-vent.html). Augmentez de 1 le nombre de points de focalisation de votre réserve.

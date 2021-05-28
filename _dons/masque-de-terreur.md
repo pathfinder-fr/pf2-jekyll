@@ -10,7 +10,7 @@ layout: dons
 ---
 **Déclencheur** Vous débutez votre tour avec la condition [Effrayé](../conditions/effrayé.html).
 
-**Condition** vous portez votre masque de guerre.
+**Conditions** vous portez votre masque de guerre.
 
 Votre masque de guerre brûle sur votre visage, consumant votre appréhension. Vous ôtez la condition Effrayé. Votre masque de guerre est détruit et vous ne pouvez le réappliquer jusqu'à votre prochains préparatifs quotidiens.
 

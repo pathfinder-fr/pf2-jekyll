@@ -46,7 +46,7 @@ Vous balancez votre arme sur votre adversaire en le repoussant. Vous tentez de [
 
 **Prérequis** Dévouement de Cogneur
 
-**Condition** Vous maniez une arme au corps à corps à deux mains qui n'a pas le trait finesse
+**Conditions** Vous maniez une arme au corps à corps à deux mains qui n'a pas le trait finesse
 
 Vous frappez le sol avec votre arme, renversant les créatures proches sur le sol.
 

@@ -8,6 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/pristine-weapon.json
 layout: dons
 ---
-**Prérequis** [Arme verdoyante](arme-verdoyante.html)
-
-Votre arme verdoyante peut passer les résistances des créatures magiques. L'arme est considérée comme en fer froid et en argent. Si voous obtenez un succès critique pour toucher une créature qui a une faiblesse au fer froid ou à l'argent, la cible subit [[/r 1d6 #saignement persistant]] dégâts de saignement persistants lorsque les énergies primordiales contenues dans votre arme ralentissent sa guérison naturelle.
+Votre arme verdoyante peut passer les résistances des créatures magiques. L'arme est considérée comme en fer froid et en argent. Si vous obtenez un succès critique pour toucher une créature qui a une faiblesse au fer froid ou à l'argent, la cible subit [[/r 1d6 #saignement persistant]] dégâts de saignement persistants lorsque les énergies primordiales contenues dans votre arme ralentissent sa guérison naturelle.

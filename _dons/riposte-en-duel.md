@@ -12,4 +12,4 @@ layout: dons
 
 **Conditions** Vous bénéficiez des avantages de Parade en duel.
 
-Vous ripostez contre la créature qui a échoué. Effectuez une Frappe au corps à corps ou tenter de Désarmer la créature à l’origine du déclenchement.
+Vous ripostez contre la créature qui a échoué. Effectuez une Frappe au corps à corps ou tenter de [Désarmer](../actions/désarmer.html) la créature à l’origine du déclenchement.

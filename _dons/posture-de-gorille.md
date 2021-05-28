@@ -10,7 +10,7 @@ layout: dons
 ---
 Vous vous baissez jusqu'à toucher le sol et prenez une posture imposante en marchant sur vos poignets.
 
-Lorque vous êtes dans cette posture, Les seules Frappes que vous pouvez porter sont des attaques à mains nues de coups du gorille. Elles infligent <a class="inline-roll roll" data-mode="roll" data-flavor="contondants" data-formula="1d8" title="contondants"><i class="fas fa-dice-d20"></i>1d8</a> dégâts contondants; elles sont dans le groupe pugilat et possèdent les traits à mains nues, prise d'élan, percutant, saisir et non-létal.
+Lorque vous êtes dans cette posture, Les seules Frappes que vous pouvez porter sont des attaques à mains nues de coups du gorille. Elles infligent 1d8 dégâts contondants; elles sont dans le groupe pugilat et possèdent les traits à mains nues, prise d'élan, percutant, saisir et non-létal.
 
 Lorsque vous êtes dans la Posture du gorille, vous obtenez un bonus de circonstances de +2 aux tests d'Athlétisme pour [Grimper](../actions/escalader.html) et si vous obtenez une réussite sur un test d'Athlétisme pour Grimper, vous obtenez une réussite critique à la place.
 

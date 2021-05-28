@@ -10,4 +10,6 @@ layout: dons
 ---
 Votre présence telle une incarnation maléfique rend vos adversaires plus susceptibles à la peur et il leur est presque impossible de récupérer de leur peur lorsque vous êtes à proximité.
 
-Les adversaires dans les 4,5 mètres de vous, subissent une pénalité de circonstance de -1 à leurs jets de protection contre la peur. En plus, un ennemi qui termine son tour dans les 4,5 mètres de vous ne peut réduire la valeur de sa condition [Effrayé](../conditions/effrayé.html) en dessous de 1.
+Les adversaires dans les 4,5 mètres de vous, subissent une pénalité de circonstances de -1 à leurs jets de sauvegarde contre la peur. En plus, un ennemi qui termine son tour dans les 4,5 mètres de vous ne peut réduire la valeur de sa condition [Effrayé](../conditions/effrayé.html) en dessous de 1.
+
+Effet: Aura de Désespoir

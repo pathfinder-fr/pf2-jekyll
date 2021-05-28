@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/halcyon-speaker-dedication.json
 layout: dons
 ---
-Vous consacrez une grande part de vos études à la magie paisible. Vous obtenez l'accès à deux tours de magie communs paisibles et à deux sorts paisibles de niveau 1. En plus d'être capable de lancer vos sorts paisibles par le biais de vos emplacements de sorts arcaniques ou primordiaux, vous obtenez un emplacement de sort paisible de niveau 1. Vous pouvez utiliser vos emplacement de sorts paisibles pour lancer de manière spontanée vos sorts paisibles.
+Vous consacrez une grande part de vos études à la magie paisible. Vous obtenez l'accès à deux tours de magie courants paisibles et à deux sorts paisibles de niveau 1. En plus d'être capable de lancer vos sorts paisibles par le biais de vos emplacements de sorts arcaniques ou primordiaux, vous obtenez un emplacement de sort paisible de niveau 1. Vous pouvez utiliser vos emplacements de sorts paisibles pour lancer de manière spontanée vos sorts paisibles.
 
 **Spécial** Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype d'orateur paisible.

@@ -9,3 +9,5 @@ urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/pack
 layout: dons
 ---
 Vous prenez une posture qui vous permet de lancer des [Shuriken](../équipements/shuriken.html) avec la rapidité de l'éclair. Dans cette posture, vous pouvez utiliser vos dons de moine ou capacités de moine qui nécessitent normalement des attaques à mains nues avec les shuriken à la place.
+
+Posture: Posture des étoiles lancées

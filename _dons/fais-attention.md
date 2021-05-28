@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/watch-your-back.json
 layout: dons
 ---
-Vous menacez la cible, utilisant leur crainte et attirant leur attention.
+Vous menacez la cible, utilisant sa crainte et attirant son attention.
 
-Faites un test d'Intimidation contre le DD de Volonté d'une cible à 9 m. Si vous réussissez, pendant 1 minute, cette cible obtient un bonus de statut de +2 aux tests de Perception contre vous, mais elle subit une pénalité de statut de –2 aux jets de Volonté contre less effets de peur.
+Faites un test d'Intimidation contre le DD de Volonté d'une cible à 9 m. Si vous réussissez, pendant 1 minute, cette cible obtient un bonus de statut de +2 aux tests de Perception contre vous, mais elle subit une pénalité de statut de –2 aux jets de Volonté contre les effets de peur.

@@ -8,6 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/far-shot.json
 layout: dons
 ---
-Votre expérience sur le terrain vous a appris à vous concentrer sur votre visée pour améliorer votre précision lorsque vous tirez à longue distance.
-
-Doublez les facteurs de portée de votre arme.
+Votre expérience sur le terrain vous a appris à vous concentrer sur votre visée pour améliorer votre précision lorsque vous tirez à longue distance. Doublez les facteurs de portée de votre arme.

@@ -12,4 +12,4 @@ layout: dons
 
 **déclencheur** Un allié que vous pouvez voir passe à 0 Points de vie.
 
-Lorsqu'un allié que vous pouvez voir tombe au combat, votre réponse au combat ou au vol déclenche un déferlement du pouvoir de votre divinité en vous. Vous regagnez instantanément 1 Point de focalisation.
+Lorsqu'un allié que vous pouvez voir tombe au combat, cela provoque un déferlement du pouvoir de votre divinité en vous. Vous regagnez instantanément 1 Point de focalisation.

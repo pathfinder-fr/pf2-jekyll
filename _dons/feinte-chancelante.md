@@ -12,4 +12,4 @@ layout: dons
 
 Vous déchainez de manière déroutante ce qui ressemble à un mouvement faible mais à la place autorisez à déchainer un déluge de coups dangereux sur votre ennemi qui ne se doute de rien.
 
-Lorsque vous utilisez [Déluge de coups](../actions/déluge-de-coups.html), vous pouvez tenter un test pour [Feinter](../actions/feinter.html) en tant qu'action libre, juste avant la première [Frappe](../actions/frapper.html). En cas de succès, au lieu de rendre la cible [Prise au dépourvue](../conditions/pris-au-dépourvu.html) contre votre prochaine attaque, elle le devient contre les deux attaques du Déluge de coups.
+Lorsque vous utilisez [Déluge de coups](../actions/déluge-de-coups.html), vous pouvez tenter un test pour [Feinter](../actions/feinter.html) en tant qu'action libre, juste avant la première [Frappe](../actions/frapper.html). En cas de succès, au lieu de rendre la cible [Prise au dépourvu](../conditions/pris-au-dépourvu.html) contre votre prochaine attaque, elle le devient contre les deux attaques du Déluge de coups.

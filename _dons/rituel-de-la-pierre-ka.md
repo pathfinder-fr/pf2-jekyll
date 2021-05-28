@@ -12,7 +12,7 @@ Vous inscrivez votre véritable nom sur votre pierre de ka, ainsi que des sermen
 
 La pierre de ka vous donne un bonus d’objet de +1 aux jets de sauvegarde contre les effets de mort et les effets négatifs. Ce bonus passe à +2 au niveau 8, +3 au niveau 14 et +4 au niveau 20. 
 
-**Activation** <span style="font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;">2(imaginer) ou un autre type d’activation s’il a été spécifié
+**Activation** <span class="pf2-icon">2 (imaginer) ou un autre type d’activation s’il a été spécifié
 
 **Fréquence** chaque jour, un nombre de fois égal au nombre de dons que vous possédez grâce à l’archétype de monolithe vivant
 

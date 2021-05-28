@@ -10,6 +10,6 @@ layout: dons
 ---
 Vous pouvez préparer deux sorts dans un emplacement, vous donnant la liberté de choisir le sort lorsque vous le lancez.
 
-Lorsque vous préparer vos sorts de la journée, vous pouvez choisir un emplacement de sort d'un niveau de moins que le plus haut niveau de sort que vous pouvez lancer et préparer deux sorts dans cet emplacement.
+Lorsque vous préparez vos sorts de la journée, vous pouvez choisir un emplacement de sort d'un niveau de moins que le plus haut niveau de sort que vous pouvez lancer et préparer deux sorts dans cet emplacement.
 
-Lorsquee vous [Lancez un sort](../actions/lancer-un-sort.html) de cet emplacement, choisissez lequel vous lancez. Une fois choisi le sort inutilisé se dissipe comme si vous ne l'aviez jamais préparé du tout — par exemple, il n'est plus disponible pour être utilisé avec [Drain d'objet lié](../actions/drain-d-objet-lié.html).
+Lorsque vous [Lancez un sort](../actions/lancer-un-sort.html) à partir de cet emplacement, choisissez lequel des deux vous lancez. Une fois choisi le sort inutilisé se dissipe comme si vous ne l'aviez jamais préparé du tout — par exemple, il n'est plus disponible pour être utilisé avec [Drain d'objet lié](../actions/drain-d-objet-lié.html).

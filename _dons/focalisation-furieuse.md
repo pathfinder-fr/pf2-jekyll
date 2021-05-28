@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/furious-focus.json
 layout: dons
 ---
-Vous avez appris à garder votre équilibre, même quand vous frappez avec acharnement. Quand vous faites une Attaque en puissance avec une arme de corps à corps que vous maniez à deux mains, elle compte comme une attaque au lieu de deux dans le calcul de votre malus d’attaques multiples.
+Vous avez appris à garder votre équilibre, même quand vous frappez avec acharnement. Quand vous faites une [Attaque en puissance](attaque-en-puissance.html) avec une arme de corps à corps que vous maniez à deux mains, elle compte comme une attaque au lieu de deux dans le calcul de votre malus d’attaques multiples.

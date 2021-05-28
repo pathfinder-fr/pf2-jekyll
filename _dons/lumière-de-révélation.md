@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/light-of-revelation.json
 layout: dons
 ---
-Vous avez appris à faire appel à la lumière pour vous révéler ce qui est caché. Vous obtenez le sort de dévotion [lumière de révélation](../sorts/lumière-de-révélation.html). Augmentez de 1 le nombre de points de focalisation de votre réserve de focalisation.
+Vous avez appris à faire appel à la lumière pour vous révéler ce qui est caché. Vous obtenez le sort de dévotion [Lumière de révélation](../sorts/lumière-de-révélation.html). Augmentez de 1 le nombre de points de focalisation de votre réserve de focalisation.

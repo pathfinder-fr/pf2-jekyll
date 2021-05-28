@@ -10,8 +10,8 @@ layout: dons
 ---
 **Fréquence** une fois par heure
 
-**Déclencheur** Un adversaire entreprend contre vous une action hostile au cour d'un combat.
+**Déclencheur** Un adversaire entreprend contre vous une action hostile au cours d'un combat.
 
 Quelques fois quelqu'un s'introduit dans votre affaire de manière inattendue, comme une embuscade envoyée pour pouvoir mettre un terme à votre enquête. Vous avez appris à compartimenter votre piste principale et à en suivre une nouvelle pendant la situation délicate actuelle.
 
-Vous <a class="entity-link" data-pack="pf2e.actionspf2e" data-id="xTK2zsWFyxSJvYbX" draggable="true"> Suivez une piste</a> contre l'ennemi déclencheur, mettant de côté sans la terminer une de vos pistes alors actives, si vous avez deux pistes. À la fin de ce combat, vous arrêtez de Suivre la piste contre l'ennemi déclencheur pour reprendre la piste originelle, si vous en aviez une.
+Vous [Suivez une piste](../actions/suivre-une-piste.html) contre l'ennemi déclencheur, mettant de côté sans la terminer une de vos pistes alors actives, si vous avez deux pistes. À la fin de ce combat, vous arrêtez de Suivre la piste contre l'ennemi déclencheur pour reprendre la piste originelle, si vous en aviez une.

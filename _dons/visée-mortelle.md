@@ -8,4 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/deadly-aim.json
 layout: dons
 ---
-Vous visez les points faibles de votre proie, ce qui augmente la difficulté du tir mais permet d’infliger plus de dégâts en cas de coup au but. Faites une Frappe à distance contre votre proie avec un malus de −2. Vous bénéficiez d’un bonus de circonstances de +4 aux dégâts de cette Frappe. Ce bonus passe à +6 au niveau 11 et à +8 au niveau 15.
+Vous visez les points faibles de votre proie, ce qui augmente la difficulté du tir mais permet d’infliger plus de dégâts en cas de coup au but.
+
+Faites une Frappe à distance contre votre proie avec un malus de −2. Vous bénéficiez d’un bonus de circonstances de +4 aux dégâts de cette Frappe. Ce bonus passe à +6 au niveau 11 et à +8 au niveau 15.

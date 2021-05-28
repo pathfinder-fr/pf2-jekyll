@@ -12,12 +12,12 @@ layout: dons
 
 Vous considérez avec soin votre affaire et éliminez certains des détails. Lorsque vous [Suivez une piste](../actions/suivre-une-piste.html), vous pouvez passer 10 minutes au lieu d'une minute pour poser deux questions au MJ lorsque vous terminez cette activité.
 
-Le MJ doit répondre loyalement par “oui” ou “non” mais si la réponse devrait être une fausse piste ou n'aurait pas d'application pratique pour votre enquête, le MJ peut répondre “immatériel.” Vous ne pouvez pas utiliser *Quiafaitçà ?* plus d'une fois pour la même piste, même au sur plusieurs jours différents.
+Le MJ doit répondre loyalement par “oui” ou “non” mais si la réponse devrait être une fausse piste ou n'aurait pas d'application pratique pour votre enquête, le MJ peut répondre “immatériel.” Vous ne pouvez pas utiliser *Quiafaitçà ?* plus d'une fois pour la même piste, même au cours de plusieurs jours différents.
 
 Vos questions doivent provenir de la liste suivante, en l'appliquant soit à la créature, soit à l'indice que vous avez découvert :
 
-- L'indice a t'il été laissé par un [trait de créature]? (Choisissez un trait de créature tel que humanoïde, mort-vivant ou nain ; ce trait doit être exact au moment où l'indice a été laissé.)
-- Cet indice a t'il été laissé au cours de la dernière heure ?
-- Cet indice a t'il été laissé au cours de la dernière journée ?
-- La créature qui a laissé cet indice était elle dans un été émotionnel intense lorsque l'indice a été laissé ?
-- La créature a t'elle tenté de cacher cet indice ?
+- L'indice a-t-il été laissé par un [trait de créature] ? (Choisissez un trait de créature tel que humanoïde, mort-vivant ou nain ; ce trait doit être exact au moment où l'indice a été laissé.)
+- Cet indice a-t-il été laissé au cours de la dernière heure ?
+- Cet indice a-t-il été laissé au cours de la dernière journée ?
+- La créature qui a laissé cet indice était-t-elle dans un été émotionnel intense lorsque l'indice a été laissé ?
+- La créature a-t-elle tenté de cacher cet indice ?

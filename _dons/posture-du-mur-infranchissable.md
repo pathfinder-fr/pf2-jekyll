@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/impassable-wall-stance.json
 layout: dons
 ---
-Vous refusez de laisser des adversaires passer votre position. Tant que vous êtes dans cette posture, lorsque vous obtenez une réussite critique avec une Attaque d'opportunité déclenchée par une action de déplacement, vous interrompez cette action.
+Vous refusez de laisser des adversaires passer votre position. Tant que vous êtes dans cette posture, lorsque vous obtenez une réussite critique avec une [Attaque d'opportunité](attaque-d'opportunité-guerrier.html) déclenchée par une action de déplacement, vous interrompez cette action.

@@ -10,7 +10,7 @@ layout: dons
 ---
 **Déclencheur** Vous réussissez un test pour Démoraliser.
 
-**Condition** Vous portez votre *masque de guerre*.
+**Conditions** Vous portez votre *masque de guerre*.
 
 Votre masque a évolué en une manifestation de votre douleur, que vous pouvez déchainer.
 

@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/resilient-touch.json
 layout: dons
 ---
-**Prérequis** sort de dévotion (Imposition des mains)
+Vos énergies curatives créent une aura de protection qui protège vos alliés contre bien davantage que les lames et les flêches.
 
-Vos énergies curatrices créent une aura de protection qui défend vos alliés contre davantage que les lames et les flêches. Un allié qui récupère des Points de vie de votre <a class="entity-link" data-pack="pf2e.spells-srd" data-id="zNN9212H2FGfM7VS" draggable="true">Imposition des mains</a> obtien un bonus de statut de +1 à leurs jets de sauvegarde jusqu'à la fin de leur prochain tour.
+Un allié qui récupère des Points de vie de votre [Imposition des mains](../sorts/imposition-des-mains.html) obtient un bonus de statut de +1 à ses jets de sauvegarde jusqu'à la fin de leur prochain tour.

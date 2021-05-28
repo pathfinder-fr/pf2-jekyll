@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/quick-snares.json
 layout: dons
 ---
-Vous savez comment poser un piège artisanal en un minimum de temps. En effectuant 3 actions Interagir, vous pouvez Fabriquer des pièges artisanaux que l’on Fabrique normalement en une minute, même si vous ne les avez pas préparés au préalable
+Vous savez comment poser un piège artisanal en un minimum de temps. En effectuant 3 actions [Interagir](../actions/interagir.html), vous pouvez [Fabriquer](../actions/fabriquer.html) des pièges artisanaux que l’on Fabrique normalement en une minute, même si vous ne les avez pas préparés au préalable

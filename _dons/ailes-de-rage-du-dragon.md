@@ -8,6 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/dragon-s-rage-wings.json
 layout: dons
 ---
-**Prérequis** Instinct du dragon
-
-Des ailes de dragon de la même couleur que le dragon que vous avez choisi surgissent soudain de votre dos. Tant que vous êtes enragé, vous gagnez une Vitesse de vol égale à votre Vitesse au sol. Si vous êtes en train de voler au moment où votre rage prend fin, vous commencez de chuter, mais la transformation ne prend fin qu’au dernier instant, ce qui vous permet de ne pas subir de dégâts de chute et d’atterrir sur vos pieds.
+Des ailes de dragon de la même couleur que le dragon que vous avez choisi surgissent soudain de votre dos. Tant que vous êtes enragé, vous gagnez une Vitesse de vol égale à votre Vitesse au sol. Si vous êtes en train de voler au moment où votre rage prend fin, vous commencez à chuter mais la transformation ne prend fin qu’au dernier instant, ce qui vous permet de ne pas subir de dégâts de chute et d’atterrir sur vos pieds.

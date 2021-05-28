@@ -10,6 +10,6 @@ layout: dons
 ---
 Vous forgez un lien magique avec une autre créature, vous permettant d'être alerté de la condition de la créature et de créer un conduit pour l'incantation de vos sorts.
 
-Durant vos préparatifs quotidiens, vous pouvez désigner une créature volontaire comme votre fardeau. Vous êtes toujours alerté de la direction dans laquelle il se trouve par rapport à vous, de sa distance et de toute condition qui l'affecte. De plus, vous pouvez lancer des sorts avec une portée de contact sur votre fardeau à une portée de 9 m. Ces effets persistent jusqu'à vos prochains préparatifs quotidiens.
+Durant vos préparatifs quotidiens, vous pouvez désigner une créature volontaire comme votre fardeau. Vous êtes toujours alerté de la direction dans laquelle elle se trouve par rapport à vous, de sa distance et de toute condition qui l'affecte. De plus, vous pouvez lancer des sorts avec une portée de contact sur votre fardeau à une portée de 9 m. Ces effets persistent jusqu'à vos prochains préparatifs quotidiens.
 
 **Spécial** Ce don possède le trait correspondant à la tradition des sorts que vous lancez (arcanique, divin, occulte ou primordial).

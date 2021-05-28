@@ -8,8 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/peafowl-strut.json
 layout: dons
 ---
-**Prérequis** [Posture du paon](posture-du-paon.html)
-
 **Conditions** Vous êtes dans la Posture du paon.
 
 Vous vous déplacez lentement à travers le champ de bataille avec une grace dangereuse. [Faites un pas](../actions/faire-un-pas.html) deux fois et [Frappez](../actions/frapper.html). La Frappe doit être faite avec l'épée requise par la Posture du paon.

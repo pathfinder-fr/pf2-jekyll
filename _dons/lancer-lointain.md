@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/far-throw.json
 layout: dons
 ---
-Lorsque vous [Frappez](../actions/frapper.html) avec une arme de jet, vous subissez seulement une pénalité de –1 pour chaque facteur de portée supplémentaire entre vous et la cible au lieu d'une pénalité de -2.
+Lorsque vous Frappez avec une arme de jet, vous subissez seulement une pénalité de –1 pour chaque facteur de portée supplémentaire entre vous et la cible au lieu d'une pénalité de -2.

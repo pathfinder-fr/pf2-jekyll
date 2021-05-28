@@ -10,4 +10,4 @@ layout: dons
 ---
 **Conditions** Vous maniez une arme de mêlée qui inflige des dégâts contondants
 
-Vous frappez votre ennemi à la tête avec une telle force que ses oreilles sonnent. Faites une <a class="entity-link" data-pack="pf2e.actionspf2e" data-id="VjxZFuUXrCU94MWR" draggable="true"> Frappe</a> de mêlée. Si cette frappe touche et inflige des dégâts, la cible est <a class="entity-link" data-pack="pf2e.conditionitems" data-id="9PR9y0bi4JPKnHPR" draggable="true"><i class="fas fa-book-open"></i> sourde</a> jusqu'au début de votre prochain tour (ou pendant 1 minute sur un coup critique).
+Vous frappez votre ennemi à la tête avec une telle force que ses oreilles bourdonnent. Faites une [Frappe](../actions/frapper.html) au corps-à-corps. Si cette Frappe touche et inflige des dégâts, la cible est [Sourde](../conditions/sourd.html) jusqu'au début de votre prochain tour (ou pendant 1 minute en cas de coup critique).

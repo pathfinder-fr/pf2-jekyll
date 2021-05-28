@@ -8,9 +8,9 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/pinning-fire.json
 layout: dons
 ---
-**Déclencheur** Vous utilisez [Déluge de coups](../actions/déluge-de-coups.html) pour effectuer deux  [Frappes](../actions/frapper.html) à distance avec des armes perforantes contre la même cible.
+**Déclencheur** Vous utilisez [Déluge de coups](../actions/déluge-de-coups.html) pour effectuer deux [Frappes](../actions/frapper.html) à distance avec des armes perforantes contre la même cible.
 
-Vous ciblez les vêtements de votre adversaire, son équipement ou de la chair accessible avec des projectiles perforants pour les clouer au sol ou sur une surface à proximité.
+Vous ciblez les vêtements de votre adversaire, son équipement ou de la chair accessible avec des projectiles perforants pour la clouer au sol ou à une surface à proximité.
 
 Si vos deux attaques touchent, la cible doit réussir un jet de Réflexes contre votre DD de classe ou devenir [Immobilisée](../conditions/immobilisé.html) jusqu'à ce qu'elle ou une créature adjacente réussisse un test d'Athlétisme contre un DD 10 pour retirer les projectiles fichés.
 

@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/extend-elixir.json
 layout: dons
 ---
-La part de votre énergie que vous intégrez dans vos élixirs étend la durée de leurs effets quand vous les buvez. Quand vous consommez l’un de vos objets alchimiques qui possède les traits élixir et imprégné et a une durée supérieure ou égale à 1 min, vous doublez la durée de cet élixir.
+La part de votre énergie que vous intégrez dans vos élixirs étend la durée de leurs effets quand vous les buvez. Quand vous consommez l’un de vos objets alchimiques qui possède les traits élixir et imprégné et a une durée supérieure ou égale à 1 minute, vous doublez la durée de cet élixir.

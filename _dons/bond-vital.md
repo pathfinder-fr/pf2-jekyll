@@ -8,7 +8,7 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/life-leap.json
 layout: dons
 ---
-**Condition** Vous devez être adjacent à une créature vivante.
+**Conditions** Vous devez être adjacent à une créature vivante.
 
 Vous passez au travers de la case qu'une créature vivante occupe, disparaissant dans un flash et apparaissant spontanément du côté opposé d'elle accompagné par une vive explosion de lumière colorée.
 
