@@ -8,10 +8,10 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/felling-shot.json
 layout: dons
 ---
-Vos attaques à distance peuvent faire chuter un adversaire s’il ne s’y attend pas. Vous Frappez une créature prise au dépourvu avec une arme à distance ou une arme de jet. Si la Frappe est un succès et inflige des dégâts, la cible doit faire un jet de Réflexes contre votre DD de classe avec les effets suivants.
+Vos attaques à distance peuvent faire chuter un adversaire s’il ne s’y attend pas. Vous Frappez une créature Prise au dépourvu avec une arme à distance ou une arme de jet. Si la Frappe est un succès et inflige des dégâts, la cible doit faire un jet de Réflexes contre votre DD de classe avec les effets suivants.
  
-**Succès.** La cible n’est pas affectée.
+**Succès** La cible n’est pas affectée.
 
-**Échec.** La cible tombe d’une distance maximale de 36 m. Si elle tombe au sol, elle ne subit pas de dégâts de chute.
+**Échec** La cible tombe d’une distance maximale de 36 m. Si elle tombe au sol, elle ne subit pas de dégâts de chute.
 
-**Échec critique.** Comme pour l’échec, mais la cible ne peut plus voler, sauter, léviter ou quitter le sol d’une autre façon jusqu’à la fin de votre prochain tour.
+**Échec critique** Comme pour l’échec, mais la cible ne peut plus voler, sauter, léviter ou quitter le sol d’une autre façon jusqu’à la fin de votre prochain tour.

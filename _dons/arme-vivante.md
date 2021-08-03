@@ -2,10 +2,10 @@
 # ATTENTION : Ne modifiez pas ce fichier
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Arme vivante
-titleEn: Living Weapon
+titleEn: Living Weapon (Claws)
 id: RRGWLuxi1gq3dU2s
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/RRGWLuxi1gq3dU2s.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/living-weapon.json
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/living-weapon-claws.json
 layout: dons
 ---
 Vous avez appris à utiliser une partie de votre forme comme d'une arme. Lorsque vous choisissez ce don, vous obtenez une attaque à mains nues de votre choix entre :

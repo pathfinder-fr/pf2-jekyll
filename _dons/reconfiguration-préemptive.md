@@ -16,4 +16,4 @@ Votre corps anticipe le coup. La zone d'impact se réorganise en un treillage ti
 
 Vous obtenez une résistance égale à votre niveau pour le type de dégât déclencheur, qui s'applique contre les dégâts déclencheurs.
 
-Si vous avez le don Poussière cristalline, vous pouvez utiliser Reconfiguration préemptive sans dépenser une utilisation de la réaction pour les besoins de calculer la limite d'utilisation du don. Au lieu de cela, l'utilisation est décomptée de votre nombre d'utilisations de Poussière cristalline par jour, comme si vous aviez utilisé ce don à la place.
+Si vous avez le don [Poussière cristalline](poussière-cristalline.html), vous pouvez utiliser Reconfiguration préemptive sans dépenser une utilisation de la réaction pour les besoins de calculer la limite d'utilisation du don. Au lieu de cela, l'utilisation est décomptée de votre nombre d'utilisations de Poussière cristalline par jour, comme si vous aviez utilisé ce don à la place.

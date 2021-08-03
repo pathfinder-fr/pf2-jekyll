@@ -8,10 +8,8 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/denier-of-destruction.json
 layout: dons
 ---
-**Prérequis** source de guérison
-
 **Conditions** Vous avez préparé un sort de [Guérison](../sorts/guérison.html) et vous n'êtes pas [Pris au dépourvu](../conditions/pris-au-dépourvu.html) par rapport à la source des dégâts.
 
 **Déclencheur** Tout allié dans les 9 m que vous pouvez soigner avec votre sort de *Guérison* devrait subir les dégâts d'une attaque ou d'un effet provenant d'une source que vous pouvez observer.
 
-Vous pouvez manipuler les mêmes énergies que l'*orbe d'éternité* utilise pour conserver la vie. Vous lancez *Guérison* sur la cible déclencheuse. À la place de ses effets normaux, le sort de *Guérison* réduit les dégâts déclencheurs par un montant égal aux Points de vie qu'un sort de *Guérison* à 1 action de ce niveau aurait permis de récupérer. Comme d'habitude, si celà réduit les dégâts à 0, cela peut retirer les effets supplémentaires de l'attaque déclencheuse, tels que les poisons de blessure.
+Vous pouvez manipuler les mêmes énergies que l'*orbe d'éternité* utilise pour conserver la vie. Vous Lancez *Guérison* sur la cible déclencheuse. À la place de ses effets normaux, le sort de *Guérison* réduit les dégâts déclencheurs d'un montant égal aux Points de vie qu'un sort de *Guérison* à 1 action de ce niveau aurait permis de récupérer. Comme d'habitude, si celà réduit les dégâts à 0, cela peut retirer les effets supplémentaires de l'attaque déclencheuse, tels que les poisons de blessure.

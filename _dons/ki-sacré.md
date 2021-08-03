@@ -12,7 +12,7 @@ Le pouvoir de votre foi infuse votre ki. Lorsque vous sélectionnez ce don, choi
 
 Lorsque vous lancez le sort de focalisation [Frappe ki](../sorts/frappe-ki.html) et que vous infligez des dégâts à une créature dont l'alignement est opposé à l'alignement choisi, vous pouvez choisir que les dégâts de la Frappe ki soient du type choisi. De plus, vous pouvez substituer les dégâts d'[Explosion ki](explosion-ki.html) (ou d'autres sorts ki qui infligent des dégâts de force, à la discrétion du MJ) par des dégâts de l'alignement choisi.
 
-- [Effet de sort : Frappe ki (Chaotique)](../effet-sorts/.html)
-- [Effet de sort : Frappe ki (Mal)](../effet-sorts/.html)
-- [Effet de sort : Frappe ki (Bien)](../effet-sorts/.html)
-- [Effet de sort : Frappe ki (Loyal)](../effet-sorts/.html)
+- [Effet de sort : Frappe ki (Chaotique)](../effet-sorts/effet-:-frappe-ki-chaotique.html)
+- [Effet de sort : Frappe ki (Mal)](../effet-sorts/effet-:-frappe-ki-mal.html)
+- [Effet de sort : Frappe ki (Bien)](../effet-sorts/effet-:-frappe-ki-bien.html)
+- [Effet de sort : Frappe ki (Loyal)](../effet-sorts/effet-:-frappe-ki-loi.html)

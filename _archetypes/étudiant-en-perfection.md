@@ -39,7 +39,7 @@ Vous gagnez le sort de ki adapté à votre maison de la Perfection :
 
 - [Révélation de la flamme qui ne vacille pas](../sorts/révélation-de-la-flamme-qui-ne-vacille-pas.html) pour la Flamme qui ne vacille pas,
 - [Avancée de la vague qui ne se brise pas](../sorts/avancée-de-la-vague-qui-ne-se-brise-pas.html) pour les Vagues qui ne se brisent pas,
-- [Ruée du vent qui se déploie ](../sorts/ruée-du-vent-qui-see-déploie.html) pour le Vent qui se déploie,
+- [Ruée du vent qui se déploie ](../sorts/ruée-du-vent-qui-se-déploie.html) pour le Vent qui se déploie,
 - [Protection du fer qui ne plie pas](../sorts/protection-du-fer-qui-ne-plie-pas.html) pour le Fer qui ne plie pas
 
 Augmentez de 1 le nombre de points de focalisation de votre réserve.

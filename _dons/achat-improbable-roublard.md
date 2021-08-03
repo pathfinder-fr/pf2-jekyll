@@ -8,10 +8,8 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/implausible-purchase-rogue.json
 layout: dons
 ---
-**Prérequis** <a class="entity-link" data-pack="pf2e.feats-srd" data-id="Yw0qVCDu94Y5TgxQ" draggable="true">Achat intuitif (Roublard)</a>
-
 Même quand c'est impossible, vous disposez exactement de ce dont vous avez besoin.
 
-Vous pouvez utiliser <a class="entity-link" data-pack="pf2e.feats-srd" data-id="bh2jHyyYrkLMsIdX" draggable="true">Planificateur prescient</a> même si vous l'avez déjà utilisé après avoir acheter des biens et vous pouvez <a class="entity-link" data-pack="pf2e.actionspf2e" data-id="pvQ5rY2zrtPI614F" draggable="true">Interagir</a> pour sortir l'objet comme une action unique au lieu d'une activité à 2 actions.
+Vous pouvez utiliser [Planificateur prescient](planificateur-prescient.html) même si vous l'avez déjà utilisé après avoir acheté des biens et vous pouvez [Interagir](../actions/interagir.html) pour sortir l'objet par une action unique au lieu d'une activité à 2 actions.
 
 De plus, cinq fois par jour, vous pouvez utiliser Planificateur prescient pour sortir un consommable courant dont le niveau est inférieur de 6 à votre niveau.

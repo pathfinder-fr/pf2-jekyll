@@ -8,6 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/aura-of-vengeance.json
 layout: dons
 ---
-**Conditions** exalt, Vengeful Oath
-
 Quand vous demandez aux autres d’appliquer des représailles, vous améliorez également la précision de leurs coups. Quand vous utilisez Frappe punitive, vos alliés qui Frappent subissent un malus de −2 seulement, au lieu de −5.

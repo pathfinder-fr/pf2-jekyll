@@ -8,6 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/expand-aura.json
 layout: dons
 ---
-**Prérequis** Vous avez au moins une aura liée à un don ou à une capacité de champion.
-
 Vous concentrez votre pouvoir divin pour étendre votre influence. Choisissez une aura que vous possédez tirée d'un don ou d'une capacité de champion, telle que [Aura de courage](aura-de-courage.html) ou [Aura de vie](aura-de-vie.html). Le rayon de l'aura est doublée jusqu'au début de votre prochain tour.

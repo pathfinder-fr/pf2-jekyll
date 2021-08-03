@@ -8,7 +8,7 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/kreighton-s-cognitive-crossover.json
 layout: dons
 ---
-**Déclencheur** Vous n'avez pas obtenu d'information sur un test pour Vous souvenir (habtuellement parce que vous avez obtenu un échec sur un test secret) en utilisant une des deux compétences que vous avez choisi pour ce don.
+**Déclencheur** Vous n'avez pas obtenu d'information sur un test pour Vous souvenir (habituellement parce que vous avez obtenu un échec sur un test secret) en utilisant une des deux compétences que vous avez choisies pour ce don.
 
 Kreighton enseigne à ses étudiants qu'un esprit agile peut glaner des indices qui mènent à la vérité, même de la plus saugrenue des sources. Vous retentez immédiatement le test déclencheur en utilisant l'autre compétence choisie.
 

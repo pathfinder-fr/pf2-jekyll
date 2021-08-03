@@ -10,4 +10,4 @@ layout: dons
 ---
 Vos ailes sont désormais une partie permanente de votre corps.
 
-Vous obtenez les effets d'Ailes célestes à tout moment, plutôt que juste une fois par jour pendant 10 minutes.
+Vous obtenez les effets d'[Ailes célestes](ailes-célestes.html) à tout moment, plutôt que juste une fois par jour pendant 10 minutes.

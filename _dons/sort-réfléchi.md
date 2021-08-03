@@ -8,8 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/reflect-spell.json
 layout: dons
 ---
-**Prérequis** [Contresort](contresort-sorcière.html)
-
-Lorsque vous réussissez à utiliser Contresort pour conter un sort qui affecte des créatures ciblées ou une zone, vous pouvez renvoyer l'effet de ce sort sur son lanceur.
+Lorsque vous réussissez à utiliser Contresort pour contrer un sort qui affecte des créatures ciblées ou une zone, vous pouvez renvoyer l'effet de ce sort sur son lanceur.
 
 Lorsqu'il est réfléchi, le sort affecte seulement le lanceur originel, même si c'est un sort de zone ou qu'il devrait permettre d'affecter plus d'une créature. Le lanceur originel dispose d'un jet de sauvegarde et utilise d'autres défenses contre le sort réfléchi normalement.

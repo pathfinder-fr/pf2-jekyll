@@ -8,6 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/quivering-palm.json
 layout: dons
 ---
-**Prérequis** sorts ki
-
-Vos Frappes peuvent tuer vos ennemis sur le coup. Vous obtenez le sort ki [paume vibratoire](../sorts/paume-vibratoire.html) (page 396). Augmentez de 1 le nombre de points de focalisation de votre réserve.
+Vos Frappes peuvent tuer vos ennemis sur le coup. Vous obtenez le sort ki [Paume vibratoire](../sorts/paume-vibratoire.html). Augmentez de 1 le nombre de points de focalisation de votre réserve.

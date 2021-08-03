@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/effortless-concentration.json
 layout: dons
 ---
-**Conditions** Vous n’avez pas encore agi à votre tour
+**Conditions** Votre tour commence
 
 Vous maintenez un sort presque sans y penser. Vous bénéficiez immédiatement des effets de l’action [Maintenir un sort](../actions/maintenir-un-sort.html), ce qui vous permet de rallonger la durée de l’un de vos sorts de classe actif.

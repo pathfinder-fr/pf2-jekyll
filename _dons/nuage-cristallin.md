@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/crystalline-cloud.json
 layout: dons
 ---
-Lorsque vous utilisez Poussière cristalline, vous pouvez dépenser une action supplémentaire pour disperser les particules dans un nuage de 3 m de rayon centré sur vous au lieu d'une brume ; l'activité obtient le trait concentration. Toutes les créatures dans le nuage deviennent Masquées et toutes les créatures à l'extérieur du nuage deviennent masquées pour celles qui se trouvent en son sein.
+Lorsque vous utilisez [Poussière cristalline](poussière-cristalline.html), vous pouvez dépenser une action supplémentaire pour disperser les particules dans un nuage de 3 m de rayon centré sur vous au lieu d'une brume ; l'activité obtient le trait concentration. Toutes les créatures dans le nuage deviennent Masquées et toutes les créatures à l'extérieur du nuage deviennent masquées pour celles qui se trouvent en son sein.

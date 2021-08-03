@@ -8,8 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/impossible-snares.json
 layout: dons
 ---
-**Prérequis** [Profusion de pièges artisanaux](profusion-de-pièges-artisanaux.html)
-
 Vous pouvez créer sans fin des pièges artisanaux à courte durée de vie, protégeant votre antre ou les utilisant contre des adversaires.
 
-Une fois par minute, Vous pouvez [Fabriquer](../actions/fabriquer.html) un des pièges artisanaux que vous avez préparer pour le déployer rapidement sans dépenser le piège artisanal préparé. Une fois déployé, un tel piège artisanala dure pendant 10 minutes avant de perdre son efficacité.
+Une fois par minute, Vous pouvez [Fabriquer](../actions/fabriquer.html) un des pièges artisanaux que vous avez préparé pour le déployer rapidement sans dépenser le piège artisanal préparé. Une fois déployé, un tel piège artisanal dure pendant 10 minutes avant de perdre son efficacité.

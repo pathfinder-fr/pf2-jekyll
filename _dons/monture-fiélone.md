@@ -8,8 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/fiendish-mount.json
 layout: dons
 ---
-**Prérequis** [Allié divin](allié-divin.html) (monture), préceptes du mal
-
 Votre allié monture manifeste une suite de dons sinistres et puissant qui lui sont accordés par votre divinité.
 
 Elle obtient [Vision dans le noir](../capacités-ascendances/vision-dans-le-noir.html), son nombre maximum de Points de vie augmente de 40 et elle obtient une faiblesse 10 contre les dégâts du bien.

@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/shattering-blows.json
 layout: dons
 ---
-Vos coups emplis de force brisent les objets facilement. Lorsque vous êtes enragé, vos <a class="entity-link" data-pack="pf2e.actionspf2e" data-id="VjxZFuUXrCU94MWR" draggable="true"> Frappes</a> de mêlée ignorent 5 points de solidité d'un objet. Si vous possédez la capacité de classe dévastateur, vous ignorez à la place 10 points de solidité d'un objet.
+Vos coups emplis de force brisent les objets facilement. Lorsque vous êtes enragé, vos [Frappes](../actions/frapper.html) au corps-à-corps ignorent 5 points de solidité d'un objet. Si vous possédez la capacité de classe dévastateur, vous ignorez à la place 10 points de solidité d'un objet.

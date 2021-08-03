@@ -12,7 +12,7 @@ typeFr: Action Unique
 ---
 **Coût** 1 lot de réactifs imprégnés
 
-**Conditions** Vous avez des [outils alchimiques](../équipements/outils-d-alchimiste.html), la formule de l'objet alchimique que vous créez et une main libre.
+**Conditions** Vous avez la formule de l'objet alchimique que vous créez et vous transportez ou maniez des [outils alchimiques](../équipements/outils-d-alchimiste.html), 
 
 Vous préparez rapidement un objet alchimique périssable que vous pouvez utiliser sur‑le‑champ.
 

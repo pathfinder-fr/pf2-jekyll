@@ -10,6 +10,6 @@ layout: dons
 ---
 **Conditions** Vous êtes à 3 mètres d'une eau d'au moins 3 mètres de profondeur et votre vitesse est suffisante pour atteindre l'eau en Marchant rapidement.
 
-**Déclencheur** Vous réussissez à saisir une créature de la même taille que vous ou plus petite.
+**Déclencheur** Vous réussissez à Compendium[pf2e.actionspf2e.PMbdMWc2QroouFGD]{Saisir} une créature de la même taille que vous ou plus petite.
 
 Vous Marchez rapidement de 3 mètres pour rentrer dans l'eau, emportant la créature [Agrippée](../conditions/agrippé-empoigné.html) avec vous dans l'eau.

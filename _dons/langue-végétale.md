@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/green-tongue.json
 layout: dons
 ---
-**Prérequis** [Empathie végétale](empathie-végétale.html)
+Vous avez une affinité spéciale avec toutes les choses végétales et vivantes. Vous (et votre familier léchi, si vous en avez un) êtes sous les effets constants de [Communication avec les plantes](../sorts/communication-avec-les-plantes.html).
 
-Vous avez une affinité spéciale avec toutes les choses végétales et vivantes. Vous (et votre familier léchi, si vous en avez un) êtes sous les effets constants de [communication avec les plantes](../sorts/communication-avec-les-plantes.html). La plupart des plantes qui ne sont pas des créatures reconnaissent votre statut de druide de l’ordre de la feuille et vous sont amicales.
+La plupart des plantes qui ne sont pas des créatures reconnaissent votre statut de druide de l’ordre de la feuille et vous sont amicales.

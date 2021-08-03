@@ -12,8 +12,8 @@ layout: dons
 
 **Conditions** Vous n'avez pas utilisé cette capacité depuis la dernière fois que vous avez été capable d'acheter des biens.
 
-Vous créer régulièrement des plans alambiqués et des alternatives, en utilisant vos ressources pour les accomplir. Vous prenez 1 minute pour ôter de votre sac à dos pour soigneusement en retirer un objet que vous n'aviez pas auparavant déclaré avoir et que vous avez acheté — vous avez eu l'intuition que vous alliez avoir besoin de l'objet et l'avez acheté au cours de la dernière opportunité.
+Vous créez régulièrement des plans alambiqués et des alternatives, en utilisant vos ressources pour les accomplir. Vous prenez 1 minute pour ôter de votre sac à dos, puis pour soigneusement en retirer un objet que vous n'aviez pas auparavant déclaré avoir et que vous avez acheté — vous avez eu l'intuition que vous alliez avoir besoin de l'objet et l'avez acheté la dernière fois que vous en avez eu l'opportunité.
 
-Lo'bjet doit être un élément d'équipement d'aventure (d'une des tables du livre de base ou d'autres sources d'équipement) et ne peut âs être une arme, une armure, un objet alchimique ou magique ou un autre trésor.
+L'objet doit être un élément d'équipement d'aventure (d'une des tables du livre de base ou d'autres sources d'équipement) et ne peut pas être une arme, une armure, un objet alchimique ou magique ou un autre trésor.
 
-Il doit être commun avec un niveau qui n'est pas supérieur à la moitié de votre niveau et son Encombrement doit être suffisamment bas pour que le transporter ne vous ait pas rendu encombré.
+Il doit être courant avec un niveau qui ne soit pas supérieur à la moitié de votre niveau et son Encombrement doit être suffisamment faible pour que le transporter ne vous ait pas rendu encombré.

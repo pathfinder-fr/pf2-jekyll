@@ -8,8 +8,8 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/didactic-strike.json
 layout: dons
 ---
-**Prérequis** [Stratagème partagé](stratagème-partagé.html)
-
 Lorsque vous trouvez une faiblesse flagrante, vous pouvez organiser vos alliés afin qu'ils anéantissent votre ennemi.
 
-Lorsque vous utiliseez Stratagème partagé, vous pouvez désigner jusqu'à 10 alliés au lieu d'un. L'ennemi est [Pris au dépourvu](../conditions/pris-au-dépourvu.html) contre la première des attaques de chaque allié désigné infligée avant votre prochain tour et la première attaque de chaque allié inflige 2d6 dégâts de précision supplémentaire à la cible si elle la touche.
+Lorsque vous utilisez [Stratagème partagé](stratagème-partagé.html), vous pouvez désigner jusqu'à 10 alliés au lieu d'un seul. L'ennemi est [Pris au dépourvu](../conditions/pris-au-dépourvu.html) contre la première des attaques de chaque allié désigné infligée avant votre prochain tour et la première attaque de chaque allié inflige 2d6 dégâts de précision supplémentaires à la cible si elle la touche.
+
+Effet: Frappe didactique

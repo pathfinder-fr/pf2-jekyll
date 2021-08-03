@@ -10,7 +10,7 @@ layout: dons
 ---
 **Déclencheur** Vous devriez subir des dégâts de son d'un sort.
 
-Vous pouvez manipuler l'acoustique autour de vous pour ddévier les dégâts et les renvoyer à sa source. tentez un test de Représentation contre le DD du sort de la créature qui lance le sort déclencheur.
+Vous pouvez manipuler l'acoustique autour de vous pour dévier les dégâts et les renvoyer à leur source. Faites un test de Représentation contre le DD du sort de la créature qui lance le sort déclencheur.
 
 **Succès critique** Vous réduisez les dégâts déclencheurs d'un montant égal à quatre fois votre niveau. Le lanceur subit des dégâts de son égaux au montant des dégâts réduits de cette manière.
 

@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/rites-of-transfiguration.json
 layout: dons
 ---
-Vous pouvez adapter le pouvoir de votre patron pour transformer d'autres créatures en des formes correspondant davantage à leurs comportements ou à vos désirs. Votre familier apprend [Métamorphose funeste](../sorts/métamorphose-funeste.html), même si *Métamorphose funeste* n'est pas un sort de la liste de votre tradition.
+Vous pouvez adapter le pouvoir de votre patron pour transformer d'autres créatures en des formes correspondant davantage à leurs comportements ou à vos désirs. Votre familier apprend [Métamorphose funeste](../sorts/métamorphose-funeste.html), même si Métamorphose funeste n'est pas un sort de la liste de votre tradition.
 
-En passant 10 minutes en communion avec votre familier, vous pouvez remplacer un sort de niveau 6 ou supérieur que vous avez préparé dans un de vos emplacements de sorts de sorcière avec un sort de *Métamorphose funeste* du même niveau.
+En passant 10 minutes en communion avec votre familier, vous pouvez remplacer un sort de niveau 6 ou supérieur que vous avez préparé dans un de vos emplacements de sorts de sorcière par un sort de Métamorphose funeste du même niveau.

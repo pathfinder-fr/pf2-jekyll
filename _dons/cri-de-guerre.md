@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/battle-cry.json
 layout: dons
 ---
-**Prérequis** maître en Intimidation
+**Prérequis** 
 
-Quand vous effectuez un jet d’initiative, vous pouvez pousser un puissant cri de guerre et Démoraliser un ennemi observé par une action gratuite. Si vous êtes légendaire en Intimidation, vous pouvez utiliser une réaction pour [Démoraliser](../actions/démoraliser.html) votre ennemi quand vous obtenez un succès critique sur un jet d’attaque.
+Quand vous effectuez un jet d’initiative, vous pouvez pousser un puissant cri de guerre et <span data-pf2-action="demoralize" data-pf2-glyph="F">Démoraliser un ennemi observé par une action gratuite. Si vous êtes légendaire en Intimidation, vous pouvez utiliser une réaction pour <span data-pf2-action="demoralize" data-pf2-glyph="R">Démoraliser votre ennemi quand vous obtenez un succès critique sur un jet d’attaque.

@@ -2,10 +2,10 @@
 # ATTENTION : Ne modifiez pas ce fichier
 # Ce fichier est généré automatiquement par un script d'après les données du module Foundry VTT officiel et de sa traduction
 title: Forme du fiélon
-titleEn: Form Of The Fiend
+titleEn: Form Of The Fiend (Claw)
 id: qEOiC2YXYzc8ZZFS
 urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/feats/qEOiC2YXYzc8ZZFS.htm
-urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/form-of-the-fiend.json
+urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/form-of-the-fiend-claw.json
 layout: dons
 ---
 Une partie de votre corps possède une apparence fiélone évidente. Vos mains se terminent par des griffes en lame de rasoir, vous possédez des sabots au lieu de pieds, des dents effilées emplissent votre bouche ou une queue fouettante qui s'étend à partir de votre colonne vertébrale.

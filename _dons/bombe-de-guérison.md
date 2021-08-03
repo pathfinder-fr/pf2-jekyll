@@ -10,7 +10,7 @@ layout: dons
 ---
 **Fréquence** une fois par round
 
-**Déclencheur** Vous fabriquez un [Élixir de vie](../équipements/elixir-de-vie-mineur.html) en utilisant [Alchimie rapide](alchimie-rapide.html) et cet élixir est au moins de 2 niveaux inférieurs à votre niveau d'alchimie avancée.
+**Déclencheur** Vous fabriquez un [Élixir de vie](../équipements/élixir-de-vie-mineur.html) en utilisant [Alchimie rapide](alchimie-rapide.html) et cet élixir est au moins de 2 niveaux inférieurs à votre niveau d'alchimie avancée.
 
 En ajoutant un catalyseur spécifique, vous transformez un élixir de soins en un projectile topique. Vous accordez à l'élixir le trait bombe.
 

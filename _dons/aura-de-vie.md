@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/aura-of-life.json
 layout: dons
 ---
-**Conditions** Serment de lumière
-
 Votre aura protège contre les effets nécromantiques. Vous et tous les alliés dans un rayon de 4,50 m gagnez une résistance 5 contre l’énergie négative et un bonus de statut de +1 aux jets de sauvegarde contre les effets de nécromancie.
+
+Effet: Aura de Vie

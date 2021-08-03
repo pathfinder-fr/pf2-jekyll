@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/chemical-contagion.json
 layout: dons
 ---
-**Déclencheur** Une créature à moins de 9 mètres échoue de manière critique à son jet de sauvegarde initial contre un poison que vous avez créé.
+**Déclencheur** Une créature à moins de 9 mètres obtient un échec critique à son jet de sauvegarde initial contre un poison que vous avez créé.
 
 Grâce à des enzymes soigneusement conçues, vous arrivez à ce qu'une partie de votre poison infecte une autre cible, en utilisant la victime d'origine comme vecteur. Une créature adjacente à la créature déclencheuse est exposée au poison déclencheur.

@@ -8,6 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/consume-spell.json
 layout: dons
 ---
-p>**Prérequis** [Contresort](contresort-spontané.html)
-
-Lorsque vous réussissez à contrer un sort de la tradition qui correspond à votre lignage, vous le consommez, en vous réapprovisionnant en énergie. Vous êtes alors nourri comme si vous aviez mangé un repas et vous gagnez des points de vie correspondant au double du niveau du sort contré.
+Lorsque vous réussissez à contrer un sort de la tradition qui correspond à votre lignage, vous le consommez, en vous réapprovisionnant en énergie. Vous êtes alors nourri comme si vous aviez mangé un repas et vous regagnez des points de vie correspondant au double du niveau du sort contré.

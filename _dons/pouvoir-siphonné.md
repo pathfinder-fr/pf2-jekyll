@@ -12,6 +12,6 @@ layout: dons
 
 **Conditions** Vous n'avez pas encore agi à votre tour
 
-Vous puisez au réservoir de magie de votre patron qui se trouve dans votre familier. Au cours de votre tour, vous pouvez lancer un sort que votre familier connait qui lui a été donné par le thème de votre patron ou de l'une de ses leçons sans dépenser d'emplacement de sort pour le faire (et sans même l'avoir préparé). Le sort doit être d'au moins un niveau de moins que le plus haut niveau de sort que vous pouvez lancer.
+Vous puisez au réservoir de magie de votre patron qui se trouve dans votre familier. Au cours de votre tour, vous pouvez Lancer un sort que votre familier connait qui lui a été donné par le thème de votre patron ou de l'une de ses leçons sans dépenser d'emplacement de sort pour le faire (et sans même l'avoir préparé). Le sort doit être d'au moins un niveau de moins que le plus haut niveau de sort que vous pouvez lancer.
 
-**Spécial** Ce dont possède le trait correspondant à la tradition des sorts que vous pouvez lancer (arcanique, divin, occulte ou primordial).
+**Spécial** Ce don possède le trait correspondant à la tradition des sorts que vous pouvez lancer (arcanique, divin, occulte ou primordial).

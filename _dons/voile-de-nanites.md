@@ -10,6 +10,6 @@ layout: dons
 ---
 **Fréquence** une fois par jour
 
-Vos nanites s'envolent de votre corps, dans un nuage formant un voile autour de vous.
+Vos nanites s'envolent de votre corps, dans un nuage formant un voile autour de vous. Vous êtes [Masqué](../conditions/masqué.html) pendant un nombre de rounds égal à la moitié de votre niveau. Vous ne pouvez utiliser ce camouflage pour se Cacher ou Être furtif, comme à l'ordinaire pour un camouflage qui rend votre position évidente.
 
-Vous êtes Masqué pendant un nombre de rounds égal à la moitié de votre niveau. Vous ne pouvez utiliser ce camouflage pour se Cacher ou Être furtif, comme à l'ordinaire pour un camouflage qui rend votre position évidente. Tant que Voile de nanites est actif, vous ne pouvez utiliser d'autres capacités qui nécessitent l'utilisation de vos nanites.
+Tant que Voile de nanites est actif, vous ne pouvez utiliser d'autres capacités qui nécessitent l'utilisation de vos nanites.

@@ -8,6 +8,10 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/legendary-monster-hunter.json
 layout: dons
 ---
-**Prérequis** légendaire en Nature, Maître chasseur de monstres
+Vos connaissances sur les monstres sont si impressionnantes qu’elles vous permettent de connaître sans vous tromper toutes les faiblesses de votre proie.
 
-Vos connaissances sur les monstres sont si impressionnantes qu’elles vous permettent de connaître sans vous tromper toutes les tares de votre proie. Le bonus de Chasseur de monstres (et celui de Gardemonstres, si vous l’avez) passe de +1 à +2 pour vous et les alliés qui en bénéficient.
+Le bonus de Chasseur de monstres (et celui de Garde-monstres, si vous l’avez) passe de +1 à +2 pour vous et les alliés qui en bénéficient.
+
+Effet: Chasseur de monstres légendaire
+
+Effet: Garde-monstres légendaire

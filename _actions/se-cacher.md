@@ -10,7 +10,7 @@ layout: actions
 type: action
 typeFr: Action Unique
 ---
-Vous vous réfugiez derrière un abri normal ou important ou vous vous enfoncez dans un élément qui offre un camouflage pour être [Caché](../conditions/caché.html) et non plus [Observé](../conditions/observé.html). Le MJ effectue votre test de Discrétion en secret et compare le résultat au DD de Perception de chaque créature qui vous observe mais vis‑à‑vis desquelles vous bénéficiez d’un abri normal ou important, ou êtes masqué. Votre test bénéficie du bonus de circonstances que vous confère un abri normal ou important.
+Vous vous réfugiez derrière un abri normal ou important ou vous vous enfoncez dans un élément qui offre un camouflage pour être [Caché](../conditions/caché.html) et non plus [Observé](../conditions/observé.html). Le MJ effectue votre test de <span data-pf2-action="hide" data-pf2-glyph="A">Discrétion en secret et compare le résultat au DD de Perception de chaque créature qui vous observe mais vis‑à‑vis desquelles vous bénéficiez d’un abri normal ou important, ou êtes masqué. Votre test bénéficie du bonus de circonstances que vous confère un abri normal ou important.
 
 **Succès** Si la créature pouvait vous voir, vous êtes à présent caché d’elle et non plus observé. Si vous étiez caché ou [Non détecté](../conditions/non-détecté.html) par la créature, vous conservez cet état.
 

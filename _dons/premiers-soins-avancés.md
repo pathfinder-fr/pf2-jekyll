@@ -8,8 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/advanced-first-aid.json
 layout: dons
 ---
-**Prérequis** Maître en Médecine
-
 Vous utilisez vos qualifications médicales pour améliorer les malades et pour dissiper les peurs.
 
 Lorsque vous utilisez Médecine pour [Prodiguer les premiers soins](../actions/prodiguer-les-premiers-soins.html), au lieu de Stabiliser un personnage ou d'Arrêter un saignement, vous pouvez réduire l'état d'un allié [Effrayé](../conditions/effrayé.html) ou [Malade](../conditions/malade.html) par 2 ou dissiper un de ces états en cas de réussite critique. Vous ne pouvez mettre un terme qu'à un état à la fois.

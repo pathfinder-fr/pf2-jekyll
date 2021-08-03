@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/fast-channel.json
 layout: dons
 ---
-**Prérequis** source de mise à mal ou de guérison
+La puissance divine est continuellement à votre disposition et se manifeste au moindre de vos appels. Quand vous lancez [Mise à mal](../sorts/mise-à-mal.html) ou [Guérison](../sorts/guérison.html) en dépensant 2 actions, vous pouvez produire les effets de la version à 3 actions au lieu de celle à 2 actions.
 
-La puissance divine est continuellement à votre disposition et se manifeste au moindre de vos appels. Quand vous lancez [mise à mal](../sorts/mise-à-mal.html) ou [guérison](../sorts/guérison.html) en dépensant 2 actions, vous pouvez produire les effets de la version à 3 actions au lieu de celle à 2 actions. Vous pouvez faire ceci avec [mise à mal](../sorts/mise-à-mal.html) si vous avez la source de mise à mal ou avec [guérison](../sorts/guérison.html) si vous avez la source de guérison (ou avec les deux si vous avez Source polyvalente).
+Vous pouvez faire ceci avec [Mise à mal](../sorts/mise-à-mal.html) si vous avez la source de mise à mal ou avec [Guérison](../sorts/guérison.html) si vous avez la source de guérison (ou avec les deux si vous avez Source polyvalente).

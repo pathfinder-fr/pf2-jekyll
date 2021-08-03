@@ -10,6 +10,6 @@ layout: dons
 ---
 **Fréquence** une fois par jour
 
-Vous avez appris à disperser les particules cristallines recouvrant votre corps sous la forme de brume.
+Vous avez appris à disperser les particules cristallines recouvrant votre corps sous la forme de brume. Vous devenez [Masqué](../conditions/masqué.html), bien que vous ne puissiez pas utiliser ce camouflage pour vous Cacher ou Être furtif, comme d'ordinaire avec le camouflage lorsque votre position reste toujours évidente.
 
-Vous devenez Masqué, bien que vous ne puissiez pas utiliser ce camouflage pour vous Cacher ou Être furtif, comme d'ordinaire avec le camouflage lorsque votre position reste toujours évidente. Les particules restent à quelques centimètres de votre peau, se déplaçant avec vous et persistent pendant un nombre de rounds égal à la moitié de votre niveau.
+Les particules restent à quelques centimètres de votre peau, se déplaçant avec vous et persistent pendant un nombre de rounds égal à la moitié de votre niveau.

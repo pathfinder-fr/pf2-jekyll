@@ -8,8 +8,8 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/extra-squishy.json
 layout: dons
 ---
-Votre physique rebonidssant rend plus facile pour vous de vous enfoncer dans des espaces étroites et plus difficile pour vos ennemis de vous en déloger.
+Votre physique rebondissant rend plus facile pour vous de vous enfoncer dans des espaces étroites et plus difficile pour vos ennemis de vous en déloger.
 
-Vous devenez qualifié en Acrobaties. Si vous devriez automatiquement être qualifié en Acrobaties (du fait de votre héritage ou de votre classe, par example), vous devenez qualifié dans une compétence de votre choix à la place.
+Vous devenez qualifié en Acrobaties. Si vous devriez automatiquement être qualifié en Acrobaties (du fait de votre historique ou de votre classe, par exemple), vous devenez qualifié dans une compétence de votre choix à la place.
 
 Si vous obtenez un succès pour [vous Faufiler](../actions/se-faufiler.html), vous obtenez un succès critique à la place. Lorsque vous vous faufilez, vous obtenez un bonus de circonstances de +4 au DD de vos jets de Vigueur et de Réflexes contre les tentatives de vous [Pousser](../actions/pousser.html) ou vous faire bouger de l'espace que vous occupez.

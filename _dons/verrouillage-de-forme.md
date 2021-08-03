@@ -12,4 +12,4 @@ layout: dons
 
 Votre capacité à contrôler votre ki vous donne la puissance pour obliger les autres créatures à revenir à leur véritable forme.
 
-Faites un test d'Athlétisme pour contrer un effet de métamorphose qui affecte actuellement votre cible. Si la cible est de quelqconque manière sous l'effet de plusieurs effets de métamorphose, vous pouvez en choisir une pour essayer de la contrer ou le MJ choisit de manière aléatoire si les différents effets ne sont pas évidents. La cible est alors temporairement immunisée pendant une journée.
+Faites un test d'Athlétisme pour contrer un effet de métamorphose qui affecte actuellement votre cible. Si la cible est de quelconque manière sous l'effet de plusieurs effets de métamorphose, vous pouvez en choisir un pour essayer de la contrer ou le MJ choisit de manière aléatoire si les différents effets ne sont pas évidents. La cible est alors temporairement immunisée pendant une journée.

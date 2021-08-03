@@ -8,10 +8,10 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/impaling-thrust.json
 layout: dons
 ---
-**Conditions** Vous maniez une arme de mêlée qui inflige des dégâts perforants.
+**Conditions** Vous maniez une arme de corps-à-corps qui inflige des dégâts perforants.
 
 Vous empalez votre ennemi et le maintenez en position avec votre arme.
 
-Faites une [Frappe](../actions/frapper.html) de mêlée avec l'arme requise. Si la Frappe touche et inflige des dégâts, votre cible est [Saisie](../conditions/agrippé-empoigné.html) jusqu'à ce qu'elle parvienne à [S'échapper](../actions/s-échapper.html), que vous attaquiez avec l'arme requise ou que vous [Relâchiez](../actions/relâcher.html) l'arme requise, ce qui advient en premier.
+Faites une [Frappe](../actions/frapper.html) de corps-à-corps avec l'arme requise. Si la Frappe touche et inflige des dégâts, votre cible est [Saisie](../conditions/agrippé-empoigné.html) jusqu'à ce qu'elle parvienne à [S'échapper](../actions/s-échapper.html), que vous attaquiez avec l'arme requise ou que vous [Relâchiez](../actions/relâcher.html) l'arme requise, selon ce qui advient en premier.
 
 Lorsque la cible n'est plus saisie, elle subit des dégâts de saignement persistants égaux au nombre de dés de dégât de l'arme.

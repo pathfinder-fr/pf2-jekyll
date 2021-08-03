@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/improved-dueling-riposte.json
 layout: dons
 ---
-**Prérequis** [Riposte en duel](riposte-en-duel.html)
+Vous faites virevolter et tournoyer votre arme en frappant vos adversaires dès qu’une opportunité se présente.
 
-Vous faites virevolter et tournoyer votre arme en frappant vos adversaires dès qu’une opportunité se présente. Au début de chacun de vos tours, vous gagnez une réaction supplémentaire que vous pouvez utiliser uniquement pour faire une Riposte en duel. Vous pouvez utiliser cette réaction supplémentaire, même si vous ne bénéficiez pas des avantages de la Parade en duel.
+Au début de chacun de vos tours, vous gagnez une réaction supplémentaire que vous pouvez utiliser uniquement pour faire une [Riposte en duel](riposte-en-duel.html). Vous pouvez utiliser cette réaction supplémentaire, même si vous ne bénéficiez pas des avantages de la [Parade en duel](parade-en-duel-guerrier.html).

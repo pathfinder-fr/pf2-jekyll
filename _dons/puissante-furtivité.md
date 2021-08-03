@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/powerful-sneak.json
 layout: dons
 ---
-Vous avez appris à exploiter les défenses amoindries de vos ennemis. Quand vous Frappez et obtenez un succès ou un succès critique, que vous avez utilisé votre modificateur de Force pour le jet d’attaque, et que vous allez infliger des dégâts d’attaque sournoise, vous pouvez remplacer les dégâts supplémentaires de précision de l’attaque sournoise par des dégâts ordinaires du même type que ceux de votre Frappe.
+Vous avez appris à exploiter les défenses amoindries de vos ennemis. Quand vous Frappez et obtenez un succès ou un succès critique, que vous avez utilisé votre modificateur de Force pour le jet d’attaque et que vous allez infliger des dégâts d’attaque sournoise, vous pouvez remplacer les dégâts supplémentaires de précision de l’attaque sournoise par des dégâts ordinaires du même type que ceux de votre Frappe.

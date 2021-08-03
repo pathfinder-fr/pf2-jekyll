@@ -8,6 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/blade-of-justice.json
 layout: dons
 ---
-**Prérequis** cause du paladin
-
-Vous invoquez la puissance divine et faites une [Frappe](../actions/frapper.html) avec une arme ou à mains nues contre un adversaire que vous avez vu blesser un allié ou un innocent. La Frappe inflige deux dés de dégâts d’arme supplémentaires si la cible est d’alignement mauvais. Que la cible soit d’alignement mauvais ou non, vous pouvez convertir tous les dégâts physiques de l'attaque en dégâts bons et si vous êtes un paladin, la Frappe applique tous les effets qui s'appliquent normalament lors d'une [Frappe punitive](../actions/frappe-punitive.html) (tes que ceux d'un Châtiment divin).
+Vous invoquez la puissance divine et faites une [Frappe](../actions/frapper.html) avec une arme ou à mains nues contre un adversaire que vous avez vu blesser un allié ou un innocent. La Frappe inflige deux dés de dégâts d’arme supplémentaires si la cible est d’alignement mauvais. Que la cible soit d’alignement mauvais ou non, vous pouvez convertir tous les dégâts physiques de l'attaque en dégâts bons et si vous êtes un paladin, la Frappe applique tous les effets qui s'appliquent normalement lorsque vous faites une [Frappe punitive](../actions/frappe-punitive.html) (tels que ceux d'un Châtiment divin).

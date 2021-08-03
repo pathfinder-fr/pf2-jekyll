@@ -8,8 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/disturbing-knowledge.json
 layout: dons
 ---
-**Prérequis** maître en Occultisme
-
 Vous murmurez une litanie de noms épouvantables, de prophéties et des descriptions de royaumes au delà de la compréhension mortelle, tirés de l'étude de livres et de parchemins interdits. Même ceux qui ne comprennent pas votre langue sont désarçonnés par ces terribles secrets.
 
 Faites un test d'Occultisme et comparez le résultat au DD de Volonté d'un ennemi à 9 m ou au DD de Volonté de n'importe quel nombre d'ennemis dans les 9 m si vous êtes légendaire en Occultisme. Ces créatures sont ensuite temporairement immunisées pendant 24 heures.

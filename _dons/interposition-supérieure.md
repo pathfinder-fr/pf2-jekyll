@@ -8,8 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/greater-interpose.json
 layout: dons
 ---
-**Prérequis** [Armure sacrifiée](armure-sacrifiée.html)
+Votre grâce divine vous permet d'éviter les coups lorsque vous ne le pourriez pas autrement.
 
-Votre grace divine vous permet d'éviter les coups lorsque vous ne pourriez pas autrement.
-
-Vous pouvez utiliser Armure sacrifiée pour réduire tout type de dégâts d'une attaque ou d'un effet nécessitant un jet de Réflexes.Lorsque vous utilisez Armure sacrifiée contre un coup critique ou un échec critique sur une jet de Réflexes qui provoquerait autrement  double dégâts, vous subissez à la place seulement le montant normal de dégâts à la place.
+Vous pouvez utiliser Armure sacrifiée pour réduire tout type de dégâts d'une attaque ou d'un effet nécessitant un jet de Réflexes. Lorsque vous utilisez Armure sacrifiée contre un coup critique ou un échec critique sur une jet de Réflexes qui provoquerait autrement double dégâts, vous subissez à la place seulement le montant normal de dégâts à la place.

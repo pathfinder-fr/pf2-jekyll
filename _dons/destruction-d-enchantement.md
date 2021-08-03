@@ -8,8 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/sunder-enchantment.json
 layout: dons
 ---
-**Prérequis**<a class="entity-link" data-pack="pf2e.feats-srd" data-id="8INrcMUv5vzWMG3X" draggable="true"> Destruction de sort</a>
-
 Vous pouvez concentrer votre superstition pour briser la magie d'un objet, en plus de détruire les sorts autonomes et ceux actifs sur les créatures.
 
-Lorsque vous Détruisez un sort, vous pouvez à la place tenter de contrer soit un objet magique non tenu ou un des objets magiques de votre cible. Si votre tentative de contre est réussie, l'objet devient un objet ordinaire de son type pendant 10 minutes. Si vous cibles un artefact, un objet intelligent ou un objet particulièrement puissant, votre tentative de contre échoue automatiquement.
+Lorsque vous Détruisez un sort, vous pouvez à la place tenter de contrer soit un objet magique non tenu ou un des objets magiques de votre cible. Si votre tentative de contre est réussie, l'objet devient un objet ordinaire de son type pendant 10 minutes. Si vous ciblez un artefact, un objet intelligent ou un objet particulièrement puissant, votre tentative de contre échoue automatiquement.

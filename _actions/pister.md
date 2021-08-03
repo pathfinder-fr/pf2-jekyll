@@ -12,7 +12,7 @@ typeFr: Passive
 ---
 Vous suivez des traces en vous déplaçant à la moitié de votre Vitesse de voyage. Suite à un test réussi de Pister, vous pouvez continuer à suivre des traces à la moitié de votre Vitesse sans effectuer de tests supplémentaires pendant un maximum d’une heure. Vous pouvez, dans certains cas, Pister au cours d’une rencontre. Dans ce cas, Pister est une action unique sans le trait exploration mais vous devez faire des tests plus souvent car vous vous trouvez dans une situation tendue. Le MJ détermine la fréquence de ces tests.
 
-Vous faites un test de Survie quand vous commencez à Pister, une fois par heure quand vous suivez des traces et à chaque fois qu’une chose change les traces de manière significative. Le MJ détermine le DD de ces tests en fonction de la fraîcheur des traces, du climat et du type de sol.
+Vous faites un test de Survie quand vous commencez à <span data-pf2-action="track" data-pf2-glyph="A">Pister, une fois par heure quand vous suivez des traces et à chaque fois qu’une chose change les traces de manière significative. Le MJ détermine le DD de ces tests en fonction de la fraîcheur des traces, du climat et du type de sol.
 
 **Succès** Vous trouvez les traces ou continuez à suivre celles que vous avez déjà trouvées.
 

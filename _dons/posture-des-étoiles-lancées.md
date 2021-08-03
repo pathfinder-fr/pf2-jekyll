@@ -8,6 +8,8 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/shooting-stars-stance.json
 layout: dons
 ---
-Vous prenez une posture qui vous permet de lancer des [Shuriken](../équipements/shuriken.html) avec la rapidité de l'éclair. Dans cette posture, vous pouvez utiliser vos dons de moine ou capacités de moine qui nécessitent normalement des attaques à mains nues avec les shuriken à la place.
+Vous prenez une posture qui vous permet de lancer des [Shuriken](../équipements/shuriken.html) avec la rapidité de l'éclair.
+
+Dans cette posture, vous pouvez utiliser vos dons de moine ou capacités de moine qui nécessitent normalement des attaques à mains nues avec les shuriken à la place.
 
 Posture: Posture des étoiles lancées

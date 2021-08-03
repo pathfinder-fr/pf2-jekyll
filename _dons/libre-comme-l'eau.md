@@ -10,4 +10,4 @@ layout: dons
 ---
 **Déclencheur.** Votre tour se termine et vous subissez un malus de statut à votre Vitesse ou vous êtes immobilisé ou ralenti.
 
-Vous êtes libre comme l’eau et évitez toutes contraintes. Éliminez un malus de statut à votre Vitesse, ou un état immobilisé ou ralenti qui vous affecte.
+Vous êtes libre comme l’eau et évitez toutes contraintes. Éliminez un malus de statut à votre Vitesse ou un état immobilisé ou ralenti qui vous affecte.

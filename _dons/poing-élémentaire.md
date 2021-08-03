@@ -12,10 +12,10 @@ Vous invoquez la puissance des éléments, en imprégnant votre ki d’énergie 
 
 Quand vous lancez frappe ki, en plus des divers types de dégâts normalement disponibles, vous pouvez infliger des dégâts supplémentaires sous la forme d’une bourrasque orageuse (qui inflige des dégâts d’électricité avec le trait air), d’un morceau de roche (qui inflige des dégâts contondants avec le trait terre), d’une flamme vacillante (qui inflige des dégâts de feu) ou d’une vague déferlante d’eau glacée (qui inflige des dégâts de froid avec le trait eau).
 
-[Effet de sort: Frappe ki (Air)](../effet-sorts/.html)
+[Effet de sort: Frappe ki (Air)](../effet-sorts/effet-:-frappe-ki-air.html)
 
-[Effet de sort: Frappe ki (Terre)](../effet-sorts/.html)
+[Effet de sort: Frappe ki (Terre)](../effet-sorts/effet-:-frappe-ki-terre.html)
 
-[Effet de sort: Frappe ki (Feu)](../effet-sorts/.html)
+[Effet de sort: Frappe ki (Feu)](../effet-sorts/effet-:-frappe-ki-feu.html)
 
-[Effet de sort: Frappe ki (Eau)](../effet-sorts/.html)
+[Effet de sort: Frappe ki (Eau)](../effet-sorts/effet-:-frappe-ki-eau.html)

@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous possédez un rat comme animal de compagnie qui s'est magiquement lié à vous.
 
-Vous obtenez un familier en utilisant les règles du livre de base et ce familier doit être un rat. Il obtient les bénéfices des capacités de familier, mais sa forme de base reste celle d'un rat.
+Vous obtenez un familier qui doit être un rat. Il obtient les bénéfices des capacités de familier, mais sa forme de base reste celle d'un rat.

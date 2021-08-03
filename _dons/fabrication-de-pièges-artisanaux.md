@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/snare-crafting.json
 layout: dons
 ---
-Vous pouvez utiliser l’activité Artisanat pour créer des pièges, en utilisant les règles de la page 242. Quand vous sélectionnez ce don, vous ajoutez immédiatement les formules de quatre pièges ordinaires à votre formulaire.
+Vous pouvez utiliser l’activité Artisanat pour créer des pièges. Quand vous sélectionnez ce don, vous ajoutez immédiatement les formules de quatre pièges courants à votre formulaire.

@@ -8,6 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/overwhelming-breath.json
 layout: dons
 ---
-**Prérequis** sorts ki
-
-Vous contrôlez votre souffle et l'alignez sur votre ki, expirant avec une force contrôlée pour surmonter les résistances de vos adversaires. Si vous utilisez votre prochaine action pour [Lancer un sort](../actions/lancer-un-sort.html) qui possède le trait moine et n'a pas de durée, le sort et toute [Frappe](../actions/frapper.html) que vous portez qui résulte  de son incantation ignore un montant de la rsistance de la cible aux dégats physiques égal à votre niveau.
+Vous contrôlez votre souffle et l'alignez sur votre ki, expirant avec une force contrôlée pour surmonter les résistances de vos adversaires. Si vous utilisez votre prochaine action pour [Lancer un sort](../actions/lancer-un-sort.html) qui possède le trait moine et n'a pas de durée, le sort et toute [Frappe](../actions/frapper.html) que vous portez qui résulte de son incantation ignore un montant de la résistance de la cible aux dégats physiques égal à votre niveau.

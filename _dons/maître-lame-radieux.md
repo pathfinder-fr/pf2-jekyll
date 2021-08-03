@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/radiant-blade-master.json
 layout: dons
 ---
-**Prérequis** allié divin (lame), Esprit lame radieux
+Votre allié divin transforme votre arme désignée en un parangon de son type.
 
-Votre allié divin transforme votre arme désignée en un parangon de son type. Quand vous désignez l’arme de votre allié divin lame lors de vos préparatifs, ajoutez les runes de propriété suivantes à la liste des effets que vous pouvez choisir : dansante, perturbatrice supérieure et acérée.
+Quand vous désignez l’arme de votre allié divin lame lors de vos préparatifs, ajoutez les runes de propriété suivantes à la liste des effets que vous pouvez choisir : [dansante](../équipements/dansante-rune.html), [perturbatrice supérieure](../équipements/pertubatrice-supérieure-rune.html) et [acérée](../équipements/acérée-rune.html).

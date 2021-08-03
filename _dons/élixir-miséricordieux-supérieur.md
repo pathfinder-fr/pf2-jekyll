@@ -8,6 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/greater-merciful-elixir.json
 layout: dons
 ---
-**Prérequis** Élixir miséricordieux
-
-Vos additifs contiennent des panacées qui peuvent soigner une pléthore de maladies. Quand vous utilisez Élixir miséricordieux, votre élixir peut à la place tenter de contrer les effets des états [aveugle](../conditions/aveuglé.html), [sourd](../conditions/sourd.html), [malade](../conditions/malade.html) ou [ralenti](../conditions/ralenti.html).
+Vos additifs contiennent des panacées qui peuvent soigner une pléthore de maladies. Quand vous utilisez [Élixir miséricordieux](élixir-miséricordieux.html), votre élixir peut à la place tenter de contrer les effets des états [Aveugle](../conditions/aveuglé.html), [Sourd](../conditions/sourd.html), [Malade](../conditions/malade.html) ou [Ralenti](../conditions/ralenti.html).

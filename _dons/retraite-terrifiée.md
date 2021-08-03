@@ -8,6 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/terrified-retreat.json
 layout: dons
 ---
-**Prérequis** maître en Intimidation
-
-Quand vous obtenez un succès critique lors d’une action pour Démoraliser, si le niveau de la cible est inférieur au vôtre, elle est en fuite pendant 1 round.
+Quand vous obtenez un succès critique lors d’une action pour Démoraliser, si le niveau de la cible est inférieur au vôtre, elle est En fuite pendant 1 round.

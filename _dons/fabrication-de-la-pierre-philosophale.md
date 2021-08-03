@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/craft-philosopher-s-stone.json
 layout: dons
 ---
-Vos recherches ont porté leurs fruits et vous avez découvert la légendaire pierre philosophale. Vous apprenez la formule de la pierre philosophale (page 587) et vous pouvez l’ajouter à votre formulaire.
+Vos recherches ont porté leurs fruits et vous avez découvert la légendaire pierre philosophale. Vous apprenez la formule de la [pierre philosophale](../équipements/pierre-philosophale.html) et vous pouvez l’ajouter à votre formulaire.

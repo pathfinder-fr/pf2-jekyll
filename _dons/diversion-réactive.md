@@ -8,9 +8,7 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/reactive-distraction.json
 layout: dons
 ---
-**Prérequis** légendaire en Duperie, Diversion parfaite
-
-**Déclencheur** Vous êtes sur le point d’être touché par une attaque, ciblé par un effet, ou vous trouvez dans une zone d’effet.
+**Déclencheur** Vous êtes sur le point d’être touché par une attaque, ciblé par un effet ou vous trouvez dans une zone d’effet.
 
 **Conditions** Vous êtes prêt à employer Diversion parfaite.
 

@@ -8,6 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/shadow-hunter.json
 layout: dons
 ---
-**Prérequis** Camouflage
-
 Vous vous fondez si parfaitement dans votre environnement qu’il est impossible de vous repérer. Dans un environnement naturel, vous êtes toujours masqué vis-à-vis de tous les adversaires si tel est votre souhait, sauf de votre proie.

@@ -8,8 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/remediate.json
 layout: dons
 ---
-**Prérequis** Source divince de guérison ou source divine de mise à mal
-
 **Fréquence** une fois par heure
 
 Si votre prochaine action consiste à utiliser votre source divine pour lancer le sort [Guérison](../sorts/guérison.html) ou [Mise à mal](../sorts/mise-à-mal.html) à 3 actions pour blesser les créatures, vous pouvez récupérer l'énergie résiduelle pour contrebalancer les forces opposées.

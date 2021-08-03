@@ -8,6 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/ultimate-skirmisher.json
 layout: dons
 ---
-**Prérequis** déplacement facilité en milieu naturel
-
-Votre talent pour évoluer en pleine nature est tel que le terrain n’affecte plus du tout vos capacités de déplacement. Vous ignorez les effets de tous les terrains difficiles, très difficiles ou dangereux, et vous ne déclenchez pas les pièges et les dangers qui se déclenchent lorsqu’on se déplace dans une zone définie (avec des fils de détente ou des plaques de pression, par exemple), sauf si vous le souhaitez.
+Votre talent pour évoluer en pleine nature est tel que le terrain n’affecte plus du tout vos capacités de déplacement. Vous ignorez les effets de tous les terrains difficiles, très difficiles ou dangereux et vous ne déclenchez pas les pièges et les dangers qui se déclenchent lorsqu’on se déplace dans une zone définie (avec des fils de détente ou des plaques de pression, par exemple), sauf si vous le souhaitez.

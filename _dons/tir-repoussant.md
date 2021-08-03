@@ -14,4 +14,4 @@ Vos attaques à distance repoussent vos ennemis de vos alliés. Effectuez une Fr
 
 **Succès** La cible est repoussée à 1,5 mètre de vous.
 
-**Échec** La cible est [Pris au dépourvu](../conditions/pris-au-dépourvu.html) pendant un tour.
+**Échec** La cible est [Prise au dépourvu](../conditions/pris-au-dépourvu.html) pendant un tour.

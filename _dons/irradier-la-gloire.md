@@ -18,4 +18,4 @@ Toute créature qui peut vous voir alors que vous irradiez le gloire doit tenter
 
 **Échec** Comme en cas de succès,  sauf que vous êtes masqué à la créaure tant que votre gloire irradie.
 
-**Échec critique** Vous êtes [Caché](../conditions/caché.html) à la créature tant que votre gloire irradie, perdu parmi la couronne radieuse de votre présence. Votre position générale est toujours évidente, de sorte que vous ne pouvez l'utilisez pour Être furtif.
+**Échec critique** Vous êtes [Caché](../conditions/caché.html) à la créature tant que votre gloire irradie, perdu au sein de la couronne radieuse de votre présence. Votre position générale est toujours évidente, de sorte que vous ne pouvez l'utiliser pour Être furtif.

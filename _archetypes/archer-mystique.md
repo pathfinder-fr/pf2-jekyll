@@ -14,7 +14,7 @@ Alors que de nombreux archers voiient leur fabrication comme une forme d'art com
 
 Avoir des capacités d'incantation augmente votre versatilité potentielle et votre pouvoir comme archer mystique, vous pourriez apprendre les secrets de tels arts sans être indépendamment compétent pour lancer des sorts, apprenant à la place la magie de l'arc pour son seul intérêt intrinsèque.
 
-Dons supplémentaires : 20e [Volée invraisemblable](../dons/volée-invraisemblable.html)
+Dons supplémentaires : 20e [Volée invraisemblable](../dons/volée-invraisemblable-guerrier.html)
 
 ## **Flèches elfiques**
 

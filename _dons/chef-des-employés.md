@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/hireling-manager.json
 layout: dons
 ---
-Vous êtes capable de vous assurer et de trouver un meilleur employé que beaucoup. Lorsque vous vous assurez des services d'un employé, cet employé obtient un bonus de circonstances de +2 à tous ses tests de compétences. Ce bonus de circonstance s'applique aux employés qualifiés ou non et il n'a pas d'effet sur le coût du service ou du travail fourni.
+Vous êtes capable de vous assurer et de trouver de meilleurs employés que beaucoup. Lorsque vous vous assurez des services d'un employé, cet employé obtient un bonus de circonstances de +2 à tous ses tests de compétences. Ce bonus de circonstances s'applique aux employés qualifiés ou non et il n'a pas d'effet sur le coût du service ou du travail fourni.

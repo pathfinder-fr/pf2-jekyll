@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/paradoxical-mystery.json
 layout: dons
 ---
-**Prérequis** [Révélation supérieure](révélation-supérieure.html)
+Les véritables profondeurs de votre mystère divin sont insondables et contradictoires, vous permettant de changer de pouvoirs que même vous ne pouvez qu'entrevoir.
 
-Les véritables profondeurs de votre mystère divin sont insondables et contradictoires, vous permettant de changer de pouvoirs que même vous ne pouvez que commencer à sonder. Chaque jour, au cours de vos préparatifs quotidiens, choisissez un sort de domaine basique ou avancé de tout domaine du livre de base ou de tout autre domaine auquel vous avez accès ou tout sort de révélation initial ou avancé d'un autre mystère. Vous obtenez ce sort comme sort de révélation jusqu'à vos prochains préparatifs quotidiens et il possède le trait lié à une malédiction.
+Chaque jour, au cours de vos préparatifs quotidiens, choisissez un sort de domaine basique ou avancé de tout domaine du livre de base ou de tout autre domaine auquel vous avez accès ou tout sort de révélation initial ou avancé d'un autre mystère. Vous obtenez ce sort comme sort de révélation jusqu'à vos prochains préparatifs quotidiens et il possède le trait lié à une malédiction.

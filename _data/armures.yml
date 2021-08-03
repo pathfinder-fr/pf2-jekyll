@@ -10,6 +10,9 @@ targe-en-adamantium-haute-qualité:
   bonus: 1
   level: 16
   prix: 8,000 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   description: |
     Les targes en adamantium sont particulièrement solides et sont des armes en adamantium lorsqu’on les utilise pour frapper.
     
@@ -27,6 +30,9 @@ targe-en-adamantium-qualité-standard:
   bonus: 1
   level: 8
   prix: 400 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   description: |
     Les targes en adamantium sont particulièrement solides et sont des armes en adamantium lorsqu’on les utilise pour frapper.
     
@@ -44,6 +50,9 @@ bouclier-en-adamantium-haute-qualité:
   bonus: 2
   level: 16
   prix: 8,800 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   description: |
     Les boucliers en adamantium sont particulièrement solides et sont des armes en adamantium lorsqu’on les utilise pour frapper
     
@@ -61,6 +70,9 @@ bouclier-en-adamantium-qualité-standard:
   bonus: 2
   level: 8
   prix: 440 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   description: |
     Les boucliers en adamantium sont particulièrement solides et sont des armes en adamantium lorsqu’on les utilise pour frapper.
     
@@ -78,15 +90,18 @@ bouclier-intercepteur-de-projectiles:
   bonus: 2
   level: 11
   prix: 1,350 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   traits:
     - Abjuration
     - Magique
   description: |
     Des motifs de flèches empennées et entrecroisées sont gravées sur ce bouclier en bois (Solidité 10, 40 PV, SR 20).
     
-    **Activation** <span style="font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;">R Interagir
+    **Activation** <span class="pf2-icon">R Interagir
     
-    **Déclencheur**Une Frappe avec une arme à distance prend pour cible une créature à 4,50 m ou moins de vous quand vous avez ce bouclier levé, et l’attaquant n’a pas encore fait son jet d’attaque;
+    **Déclencheur**Une Frappe avec une arme à distance prend pour cible une créature à 4,50 mètres ou moins de vous quand vous avez ce bouclier levé, et l’attaquant n’a pas encore fait son jet d’attaqu;
     
     **Effet** La Frappe qui déclenche l’effet vous prend pour cible à la place de celle prévue. Si elle touche, vous bénéficiez des effets de la réaction [Blocage au bouclier](../dons/blocage-au-bouclier.html)
 
@@ -105,7 +120,7 @@ cuirasse:
   force: 16
   encombrement: 2
   description: |
-    Bien que désigné sous le nom de cuirasse, ce type d’armure est constitué de plusieurs éléments de harnois ou d’armure de plates,  qui protègent le torse, la poitrine, le cou et parfois les  hanches et le bas des jambes. Elle accorde stratégiquement une partie de la protection du harnois tout en permettant plus de souplesse et de rapidité.
+    Bien que désigné sous le nom de cuirasse, ce type d’armure est constitué de plusieurs éléments de harnois ou d’armure de plates qui protègent le torse, la poitrine, le cou et parfois les hanches et le bas des jambes. Elle accorde stratégiquement une partie de la protection du harnois tout en permettant plus de souplesse et de rapidité.
 
 cuirasse-de-commandement:
   id: RUEAV5LMUGFHcXcW
@@ -128,17 +143,17 @@ cuirasse-de-commandement:
   description: |
     Cette cuirasse de résilience +1 est faite d’un bronze scintillant recouvert de panneaux de renfort dorés en forme de têtes de lion. Elle vous donne une aura d’autorité. Vous gagnez un bonus d’objet de +2 aux tests de Diplomatie, mais vous subissez un malus d’objet de −2 aux tests de Discrétion pour Vous cacher et Être furtif et aux tests de Duperie pour Se déguiser.
     
-    **Activation**<span style="font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;">ASur ordre;
+    **Activation**<span class="pf2-icon">ASur ordre
      
-    **Fréquence** 1/jour;
+    **Fréquence** 1 fois par jour
      
-    **Effet**Vous donnez à vos alliés dans un rayon de 30 m un bonus de statut de +2 aux jets de sauvegarde contre la terreur pendant 1 min. Lorsque vous activez ce pouvoir, chaque allié affecté réduit sa valeur d’effrayé de 1.
+    **Effet**Vous donnez à vos alliés dans un rayon de 30 m un bonus de statut de +2 aux jets de sauvegarde contre la terreur pendant 1 minute. Lorsque vous activez ce pouvoir, chaque allié affecté réduit sa valeur d’Effrayé de 1.
     
-    Effect: Cuirasse de commandement
+    Effet: Cuirasse de commandement
     
     Effets automatiquement appliqués:
     
-    - +2 bonus d'objet aux tests de Diplomacie
+    - +2 bonus d'objet aux tests de Diplomatie
     - -2 malus d'objet aux tests de Discrétion pour Vous cacher et Être furtif
     - -2 malus d'objet aux tests de Duperie pour Se déguiser
 
@@ -161,21 +176,21 @@ cuirasse-de-commandement-supérieur:
     - Investi
     - Magique
   description: |
-    Cette cuirasse de résilience +2 est faite d’un bronze scintillant recouvert de panneaux de renfort dorés en forme de têtes de lion. Elle vous donne une aura d’autorité. Vous gagnez un bonus d’objet de +3 aux tests de Diplomatie, mais vous subissez un malus d’objet de −3 aux tests de Discrétion pour Vous cacher et Être furtif et aux tests de Duperie pour Se déguiser. 
+    Cette cuirasse de résilience +2 est faite d’un bronze scintillant recouvert de panneaux de renfort dorés en forme de têtes de lion. Elle vous donne une aura d’autorité. Vous gagnez un bonus d’objet de +3 aux tests de Diplomatie, mais vous subissez un malus d’objet de −3 aux tests de Discrétion pour Vous cacher et Être furtif et aux tests de Duperie pour Se déguiser.
     
-    **Activation** <span style="font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;">ASur ordre; 
+    **Activation**<span class="pf2-icon">ASur ordre
+     
+    **Fréquence** 1 fois par jour
+     
+    **Effet**Vous donnez à vos alliés dans un rayon de 30 mètres un bonus de statut de +2 aux jets de sauvegarde contre la terreur pendant 1 minute. Lorsque vous activez ce pouvoir, chaque allié affecté réduit sa valeur d’Effrayé de 1.
     
-    **Fréquence** 1/jour; 
-    
-    **Effet** . Vous donnez à vos alliés dans un rayon de 30 m un bonus de statut de +2 aux jets de sauvegarde contre la terreur pendant 1 min. Lorsque vous activez ce pouvoir, chaque allié affecté réduit sa valeur d’effrayé de 1.
-    
-    Effect: Cuirasse de commandement
+    Effet: Cuirasse de commandement (supérieur)
     
     Effets automatiquement appliqués:
     
-    - +3 bonus d'item aux tests de Diplomatie
-    - -3 malus d'item aux tests de Discrétion pour Vous cacher et Être furtif
-    - -3 malus d'item aux tests de Duperie pour Se déguiser
+    - +3 bonus d'objet aux tests de Diplomatie
+    - -3 malus d'objet aux tests de Discrétion pour Vous cacher et Être furtif
+    - -3 malus d'objet aux tests de Duperie pour Se déguiser
 
 targe:
   id: 1k3AsSW7lpU0kEpY
@@ -187,23 +202,28 @@ targe:
   bonus: 1
   level: 0
   prix: 1 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   description: |
-    Ce très petit bouclier est le favori des duellistes et des guerriers rapides dotés d’armures légères. Il est généralement fabriqué en acier et attaché à votre avant-bras. Vous  pouvez Lever un bouclier avec votre targe tant que vous avez cette main libre ou que vous tenez dans cette main un objet léger qui n’est pas une arme.
+    Ce très petit bouclier est le favori des duellistes et des guerriers rapides dotés d’armures légères. Il est généralement fabriqué en acier et attaché à votre avant-bras. Vous  pouvez Lever un bouclier avec votre targe tant que vous avez cette main libre ou que vous tenez dans cette main un objet léger qui ne soit pas une arme.
     
-    <table style="height: 32px;" border="1">
-    <tbody>
-    <tr style="height: 15px;">
-    <td style="height: 15px; width: 115px;">Solidité</td>
-    <td style="height: 15px; width: 115px;">PV</td>
-    <td style="height: 15px; width: 116px;">SR</td>
-    </tr>
-    <tr style="height: 17px;">
-    <td style="height: 17px; width: 115px;">3</td>
-    <td style="height: 17px; width: 115px;">6</td>
-    <td style="height: 17px; width: 116px;">3</td>
-    </tr>
-    </tbody>
-    </table>
+    <table class="pf2-table">
+        <thead>
+        <tr>
+        <th>Solidité</th>
+        <th>PV</th>
+        <th>SR</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+        <td>3</td>
+        <td>6</td>
+        <td>3</td>
+        </tr>
+        </tbody>
+        </table>
 
 armure-céleste:
   id: 2uHcTZ40oZ62R9gy
@@ -299,9 +319,11 @@ vêtements-d-explorateur:
   level: 0
   prix: 1 sp
   dexMax: 5
+  malusTests: 0
+  force: 0
   encombrement: L
   description: |
-    <span>Les vêtements d’explorateur sont suffisamment solides pour pouvoir être renforcés afin de vous protéger, même si on ne peut les considérer comme une armure. Ils se présentent sous de nombreuses formes, les types les plus ordinaires ressemblant à la tenue sacerdotale, aux habits de moines ou aux robes de magiciens, car les membres de ces trois classes éviteront sans aucun doute de porter une armure.
+    Les vêtements d’explorateur sont suffisamment solides pour pouvoir être renforcés afin de vous protéger, même si on ne peut les considérer comme une armure. Ils se présentent sous de nombreuses formes, les types les plus ordinaires ressemblant à la tenue sacerdotale, aux habits de moines ou aux robes de magiciens, car les membres de ces trois classes éviteront sans aucun doute de porter une armure.
 
 targe-en-fer-froid-de-haute-qualité:
   id: kCjvkkuI3JP4TQ0t
@@ -313,6 +335,9 @@ targe-en-fer-froid-de-haute-qualité:
   bonus: 1
   level: 15
   prix: 5,000 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   description: |
     <span>Les boucliers en fer froid ne produisent généralement aucun effet supplémentaire mais ce sont des armes en fer froid lorsqu'on les utilise pour frapper.
     
@@ -329,10 +354,14 @@ targe-en-fer-froid-de-basse-qualité:
   bonus: 1
   level: 2
   prix: 30 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   description: |
-    <span>Les boucliers en fer froid ne produisent généralement aucun effet supplémentaire mais ce sont des armes en fer froid lorsqu’on les utilise pour frapper.
+    Les boucliers en fer froid ne produisent généralement aucun effet supplémentaire mais ce sont des armes en fer froid lorsqu’on les utilise pour frapper.
     
-    <span>Le bouclier a une Solidité de 3, 12 PV et un SR de 6.  
+    Le bouclier a une Solidité de 3, 12 PV et un SR de 6.
+    
     **Conditions de fabrication** au moins 15 pa de fer froid
 
 targe-en-fer-froid-qualité-standard:
@@ -345,10 +374,14 @@ targe-en-fer-froid-qualité-standard:
   bonus: 1
   level: 7
   prix: 300 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   description: |
-    <span>Les targes en fer froid ne produisent généralement aucun effet supplémentaire mais ce sont des armes en fer froid lorsqu’on les utilise pour frapper.
+    Les targes en fer froid ne produisent généralement aucun effet supplémentaire mais ce sont des armes en fer froid lorsqu’on les utilise pour frapper.
     
-    <span>La targe a une Solidité de 5, 20 PV et un SR de 10.  
+    La targe a une Solidité de 5, 20 PV et un SR de 10.
+    
     **Conditions de fabrication** au moins 375 pa de fer froid
 
 bouclier-en-fer-froid-de-haute-qualité:
@@ -361,6 +394,9 @@ bouclier-en-fer-froid-de-haute-qualité:
   bonus: 2
   level: 15
   prix: 5,500 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   description: |
     <span>Les boucliers en fer froid ne produisent généralement aucun effet supplémentaire mais ce sont des armes en fer froid lorsqu'on les utilise pour frapper.
     
@@ -378,10 +414,14 @@ bouclier-en-fer-froid-basse-qualité:
   bonus: 2
   level: 2
   prix: 34 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   description: |
-    <span>Les boucliers en fer froid ne produisent généralement aucun effet supplémentaire mais ce sont des armes en fer froid lorsqu’on les utilise pour frapper.
+    Les boucliers en fer froid ne produisent généralement aucun effet supplémentaire mais ce sont des armes en fer froid lorsqu’on les utilise pour frapper.
     
-    <span>Le bouclier a une Solidité de 5, 20 PV et un SR de 10.  
+    Le bouclier a une Solidité de 5, 20 PV et un SR de 10.
+    
     **Conditions de fabrication** au moins 17 pa de fer froid
 
 bouclier-en-fer-froid-qualité-standard:
@@ -394,8 +434,11 @@ bouclier-en-fer-froid-qualité-standard:
   bonus: 2
   level: 7
   prix: 340 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   description: |
-    <span>Les boucliers en fer froid ne produisent généralement aucun effet supplémentaire mais ce sont des armes en fer froid lorsqu’on les utilise pour frapper.
+    Les boucliers en fer froid ne produisent généralement aucun effet supplémentaire mais ce sont des armes en fer froid lorsqu’on les utilise pour frapper.
     
     Le bouclier a une Solidité de 7, 28 PV et un SR de 14
     
@@ -411,6 +454,9 @@ targe-en-ébénite-de-haute-qualité:
   bonus: 1
   level: 16
   prix: 8,000 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   description: |
     <span>Un bouclier en ébénite est 1 Encombrement plus léger que la normale (ou d'un Encombrement léger si son Encombrement normal est de 1, sans effet sur un bouclier ayant normalement un Encombrement léger).
     
@@ -428,12 +474,15 @@ targe-en-ébénite-qualité-standard:
   bonus: 1
   level: 8
   prix: 400 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   description: |
-    <span>Un bouclier en ébénite est 1 Encombrement plus léger que la normale (ou d’un Encombrement léger si son Encombrement normal est de 1,sans effet sur un bouclier ayant normalement un Encombrement léger).
+    Un bouclier en ébénite est 1 Encombrement plus léger que la normale (ou d’un Encombrement léger si son Encombrement normal est de 1,sans effet sur un bouclier ayant normalement un Encombrement léger).
     
     Le bouclier a une Solidité de 3, 12 PV et un SR de 6
     
-    <span>**Conditions de fabrication** au moins 50 po d’ébénite
+    **Conditions de fabrication** au moins 50 po d’ébénite
 
 bouclier-en-ébénite-de-haute-qualité:
   id: V4kbHwiODxwJOJga
@@ -445,6 +494,9 @@ bouclier-en-ébénite-de-haute-qualité:
   bonus: 2
   level: 16
   prix: 8,800 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   description: |
     <span>Un bouclier en ébénite est 1 Encombrement plus léger que la normale (ou d'un Encombrement léger si son Encombrement normal est de 1, sans effet sur un bouclier ayant normalement un Encombrement léger).
     
@@ -462,6 +514,9 @@ bouclier-en-ébénite-de-qualité-standard:
   bonus: 2
   level: 8
   prix: 440 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   description: |
     <span>Un bouclier en ébénite est 1 Encombrement plus léger que la normale (ou d'un Encombrement léger si son Encombrement normal est de 1, sans effet sur un bouclier ayant normalement un Encombrement léger).
     
@@ -479,6 +534,9 @@ pavois-en-ébénite-de-haute-qualité:
   bonus: 2
   level: 16
   prix: 11,200 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   description: |
     <span>Un bouclier en ébénite est 1 Encombrement plus léger que la normale (ou d'un Encombrement léger si son Encombrement normal est de 1, sans effet sur un bouclier ayant normalement un Encombrement léger).
     
@@ -496,6 +554,9 @@ pavois-en-ébénite-de-qualité-standard:
   bonus: 2
   level: 8
   prix: 560 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   description: |
     <span>Un bouclier en ébénite est 1 Encombrement plus léger que la normale (ou d'un Encombrement léger si son Encombrement normal est de 1, sans effet sur un bouclier ayant normalement un Encombrement léger).
     
@@ -526,13 +587,17 @@ armure-démoniaque:
   description: |
     Fait de fer noir, ce harnois de résilience +2 est conçu pour vous donner l’air d’un démon cornu, la gueule hurlante du fiélon encadrant votre visage.
     
-    Tant que vous portez cette armure, vous pouvez attaquer avec les cornes du heaume. Elles fonctionnent comme une arme de guerre de corps à corps dotée d’une *rune de puissance d’arme +2*. Elles infligent 2d8 dégâts perforants et possèdent le trait mortel d12. Une cible touchée par un coup critique avec les cornes fait un jet de Vigueur DD 30 contre la peste abyssale. Il est impossible de graver une rune sur les cornes.
+    Tant que vous portez cette armure, vous pouvez attaquer avec les cornes du heaume. Elles fonctionnent comme une arme de guerre de corps à corps dotée d’une rune de puissance d’arme +2. Elles infligent 2d8 dégâts perforants et possèdent le trait mortel d12. Une cible touchée par un coup critique avec les cornes fait un jet de Vigueur DD 30 contre la peste abyssale. Il est impossible de graver une rune sur les cornes.
     
     Si vous n’êtes pas d’alignement mauvais, vous êtes drainé 2 et ne pouvez pas vous débarrasser de cet état tant que vous portez l’*armure démoniaque*.
     
-    **Activation**<span style="font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;">D Sur ordre; **Fréquence** 1/jour; **Effet**  Vous lancez  [Porte dimensionnelle](../sorts/porte-dimensionnelle.html).
+    **Activation** <span class="pf2-icon">DSur ordre
+     
+    **Fréquence** 1 fois par jour
+     
+    **Effet**  Vous lancez  [Porte dimensionnelle](../sorts/porte-dimensionnelle.html).
     
-    **Conditions de fabrication** Vous êtes d’alignement mauvais ; fournir une incantation de *porte dimensionnelle*.
+    **Conditions de fabrication** Vous êtes d’alignement mauvais ; fournir une incantation de Porte dimensionnelle.
 
 targe-en-peau-de-dragon-haute-qualité:
   id: R1I1MEKwDYtCfZr3
@@ -544,6 +609,9 @@ targe-en-peau-de-dragon-haute-qualité:
   bonus: 1
   level: 16
   prix: 8,000 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   description: |
     <span>Chaque bouclier en peau de dragon est immunisé contre un type de dégâts selon le type de dragon.
     
@@ -554,30 +622,30 @@ targe-en-peau-de-dragon-haute-qualité:
     <td style="box-sizing: border-box; user-select: text; color: white; width: 251px; text-align: center; background-color: #522e2c; height: 17px;">**Résistance**</td>
     </tr>
     <tr style="box-sizing: border-box; user-select: text; height: 17px;">
-    <td style="box-sizing: border-box; user-select: text; width: 116px; background-color: #f6f1e1; height: 17px; text-align: center;">Airain, or ou rouge  
-    <span id="ctl00_MainContent_DetailedOutput" style="box-sizing: border-box; user-select: text; display: block;"></td>
+    <td style="box-sizing: border-box; user-select: text; width: 116px; background-color: #f6f1e1; height: 17px; text-align: center;">Airain, or ou rouge</td>
     <td style="box-sizing: border-box; user-select: text; width: 251px; background-color: #f6f1e1; height: 17px; text-align: center;">Feu</td>
     </tr>
     <tr style="height: 20px;">
     <td style="box-sizing: border-box; user-select: text; width: 116px; background-color: #eee5c8; text-align: center; height: 20px;">Argent ou blanc</td>
-    <td style="box-sizing: border-box; user-select: text; width: 251px; background-color: #eee5c8; text-align: center; height: 20px;">Froid </td>
+    <td style="box-sizing: border-box; user-select: text; width: 251px; background-color: #eee5c8; text-align: center; height: 20px;">Froid</td>
     </tr>
     <tr style="height: 20px;">
     <td style="box-sizing: border-box; user-select: text; width: 116px; background-color: #f6f1e1; text-align: center; height: 20px;">Bleu ou bronze</td>
-    <td style="box-sizing: border-box; user-select: text; width: 251px; background-color: #f6f1e1; text-align: center; height: 20px;">Électricité </td>
+    <td style="box-sizing: border-box; user-select: text; width: 251px; background-color: #f6f1e1; text-align: center; height: 20px;">Électricité</td>
     </tr>
     <tr style="height: 20px;">
     <td style="box-sizing: border-box; user-select: text; width: 116px; background-color: #eee5c8; text-align: center; height: 20px;">Noir ou cuivre</td>
-    <td style="box-sizing: border-box; user-select: text; width: 251px; background-color: #eee5c8; text-align: center; height: 20px;">Acide </td>
+    <td style="box-sizing: border-box; user-select: text; width: 251px; background-color: #eee5c8; text-align: center; height: 20px;">Acide</td>
     </tr>
     <tr style="height: 20px;">
     <td style="box-sizing: border-box; user-select: text; width: 116px; background-color: #f6f1e1; text-align: center; height: 20px;">Vert</td>
-    <td style="box-sizing: border-box; user-select: text; width: 251px; background-color: #f6f1e1; text-align: center; height: 20px;">Poison </td>
+    <td style="box-sizing: border-box; user-select: text; width: 251px; background-color: #f6f1e1; text-align: center; height: 20px;">Poison</td>
     </tr>
     </tbody>
     </table>
     
-    <span>Le bouclier a une solidité de 5, 20 PV et une SR de 10.  
+    Le bouclier a une solidité de 5, 20 PV et une SR de 10.
+    
     **Conditions de fabrication** au moins 4000 po de peau de dragon
 
 taarge-en-peau-de-dragon-qualité-normale:
@@ -590,6 +658,9 @@ taarge-en-peau-de-dragon-qualité-normale:
   bonus: 1
   level: 8
   prix: 400 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   description: |
     <span>Chaque bouclier en peau de dragon est immunisé contre un type de dégâts selon le type de dragon.
     
@@ -637,8 +708,11 @@ bouclier-en-peau-de-dragon-de-haute-qualité:
   bonus: 2
   level: 16
   prix: 8,800 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   description: |
-    <span>Chaque bouclier en peau de dragon est immunisé contre un type de dégâts selon le type de dragon.
+    Chaque bouclier en peau de dragon est immunisé contre un type de dégâts selon le type de dragon.
     
     <table style="height: 134px; width: 368px;" border="1">
     <tbody style="box-sizing: border-box; user-select: text;">
@@ -649,27 +723,28 @@ bouclier-en-peau-de-dragon-de-haute-qualité:
     <tr style="box-sizing: border-box; user-select: text; height: 17px;">
     <td style="box-sizing: border-box; user-select: text; width: 116px; background-color: #f6f1e1; height: 17px; text-align: center;">Airain, or ou rouge  
     <span id="ctl00_MainContent_DetailedOutput" style="box-sizing: border-box; user-select: text; display: block;"></td>
-    <td style="box-sizing: border-box; user-select: text; width: 251px; background-color: #f6f1e1; height: 17px; text-align: center;"><span>Feu</td>
+    <td style="box-sizing: border-box; user-select: text; width: 251px; background-color: #f6f1e1; height: 17px; text-align: center;">Feu</td>
     </tr>
     <tr style="height: 20px;">
-    <td style="box-sizing: border-box; user-select: text; width: 116px; background-color: #eee5c8; text-align: center; height: 20px;"><span>Argent ou blanc</td>
-    <td style="box-sizing: border-box; user-select: text; width: 251px; background-color: #eee5c8; text-align: center; height: 20px;"><span>Froid </td>
+    <td style="box-sizing: border-box; user-select: text; width: 116px; background-color: #eee5c8; text-align: center; height: 20px;">Argent ou blanc</td>
+    <td style="box-sizing: border-box; user-select: text; width: 251px; background-color: #eee5c8; text-align: center; height: 20px;">Froid</td>
     </tr>
     <tr style="height: 20px;">
-    <td style="box-sizing: border-box; user-select: text; width: 116px; background-color: #f6f1e1; text-align: center; height: 20px;"><span>Bleu ou bronze</td>
-    <td style="box-sizing: border-box; user-select: text; width: 251px; background-color: #f6f1e1; text-align: center; height: 20px;"><span>Électricité </td>
+    <td style="box-sizing: border-box; user-select: text; width: 116px; background-color: #f6f1e1; text-align: center; height: 20px;">Bleu ou bronze</td>
+    <td style="box-sizing: border-box; user-select: text; width: 251px; background-color: #f6f1e1; text-align: center; height: 20px;">Électricité</td>
     </tr>
     <tr style="height: 20px;">
-    <td style="box-sizing: border-box; user-select: text; width: 116px; background-color: #eee5c8; text-align: center; height: 20px;"><span>Noir ou cuivre</td>
-    <td style="box-sizing: border-box; user-select: text; width: 251px; background-color: #eee5c8; text-align: center; height: 20px;"><span>Acide </td>
+    <td style="box-sizing: border-box; user-select: text; width: 116px; background-color: #eee5c8; text-align: center; height: 20px;">Noir ou cuivre</td>
+    <td style="box-sizing: border-box; user-select: text; width: 251px; background-color: #eee5c8; text-align: center; height: 20px;">Acide</td>
     </tr>
     <tr style="height: 20px;">
-    <td style="box-sizing: border-box; user-select: text; width: 116px; background-color: #f6f1e1; text-align: center; height: 20px;"><span>Vert</td>
-    <td style="box-sizing: border-box; user-select: text; width: 251px; background-color: #f6f1e1; text-align: center; height: 20px;"><span>Poison </td>
+    <td style="box-sizing: border-box; user-select: text; width: 116px; background-color: #f6f1e1; text-align: center; height: 20px;">Vert</td>
+    <td style="box-sizing: border-box; user-select: text; width: 251px; background-color: #f6f1e1; text-align: center; height: 20px;">Poison</td>
     </tr>
     </tbody>
     </table>
-    <span>Le bouclier a une solidité de 7, 28 PV et une SR de 14.  
+    Le bouclier a une solidité de 7, 28 PV et une SR de 14.
+    
     **Conditions de fabrication** au moins 4 400 po de peau de dragon
 
 bouclier-en-peau-de-dragon-de-qualité-standard:
@@ -682,6 +757,9 @@ bouclier-en-peau-de-dragon-de-qualité-standard:
   bonus: 2
   level: 8
   prix: 440 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   description: |
     <span>Chaque bouclier en peau de dragon est immunisé contre un type de dégâts selon le type de dragon.
     
@@ -741,9 +819,11 @@ harnois-du-dragon:
   description: |
     Ce harnois en peau de dragon de résilience supérieure +2 vous donne l’air d’un terrifiant dragon. Il se décline en dix variétés, chacune correspondant à l’un des dix types de dragons ordinaires, bien qu’il en existe sûrement d’autres. 
     
-    **Activation** <span style="font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;">D Interagir; **Fréquence** 1/jour;
+    **Activation** <span class="pf2-icon">D Interagir
+    
+    **Fréquence** 1 fois par jour
      
-    **Effet** Vous soufflez comme un dragon, la forme, le type de dégâts et le jet de sauvegarde du souffle dépendant du type de dragon ayant servi à fabriquer l’armure (voir le tableau suivant). Le souffle inflige 14d6 dégâts ; chaque créature de la zone devant faire un jet de sauvegarde basique DD 36.
+    **Effet** Vous soufflez comme un dragon, la forme, le type de dégâts et le jet de sauvegarde du souffle dépendant du type de dragon ayant servi à fabriquer l’armure. Le souffle inflige 14d6 dégâts ; chaque créature de la zone devant faire un jet de sauvegarde basique DD 36.
     
     **Conditions de fabrication**  Les matériaux initiaux bruts doivent inclure 1 250 po de peau de dragon.
 
@@ -757,6 +837,9 @@ bouclier-du-pourfendeur-de-dragons:
   bonus: 2
   level: 9
   prix: 670 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   traits:
     - Abjuration
     - Magique
@@ -805,6 +888,8 @@ peau-d-anguille-électrique:
   level: 10
   prix: 950 gp
   dexMax: 4
+  malusTests: 0
+  force: 0
   encombrement: 1
   traits:
     - Investi
@@ -813,13 +898,13 @@ peau-d-anguille-électrique:
   description: |
     Une peau d’anguille luisante et glissante recouvre les plates de cette armure de cuir glissante de résilience supérieure +1. L’armure permet de respirer sous l’eau et vous donne un bonus d’objet de 2 aux tests d’Athlétisme pour Nager et aux tests de Discrétion sous l’eau.
     
-    **Activation**<span style="font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;">D Sur ordre, Interagir;
+    **Activation**<span class="pf2-icon">DSur ordre, Interagir
     
-    **Fréquence** 1/heure;
+    **Fréquence** 1 fois par heure
     
     **Effet** Vous lancez  [Décharge électrique](../sorts/décharge-électrique.html) au niveau 2 avec un DD de 29.
     
-    **Conditions de fabrication** Fournir une incantation de *décharge électrique*.
+    **Conditions de fabrication** Fournir une incantation de Décharge électrique.
     
     Effets automatiquement appliqués:
     
@@ -837,6 +922,7 @@ maille-elfique-haute-qualité:
   level: 20
   prix: 52,000 gp
   dexMax: 3
+  malusTests: 0
   force: 12
   encombrement: 0
   traits:
@@ -859,6 +945,7 @@ maille-elfique-qualité-standard:
   level: 13
   prix: 2,500 gp
   dexMax: 3
+  malusTests: 0
   force: 12
   encombrement: 0
   traits:
@@ -880,29 +967,34 @@ bouclier-explosif:
   bonus: 2
   level: 5
   prix: 25 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   traits:
     - Évocation
     - Magique
   description: |
     La magie de ce bouclier en bois (Solidité 3, PV 12, SR 6) se déchaîne sur vos ennemis lorsque le bouclier est détruit.
     
-    **Activation** <span style="font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;">F Interagir;
+    **Activation** <span class="pf2-icon">F Interagir
     
     **Déclencheur** Le bouclier explosif est détruit
     
-    **Effet** Le bouclier explose vers l'extérieur, infligeant 4d6 dégâts perforants à chaque créature dans un cône de 4,5 m (jet de Réflexes basique DD 19).
+    **Effet** Le bouclier explose vers l'extérieur, infligeant 4d6 dégâts perforants à chaque créature dans un cône de 4,5 mètres (jet de Réflexes basique DD 19).
     
-    <table style="height: 32px;" border="1">
-    <tbody>
-    <tr style="height: 15px;">
-    <td style="height: 15px; width: 115px;">Solidité</td>
-    <td style="height: 15px; width: 115px;">PV</td>
-    <td style="height: 15px; width: 116px;">SR</td>
+    <table class="pf2-table">
+    <thead>
+    <tr>
+    <th>Solidité</th>
+    <th>PV</th>
+    <th>SR</th>
     </tr>
-    <tr style="height: 17px;">
-    <td style="height: 17px; width: 115px;">3</td>
-    <td style="height: 17px; width: 115px;">12</td>
-    <td style="height: 17px; width: 116px;">6</td>
+    </thead>
+    <tbody>
+    <tr>
+    <td>3</td>
+    <td>12</td>
+    <td>6</td>
     </tr>
     </tbody>
     </table>
@@ -917,13 +1009,17 @@ bouclier-flottant:
   bonus: 1
   level: 11
   prix: 1,250 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   traits:
     - Magique
   description: |
-    Des motifs d’aile sont souvent gravés sur un *bouclier flottant*. Cette targe (Solidité 6, 24 PV, SR 12) peut vous protéger de sa propre initiative
+    Des motifs d’aile sont souvent gravés sur un bouclier flottant. Cette targe (Solidité 6, 24 PV, SR 12) peut vous protéger de sa propre initiative
     
-    **Activation**<span style="font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;">AInteragir; 
-    **Fréquence** 1/jour; 
+    **Activation** <span class="pf2-icon">A Interagir
+    
+    **Fréquence** 1 par jour 
     **Effet**  Le bouclier se détache de votre bras et flotte à vos côtés en vous conférant automatiquement son bonus, comme si vous aviez Levé le bouclier.
      
     Étant donné que vous ne maniez pas le bouclier, vous ne pouvez pas utiliser de réactions telles que Blocage au bouclier avec lui mais vous profitez de ses avantages, même si vous utilisez déjà vos deux mains.
@@ -940,12 +1036,15 @@ bouclier-flottant-supérieur:
   bonus: 1
   level: 16
   prix: 9,000 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   traits:
     - Magique
   description: |
-    Des motifs d’aile sont souvent gravés sur un *bouclier flottant*. Cette targe (Solidité 6, 24 PV, SR 12) peut vous protéger de sa propre initiative
+    Des motifs d’aile sont souvent gravés sur un bouclier flottant. Cette targe (Solidité 6, 24 PV, SR 12) peut vous protéger de sa propre initiative
     
-    **Activation** <span style="font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;">A Interagir;
+    **Activation** <span class="pf2-icon">A Interagir
     
     **Fréquence** Vous pouvez activer le bouclier autant de fois que vous le voulez par jour
     
@@ -961,6 +1060,9 @@ bouclier-de-force:
   bonus: 2
   level: 9
   prix: 650 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   traits:
     - Évocation
     - Force
@@ -968,9 +1070,9 @@ bouclier-de-force:
   description: |
     De minuscules tuiles de verre agencées en mosaïque ornent les bords de ce bouclier en acier aux gravures élaborées (Solidité 8, 32 PV, SR 16).
     
-    **Activation** <span style="font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;">AA sur ordre
+    **Activation** <span class="pf2-icon">A Sur ordre
     
-    **Fréquence** 1/jour
+    **Fréquence** 1 fois par jour
     
     **Effet** Le bouclier créé une bulle de force autour de vous qui vous protège des coups en vous octroyant une résistance 5 aux dégâts physiques pendant une minute. La bulle disparaît si vous ne tenez plus le bouclier
 
@@ -984,6 +1086,9 @@ gardien-de-la-forge:
   bonus: 2
   level: 10
   prix: 975 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   traits:
     - Abjuration
     - Magique
@@ -992,9 +1097,9 @@ gardien-de-la-forge:
     
     Vous et tous les alliés adjacents avez une résistance au feu 5 tant que vous levez le bouclier. Lorsqu’il est utilisé pour un Blocage au bouclier, le gardien de la forge produit le son d’un coup de marteau contre une enclume et le symbole se met à luire comme si le feu d’une fournaise l’avait embrasé.
     
-    **Activation** <span style="font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;">F sur ordre (feu) ;
+    **Activation** <span class="pf2-icon">F Sur ordre (feu)
     
-    **Déclencheur** Vous utilisez le gardien de la forge pour Bloquer au bouclier l’attaque d’une créature adjacente et le bouclier subit des dégâts ;
+    **Déclencheur** Vous utilisez le gardien de la forge pour Bloquer au bouclier l’attaque d’une créature adjacente et le bouclier subit des dégâts
     
     **Effet**  La créature attaquante subit 2d6 dégâts de feu.
 
@@ -1066,7 +1171,7 @@ peau-de-goule:
     - Magique
     - Nécromancie
   description: |
-    Cette *armure de peau * *+1 * cousue à partir de lambeaux de peau de goule vous donne un bonus d’objet de +1 aux jets de sauvegarde contre la maladie et la paralysie et vous immunise contre la paralysie des goules. *Une peau de goule* améliorée avec *une rune de résilience* augmente le bonus d’objet de la rune de résilience aux jets de sauvegarde contre la maladie et la paralysie de 1 (+4 au maximum).
+    Cette armure de peau +1 cousue à partir de lambeaux de peau de goule vous donne un bonus d’objet de +1 aux jets de sauvegarde contre la maladie et la paralysie et vous immunise contre la paralysie des goules. *Une peau de goule* améliorée avec *une rune de résilience* augmente le bonus d’objet de la rune de résilience aux jets de sauvegarde contre la maladie et la paralysie de 1 (+4 au maximum).
     
     *La peau de goule* émet un sifflement haineux dès qu’elle entre en contact avec un elfe. Si elle est portée par une créature dotée du trait elfique, elle gagne le trait bruyante
     
@@ -1084,6 +1189,9 @@ targe-étincelante:
   bonus: 1
   level: 2
   prix: 35 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   traits:
     - Illusion
     - Magique
@@ -1092,27 +1200,29 @@ targe-étincelante:
     
     Effet: Targe étincelante
     
-    **Activation** <span style="font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;">F Imaginer;
+    **Activation** <span class="pf2-icon">F imaginer ;
     
-    **Fréquence** une fois par jour;
+    **Fréquence** une fois par jour ;
     
-    **Déclencheur** Vous feintez;
+    **Déclencheur** Vous feintez ;
     
-    **Conditions** Vous avez levé votre targe étincelante;
+    **Conditions** Vous avez levé votre targe étincelante ;
     
     **Effet** Lorsque vous feintez, la targe étincelante scintille puissamment. En cas de succès de la Feinte, la cible est éblouie pendant 1 round.
     
-    <table style="height: 32px;" border="1">
-    <tbody>
-    <tr style="height: 15px;">
-    <td style="height: 15px; width: 115px;">Solidité</td>
-    <td style="height: 15px; width: 115px;">PV</td>
-    <td style="height: 15px; width: 116px;">SR</td>
+    <table class="pf2-table">
+    <thead>
+    <tr>
+    <th>Solidité</th>
+    <th>PV</th>
+    <th>SR</th>
     </tr>
-    <tr style="height: 17px;">
-    <td style="height: 17px; width: 115px;">3</td>
-    <td style="height: 17px; width: 115px;">6</td>
-    <td style="height: 17px; width: 116px;">3</td>
+    </thead>
+    <tbody>
+    <tr>
+    <td>3</td>
+    <td>6</td>
+    <td>3</td>
     </tr>
     </tbody>
     </table>
@@ -1138,15 +1248,17 @@ harnois-glorieux:
     - Magique
     - Rempart
   description: |
-    Cet élégant harnois est estampée d'images héraldiques et ne ternit jamais ni ne perd son éclat. *Harnois glorieux* est un *harnois de résilience +2*.
+    Cet élégant harnois est estampée d'images héraldiques et ne ternit jamais ni ne perd son éclat. L'harnois glorieux est un harnois de résilience +2.
     
-    Au combat, le *harnois glorieux* diffuse une lumière vive dans un rayon de 3 mètres, que les ennemis voient comme un halo aveuglant qui masque les créatures autres que le porteur. Lorsqu'un ennemi regarde le porteur, il doit tenter un jet de sauvegarde de Volonté DD 33. L'ennemi est alors temporairement immunisé contre cet effet pendant 1 minute.
+    Au combat, l'harnois glorieux diffuse une lumière vive dans un rayon de 3 mètres, que les ennemis voient comme un halo aveuglant qui masque les créatures autres que le porteur. Lorsqu'un ennemi regarde le porteur, il doit tenter un jet de sauvegarde de Volonté DD 33. L'ennemi est alors temporairement immunisé contre cet effet pendant 1 minute.
     
-    **Succès** L'ennemi n'est pas affecté.  
-    **Echec** Pendant 1 minute, les alliés du porteur dans le rayon de lumière de 3 mètres autour du *harnois glorieux* sont *masqués* de l'ennemi. Les alliés sont *masqués* tant qu'ils restent dans la lumière ; tout allié qui entre dans la lumière plus tard, est également *masqué*.  
-    **Échec critique** Comme un échec, sauf que les alliés du porteur sont *cachés* de l'ennemi au lieu d'être *masqués*.
+    **Succès** L'ennemi n'est pas affecté.
     
-    **Activation** <span style="font-family : 'Pathfinder2eActions' ; font-size : 1.8em ; display : inline;">D Sur ordre, Interagir
+    **Echec** Pendant 1 minute, les alliés du porteur dans le rayon de lumière de 3 mètres autour de l'harnois glorieux sont [Masqués](../conditions/masqué.html) de l'ennemi. Les alliés sont Masqués tant qu'ils restent dans la lumière ; tout allié qui entre dans la lumière plus tard, est également Masqué
+    
+    **Échec critique** Comme un échec, sauf que les alliés du porteur sont [Cachés](../conditions/caché.html) de l'ennemi au lieu d'être Masqués.
+    
+    **Activation** <span class="pf2-icon">D Sur ordre, Interagir
     
     **Effet** L'armure vous lance [Sanctuaire](../sorts/sanctuaire.html).
 
@@ -1177,13 +1289,14 @@ armure-de-chevalier-infernal:
   bonus: 6
   level: 2
   prix: 35 gp
+  dexMax: 0
   malusTests: -3
   force: 18
   encombrement: 4
   traits:
     - Rempart
   description: |
-    <span>Peu d'armures au sein de la Région de la Mer Intérieure sont aussi mémorables que l'iconique Armure d'un Chevalier infernal. Bien que chaque ordre dispose de ses propres ornementations, l'armure de Chevalier infernal est instantanément reconnaissable pour n'importe qui a connaissance de l'existence des Chevaliers infernaux. Les Chevaliers infernaux prennent des mesures extrêmes pour punir les non Chevaliers infernaux qui mettent la main sur une armure de Chevalier infernal et cette récompense ne vaut souvent pas qu'on prenne ce risque, car pour ceux qui ne sont pas Chevaliers infernaux, l'armure fonctionne de manière similaire à un [Harnois](harnois.html).
+    Peu d'armures au sein de la Région de la Mer Intérieure sont aussi mémorables que l'iconique Armure d'un Chevalier infernal. Bien que chaque ordre dispose de ses propres ornementations, l'armure de Chevalier infernal est instantanément reconnaissable pour n'importe qui a connaissance de l'existence des Chevaliers infernaux. Les Chevaliers infernaux prennent des mesures extrêmes pour punir les non Chevaliers infernaux qui mettent la main sur une armure de Chevalier infernal et cette récompense ne vaut souvent pas qu'on prenne ce risque, car pour ceux qui ne sont pas Chevaliers infernaux, l'armure fonctionne de manière similaire à un [Harnois](harnois.html).
 
 armure-de-peau:
   id: AnwzlOs0njF9Jqnr
@@ -1221,18 +1334,13 @@ armure-impénétrable:
     - Investi
     - Magique
   description: |
-    <section class="content">
     Cette armure d’écailles en adamantium de [Fortification](fortification-rune.html) de résilience supérieure +2 est faite d’écailles noires et lustrées en adamantium de qualité standard qui se chevauchent et semblent s’épaissir momenta‑ nément au point d’impact lorsqu’elle encaisse un coup.
     
     Quand la rune de fortification remporte un succès en transformant un coup critique en coup normal, l’une des écailles devient violette. Vous gagnez une résistance aux dégâts physiques égale au nombre d’écailles violettes, sans dépasser 8.
     
     Chaque jour à l’aube, toutes les écailles violettes redeviennent normales.
     
-    </section>
-    <section class="content extra">
     **Conditions de fabrication** Les matériaux initiaux bruts doivent inclure 1 600 po d’adamantium.
-    
-    </section>
 
 bouclier-indestructible:
   id: SUbYk6B1iPoGyyjh
@@ -1244,6 +1352,9 @@ bouclier-indestructible:
   bonus: 2
   level: 18
   prix: 24,000 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   traits:
     - Abjuration
     - Magique
@@ -1262,6 +1373,9 @@ bouclier-brise-mâchoire:
   bonus: 2
   level: 12
   prix: 1,650 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   traits:
     - Abjuration
     - Magique
@@ -1270,7 +1384,7 @@ bouclier-brise-mâchoire:
     
     Lorsque vous tenez le bouclier brise-mâchoire, vous gagnez un bonus d'objet de +3 à votre DD de Réflexes pour résister aux attaques [Gober](../capacités-monstres/gober.html).
     
-    **Activation** <span style="font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;">R Interagir
+    **Activation** <span class="pf2-icon">R Interagir
     
     **Déclencheur** Une créature vous attaque avec une Frappe de mâchoires, de crocs, ou une Frappe similaire en utilisant sa bouche.
     
@@ -1336,18 +1450,22 @@ bouclier-du-lion:
   bonus: 2
   level: 6
   prix: 245 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   traits:
     - Invocation
     - Magique
   description: |
     Ce bouclier en acier (Solidité 6, 36 PV, SR 18) est forgé de façon à ressembler à une tête de lion rugissant. La tête de lion fonctionne comme un ombon de frappe +1 impossible à détacher du bouclier.
     
-    **Activation** <span style="font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;">A Lever un bouclier;
-     **Fréquence** 1/jour;
+    **Activation** <span class="pf2-icon">A Lever un bouclier
+     
+    **Fréquence** 1/jour;
     
     **Effet** Vous animez la tête de lion. Vous Levez le bouclier et faites une Frappe au corps à corps avec lui au cours de la même action.
     
-    La gueule du bouclier est une arme de guerre de corps à corps qui inflige 2d6 dégâts perforants et a le trait mortelle 1d6 ; il est impossible de l’améliorer avec des runes. Pendant une minute, le bouclier reste animé et vous pouvez Frapper avec lui chaque fois que vous Levez le bouclier, ainsi qu’avec l’action Frapper.
+    La gueule du bouclier est une arme de guerre de corps à corps qui inflige 2d6 dégâts perforants et a le trait mortel 1d6 ; il est impossible de l’améliorer avec des runes. Pendant une minute, le bouclier reste animé et vous pouvez Frapper avec lui chaque fois que vous Levez le bouclier, ainsi qu’avec l’action Frapper.
 
 maille-chanceuse:
   id: AdJgj7vVvNGvPIEj
@@ -1370,11 +1488,11 @@ maille-chanceuse:
   description: |
     >Ce clibanion de résilience +2 est serti d’une gemme verte bien visible
     
-    **Activation**<span style="font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;">F Imaginer;
+    **Activate** <span class="pf2-icon">F Imaginer
      
-    **Fréquence** 1/jour;
+    **Fréquence** 1 fois par jour
      
-    **Déclencheur**Vous êtes touché par une attaque qui se solde par un coup ou un coup critique, mais les dégâts n’ont pas encore été lancés ;
+    **Déclencheur**Vous êtes touché par une attaque qui se solde par un coup ou un coup critique, mais les dégâts n’ont pas encore été lancés
      
     **Effet** Vous obligez l’assaillant à relancer le jet d’attaque et conserver le pire résultat. Cet effet a le trait infortune.
     
@@ -1389,19 +1507,27 @@ bouclier-du-martyr:
   type: shield
   bonus: 2
   level: 7
-  prix: 
+  prix: 0 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   traits:
     - Abjuration
     - Divine
     - Intelligent
   description: |
-    <span>**Perception** +12; vision précise 9 m, ouïe imprécise 9 m  
-    **Communication** parole (commun et céleste)  
-    **Compétences** Diplomacie +15, Religion +13  
+    **Perception** +12; vision précise 9 m, ouïe imprécise 9 m
+    
+    **Communication** parole (commun et céleste)
+    
+    **Compétences** Diplomatie +15, Religion +13
+    
     **Int** +0, **Sag** +2, **Cha** +4  
     **Volonté** +15
     
-    Un bouclier du martyr est un bouclier renforcé inférieur imprégné de la compassion d’un champion dévoué à une divinité de la justice, telle que Iomédae ou Vildéïs, qui s’est sacrifié pour sauver un allié. En plus de vouloir vous convertir avec bonhomie à sa religion, le bouclier du martyr peut utiliser 1 réaction à chaque round qui, quand il est levé, est utilisée comme un Blocage au bouclier afin de protéger un allié adjacent avec les effets du don Gardien au bouclier. Le bouclier du martyr utilise cette réaction que vous le vouliez ou non. Il peut être amélioré en une version plus robuste du bouclier renforcé en payant la différence de coût entre son type actuel de bouclier renforcé et le nouveau type.
+    Un bouclier du martyr est un bouclier renforcé inférieur imprégné de la compassion d’un champion dévoué à une divinité de la justice, telle que Iomédae ou Vildéïs, qui s’est sacrifié pour sauver un allié. En plus de vouloir vous convertir avec bonhomie à sa religion, le bouclier du martyr peut utiliser 1 réaction à chaque round qui, quand il est levé, est utilisée comme un Blocage au bouclier afin de protéger un allié adjacent avec les effets du don Gardien au bouclier. Le bouclier du martyr utilise cette réaction que vous le vouliez ou non.
+    
+    Il peut être amélioré en une version plus robuste du bouclier renforcé en payant la différence de coût entre son type actuel de bouclier renforcé et le nouveau type.
 
 armure-de-la-méduse:
   id: Iic9QpNemaumfkHc
@@ -1412,7 +1538,7 @@ armure-de-la-méduse:
   type: medium
   bonus: 3
   level: 14
-  prix: 
+  prix: 0 gp
   dexMax: 2
   malusTests: -2
   force: 14
@@ -1425,9 +1551,9 @@ armure-de-la-méduse:
   description: |
     Cette armure d’écailles d’adamantium +2 semble avoir une rune de fortification mais elle n’octroie aucun de ses effets. À chaque fois que vous subissez un coup critique, après avoir subi les dégâts, vous êtes pétrifié pendant 1 round. Une fois que la malédiction s’est activée pour la première fois, l’armure fusionne avec vous.
 
-cri-de-méduse:
+bouclier-du-cri-de-la-méduse:
   id: nzQKwdUxzmmwWtzT
-  nom: Cri de méduse
+  nom: Bouclier du cri de la méduse
   nomEn: Medusa's Scream
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/nzQKwdUxzmmwWtzT.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Medusa's Scream.json
@@ -1435,18 +1561,20 @@ cri-de-méduse:
   bonus: 2
   level: 13
   prix: 3,000 gp
+  dexMax: 0
   malusTests: 5
+  force: 0
   traits:
     - Magique
     - Transmutation
   description: |
-    L'effroyable visage d'une tête de *méduse *tuée se détache de ce *bouclier d'acier* (Solidité 13, PV 52, SR 26). Le bouclier est équipé d'une épaisse housse de cuir pour dissimuler la tête.
+    L'effroyable visage d'une tête de méduse tuée se détache de ce bouclier d'acier (Solidité 13, PV 52, SR 26). Le bouclier est équipé d'une épaisse housse de cuir pour dissimuler la tête.
     
-    **Activation** <span style="font-family : 'Pathfinder2eActions' ; font-size : 1.8em ; display : inline;">2 Interagir (visuel);
+    **Activation** <span class="pf2-icon">2 Interagir (visuel)
     
-    **Fréquence** une fois par jour;
+    **Fréquence** une fois par jour
     
-    **Effet** Vous révélez le visage de la méduse, concentrant son regard sur une créature dans un rayon de 9 mètres. Le bouclier lance* Chair en pierre* avec une portée de 9 mètres.
+    **Effet** Vous révélez le visage de la méduse, concentrant son regard sur une créature dans un rayon de 9 mètres. Le bouclier lance  [Chair en pierre](../sorts/chair-en-pierre.html) avec une portée de 9 mètres.
     
     **Conditions de fabrication** Les matières premières initiales doivent inclure la tête d'une méduse.
     
@@ -1465,9 +1593,9 @@ cri-de-méduse:
     </tbody>
     </table>
 
-cri-de-méduse-supérieur:
+bouclier-du-cri-de-la-méduse-supérieur:
   id: TyW1XOWYMM2xHGaI
-  nom: Cri de méduse (Supérieur)
+  nom: Bouclier du cri de la méduse (supérieur)
   nomEn: Medusa's Scream (Greater)
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/TyW1XOWYMM2xHGaI.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Medusa's Scream (Greater).json
@@ -1475,16 +1603,18 @@ cri-de-méduse-supérieur:
   bonus: 2
   level: 13
   prix: 3,000 gp
+  dexMax: 0
   malusTests: 5
+  force: 0
   traits:
     - Magique
     - Transmutation
   description: |
-    L'effroyable visage d'une tête de *méduse *tuée se détache de ce *bouclier d'acier* (Solidité 15, PV 60, SR 30). Le bouclier est équipé d'une épaisse housse de cuir pour dissimuler la tête.
+    L'effroyable visage d'une tête de méduse tuée se détache de ce bouclier d'acier (Solidité 15, PV 60, SR 30). Le bouclier est équipé d'une épaisse housse de cuir pour dissimuler la tête.
     
-    **Activation** <span style="font-family : 'Pathfinder2eActions' ; font-size : 1.8em ; display : inline;">2 Interagir (visuel);
+    **Activation** <span class="pf2-icon">2 Interagir (visuel)
     
-    **Fréquence** une fois par heure;
+    **Fréquence** une fois par heure
     
     **Effet** Vous révélez le visage de la méduse, concentrant son regard sur une créature dans un rayon de 9 mètres. Le bouclier lance [Chair en pierre](../sorts/chair-en-pierre.html) avec une portée de 9 mètres et un DD de 35.
     
@@ -1515,6 +1645,9 @@ targe-en-mithral-de-haute-qualité:
   bonus: 1
   level: 16
   prix: 8,000 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   description: |
     <span>Un bouclier en mithral est 1 Encombrement plus léger que la normale (ou d'un Encombrement léger si son Encombrement normal est de 1, sans effet sur un bouclier ayant normalement un Encombrement léger). Ils sont considérés comme des armes en argent lorsqu'on les utilise pour frapper.
     
@@ -1531,10 +1664,14 @@ targe-en-mithral-qualité-standard:
   bonus: 1
   level: 8
   prix: 400 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   description: |
-    <span>Un bouclier en mithral est 1 Encombrement plus léger que la normale (ou d’un Encombrement léger si son Encombrement normal est de 1, sans ef‑ fet sur un bouclier ayant normalement un Encombrement léger). Ils sont considérés comme des armes en argent lorsqu’on les utilise pour frapper.
+    Un bouclier en mithral est 1 Encombrement plus léger que la normale (ou d’un Encombrement léger si son Encombrement normal est de 1, sans ef‑ fet sur un bouclier ayant normalement un Encombrement léger). Ils sont considérés comme des armes en argent lorsqu’on les utilise pour frapper.
     
-    <span>Le bouclier a une Solidité de 3, 12 PV et un SR de 6.  
+    Le bouclier a une Solidité de 3, 12 PV et un SR de 6.
+    
     **Conditions de fabrication** au moins 50 po de mithral
 
 bouclier-en-mithral-de-haute-qualité:
@@ -1547,6 +1684,9 @@ bouclier-en-mithral-de-haute-qualité:
   bonus: 2
   level: 16
   prix: 8,800 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   description: |
     <span>Un bouclier en mithral est 1 Encombrement plus léger que la normale (ou d'un Encombrement léger si son Encombrement normal est de 1, sans effet sur un bouclier ayant normalement un Encombrement léger). Ils sont considérés comme des armes en argent lorsqu'on les utilise pour frapper.
     
@@ -1563,6 +1703,9 @@ bouclier-en-mithral-qualité-standard:
   bonus: 2
   level: 8
   prix: 440 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   description: |
     <span>Un bouclier en mithral est 1 Encombrement plus léger que la normale (ou d’un Encombrement léger si son Encombrement normal est de 1, sans ef fet sur un bouclier ayant normalement un Encombrement léger). Ils sont considérés comme des armes en argent lorsqu’on les utilise pour frapper.
     
@@ -1590,11 +1733,15 @@ maille-lunaire:
     - Magique
     - Souple
   description: |
-    <span>Cette *chemise de mailles en argent +1* possède un col cousu d’images de la lune à ses différentes phases. Vous voyez au clair de lune comme si vous disposiez de vision nocturne.  
+    Cette chemise de mailles en argent +1 possède un col cousu d’images de la lune à ses différentes phases. Vous voyez au clair de lune comme si vous disposiez de vision nocturne.
     
-    <span>**Activation** <span style="font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;">A Interagir;**Fréquence**1/j;**Effet**En touchant l’image de la nouvelle lune sur le col de l’armure, vous supprimez l’état ébloui pendant 1 min.  
+    **Activation** <span class="pf2-icon">A Interagir
     
-    <span>**Conditions de fabrication**Les matériaux initiaux bruts doivent inclure 33 po d’argent.
+    **Fréquence** 1 fois par jour
+    
+    **Effet** En touchant l’image de la nouvelle lune sur le col de l’armure, vous supprimez l’état ébloui pendant 1 minute.
+    
+    **Conditions de fabrication** Les matériaux initiaux bruts doivent inclure 33 po d’argent.
 
 rempart-néthysien:
   id: EKXRigmEZgqmFA62
@@ -1606,14 +1753,17 @@ rempart-néthysien:
   bonus: 2
   level: 16
   prix: 8,000 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   traits:
     - Abjuration
     - Évocation
     - Magique
   description: |
-    Ce bouclier rond est souvent conçu pour ressembler au symbole religieux de son homonyme à double personnalité. Un rempart nethysien est un *bouclier en fer froid de haute qualité* (Solidité 10, PV 40, SR 20) qui défend son porteur et peut exploser avec une force de représailles lorsqu'il est frappé.
+    Ce bouclier rond est souvent conçu pour ressembler au symbole religieux de son homonyme à double personnalité. Un rempart nethysien est un bouclier en fer froid de haute qualité< (Solidité 10, PV 40, SR 20) qui défend son porteur et peut exploser avec une force de représailles lorsqu'il est frappé.
     
-    **Activation** <span style="font-family : 'Pathfinder2eActions' ; font-size : 1.8em ; display : inline;">F imaginer
+    **Activate** <span class="pf2-icon">F Imaginer
     
     **Déclencheur** Le bouclier se *brise* lorsqu'on effectue un Blocage de bouclier
     
@@ -1630,6 +1780,7 @@ pourpoint-nocif:
   level: 13
   prix: 2,800 gp
   dexMax: 3
+  malusTests: 0
   force: 10
   encombrement: L
   traits:
@@ -1639,15 +1790,17 @@ pourpoint-nocif:
   description: |
     Cette armure matelassée de résilience +2 est tissée à partir de nombreux brins de boyaux enfilés avec des organes séchés et des glandes odorantes xulgathes préservées. Lorsqu'elle est portée, elle imprègne votre corps d'une odeur épouvantable et nauséabonde. 
     
-    **Activation** <span style="font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;">F imaginer
+    **Activation** <span class="pf2-icon">F Imaginer
     
     **Déclencheur** Vous êtes empoigné ou touché par une attaque à mains nues.
     
     **Effet** Votre attaquant doit tenter un jet de sauvegarde de Vigueur DD 28. Les créatures dotées d'une aura de puanteur, comme les otyughs et les xulgaths, sont immunisées contre cet effet.
     
-    **Succès** La créature n'est pas affectée et est immunisée contre les effets du pourpoint nocif pendant 1 minute.  
-    **Echec** La créature est malade 1.  
-    **Echec critique** La créature est malade 1 et ralenti 1 pour 1 tour.
+    **Succès** La créature n'est pas affectée et est immunisée contre les effets du pourpoint nocif pendant 1 minute.
+    
+    **Echec** La créature est [Malade](../conditions/malade.html) 1.
+    
+    **Echec critique** La créature est Malade 1 et [Ralenti](../conditions/ralenti.html) 1 pour 1 tour.
 
 cuirasse-en-acier-numérien:
   id: GDSclGF1yk0sw86V
@@ -1666,9 +1819,9 @@ cuirasse-en-acier-numérien:
   description: |
     Cette cuirasse de résilience +1 est construite à partir du blindage récupéré sur l'un des grands robots de Numérie. Elle protège son porteur contre les éléments agressifs et les tirs de laser courants, lui conférant une résistance au feu de 5.
     
-    **Activation**<span style="font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;">1Sur ordre;
+    **Activation**<span class="pf2-icon">1Sur ordre
     
-    **Fréquence** 1/j;
+    **Fréquence** 1 fois par jour
     
     **Effet** Vous activez les restes d'une technologie mystérieuse à l'intérieur de la cuirasse pour vous enfermer dans un champ électrique. Pendant 1 minute, les créatures adjacentes qui vous frappent avec une attaque de mêlée, ainsi que les créatures qui vous touchent ou vous frappent avec une attaque à mains nues, subissent [[/r 1d10]] dégâts d'électricité par coup.
 
@@ -1682,6 +1835,9 @@ targe-en-orichalque-de-haute-qualité:
   bonus: 1
   level: 17
   prix: 12,000 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   description: |
     <span>Les propriétés de manipulation temporelle des boucliers en orichalque sont particulièrement utiles pour les maintenir intacts. Chaque jour, la première fois qu'un bouclier en orichalque devrait être détruit, il lui reste à la place 1 point de vie et il obtient l'état brisé.
     
@@ -1699,6 +1855,9 @@ bouclier-en-orichalque-de-haute-qualité:
   bonus: 2
   level: 17
   prix: 13,200 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   description: |
     <span>Les propriétés de manipulation temporelle des boucliers en orichalque sont particulièrement utiles pour les maintenir intacts. Chaque jour, la première fois qu'un bouclier en orichalque devrait être détruit, il lui reste à la place 1 point de vie et il obtient l'état brisé.
     
@@ -1717,6 +1876,7 @@ armure-matelassée:
   level: 0
   prix: 2 sp
   dexMax: 3
+  malusTests: 0
   force: 10
   encombrement: L
   traits:
@@ -1762,21 +1922,24 @@ bouclier-réfléchissant:
   bonus: 1
   level: 18
   prix: 18,000 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   traits:
     - Abjuration
     - Magique
   description: |
     La surface de cette targe en argent de haute qualité (Solidité 6, 24 PV, SR 12) reflète comme un miroir tellement elle est polie. Le bouclier fonctionne comme un bouclier gardesort qui peut également renvoyer des sorts.
     
-    **Activation** <span style="font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;">R sur ordre;
+    **Activation** <span class="pf2-icon">R Sur ordre
     
-    **Frequency** 1/jour;
+    **Frequency** 1 fois par jour
     
-    **Déclencheur** Vous êtes la cible d’un sort ; 
+    **Déclencheur** Vous êtes la cible d’un sort
     
-    **Conditions** Le *bouclier réfléchissant* est levé ;
+    **Conditions** Le bouclier réfléchissant est levé
     
-    **Effet** Vous tentez de renvoyer le sort sur son incantateur, avec les effets d’un [renvoi de sorts](../sorts/renvoi-de-sorts.html) de niveau 9 et un modificateur de contre de [[/r 1d20+40]].
+    **Effet** Vous tentez de renvoyer le sort sur son incantateur, avec les effets d’un [Renvoi de sorts](../sorts/renvoi-de-sorts.html) de niveau 9 et un modificateur de contre de [[/r 1d20+40]].
     
     **Conditions de fabrication**  Fournir une incantation de *renvoi de sorts* et les matières premières initiales doivent inclure au moins 2 750 po d’argent.
 
@@ -1790,6 +1953,9 @@ bouclier-réparateur:
   bonus: 1
   level: 15
   prix: 6,000 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   traits:
     - Abjuration
     - Magique
@@ -1821,6 +1987,26 @@ peau-de-rhinocéros:
       
     **Conditions de fabrication**Les matériaux initiaux bruts doivent inclure 320 po de peau de rhinocéros (un matériau ordinaire).
 
+exosquelette-du-rite-de-renforcement:
+  id: 0KHgAaDi3tmu32Hq
+  nom: exosquelette du rite de renforcement
+  nomEn: Rite of Reinforcement Exoskeleton
+  urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/0KHgAaDi3tmu32Hq.htm
+  urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Rite of Reinforcement Exoskeleton.json
+  type: medium
+  bonus: 4
+  level: 1
+  prix: 0 gp
+  dexMax: 1
+  malusTests: -2
+  force: 12
+  traits:
+    - Confort
+  description: |
+    **Note** seulement accessible aux Conrasus ayant reçu le Rite de Renforcement
+    
+    Votre exosquelette tissé rivalise avec les armures les plus dures que l'on puisse trouver. Votre exosquelette est une armure moyenne du groupe des armures de plaques qui confère un bonus d'objet de +4 à la CA, un Maximum de Dextérité de +1, une pénalité d'échec aux tests de -2, une pénalité de vitesse de -1,5 m, une valeur de Force de 16 et elle possède le trait confortable. Vous ne pouvez jamais porter une autre armure ou retirer votre exosquelette. Vous pouvez graver des runes d'armure sur votre exosquelette comme à l'ordinaire.
+
 robe-d-archimage:
   id: Wkh5rQx3IqInEKdT
   nom: Robe d'Archimage
@@ -1832,18 +2018,20 @@ robe-d-archimage:
   level: 15
   prix: 6,500 gp
   dexMax: 5
+  malusTests: 0
+  force: 0
   traits:
     - Confort
   description: |
-    Des motifs arcaniques ornés sont brodés au fil d’argent fin sur ces robes qui existent en trois couleurs différentes en fonction de l’alignement avec lequel chacune est harmonisée. Les robes harmonisées à l’alignement bon sont blanches, celles harmonisées à l’alignement neutre sont grises et celles harmonisées à l’alignement mauvais sont noires. Une robe d’alignement mauvais ou bon obtient le trait correspondant. Les robes profitent uniquement aux personnages capables de lancer des sorts arcaniques et dont l’alignement sur l’axe bon-mauvais correspond à celui de la robe. Si votre alignement ne correspond pas à celui de la robe ou si vous n’êtes pas un incantateur arcanique, vous êtes stupéfié 2 à la place tant que vous portez une robe d’archimage. Cet état est impossible à retirer tant que vous portez la robe.
+    Des motifs arcaniques ornés sont brodés au fil d’argent fin sur ces robes qui existent en trois couleurs différentes en fonction de l’alignement avec lequel chacune est harmonisée. Les robes harmonisées à l’alignement bon sont blanches, celles harmonisées à l’alignement neutre sont grises et celles harmonisées à l’alignement mauvais sont noires. Une robe d’alignement mauvais ou bon obtient le trait correspondant. Les robes profitent uniquement aux personnages capables de lancer des sorts arcaniques et dont l’alignement sur l’axe bon-mauvais correspond à celui de la robe. Si votre alignement ne correspond pas à celui de la robe ou si vous n’êtes pas un incantateur arcanique, vous êtes [Stupéfié](../conditions/stupéfié.html) 2 à la place tant que vous portez une robe d’archimage. Cet état est impossible à retirer tant que vous portez la robe.
     
-    Les robes sont des *vêtements d’explorateur de résilience supérieure +2* qui confèrent un bonus de circonstances de +1 aux jets de sauvegarde contre les sorts arcaniques et une résistance 5 aux dégâts des sorts arcaniques. 
+    Les robes sont des Vêtements d’explorateur de résilience supérieure +2 qui confèrent un bonus de circonstances de +1 aux jets de sauvegarde contre les sorts arcaniques et une résistance 5 aux dégâts des sorts arcaniques. 
     
-    **Activation** <span style="font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;">R sur ordre; 
+    **Activation** <span class="pf2-icon">R Sur ordre
     
-    **Fréquence** 1/jour;
+    **Fréquence** 1 fois par jour
     
-    **Déclencheur** Vous devez faire un jet de sauvegarde contre un sort arcanique mais vous n’avez pas encore lancé le dé ;
+    **Déclencheur** Vous devez faire un jet de sauvegarde contre un sort arcanique mais vous n’avez pas encore lancé le dé
     
     **Effet**  Vous réussissez automatiquement votre jet de sauvegarde contre le sort arcanique déclencheur.
     
@@ -1864,26 +2052,28 @@ robe-de-l-archimage-supérieure:
   level: 19
   prix: 32,000 gp
   dexMax: 5
+  malusTests: 0
+  force: 0
   traits:
     - Confort
   description: |
-    Des motifs arcaniques ornés sont brodés au fil d’argent fin sur ces robes qui existent en trois couleurs différentes en fonction de l’alignement avec lequel chacune est harmonisée. Les robes harmonisées à l’alignement bon sont blanches, celles harmonisées à l’alignement neutre sont grises et celles harmonisées à l’alignement mauvais sont noires. Une robe d’alignement mauvais ou bon obtient le trait correspondant. Les robes profitent uniquement aux personnages capables de lancer des sorts arcaniques et dont l’alignement sur l’axe bon-mauvais correspond à celui de la robe. Si votre alignement ne correspond pas à celui de la robe ou si vous n’êtes pas un incantateur arcanique, vous êtes stupéfié 2 à la place tant que vous portez une robe d’archimage. Cet état est impossible à retirer tant que vous portez la robe.
+    Des motifs arcaniques ornés sont brodés au fil d’argent fin sur ces robes qui existent en trois couleurs différentes en fonction de l’alignement avec lequel chacune est harmonisée. Les robes harmonisées à l’alignement bon sont blanches, celles harmonisées à l’alignement neutre sont grises et celles harmonisées à l’alignement mauvais sont noires. Une robe d’alignement mauvais ou bon obtient le trait correspondant. Les robes profitent uniquement aux personnages capables de lancer des sorts arcaniques et dont l’alignement sur l’axe bon-mauvais correspond à celui de la robe. Si votre alignement ne correspond pas à celui de la robe ou si vous n’êtes pas un incantateur arcanique, vous êtes [Stupéfié](../conditions/stupéfié.html) 2 à la place tant que vous portez une robe d’archimage. Cet état est impossible à retirer tant que vous portez la robe.
     
-    Les robes sont des *vêtements d’explorateur de résilience supérieure +2* qui confèrent un bonus de circonstances de +1 aux jets de sauvegarde contre les sorts arcaniques et une résistance 10 aux dégâts des sorts arcaniques. 
+    Les robes sont des Vêtements d’explorateur de résilience supérieure +2 qui confèrent un bonus de circonstances de +1 aux jets de sauvegarde contre les sorts arcaniques et une résistance 10 aux dégâts des sorts arcaniques. 
     
-    **Activation** <span style="font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;">R sur ordre; 
+    **Activation** <span class="pf2-icon">R Sur ordre
     
-    **Fréquence** 1/jour; 
+    **Fréquence** 1 fois par jour
     
-    **Déclencheur** Vous pouvez activer la robe quand vous ou un allié à 9 m ou moins faites un jet de sauvegarde contre un sort arcanique ;
+    **Déclencheur** Vous devez faire un jet de sauvegarde contre un sort arcanique mais vous n’avez pas encore lancé le dé
     
-    **Effet**  la robe confère à vous ou à l’allié un succès au jet de sauvegarde déclencheur .
+    **Effet**  Vous réussissez automatiquement votre jet de sauvegarde contre le sort arcanique déclencheur.
     
     **Conditions de fabrication** Vous êtes un incantateur arcanique.
     
-    Effets automatiquement appliqués::
+    Effets automatiquement appliqués:
     
-    - +1 bonus de circonstances aux jets de sauvegarde contre les sorts arcaniques
+    - +1 bonus de circonstance aux jets de sauvegarde contre les sorts arcaniques
 
 armure-d-écailles:
   id: YMQr577asquZIP65
@@ -1912,6 +2102,9 @@ bouclier-de-la-légion-unifiée:
   bonus: 2
   level: 20
   prix: 70,000 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   encombrement: L
   traits:
     - Évocation
@@ -1941,6 +2134,9 @@ targe-en-argent-de-haute-qualité:
   bonus: 1
   level: 15
   prix: 5,000 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   description: |
     Les boucliers en argent ne produisent généralement aucun effet supplémentaire mais ce sont des armes en argent lorsqu'on les utilise pour frapper.
     
@@ -1958,6 +2154,9 @@ targe-en-argent-basse-qualité:
   bonus: 1
   level: 2
   prix: 30 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   description: |
     Les boucliers en argent ne produisent généralement aucun effet supplémentaire mais ce sont des armes en argent lorsqu’on les utilise pour frapper.
     
@@ -1975,6 +2174,9 @@ targe-en-argent-qualité-standard:
   bonus: 1
   level: 7
   prix: 300 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   description: |
     Les boucliers en argent ne produisent généralement aucun effet supplémentaire mais ce sont des armes en argent lorsqu’on les utilise pour frapper.
     
@@ -1992,6 +2194,9 @@ bouclier-en-argent-de-haute-qualité:
   bonus: 2
   level: 15
   prix: 5,500 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   description: |
     Les boucliers en argent ne produisent généralement aucun effet supplémentaire mais ce sont des armes en argent lorsqu'on les utilise pour frapper.
     
@@ -2009,6 +2214,9 @@ bouclier-en-argent-basse-qualité:
   bonus: 2
   level: 2
   prix: 34 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   description: |
     Les boucliers en argent ne produisent généralement aucun effet supplémentaire mais ce sont des armes en argent lorsqu’on les utilise pour frapper.
     
@@ -2026,6 +2234,9 @@ bouclier-en-argent-qualité-standard:
   bonus: 2
   level: 7
   prix: 340 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   description: |
     Les boucliers en argent ne produisent généralement aucun effet supplémentaire mais ce sont des armes en argent lorsqu’on les utilise pour frapper.
     
@@ -2052,21 +2263,21 @@ costume-de-chevaucheur-pailleté:
     - Investi
     - Magique
   description: |
-    Cette *armure de cuir clouté de résilience +1 *est ornée de paillettes colorées qui scintillent même dans la plus faible lumière.
+    Cette armure de cuir clouté de résilience +1 est ornée de paillettes colorées qui scintillent même dans la plus faible lumière.
     
     Lorsque vous portez le costume de chevaucheur pailleté, vous gagnez un bonus d'objet de +2 pour [Diriger un animal](../capacités-monstres/gober.html) que vous montez.
     
     Tout animal que vous montez connaît automatiquement les actions de base Se jeter à terre et Faire un pas, en plus de toutes les autres actions de base qu'il connaît (normalement seulement Bondir, Chercher, Se relever, Marcher rapidement et Frapper).
     
-    **Activation** <span style="font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;">R (déplacement)
+    **Activation** <span class="pf2-icon">R (Déplacement)
     
     **Déclencheur** Vous subissez des dégâts lorsque vous chevauchez ou que votre monture se jette à terre
     
     **Effet** Vous descendez de votre monture dans un espace adjacent.
     
-    Automatically applied effects:
+    Effets appliqués automatiquement:
     
-    - +2 item bonus to Command an Animal you are riding
+    - Bonus d'objet de +2 pour Diriger un animal lorsque vous le montez
 
 bouclier-gardesort:
   id: OqDAx4HJ39ojVtvg
@@ -2078,13 +2289,16 @@ bouclier-gardesort:
   bonus: 2
   level: 6
   prix: 250 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   traits:
     - Abjuration
     - Magique
   description: |
     Des glyphes de protection contre la magie sont gravés sur ce bouclier. Tant que vous levez ce bouclier en acier (Solidité 6, 24 PV, SR 12), vous bénéficiez de son bonus de circonstances aux jets de sauvegarde contre les sorts qui vous prennent pour cible (ainsi qu’à la CA).
     
-    Effect: Bouclier Gardesort
+    Effet: Bouclier Gardesort
 
 bouclier-de-la-manticore:
   id: WDh4fb9N86mNLfDV
@@ -2096,6 +2310,9 @@ bouclier-de-la-manticore:
   bonus: 2
   level: 7
   prix: 360 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   traits:
     - Évocation
     - Magique
@@ -2106,9 +2323,9 @@ bouclier-de-la-manticore:
     
     Quand il ne reste plus aucune pointe, il ne vous est plus possible d’attaquer avec elles tant qu’elles ne se sont pas régénérées le lendemain.
     
-    **Activation** <span style="font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;">A Interagir
+    **Activation** <span class="pf2-icon">A Interagir
     
-    **Effet** Vous projetez l’une des pointes du bouclier sur une cible. Une pointe projetée utilise les statistiques des pointes mais c’est une arme de guerre à distance avec un facteur de portée de 36 m.
+    **Effet** Vous projetez l’une des pointes du bouclier sur une cible. Une pointe projetée utilise les statistiques des pointes mais c’est une arme de guerre à distance avec un facteur de portée de 36 mètres.
 
 clibanion:
   id: 6AhDKX1dwRwFpQsU
@@ -2137,20 +2354,25 @@ bouclier-en-acier:
   bonus: 2
   level: 0
   prix: 2 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   description: |
     Comme les boucliers en bois, les boucliers en acier sont de formes et de tailles variées. Plus coûteux que les boucliers en bois, ils sont cependant beaucoup plus résistants.
     
-    <table style="height: 32px;" border="1">
-    <tbody>
-    <tr style="height: 15px;">
-    <td style="height: 15px; width: 115px;">Solidité</td>
-    <td style="height: 15px; width: 115px;">PV</td>
-    <td style="height: 15px; width: 116px;">SR</td>
+    <table class="pf2-table">
+    <thead>
+    <tr>
+    <th>Solidité</th>
+    <th>PV</th>
+    <th>SR</th>
     </tr>
-    <tr style="height: 17px;">
-    <td style="height: 17px; width: 115px;">5</td>
-    <td style="height: 17px; width: 115px;">20</td>
-    <td style="height: 17px; width: 116px;">10</td>
+    </thead>
+    <tbody>
+    <tr>
+    <td>5</td>
+    <td>20</td>
+    <td>10</td>
     </tr>
     </tbody>
     </table>
@@ -2182,6 +2404,9 @@ bouclier-renforcé-supérieur:
   bonus: 2
   level: 13
   prix: 3,000 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   traits:
     - Abjuration
     - Magique
@@ -2200,13 +2425,16 @@ bouclier-solide-inférieur:
   bonus: 2
   level: 7
   prix: 360 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   traits:
     - Abjuration
     - Magique
   description: |
-    <span>Ce bouclier en acier, de conception et de fabrication de haut niveau, a une Solidité plus élevée que ses équivalents non magiques, ce qui le rend plus difficile à briser ou à détruire.
+    Ce bouclier en acier, de conception et de fabrication de haut niveau, a une Solidité plus élevée que ses équivalents non magiques, ce qui le rend plus difficile à briser ou à détruire.
     
-    <span>Le bouclier a une Solidité de 10, 80 PV et un SR de 40.
+    Le bouclier a une Solidité de 10, 80 PV et un SR de 40.
 
 bouclier-renforcé-majeure:
   id: BWQzaHbGVqlBuMww
@@ -2218,6 +2446,9 @@ bouclier-renforcé-majeure:
   bonus: 2
   level: 16
   prix: 10,000 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   traits:
     - Abjuration
     - Magique
@@ -2226,9 +2457,9 @@ bouclier-renforcé-majeure:
     
     <span>Le bouclier a une Solidité de 17, 136 PV et un SR de 68.
 
-bouclier-renforcé-mineure:
+bouclier-renforcé-mineur:
   id: f9ygr5Cjrmop8LWV
-  nom: Bouclier renforcé (mineure)
+  nom: Bouclier renforcé (mineur)
   nomEn: Sturdy Shield (Minor)
   urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/data/equipment/f9ygr5Cjrmop8LWV.htm
   urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/equipment.db/Sturdy Shield (Minor).json
@@ -2236,13 +2467,16 @@ bouclier-renforcé-mineure:
   bonus: 2
   level: 4
   prix: 100 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   traits:
     - Abjuration
     - Magique
   description: |
-    <span>Ce bouclier en acier, de conception et de fabrication de haut niveau, a une Solidité plus élevée que ses équivalents non magiques, ce qui le rend plus difficile à briser ou à détruire.
+    Ce bouclier en acier, de conception et de fabrication de haut niveau, a une Solidité plus élevée que ses équivalents non magiques, ce qui le rend plus difficile à briser ou à détruire.
     
-    <span>Le bouclier a une Solidité de 8, 64 PV et un SR de 32.
+    Le bouclier a une Solidité de 8, 64 PV et un SR de 32.
 
 bouclier-renforcé-modéré:
   id: pNQJ9PTOEHxEZCgp
@@ -2254,6 +2488,9 @@ bouclier-renforcé-modéré:
   bonus: 2
   level: 10
   prix: 1,000 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   traits:
     - Abjuration
     - Magique
@@ -2272,6 +2509,9 @@ bouclier-renforcé-ultime:
   bonus: 2
   level: 19
   prix: 40,000 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   traits:
     - Abjuration
     - Magique
@@ -2290,20 +2530,25 @@ pavois:
   bonus: 2
   level: 0
   prix: 10 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   description: |
-    On peut utiliser ce bouclier imposant pour abriter presque la totalité du corps. En raison de sa taille, il est généralement fabriqué en bois renforcé de métal. Pour bénéficier du bonus le plus élevé avec un Pavois (+4), vous devez utiliser l’action Mise à l’abri (page 471) alors que le bouclier est levé.
+    On peut utiliser ce bouclier imposant pour abriter presque la totalité du corps. En raison de sa taille, il est généralement fabriqué en bois renforcé de métal. Pour bénéficier du bonus le plus élevé avec un Pavois (+4), vous devez utiliser l’action Mise à l’abri alors que le bouclier est levé.
     
-    <table style="height: 32px;" border="1">
-    <tbody>
-    <tr style="height: 15px;">
-    <td style="height: 15px; width: 115px;">Solidité</td>
-    <td style="height: 15px; width: 115px;">PV</td>
-    <td style="height: 15px; width: 116px;">SR</td>
+    <table class="pf2-table">
+    <thead>
+    <tr>
+    <th>Solidité</th>
+    <th>PV</th>
+    <th>SR</th>
     </tr>
-    <tr style="height: 17px;">
-    <td style="height: 17px; width: 115px;">5</td>
-    <td style="height: 17px; width: 115px;">20</td>
-    <td style="height: 17px; width: 116px;">10</td>
+    </thead>
+    <tbody>
+    <tr>
+    <td>5</td>
+    <td>20</td>
+    <td>10</td>
     </tr>
     </tbody>
     </table>
@@ -2330,15 +2575,15 @@ harnois-de-la-victoire:
   description: |
     Les plaques de métal de ce *harnois de résilience +1* sont recouvertes d'un tabard brillant arborant un blason distinctif divisé en quatre champs. Cet insigne enregistre magiquement vos récentes victoires, affichant un triomphe dans chaque champ du blason, ce qui vous permet de faire appel à ces victoires pour vous aider dans vos futures batailles.
     
-    **Activation** <span style="font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;">R imaginer;
+    **Activation** <span class="pf2-icon">2 Imaginer, Interagir
     
-    **Déclencheur** Vous tuez ou détruisez une créature d'un niveau égal ou supérieur à votre *harnois de la victoire *(ajusté comme d'habitude si vous ajoutez des runes fondamentales à votre harnois de la victoire). Cette créature doit posséder l'un des traits listés dans la deuxième activation;
+    **Déclencheur** Vous tuez ou détruisez une créature d'un niveau égal ou supérieur à votre harnois de la victoire (ajusté comme d'habitude si vous ajoutez des runes fondamentales à votre harnois de la victoire). Cette créature doit posséder l'un des traits listés dans la deuxième activation;
     
     **Effet** Vous ordonnez à l'armure de commémorer votre victoire. Le blason du tabard de l'armure change pour incorporer un symbole lié à la créature tuée, et la victoire est enregistrée dans le tabard. Si vous avez déjà enregistré quatre victoires, choisissez-en une à remplacer par la nouvelle victoire.
     
-    **Activation** <span style="font-family: 'Pathfinder2eActions'; font-size: 1.8em; display: inline;">2 imaginer, Interagir;
+    **Activation** <span class="pf2-icon">2 Imaginer, Interagir
     
-    **Fréquence** 1/h;
+    **Fréquence** 1 fois par heure
     
     **Effet** Vous touchez l'un des quatre champs du tabard représentant l'une de vos victoires et vous vous rappelez votre triomphe sur cette créature. Cette créature disparaît du tabard, et pendant 1 minute, vous gagnez une résistance de 5 à un type de dégât basé sur le trait de la créature (vous gagnez une résistance à un seul type, même si la créature a plus d'un trait qui pourrait s'appliquer) :
     
@@ -2370,18 +2615,19 @@ harnois-de-la-victoire-supérieur:
     - Magique
     - Rempart
   description: |
-    Les plaques de métal de ce *harnois de résilience +2* sont recouvertes d'un tabard brillant arborant un blason distinctif divisé en quatre champs. Cet insigne enregistre magiquement vos récentes victoires, en affichant un triomphe dans chaque champ du blason, ce qui vous permet de faire appel à ces victoires pour vous aider dans vos futures batailles ;
-    **Activation** <span style="font-family : 'Pathfinder2eActions' ; font-size : 1.8em ; display : inline;">R imaginer;
+    Les plaques de métal de ce *harnois de résilience +1* sont recouvertes d'un tabard brillant arborant un blason distinctif divisé en quatre champs. Cet insigne enregistre magiquement vos récentes victoires, affichant un triomphe dans chaque champ du blason, ce qui vous permet de faire appel à ces victoires pour vous aider dans vos futures batailles.
     
-    **Déclencheur** Vous tuez ou détruisez une créature d'un niveau égal ou supérieur à votre *harnois de victoire *(ajustée comme d'habitude si vous ajoutez des runes fondamentales à votre harnois de la victoire). Cette créature doit posséder l'un des traits listés dans la deuxième activation;
+    **Activation** <span class="pf2-icon">2 Imaginer, Interagir
+    
+    **Déclencheur** Vous tuez ou détruisez une créature d'un niveau égal ou supérieur à votre harnois de la victoire (ajusté comme d'habitude si vous ajoutez des runes fondamentales à votre harnois de la victoire). Cette créature doit posséder l'un des traits listés dans la deuxième activation;
     
     **Effet** Vous ordonnez à l'armure de commémorer votre victoire. Le blason du tabard de l'armure change pour incorporer un symbole lié à la créature tuée, et la victoire est enregistrée dans le tabard. Si vous avez déjà enregistré quatre victoires, choisissez-en une à remplacer par la nouvelle victoire.
     
-    **Activation** <span style="font-family : 'Pathfinder2eActions' ; font-size : 1.8em ; display : inline;">2 imaginer, Interagir;
+    **Activation** <span class="pf2-icon">2 Imaginer, Interagir
     
-    **Fréquence** une fois par minute;
+    **Fréquence** 1 fois par minute
     
-    **Effet** Vous touchez l'un des quatre champs du tabard représentant l'une de vos victoires et vous vous rappelez de votre triomphe sur cette créature. Cette créature disparaît du tabard, et pendant 1 minute, vous gagnez une résistance de 10 à un type de dégâts basé sur le trait de la créature (vous gagnez une résistance à un seul type, même si la créature a plus d'un trait qui pourrait s'appliquer) :
+    **Effet** Vous touchez l'un des quatre champs du tabard représentant l'une de vos victoires et vous vous rappelez votre triomphe sur cette créature. Cette créature disparaît du tabard, et pendant 1 minute, vous gagnez une résistance de 10 à un type de dégât basé sur le trait de la créature (vous gagnez une résistance à un seul type, même si la créature a plus d'un trait qui pourrait s'appliquer) :
     
     - **Aberration** ou **Fée** : mental
     - **Céleste** : bon
@@ -2401,20 +2647,25 @@ bouclier-en-bois:
   bonus: 2
   level: 0
   prix: 1 gp
+  dexMax: 0
+  malusTests: 0
+  force: 0
   description: |
     Même s’ils se présentent sous toute une variété de formes et de tailles, l’abri offert par les boucliers en bois provient de la robustesse des matériaux dans lesquels ils sont conçus. Le bouclier en bois est moins cher que le bouclier en acier, mais il se brise plus facilement.
     
-    <table style="height: 32px;" border="1">
-    <tbody>
-    <tr style="height: 15px;">
-    <td style="height: 15px; width: 115px;">Solidité</td>
-    <td style="height: 15px; width: 115px;">PV</td>
-    <td style="height: 15px; width: 116px;">SR</td>
+    <table class="pf2-table">
+    <thead>
+    <tr>
+    <th>Solidité</th>
+    <th>PV</th>
+    <th>SR</th>
     </tr>
-    <tr style="height: 17px;">
-    <td style="height: 17px; width: 115px;">3</td>
-    <td style="height: 17px; width: 115px;">12</td>
-    <td style="height: 17px; width: 116px;">6</td>
+    </thead>
+    <tbody>
+    <tr>
+    <td>3</td>
+    <td>12</td>
+    <td>6</td>
     </tr>
     </tbody>
     </table>

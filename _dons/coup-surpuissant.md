@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/overwhelming-blow.json
 layout: dons
 ---
-Vous placez votre poids en une attaque puissante qui vous laisse vulnérable. Faites une [Frappe](../actions/frapper.html) en mêlée. Cela compte comme trois attaques lorsque vous calculez votre Pénalité d'Attaque Multiple. Si cette Frappe touche, vous obtenez un coup critique. Si vous lancez un coup critique, votre attaque gagne aussi le trait mortel d12 .
+Vous mettez votre masse dans votre attaque puissante mais cela vous laisse vulnérable. Faites une [Frappe](../actions/frapper.html) au corps-à-corps. Cela compte comme trois attaques lorsque vous calculez votre Pénalité d'attaque multiple. Si cette Frappe touche, vous obtenez un coup critique. Si vous lancez un coup critique, votre attaque gagne aussi le trait mortel d12 .
 
-Que vous touchiez ou non, vous êtes [Assommé](../conditions/étourdi.html) 1 et êtes [Pris au dépourvu](../conditions/pris-au-dépourvu.html) jusqu'au début de votre prochain tour.
+Que vous touchiez ou non, vous êtes [Étourdi](../conditions/étourdi.html) 1 et êtes [Pris au dépourvu](../conditions/pris-au-dépourvu.html) jusqu'au début de votre prochain tour.

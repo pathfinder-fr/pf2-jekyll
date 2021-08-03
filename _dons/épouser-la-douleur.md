@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/embrace-the-pain.json
 layout: dons
 ---
-**Déclencheur** Une créature vous inflige des dégâts avec une attaque de mêlée.
+**Déclencheur** Une créature vous inflige des dégâts avec une attaque au corps-à-corps.
 
-Ignorant votre douleur, vous tendez le bras et saisissez la créature ou l'arme qui vous a infligé du mal. Tentez un test d'Athlétisme pour [Saisir](../actions/saisir.html) la créature déclencheuse ou pour [Désarmer](../actions/désarmer.html) la créature de l'arme déclencheuse.
+Ignorant votre douleur, vous tendez le bras et saisissez la créature ou l'arme qui vous a causé des dégâts. Tentez un test d'Athlétisme pour [Saisir](../actions/saisir.html) la créature déclencheuse ou pour [Désarmer](../actions/désarmer.html) la créature de l'arme déclencheuse.

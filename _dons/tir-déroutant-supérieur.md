@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/greater-distracting-shot.json
 layout: dons
 ---
-**Prérequis** Tir déroutant
+Même un seul de vos projectiles peut déséquilibrer votre proie, et vos attaques, encore plus redoutables, le déroutent plus longtemps.
 
-Même un seul de vos projectiles peut déséquilibrer votre proie, et vos attaques, encore plus redoutables, le déroutent plus longtemps. Si vous touchez votre proie avec une arme à distance, elle est prise au dépourvu jusqu’au début de votre prochain tour. Si vous obtenez un coup critique contre votre proie ou si vous la touchez deux fois lors du même tour avec une arme à distance, elle est prise au dépourvu jusqu’à la fin de votre prochain tour à la place.
+Si vous touchez votre proie avec une arme à distance, elle est [Prise au dépourvu](../conditions/pris-au-dépourvu.html) jusqu’au début de votre prochain tour. Si vous obtenez un coup critique contre votre proie ou si vous la touchez deux fois lors du même tour avec une arme à distance, elle est Prise au dépourvu jusqu’à la fin de votre prochain tour à la place.

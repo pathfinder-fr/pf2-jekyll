@@ -8,11 +8,9 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/reactive-transformation.json
 layout: dons
 ---
-**Prérequis** [Morphologie sauvage](../sorts/morphologie-sauvage.html); [Forme draconique](../sorts/forme-de-dragon.html), [Forme élémentaire](../sorts/forme-élémentaire.html), [Forme de plante](../sorts/forme-de-plante.html) ou [Morphologie volante](../sorts/forme-aérienne.html)
-
 **Déclencheur** variable
 
-Vous vous transformez par réflexe face à un danger. Vous lancez [Morphologie sauvage](../sorts/morphologie-sauvage.html) pour vous transformer en une forme accordée par un des dons prérequis que vous possédez, en fonction du déclencheur. Les résistances et les faiblesses de cette forme s'appliquent contre les dégâts déclencheurs.
+Vous vous transformez instinctivement face au danger. Vous lancez [Morphologie sauvage](../sorts/morphologie-sauvage.html) pour vous transformer en une forme accordée par un des dons prérequis que vous possédez, en fonction du déclencheur. Les résistances et les faiblesses de cette forme s'appliquent aux dégâts déclencheurs.
 
 **Déclencheur** Vous chutez de 3 m ou plus
 
@@ -24,7 +22,7 @@ Vous vous transformez par réflexe face à un danger. Vous lancez [Morphologie s
 
 **Déclencheur** Vous subissez des dégâts de feu
 
-**Effect** Choisissez une forme d'élémentaire de feu de [Forme élémentaire](../sorts/forme-élémentaire.html).
+**Effet** Choisissez une forme d'élémentaire de feu de [Forme élémentaire](../sorts/forme-élémentaire.html).
 
 **Déclencheur** Vous subissez des dégâts de poison
 

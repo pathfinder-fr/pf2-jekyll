@@ -10,7 +10,9 @@ layout: dons
 ---
 **Fréquence** une fois par jour
 
-**Conditions** Vous  êtes affligé par une maladie ou un poison ou subissez des dégâts persistants. Votre physiologie ordonnée rejette les éléments malvenus. Choisissez en un.
+**Conditions** Vous  êtes affligé par une maladie ou un poison ou subissez des dégâts persistants.
+
+Votre physiologie ordonnée rejette les éléments malvenus. Choisissez en un.
 
 - **Maladie ou poison** Tentez un jet de sauvegarde contre l'affliction à son stade actuel. En cas d'échec, le stade de l'affliction n'augmente pas mais vous subissez les effets du stade auquel vous étiez. En cas d'échec critique, le stade ne s'accroît que de 1.
 - **Dégâts persistants** Faites un test nu contre un DD10 pour mettre fin aux dégâts persistants.

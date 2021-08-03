@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous vous fondez dans les vagues.
 
-Lorsque vous êtes immergé dans l'eau, tant qu'un observateur est à au moins 6 m de vous, vous n'avez pas besoin d'abri vis-à-vis de cet observateur pour vous Cacher ou Être furtif.
+Lorsque vous êtes immergé dans l'eau, tant qu'un observateur est à au moins 6 m de vous, vous n'avez pas besoin d'abri vis-à-vis de cet observateur pour vous [Cacher](../actions/se-cacher.html) ou [Être furtif](../actions/être-furtif.html).

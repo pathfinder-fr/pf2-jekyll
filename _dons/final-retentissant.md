@@ -8,8 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/resounding-finale.json
 layout: dons
 ---
-**Prérequis** <a class="entity-link" data-pack="pf2e.classfeatures" data-id="YMBsi4bndRAk5CX4" draggable="true">Maestro (Muse de barde)</a>
-
 **Déclencheur** Vous ou un allié qui bénéficie de votre sort de composition devrait subir des dégâts de son.
 
-Vous interrompez votre représentation avec un final brutal, et dramatique couvrant les autres sons. Votre sort de composition s'achève immédiatement et tous vos alliés qui ont bénéficié du sort obtiennent une résistance au son contre les dégâts déclencheurs égale à deux fois le niveau du sort de composition.
+Vous interrompez votre représentation avec un final brutal et dramatique noyant les autres sons. Votre sort de composition s'achève immédiatement et tous vos alliés qui ont bénéficié du sort obtiennent une résistance au son contre les dégâts déclencheurs égale à deux fois le niveau du sort de composition.

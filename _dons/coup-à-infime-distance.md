@@ -8,8 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/one-millimeter-punch.json
 layout: dons
 ---
-**Prérequis** <a class="entity-link" data-pack="pf2e.feats-srd" data-id="jaAnxfXVmUQy0IKU" draggable="true">Coup à courte distance</a>
-
 Vos coups de poings ont une force et un contrôle incroyable. Lorsque vous infligez des dégâts à une cible en utilisant Coup à courte distance, vous pouvez concentrer votre ki pour l'envoyer voler. Si vous le faites, la cible doit tenter un jet de Vigueur contre votre DD de classe.
 
 **Succès critique** La cible n'est pas affectée.

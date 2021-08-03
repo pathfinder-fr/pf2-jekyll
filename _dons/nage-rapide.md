@@ -8,6 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/quick-swim.json
 layout: dons
 ---
-**Prérequis** maître en Athlétisme
-
 Vous Nagez 1,5 m de plus sur un succès et 3 m de plus sur un succès critique, jusqu’au maximum de votre Vitesse. Si vous êtes légendaire en Athlétisme, vous gagnez une Vitesse de nage égale à votre Vitesse.

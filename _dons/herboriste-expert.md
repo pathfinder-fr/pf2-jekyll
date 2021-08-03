@@ -10,4 +10,4 @@ layout: dons
 ---
 Votre niveau en [Alchimie avancée](../capacité-classe/alchimie-avancée.html) pour l'herboristerie augmente jusqu'à votre niveau -3.
 
-Vous obtenez les formules pour les élixirs de vie dès que votre niveau d'Alchimie avancé est suffisamment haut pour les créer : [inférieur](../équipements/élixir-de-vie-inférieur.html) au niveau 8, [modéré](../équipements/elixir-de-vie-modéré.html) au niveau 12, [supérieur](../équipements/elixir-de-vie-supérieur.html) au niveau 16 et [majeure](../équipements/elixir-de-vie-majeur.html) au niveau 18.
+Vous obtenez les formules pour les élixirs de vie dès que votre niveau d'Alchimie avancé est suffisamment haut pour les créer : [inférieur](../équipements/élixir-de-vie-inférieur.html) au niveau 8, [modéré](../équipements/élixir-de-vie-modéré.html) au niveau 12, [supérieur](../équipements/élixir-de-vie-supérieur.html) au niveau 16 et [majeure](../équipements/élixir-de-vie-majeur.html) au niveau 18.

@@ -10,9 +10,9 @@ layout: archetypes
 ---
 # Amateur de talismans
 
-L'idée classique de la magie est celle d'un magicien grisonnant, penché sur un livre de sorts poussiéreux. Mais la magie est bien davantage ; elle est pensée, volonté et action et, avec les bons talismans, vous pouvez même transformer le tranchant d'une épée en un profond acte magique. Tout cela repose sur des petites babioles magiques que vous fixez à votre équipement. Vous savez comment faire et utiliser les talismans parfaits pour tout  travail.
+L'idée classique de la magie est celle d'un magicien grisonnant, penché sur un livre de sorts poussiéreux. Mais la magie est bien davantage ; elle est pensée, volonté et action et, avec les bons talismans, vous pouvez même transformer le tranchant d'une épée en un profond acte magique. Tout cela repose sur des petites babioles magiques que vous fixez à votre équipement. Vous savez comment faire et utiliser les talismans parfaits pour tout travail.
 
-<h2 style="text-align: left;">[Dévouement d'Amateur de talismans](../dons/dévouement-d-amateur-de-talismans.html) Don 2
+## [Dévouement d'Amateur de talismans](../dons/dévouement-d-amateur-de-talismans.html) Don 2
 
 Vous êtes qualifié dans l'utilisation des talismans et tout l'attirail magique de même nature. Cette qualification pourrait avoir été obtenue par le biais d'études classiques ou être un agglomérat de magie folklorique accumulé avec le temps. Vous pouvez fabriquer les talismans et connaissez les formules de tous les talismans courants du Livre de base de votre niveau et inférieurs. Vous vous souvenez des formules des talismans et n'avez pas besoin de formulaire à cette fin.
 
@@ -28,7 +28,7 @@ Enfin, lorsque vous [Fixez un Talisman](../actions/fixer-un-talisman.html), vous
 
 Vous pouvez attacher un talisman en utilisant seulement un peu de colle et de la ficelle.
 
-Vous obtenez le don de compétence [Rapid Affixture](../dons/fixation-rapide.html), même si vous n'en remplissez pas les prérequis. Lorsque vous l'utilisez, vous pouvez fixer ou retirer jusqu'àa quatre talismans en 1 minute au lieu d'un seul.
+Vous obtenez le don de compétence [Fixation rapide](../dons/fixation-rapide.html), même si vous n'en remplissez pas les prérequis. Lorsque vous l'utilisez, vous pouvez fixer ou retirer jusqu'àa quatre talismans en 1 minute au lieu d'un seul.
 
 Vous obtenez la capacité de [Fixer un talisman](../actions/fixer-un-talisman.html) comme une activité à 3 actions au niveau 12 grâce à ce don, quelle que soit votre maîtrise en Artisanat.
 

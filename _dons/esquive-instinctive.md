@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/uncanny-dodge.json
 layout: dons
 ---
-Vous gagnez la caractéristique de classe Refus d’avantage.
+Vous gagnez la caractéristique de classe [Refus d’avantage](../capacité-classe/refus-d-avantage-niveau-3.html).

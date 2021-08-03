@@ -10,6 +10,6 @@ layout: dons
 ---
 Vous accomplisssez des manipulations complexes pour rendre l'énergie de vos sorts si puissante que vos ennemis y sont par la suite plus sensibles.
 
-Si votre prochaine action consiste à [Lancer un sort](../actions/lancer-un-sort.html) qui inflige des dégâts d'acide, d'électricité, de feu ou de son, vous pouvez choisir une cible qui a été blessée pour qu'elle obtienne une faiblesse de 5 à ce typede dégâts jusqu'à la fin de votre prochain tour. Si un sort inflige des dégâts de différents types d'énergies, choisissez en une contre laquelle la cible obtient une résistance.
+Si votre prochaine action consiste à [Lancer un sort](../actions/lancer-un-sort.html) qui inflige des dégâts d'acide, d'électricité, de feu ou de son, vous pouvez choisir une cible qui est blessée pour qu'elle souffre d'une faiblesse de 5 à ce type de dégâts jusqu'à la fin de votre prochain tour. Si un sort inflige des dégâts de différents types d'énergies, choisissez celui contre lequel la cible obtient une résistance.
 
 Cela n'a pas d'effet sur les créatures avec une résistance ou une immunité contre le type d'énergie choisi.

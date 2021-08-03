@@ -8,8 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/dueling-dance-fighter.json
 layout: dons
 ---
-**Prérequis** Parade en duel
-
 **Conditions** Vous maniez seulement une unique arme de corps à corps à une main et votre autre main ou vos autres mains sont libres.
 
 En utilisant votre main libre comme balancier pour vous équilibrer, vous parvenez à attaquer et à défendre avec votre arme. Tant que vous êtes dans cette posture, vous bénéficiez constamment de Parade en duel.

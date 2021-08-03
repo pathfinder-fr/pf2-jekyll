@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/double-prey.json
 layout: dons
 ---
-Vous pouvez vous focaliser sur deux adversaires en même temps et les chasser tous les deux. Quand vous effectuez l’action Chasser une proie, vous pouvez désigner deux créatures qui deviennent vos proies.
+Vous pouvez vous focaliser sur deux adversaires en même temps et les chasser tous les deux. Quand vous effectuez l’action [Chasser une proie](../actions/chasser-une-proie.html), vous pouvez désigner deux créatures qui deviennent vos proies.

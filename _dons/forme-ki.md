@@ -8,6 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/ki-form.json
 layout: dons
 ---
-**Prérequis** sorts ki
-
-Vous avez maîtrisé une puissante technique permettant d'utiliser votre ki pour renforcer votre forme physique et vous propulser dans l'air. Vous obtenez le sort ki <a class="entity-link" data-pack="pf2e.spells-srd" data-id="YDMOqndvYFu3OjA6" draggable="true">Forme ki</a>. Augmentez le nombre de points de focalisation de votre réserve de focalisation de 1.
+Vous avez maîtrisé une puissante technique permettant d'utiliser votre ki pour renforcer votre forme physique et vous propulser dans les airs. Vous obtenez le sort ki [Forme ki](../sorts/forme-ki.html). Augmentez le nombre de points de focalisation de votre réserve de focalisation de 1.

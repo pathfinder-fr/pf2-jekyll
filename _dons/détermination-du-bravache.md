@@ -10,8 +10,8 @@ layout: dons
 ---
 **Déclencheur** La Frappe d'un adversaire vous réduit à 0 Point de vie ; vous n'étiez pas à 1 point de vie et vous ne devriez pas être tué.
 
-Votre confiance frôle l'auto-persuasion, mais elle vous préserve du destins le plus funeste. Faites un test de Duperie contre le DD de l'attaque de la Frappe déclencheuse. Vous subissez une pénalité pour ce test égale à deux fois votre valeur blessé si vous en avez une. Si l'attaque déclencheuse était un coup critique, considérez le résultat d'un degré de succès plus mauvais que celui que vous avez obtenu.
+Votre confiance frôle l'auto-persuasion, mais elle vous préserve du destin le plus funeste. Faites un test de Duperie contre le DD de l'attaque de la Frappe déclencheuse. Vous subissez une pénalité pour ce test égale à deux fois votre valeur Blessé si vous en avez une. Si l'attaque déclencheuse était un coup critique, considérez le résultat d'un degré de succès plus mauvais que celui que vous avez obtenu.
 
 **Succès critique** Vous évitez d'être abattu et restez à 1 Point de vie.
 
-**Succès** Vous évitez d'être abattu et restez à 1 Point de vie, mais vous augmentez vontre valeur de [Blessé](../conditions/blessé.html) de 1.
+**Succès** Vous évitez d'être abattu et restez à 1 Point de vie, mais vous augmentez votre valeur de [Blessé](../conditions/blessé.html) de 1.

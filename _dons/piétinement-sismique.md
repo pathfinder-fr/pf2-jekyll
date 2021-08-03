@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/quaking-stomp.json
 layout: dons
 ---
-**Fréquence** une fois toutes les 10 min
+**Fréquence** une fois toutes les 10 minutes
 
-Vous tapez du pied avec une telle force que vous créez un petit tremblement de terre avec les effets du sort tremblement de terre
+Vous tapez du pied avec une telle force que vous créez un petit tremblement de terre avec les effets du sort [Tremblement de terre](../sorts/tremblement-de-terre.html).

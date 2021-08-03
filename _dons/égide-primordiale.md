@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/primal-aegis.json
 layout: dons
 ---
-Vous vousentourez d'un épais champ d'énergie protectrice primordiale. Vous et vos alliés dans les 9 m de vous obtenez une résistance égale à votre modificateur de Sagesse aux dégats d'acide, d'électricité, de feu, de froid , négatifs et positifs.
+Vous vous entourez d'un épais champ d'énergie protectrice primordiale. Vous et vos alliés dans les 9 m obtenez une résistance égale à votre modificateur de Sagesse aux dégats d'acide, d'électricité, de feu, de froid, négatifs et positifs.

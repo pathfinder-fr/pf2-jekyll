@@ -8,8 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/bloody-debilitation.json
 layout: dons
 ---
-**Prérequis** qualifié en Médecine, [Frappes incapacitantes](../capacité-classe/frappes-incapacitantes.html)
-
 Vos attaques coupent les artères et les veines. Ajoutez le handicap suivant à la liste dans laquelle vous pouvez choisir lorsque vous utilisez [Frappe incapacitante](../actions/frappe-incapacitante.html).
 
 - **Handicap** La cible subit [[/r 3d6 #saignement persistant]] dégâts de saignement persistant.

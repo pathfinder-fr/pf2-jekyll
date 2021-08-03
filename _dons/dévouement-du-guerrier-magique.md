@@ -8,7 +8,7 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/magic-warrior-dedication.json
 layout: dons
 ---
-**Accès** Vous êtes des étendues du Mwangi
+**Accès** Vous venez des étendues du Mwangi
 
 Vous avez pris la décision de porter un masque anonyme et avait prêté le serment des guerriers magiques. Vous êtes qualifié au choix dans la compétence Arcanes ou Nature et dans la compétence Connaissances des guerriers magiques ; si vous êtes déjà qualifié vous devenez expert.
 

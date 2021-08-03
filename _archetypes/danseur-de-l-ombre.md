@@ -20,7 +20,7 @@ Quelles que soient leurs raisons d'embrasser les ombres, les ombres embrassent e
 
 - 10e [Esquive instinctive](../dons/esquive-instinctive.html)
 - 14e [Bondir depuis les ombres](../dons/bondir-depuis-les-ombres.html)
-- 16e [Percevoir l'inaperçu](../dons/percevoir-l-inaperçu.html)
+- 16e [Percevoir l'inaperçu](../dons/percevoir-l-imperceptible.html)
 - 18e [Échappatoire cognitive](../dons/échappatoire-cognitive.html)
 
 ### **Appel des ombres

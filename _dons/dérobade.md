@@ -8,8 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/dodging-roll.json
 layout: dons
 ---
-**Prérequis** maître en Acrobaties
-
 **Déclencheur** Vous subissez des dégâts d'un effet de zone qui permet un jet de Réflexes.
 
 Vous esquivez un coup au dernier moment possible.

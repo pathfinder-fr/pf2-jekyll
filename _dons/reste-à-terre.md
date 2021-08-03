@@ -8,8 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/stay-down.json
 layout: dons
 ---
-**Prérequis** maître en Athlétisme
-
 **Déclencheur** Un adversaire [À terre](../conditions/à-terre.html) dans votre allonge [Se relève](../actions/se-relever.html).
 
 Vous avez les moyens de garder vos adversaires à terre. Faites un test d'Athlétisme contre le DD de Vigueur de l'adversaire déclencheur. En cas de succès, il ne se relève pas et reste À terre. En cas de réussite critique, il ne peut se relever jusqu'à son prochain tour.

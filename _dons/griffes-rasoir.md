@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/razor-claws.json
 layout: dons
 ---
-Vous avez aiguisé vos griffes pour qu'elles soient mortelles. Votre attaque de griffe inflige [[/r 1d6 #slashing]] dégâts tranchants au lieu de 1d4 et possède le trait polyvalent P.
+Vous avez aiguisé vos griffes pour qu'elles soient mortelles. Votre attaque de griffe inflige [[/r 1d6 #tranchants]] dégâts tranchants au lieu de 1d4 et possède le trait polyvalent (Perforant).

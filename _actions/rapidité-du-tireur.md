@@ -12,4 +12,4 @@ typeFr: Action Unique
 ---
 **Fréquence** une fois par round
 
-**Effet** Vous Interagissez pour sortir une [Arbalète à main](../équipements/arbalète-de-poing.html) et faire une Frappe avec ou vous faites une Frappe avec une arbalète à main chargée que vous tenez déjà et vous Interagissez ensuite pour la ranger.
+**Effet** Vous Interagissez pour sortir une [Arbalète à main](../équipements/arbalète-de-poing.html) et faire une Frappe avec ou vous faites une Frappe avec une arbalète à main chargée que vous teniez déjà puis vous Interagissez ensuite pour la ranger.

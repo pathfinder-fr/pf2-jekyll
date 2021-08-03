@@ -8,8 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/just-the-facts.json
 layout: dons
 ---
-**Prérequis** [Recherche minutieuse](recherche-minutieuse.html)
-
 Votre compréhension fondamentale de toute chose est telle que votre recherche ne peut plus vous donner de fausses informations.
 
 Vous êtes [Accéléré](../conditions/accéléré.html) de manière permanente et pouvez utiliser l'action supplémentaire pour [Vous souvenir](../actions/se-souvenir-connaissance.html).

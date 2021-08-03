@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/hex-wellspring.json
 layout: dons
 ---
-**Prérequis** <a class="entity-link" data-pack="pf2e.feats-srd" data-id="p2tFR4yBauu8t3mC" draggable="true">Refocalisation de maléfice</a>
+Vous concentrez les flux de votre patron à chaque fois que vous communiez avec votre familier.
 
-Vous concentrez les flux de votre patron à chaque fois que vous communiez avec votre familier. Vous pouvez récupérer 3 Points de focalisation lorsque vous <a class="entity-link" data-pack="pf2e.actionspf2e" data-id="OSefkMgojBLqmRDh" draggable="true">Refocalisez</a> au lieu de 1 si vous avez dépensé au moins 3 Points de focalisation depuis la dernière fois que vous vous êtes Refocalisé.
+Vous pouvez récupérer 3 Points de focalisation lorsque vous [Refocalisez](../actions/refocaliser.html) au lieu de 1 si vous avez dépensé au moins 3 Points de focalisation depuis la dernière fois que vous vous êtes Refocalisé.

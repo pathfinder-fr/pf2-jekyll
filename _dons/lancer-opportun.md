@@ -12,4 +12,4 @@ layout: dons
 
 **Déclencheur** Une créature à moins 3 m de vous fait une action avec le trait manipulation ou une action de déplacement, fait une attaque à distance ou quitte une case durant une action de déplacement qu'elle utilise.
 
-Vous faites une Frappe avec votre arme de jet avec l'arme nécessaire contre la créature qui déclenche cette action. Si vous obtenez un Succès critique et que le déclencheur était une Manipulation, vous interrompez cette action. Cette Frappe ne compte pas dans le calcul de la pénalité d'attaque multiple et votre pénalité d'attaque multiple ne s'applique pas à cette Frappe.
+Vous faites une Frappe à distance avec l'arme requise contre la créature qui déclenche cette action. Si vous obtenez un coup critique et que le déclencheur était une action de manipulation, vous interrompez cette action. Cette Frappe ne compte pas dans le calcul de la pénalité d'attaques multiples et votre pénalité d'attaques multiples ne s'applique pas à cette Frappe.

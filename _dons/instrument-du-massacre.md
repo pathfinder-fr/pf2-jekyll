@@ -8,8 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/instrument-of-slaughter.json
 layout: dons
 ---
-**Prérequis** <a class="entity-link" data-pack="pf2e.feats-srd" data-id="lix0Utu4g8mQ0ZtI" draggable="true">Allié divin</a> (lame), précepte du mal
-
 Votre allié lame a soif du sang de vos ennemis.
 
-Lorsque vous infligez un coup critique à un ennemi avec l'arme habitée par votre allié lame en infligeant des dégâts supplémentaires de votre réaction de champion, la cible subit des dégâts persistants de saignement égaux à deux des dés de dégâts de l'arme.
+Lorsque vous infligez un coup critique à un ennemi avec l'arme habitée par votre allié lame en infligeant des dégâts supplémentaires issus de votre réaction de champion, la cible subit des dégâts persistants de saignement égaux à deux des dés de dégâts de l'arme.

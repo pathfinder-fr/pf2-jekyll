@@ -10,7 +10,7 @@ layout: dons
 ---
 **Trigger** Votre tour se termine.
 
-**Conditions** Vous êtes actuellement sous un effet mental causé par l’échec (mais pas un échec critique) à un jet de sauvegarde.
+**Conditions** Vous êtes actuellement sous un effet mental causé par un échec (mais pas un échec critique) à un jet de sauvegarde.
 
 Vous pouvez trouver une issue à l’effet mental afin d’y échapper temporairement. Jusqu’à la fin de votre prochain tour, vous ignorez un effet mental qui répond aux conditions de ce pouvoir. Vous ne pouvez échapper à un effet donné grâce à l’Échappatoire cognitive qu’une seule fois
 

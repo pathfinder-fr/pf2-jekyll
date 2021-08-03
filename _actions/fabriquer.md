@@ -14,9 +14,9 @@ Vous pouvez fabriquer un objet avec des matières premières. Vous devez avoir l
 
 Pour fabriquer un objet, vous devez satisfaire aux conditions suivantes :
 
-- L’objet est d’un niveau inférieur ou égal au vôtre. Un objet dont le niveau n’est pas précisé est de niveau 0. Vous devez être un maître en Artisanat si le niveau de l’objet est de 9 ou plus et légendaire s’il est de niveau 16 ou plus.
+- L’objet est d’un niveau inférieur ou égal au vôtre. Un objet dont le niveau n’est pas précisé est de niveau 0. Vous devez être un maître en Artisanat si le niveau de l’objet est de 9 ou supérieur et légendaire s’il est de niveau 16 ou supérieur.
 - Vous possédez la formule de l’objet.
-- Vous possédez un lot d’outils appropriés et un atelier est très souvent nécessaire. Par exemple, vous devez avoir accès à une forge pour forger un bouclier métallique.
+- Vous possédez un lot d’outils appropriés et un atelier est très souvent nécessaire. Par exemple, vous devez avoir accès à une forge pour forger un bouclier métallique ou un Laboratoire d'alchimiste pour produire des objets alchimiques.
 - Vous devez fournir les matières premières d’une valeur au moins égale à la moitié du prix de l’objet. Vous dépensez toujours ce montant de matières premières au minimum quand vous parvenez à Fabriquer un objet. Si vous êtes dans une communauté, vous pouvez généralement acheter les matières premières nécessaires, sauf si elles sont précieuses et rares.
 
 Vous devez passer quatre jours à travailler et vous faites un test d’Artisanat à la fin de cette période. Le MJ détermine le DD pour Fabriquer l’objet en se basant sur son niveau, sa rareté et d’autres circonstances.

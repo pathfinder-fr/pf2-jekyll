@@ -8,6 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/warden-s-wellspring.json
 layout: dons
 ---
-**Prérequis** <a class="entity-link" data-pack="pf2e.feats-srd" data-id="2aFtxqRPnC4OXUGC" draggable="true">Concentration du gardien</a>
-
-Vous maîtrisez une focalisation hors pair lorsque vous communiez avec le monde alentour. Si vous avez dépensé au moins 3 Points de focalisation depuis la dernière fois ouù vous vous êtes <a class="entity-link" data-pack="pf2e.actionspf2e" data-id="OSefkMgojBLqmRDh" draggable="true">Refocalisé</a>, vous récupérez 3 Points de focalisation lorsque vous refocalisez au lieu de 1.
+Vous maîtrisez une focalisation hors pair lorsque vous communiez avec le monde alentour. Si vous avez dépensé au moins 3 Points de focalisation depuis la dernière fois où vous vous êtes [Refocalisé](../actions/refocaliser.html), vous récupérez 3 Points de focalisation lorsque vous refocalisez au lieu de 1.

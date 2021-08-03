@@ -8,6 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/persistent-mutagen.json
 layout: dons
 ---
-**Prérequis** Élixir étendu
-
 Vous vous êtes entraîné à stabiliser votre forme physique dans un état altéré. Une fois par jour, quand vous consommez un objet alchimique et qui possède les traits imprégné et mutagène, vous pouvez conserver ses effets jusqu’à vos préparatifs quotidiens suivants au lieu du terme de sa durée normale.

@@ -8,4 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/hobgoblin-weapon-familiarity.json
 layout: dons
 ---
-Vous êtes qualifié avec les arcs courts, les arcs courts composites, les arcs longs, les arcs longs composites,  les coutilles, les hallebardes, les épées courtes, les épées longues, les lances et les piques. En outre, vous avez accès aux armes peu courantes des hobgobelins. Afin de déterminer votre maîtrise, vous considérez les armes de guerre hobgobelines comme des armes simples et les armes hobgobelines évoluées comme des armes de guerre.
+Vous êtes qualifié avec les arcs courts, les [arcs courts composites](../équipements/arc-court-composite.html), les [arcs longs](../équipements/arc-long.html), les [arcs longs composites](../équipements/arc-long-composite.html),  les [coutilles](../équipements/coutille.html), les [hallebardes](../équipements/hallebarde.html), les [épées longues](../équipements/épée-longue.html), les [lances](../équipements/lance.html) et les [piques](../équipements/pique.html).
+
+En outre, vous avez accès aux armes peu courantes des hobgobelins. Afin de déterminer votre maîtrise, vous considérez les armes de guerre hobgobelines comme des armes simples et les armes hobgobelines évoluées comme des armes de guerre.

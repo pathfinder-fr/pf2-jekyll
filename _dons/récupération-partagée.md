@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/shared-replenishment.json
 layout: dons
 ---
-**Prérequis** Récupération martiale
+Quand votre divinité bénit vos actes martiaux, vos alliés peuvent profiter eux aussi de cette bénédiction.
 
-Quand votre divinité bénit vos actes martiaux, vos alliés peuvent profiter eux aussi de cette bénédiction. Vous pouvez conférer les points de vie temporaires obtenus grâce à Récupération martiale à un allié situé à 3 m ou moins au lieu de les gagner vous-même. Vous pouvez conférer ces points de vie temporaires à un allié différent à chaque fois, ce qui signifie que vous pouvez les conférer à plusieurs créatures lors d’un même tour.
+Vous pouvez conférer les points de vie temporaires obtenus grâce à Récupération martiale à un allié situé à 3 m ou moins au lieu de les gagner vous-même. Vous pouvez conférer ces points de vie temporaires à un allié différent à chaque fois, ce qui signifie que vous pouvez les conférer à plusieurs créatures lors d’un même tour.

@@ -8,4 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/hex-focus.json
 layout: dons
 ---
-Les enseignements de votre patron vous ont permis d'atteindre une meilleure capacité de refocalisation. Si vous avez dépensé au moins 2 Points de focalisation depuis la dernière fois que vous vous êtes <a class="entity-link" data-pack="pf2e.actionspf2e" data-id="OSefkMgojBLqmRDh" draggable="true">Refocalisé</a>, vous récupérez 2 Points de focalisation lorsque vous vous Refocalisez au lieu d'un.
+Les enseignements de votre patron vous ont permis d'atteindre une meilleure capacité de refocalisation.
+
+Si vous avez dépensé au moins 2 Points de focalisation depuis la dernière fois que vous vous êtes [Refocalisé](../actions/refocaliser.html), vous récupérez 2 Points de focalisation lorsque vous vous Refocalisez au lieu d'un.

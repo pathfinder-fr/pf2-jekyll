@@ -8,6 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/meditative-wellspring.json
 layout: dons
 ---
-**Prérequis** Focalisation méditative
-
-Quand vous faites le vide dans votre esprit, votre focalisation se régénère brusquement. Si vous avez dépensé au moins 3 points de focalisation depuis votre dernière Refocalisation, vous récupérez 3 points de focalisation au lieu de 1 lorsque vous vous Refocalisez.
+Quand vous faites le vide dans votre esprit, votre focalisation se régénère brusquement. Si vous avez dépensé au moins 3 points de focalisation depuis votre dernière Refocalisation, vous récupérez 3 points de focalisation au lieu de 1 lorsque vous Refocalisez.

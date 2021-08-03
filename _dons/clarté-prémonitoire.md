@@ -10,6 +10,6 @@ layout: dons
 ---
 **Fréquence** une fois par heure
 
-**Déclencheur** Vous obtenez un échec à un jet de protection contre un effet mental.
+**Déclencheur** Vous obtenez un échec à un jet de sauvegarde contre un effet mental.
 
-Votre divinité vous envoie une vision de foi pour vous renforcer contre des attaques mentales. Relancez le jet déclencherur avec un bonus de circonstances de +2. Vous devez utiliser le second résultat, même s'il est pire.
+Votre divinité vous envoie une vision de foi pour vous blinder contre les attaques mentales. Relancez le jet déclencheur avec un bonus de circonstances de +2. Vous devez utiliser le second résultat, même s'il est pire.

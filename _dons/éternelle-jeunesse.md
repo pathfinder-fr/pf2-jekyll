@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/timeless-body.json
 layout: dons
 ---
-Vous ne vieillissez plus. De plus, vous bénéficiez d’un bonus de statut de +2 aux jets de sauvegarde contre les poisons et les maladies, et vous bénéficiez d’une résistance au poison égale à la moitié de votre niveau.
+Vous ne vieillissez plus. De plus, vous bénéficiez d’un bonus de statut de +2 aux jets de sauvegarde contre les poisons et les maladies et vous bénéficiez d’une résistance au poison égale à la moitié de votre niveau.

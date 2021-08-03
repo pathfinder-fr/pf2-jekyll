@@ -10,4 +10,4 @@ layout: dons
 ---
 Votre connaissance des créatures étranges et de leur bizarre anatomie vous permet d'anticiper leurs attaques physiques et de réduire les dégâts qu'elles vous infligent.
 
-Vous obtenez un résistance aux dégâts physiques des attaques au corps à corps infligées par les aberrations et les vases. Cette résistance est égale à un tiers de votre niveau.
+Vous obtenez une résistance aux dégâts physiques des attaques au corps à corps infligées par les aberrations et les vases. Cette résistance est égale à un tiers de votre niveau.

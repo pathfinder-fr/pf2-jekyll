@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous incarnez le lien de votre patron si complètement que vous pouvez lancer vos maléfices en une succession rapide.
 
-Vous n'êtez plus longtemps limité à lancer seulement un unique maléfice à chaque tour. De plus, lorsque vous lancez <a class="entity-link" data-pack="pf2e.spells-srd" data-id="YVK3JUkPVzHIeGXQ" draggable="true">Gloussement</a> pour prolonger un maléfice, vous obtenez les effets de <a class="entity-link" data-pack="pf2e.actionspf2e" data-id="3f5DMFu8fPiqHpRg" draggable="true">Maintenir un sort</a> pour tous vos maléfices actifs qui ont une durée de maintenu.
+Vous n'êtez plus longtemps limité à lancer seulement un unique maléfice à chaque tour. De plus, lorsque vous lancez [Gloussement](../sorts/gloussement.html) pour prolonger un maléfice, vous obtenez les effets de [Maintenir un sort](../actions/maintenir-un-sort.html) pour tous vos maléfices actifs qui ont une durée de maintenu.

@@ -20,4 +20,4 @@ Vous pouvez lancer [Bourrasque de vent](../sorts/bourrasque.html) au niveau 1 en
 
 **Fréquence** une fois par jour ;
 
-**Effet** Vous lancez un des sorts contenu dans votre *éventail de plume Tengu*. Activer l'éventail prend le nombre d'actions du sort normal. Vous pouvez aussi Activer l'éventail pour lancer un tour de magie  que vous avez obtenu d'un don d'héritage ou d'ascendance ; cette activation ne compte pas dans les activations quotidiennes de l'éventail.
+**Effet** Vous lancez un des sorts contenu dans votre *éventail de plume Tengu*. Activer l'éventail prend le nombre d'actions du sort normal. Vous pouvez aussi Activer l'éventail pour lancer un tour de magie  que vous avez obtenu par un don d'héritage ou ancestral ; cette activation ne compte pas dans les activations quotidiennes de l'éventail.

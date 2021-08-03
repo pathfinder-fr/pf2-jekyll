@@ -12,4 +12,4 @@ Vous pouvez faire appel à des aberrations pour combattre pour vous ou pour rép
 
 Dès que l'aberration arrive, au lieu de lui donner tout autre ordre, vous pouvez lui demander qu'elle vous aide avec une unique question que vous lui posez. Pour que la créature puisse vous répondre efficacement, vous devez Maintenir le sort pendant 1 minute et vous devez comprendre et être compris par l'aberration. Si c'est le cas, l'aberration vous donne un indice cryptique comme celui fourni par le sort [Lire les présages](../sorts/lire-les-présages.html), sauf que l'indice est même plus énigmatique que la normale ; la créature retourne alors immédiatement de là d'où elle vient sans vous procurer un tout autre avantage.
 
-Au niveau 16et tous les 2 niveaux après çà, le sort Convocation d'entité est intensifié d'un niveau (jusqu'à un maximum du niveau 8 lorsque vous atteingnez le niveau 20).
+Au niveau 16et tous les 2 niveaux après çà, le sort Convocation d'entité est intensifié d'un niveau (jusqu'au niveau 8 lorsque vous atteignez le niveau 20).

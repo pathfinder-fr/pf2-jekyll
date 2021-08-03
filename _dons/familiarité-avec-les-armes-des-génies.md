@@ -8,4 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/genie-weapon-familiarity.json
 layout: dons
 ---
-Vous êtes qualifié avec les armes utilisées par vos ancêtres génies. Vous êtes qualifié avec les [Corsèques](../équipements/corsèque.html), les [Cimeterres](../équipements/cimeterre.html), les [Cimeterres à deux mains](../équipements/cimeterre-à-deux-mains.html) et les [Tridents](../équipements/trident.html). De plus, vous obtenez accès à toutes les armes peu courantes des génies. Pour les besoins de déterminer votre mâîtrise, les armes de génie de guerre sont des armes simples et les armes de génie avancées sont des armes de guerre.
+Vous êtes qualifié avec les armes utilisées par vos ancêtres génies. Vous êtes qualifié avec les [corsèques](../équipements/corsèque.html), les [cimeterres](../équipements/cimeterre.html), les [cimeterres à deux mains](../équipements/cimeterre-à-deux-mains.html) et les [tridents](../équipements/trident.html).
+
+De plus, vous obtenez accès à toutes les armes peu courantes des génies. Pour les besoins de déterminer votre mâîtrise, les armes de génie de guerre sont des armes simples et les armes de génie avancées sont des armes de guerre.

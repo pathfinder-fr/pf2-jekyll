@@ -10,4 +10,4 @@ layout: dons
 ---
 Vous condensez l'humidité de l'air, la solidifiant de manière à ce qu'elle puisse supporter votre poids.
 
-Lorsque vous utilisez Fouleur d'eau, vous pouvez marcher dans les airs. Vous pouvez monter ou descendre à un angle maximum de 45 degrés. Vous chutez toujours à la fin de votre déplacement si vous ne terminez pas sur une surface qui peut vous supporter, comme à l'ordinaire en utilisant Fouleur d'eau.
+Lorsque vous utilisez [Fouleur d'eau](fouleur-d-eau.html), vous pouvez marcher dans les airs. Vous pouvez monter ou descendre à un angle maximum de 45 degrés. Vous chutez toujours à la fin de votre déplacement si vous ne terminez pas sur une surface qui peut vous supporter, comme à l'ordinaire en utilisant Fouleur d'eau.

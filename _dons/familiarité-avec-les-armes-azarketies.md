@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/azarketi-weapon-familiarity.json
 layout: dons
 ---
-Vous êtes familier avec les armes qui excellent sous l'eau. Vous êtes qualifié avec les [arbalètes](../équipements/arbalète.html), l'[arbalète à main](../équipements/arbalète-de-poing.html), les [piques](../équipements/pique.html), les [lances](../équipements/lance.html), et les [tridents](../équipements/trident.html).
+Vous êtes familier avec les armes qui excellent sous l'eau. Vous êtes qualifié avec les [arbalètes](../équipements/arbalète.html), l'[arbalète à main](../équipements/arbalète-de-poing.html), les [piques](../équipements/pique.html), les [lances](../équipements/lance.html) et les [tridents](../équipements/trident.html).
 
 De plus, vous obtenez un accès à toutes les armes azarketies peu courantes. Pour les besoins de déterminer votre maîtrise, les armes de guerre azarketies sont des armes simples et les armes azarketies avancées sont des armes de guerre.

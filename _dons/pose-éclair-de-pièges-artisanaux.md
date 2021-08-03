@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/lightning-snares.json
 layout: dons
 ---
-**Prérequis** maître en Artisanat, Spécialiste des pièges artisanaux
+**Prérequis** 
 
 Vous savez poser des pièges à une vitesse phénoménale. Quand vous créez un piège artisanal qui nécessite normalement une minute à Fabriquer, vous pouvez, à la place, le Fabriquer en effectuant une seule action Interagir.

@@ -8,8 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/incredible-luck-halfling.json
 layout: dons
 ---
-Même les autres halfelins vous considèrent particulièrement chanceux.
-
-Vous pouvez utiliser Chance halfeline une fois par heure au lieu d'une fois par jour.
+Même les autres halfelins vous considèrent particulièrement chanceux. Vous pouvez utiliser Chance halfeline une fois par heure au lieu d'une fois par jour.
 
 Si vous avez le don [Chance directrice](chance-directrice.html), vous pouvez toujours utiliser Chance halfeline lorsque vous manquez un test de Perception ou un jet d'attaque seulement une fois par jour (bien que vous puissiez l'utiliser durant la même heure au cours de laquelle vous avez utilisé Chance halfeline) et si vous avez le don [Halfelin utile](halfelin-utile.html), vous pouvez toujours utiliser Chance halfeline sur un allié au lieu de vous-même une fois par jour seulement.

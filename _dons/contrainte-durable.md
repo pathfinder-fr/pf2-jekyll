@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/lasting-coercion.json
 layout: dons
 ---
-Quand vous réussissez à Contraindre quelqu’un, le temps maximum pendant lequel il se soumet augmente à une semaine, toujours déterminé par le MJ. Si vous êtes légendaire, le maximum augmente à un mois.
+Quand vous réussissez à Contraindre quelqu’un, le temps maximum pendant lequel il se soumet passe à une semaine, toujours déterminé par le MJ. Si vous êtes légendaire, la durée maximale passe à un mois.

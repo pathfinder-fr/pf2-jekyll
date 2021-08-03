@@ -12,8 +12,8 @@ layout: dons
 
 Vos attaques sont si puissantes qu’elles peuvent écraser vos adversaires. Quand vous utilisez Repousser, vous pouvez faire un test d’Athlétisme contre le DD de Vigueur de votre cible.
 
-**Succès critique** DD de Vigueur de votre cible. Succès critique. La cible subit l’effet d’un succès critique avec Pousser, puis l’effet critique d’un succès critique avec un Croc-en-jambe
+**Succès critique** Vous obtenez l’effet d’un succès critique pour Pousser puis la cible subit l’effet de succès critique d’un Croc-en-jambe
 
-**Succès.** La cible subit l’effet d’un succès avec Pousser, puis l’effet critique d’un succès avec un Croc-en-jambe.
+**Succès** Vous obtenez l’effet d’un succès pour Pousser, puis la cible subit l’effet d’un succès avec Croc-en-jambe.
 
-**Échec.** Vous appliquez les effets normaux de Repousser.
+**Échec** Vous appliquez les effets normaux de Repousser.

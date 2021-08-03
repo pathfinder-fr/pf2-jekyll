@@ -17,7 +17,7 @@ Les aventuriers pillent les tombes pour en tirer un profit matériel, mais les v
 - 4e Dénicheur de pièges ;
 - 10e [Retardement de piège](../dons/retardement-de-piège.html)
 
-<h2 style="text-align: left;">[Dévouement d'archéologue](../dons/dévouement-d-archéologue.html) Don 2
+## [Dévouement d'archéologue](../dons/dévouement-d-archéologue.html) Don 2
 
 **Prérequis **qualifié en Perception, Société et Vol
 

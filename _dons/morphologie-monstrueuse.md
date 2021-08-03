@@ -8,6 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/monstrosity-shape.json
 layout: dons
 ---
-**Prérequis** Morphologie sauvage
-
 Vous pouvez vous transformer en une redoutable créature magique. Ajoutez les formes de ver pourpre et de serpent de mer du sort forme monstrueuse à celles de votre morphologie sauvage. Si vous avez Morphologie volante, ajoutez la forme de phénix du sort forme aérienne à celles de votre morphologie sauvage.

@@ -10,4 +10,4 @@ layout: dons
 ---
 Vos attaques à mains nues Iruxie canalisent l'énergie spirituelle de vos ancêtres.
 
-Toute les attaques à mains nues que vous obtenez de votre ascendance iruxie ou de dons ancestraux possèdent les effets de la rune de propriété [Spectrale](../équipements/spectrale-rune.html).
+Toute les attaques à mains nues que vous obtenez de votre héritage ou de dons ancestraux iruxis possèdent les effets de la rune de propriété [Spectrale](../équipements/spectrale-rune.html).

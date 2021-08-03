@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/dispelling-slice.json
 layout: dons
 ---
-Votre attaque sournoise tranche les fils qui relient une cible et la ma gie qui l’affecte. Vous faites une Frappe contre une créature prise au dépourvu (de votre choix). Si votre Frappe inflige des dégâts d’attaque sournoise, vous tentez de contrer un unique sort qui affecte cette cible. Votre niveau de contre est égal à votre niveau de roublard et votre modificateur de test de contre est égal à votre DD de classe − 10.
+Votre attaque sournoise tranche les fils qui relient une cible et la magie qui l’affecte. Vous faites une Frappe contre une créature Prise au dépourvu (de votre choix). Si votre Frappe inflige des dégâts d’attaque sournoise, vous tentez de contrer un unique sort qui affecte cette cible. Votre niveau de contre est égal à votre niveau de roublard et votre modificateur de test de contre est égal à votre DD de classe − 10.

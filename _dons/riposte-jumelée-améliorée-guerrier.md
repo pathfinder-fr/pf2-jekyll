@@ -8,6 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/improved-twin-riposte-fighter.json
 layout: dons
 ---
-**Prérequis** Riposte jumelée
-
-Vos armes virevoltantes blessent vos adversaires et bloquent leurs coups. Au début de chacun de vos tours, vous gagnez une réaction supplémentaire que vous pouvez utiliser uniquement pour accomplir une Riposte jumelée. Vous pouvez utiliser cette réaction supplémentaire, même si vous ne bénéficiez pas des avantages de Parade jumelée.
+Vos armes virevoltantes blessent vos adversaires et bloquent leurs coups. Au début de chacun de vos tours, vous gagnez une réaction supplémentaire que vous pouvez utiliser uniquement pour accomplir une [Riposte jumelée](riposte-jumelée.html). Vous pouvez utiliser cette réaction supplémentaire, même si vous ne bénéficiez pas des avantages de [Parade jumelée](parade-jumelée.html).

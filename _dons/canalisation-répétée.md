@@ -8,4 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/echoing-channel.json
 layout: dons
 ---
-Quand vous maniez l’énergie positive ou négative, vous créez également une poche plus petite de la même énergie. Si la prochaine action que vous effectuez consiste à lancer la version à 2 actions d’une mise à mal ou d’une guérison pour soigner ou blesser une unique créature, désignez une créature supplémentaire adjacente à vous ou à votre cible. Ciblez cette créature avec la version à 1 action du même sort. Ce sort a le même niveau que la mise à mal ou la guérison à 2 actions que vous lancez et ne vous coûte aucun emplacement de sort.
+Quand vous maniez l’énergie positive ou négative, vous créez également une poche plus petite de la même énergie.
+
+Si la prochaine action que vous effectuez consiste à lancer la version à 2 actions d’une [Mise à mal](../sorts/mise-à-mal.html) ou d’une [Guérison](../sorts/guérison.html) pour soigner ou blesser une unique créature, désignez une créature supplémentaire adjacente à vous ou à votre cible. Ciblez cette créature avec la version à 1 action du même sort. Ce sort a le même niveau que la Mise à mal ou la Guérison à 2 actions que vous lancez et ne vous coûte aucun emplacement de sort.

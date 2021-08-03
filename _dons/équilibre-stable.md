@@ -8,4 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/steady-balance.json
 layout: dons
 ---
-Vous pouvez garder facilement votre équilibre, même dans des situations défavorables. Quand vous obtenez un succès en utilisant l’action Garder l’équilibre, vous obtenez un succès critique à la place. Vous n’êtes pas pris au dépourvu pendant que vous tentez de Garder l’équilibre sur des surfaces étroites et des terrains accidentés. Grâce à votre équilibre incroyable, vous pouvez tenter un test d’Acrobaties au lieu d’un jet de sauvegarde de Réflexes pour Vous raccrocher in extremis.
+Vous pouvez garder facilement votre équilibre, même dans des situations défavorables. Quand vous obtenez un succès en utilisant l’action Garder l’équilibre, vous obtenez un succès critique à la place. Vous n’êtes pas Pris au dépourvu pendant que vous tentez de Garder l’équilibre sur des surfaces étroites et des terrains accidentés.
+
+Grâce à votre équilibre incroyable, vous pouvez tenter un test d’Acrobaties au lieu d’un jet de sauvegarde de Réflexes pour Vous raccrocher in extremis.

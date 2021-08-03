@@ -8,8 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/parry-and-riposte.json
 layout: dons
 ---
-**Prérequis** [Riposte opportune](../capacité-classe/riposte-opportune.html)
-
 Vos parades et vos bottes vous permettent de riposter à la moindre provocation.
 
-Vous pouvez utiliser Riposte opportune contre un ennemi qui obtient un échec lors d'une [Frappe](../actions/frapper.html) contre vous (pas juste en cas d'échec critique), dès lors que vous avez fait des dégâts à cette créature avec une botte lors de votre tour précédent et que vous ayiez actuellement un bonus de circonstance à la CA du fait du trait d'arme parade, Parade en duel ou [Parade Jumelée](parade-jumelée.html).
+Vous pouvez utiliser Riposte opportune contre un ennemi qui obtient un échec lors d'une [Frappe](../actions/frapper.html) contre vous (pas juste en cas d'échec critique), dès lors que vous avez fait des dégâts à cette créature avec un coup final lors de votre tour précédent et que vous disposez d'un bonus de circonstances à la CA du fait du trait d'arme parade, Parade en duel ou [Parade Jumelée](parade-jumelée.html).

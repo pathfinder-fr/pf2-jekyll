@@ -8,8 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/swift-elusion.json
 layout: dons
 ---
-**Prérequis** légendaire en Acrobaties
-
 **Déclencheur** Un ennemi termine son déplacement adjacent à vous.
 
 Faites un test d'Acrobaties contre le DD de Réflexes de votre ennemi. Si vous réussissez, soit vous [Marchez rapidement](../actions/marcher-rapidement.html) vers une case différente adjacente à l'adversaire, soit vous déplacez l'ennemi vers une case différente adjacente à la vôtre.

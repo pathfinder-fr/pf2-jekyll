@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/offensive-subroutine.json
 layout: dons
 ---
-Les nanites augmentent vos attaques. Vous pouvez choisir d'activer Poussée nanite lorsque vous tentez un jet d'attaque, au lieu de de tenter un test de compétence. Si vous le faites, vous obtenez un bonus de statut de +1 au jet d'attaque déclencheur.
+Les nanites augmentent vos attaques. Vous pouvez choisir d'activer [Poussée nanite](poussée-nanite.html) lorsque vous tentez un jet d'attaque, au lieu de tenter un test de compétence. Si vous le faites, vous obtenez un bonus de statut de +1 au jet d'attaque déclencheur.

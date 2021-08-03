@@ -8,7 +8,7 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/soaring-flight.json
 layout: dons
 ---
-**Fréquence** Une fois par jour.
+**Fréquence** Une fois par jour
 
 Être un tengu permet d'être libéré des préoccupations du monde du dessous.
 

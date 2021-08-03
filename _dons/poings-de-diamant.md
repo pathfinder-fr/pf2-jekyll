@@ -8,4 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/diamond-fists.json
 layout: dons
 ---
-Vous corps se solidifie au fur et à mesure de vos attaques et vos derniers coups infligent ainsi plus de dégâts. Vos attaques à mains nues obtiennent le trait percutant. Celles qui possèdent déjà ce trait augmentent à la place d’un échelon leurs dés de dégâts d’arme.
+Vous corps se solidifie au fur et à mesure de vos attaques et vos derniers coups infligent ainsi plus de dégâts.
+
+Vos attaques à mains nues obtiennent le trait percutant. Celles qui possèdent déjà ce trait augmentent à la place d’un échelon leurs dés de dégâts d’arme.

@@ -10,4 +10,4 @@ layout: dons
 ---
 Vos incisives ont grandi en formant de véritables crocs : longs, pointus et idéaux pour drainer le sang.
 
-Vous obtenez une attaque à mains nues de crocs qui inflige 1d6 dégâts perforants. Vos crocs sont dans le groupe pugilat et ont les traits à mains nues et saisir.
+Vous obtenez une attaque à mains nues de crocs qui inflige <a class="inline-roll roll" data-mode="roll" data-flavor="perforant" data-formula="1d6" title="perforant"><i class="fas fa-dice-d20"></i> 1d6</a> dégâts perforants. Vos crocs sont dans le groupe pugilat et ont les traits à mains nues et saisir.

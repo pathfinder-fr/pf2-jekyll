@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/quick-alchemy.json
 layout: dons
 ---
-Vous gagnez l'action Alchimie rapide.
+Vous gagnez l'action [Alchimie rapide](../actions/alchimie-rapide.html).

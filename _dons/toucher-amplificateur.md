@@ -10,4 +10,4 @@ layout: dons
 ---
 Vos énergies curatives renforcent les attaques. Un allié qui récupère des Points de vie par votre Imposition des mains obtient un bonus de statut de +1 à leurs jets d'attaque et infligent 1 point de dégât du bien supplémentaire à toutes ses [Frappes](../actions/frapper.html) jusqu'à la fin de leur prochain tour.
 
-[Effet de sort : Toucher amplificateur](../effet-sorts/.html)
+[Effet de sort : Toucher amplificateur](../effet-sorts/effet-:-toucher-amplificateur.html)

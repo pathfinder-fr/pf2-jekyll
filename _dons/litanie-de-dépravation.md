@@ -8,6 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/litany-of-depravity.json
 layout: dons
 ---
-**Prérequis** préceptes du mal
-
 Vous coupez court au moralisme vain de l'ennemi, ouvrant leur cœurr au mal. Vous pouvez lancer le sort de focalisation [Litanie de dépravation](../sorts/litanie-de-dépravation.html). Augmentez le nombre de Points de focalisation de votre réserve de focalisation de 1.

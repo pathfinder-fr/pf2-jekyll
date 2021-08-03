@@ -10,6 +10,6 @@ layout: dons
 ---
 **Fréquence** une fois par minute
 
-**Déclencheur** Vous appliquez un effet de votre sang magique qui dure pendant 1 round.
+**Déclencheur** Vous appliquez un effet de votre magie du sang qui dure pendant 1 round.
 
-Vous avez appris comment investir la magie plus intensément en étant témoin des œuvres d'Aroden. L'effet de sang magique déclencheur dure pendant 1 minute au lieu de 1 round.
+Vous avez appris comment investir la magie plus intensément en étant témoin des œuvres d'Aroden. L'effet de votre magie du sang déclencheuse dure 1 minute au lieu de 1 round.

@@ -8,4 +8,4 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/vanth-s-weapon-familiarity.json
 layout: dons
 ---
-Vous cherchez à émuler les styles de combat des vanths. Vous êtes qualifié avec les bô, les arcs longs, les arcs longs composites, les faux et les bâtons.
+Vous cherchez à émuler les styles de combat des vanths. Vous êtes qualifié avec le [Bô](../équipements/bô.html), l'[arc long](../équipements/arc-long.html), l'[arc long composite](../équipements/arc-long-composite.html), la [faux](../équipements/faux.html) et le [Bâton](../équipements/bâton.html)

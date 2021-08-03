@@ -8,6 +8,6 @@ urlFr: https://gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr/-/blob/master/
 urlEn: https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/blob/master/packs/data/feats.db/ancillary-motes.json
 layout: dons
 ---
-Vous pouvez utiliser Poussière cristalline une fois de plus par jour.
+Vous pouvez utiliser [Poussière cristalline](poussière-cristalline.html) une fois de plus par jour.
 
 **Spécial** Vous pouvez prendre ce don plus d'une fois, obtenant une utilisation de plus de Poussière cristalline chaque jour.

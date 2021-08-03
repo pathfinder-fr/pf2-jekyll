@@ -10,4 +10,4 @@ layout: dons
 ---
 **Conditions** Vous maniez un bouclier.
 
-Vous utilisez votre bouclier pour harceler vos ennemis, en les empêchant de s’éloigner ou de vous contourner. Tous les espaces adjacents à vous sont du terrain diffcile pour vos ennemis.
+Vous utilisez votre bouclier pour harceler vos ennemis, en les empêchant de s’éloigner ou de vous contourner. Tous les espaces adjacents à vous sont du terrain difficile pour vos ennemis.

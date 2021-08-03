@@ -10,6 +10,6 @@ layout: dons
 ---
 **Fréquence** une fois par jour
 
-En un effort, vous pouvez invoquer dans votre dos des ailes magiques, similaires en apparence à celles de vos ancêtres célestes.
+Avec un petit effort, vous pouvez invoquer dans votre dos des ailes magiques, similaires en apparence à celles de vos ancêtres célestes.
 
 Ces ailes restent pendant 10 minutes. Vous obtenez une vitesse de Vol égale à votre Vitesse au sol tant que vos ailes sont ainsi manifestées.

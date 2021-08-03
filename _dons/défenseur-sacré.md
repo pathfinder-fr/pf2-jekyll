@@ -10,6 +10,6 @@ layout: dons
 ---
 Vous êtes un grand guerrier qui peut rester fort contre les plus féroces adversaires de votre cause.
 
-Vous obtenez résistance 10 aux dégâts contondants, perforants et tranchants infligés par les créatures et les efets opposés à vos préceptes (créatures du mal pour les préceptes du bien, des créatures du bien pour les préceptes du mal, etc...).
+Vous obtenez résistance 10 aux dégâts contondants, perforants et tranchants infligés par les créatures et les effets opposés à vos principes (créatures du mal pour les principes du bien, créatures du bien pour les principes du mal, etc...).
 
-De plus, les créatures et effets qui obtiennent un 20 naturel sur un jet d'attque contre vous n'améliorent pas leur résultat d'un degré de réussite.
+De plus, les créatures et effets qui obtiennent un 20 naturel sur un jet d'attaque contre vous n'améliorent pas leur résultat d'un degré de réussite.

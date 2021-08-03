@@ -10,6 +10,6 @@ layout: dons
 ---
 **Conditions** vous êtes maître dans une compétence utilisée pour identifier la créature déclencheuse.
 
-**Déclencheur** Votre premier tour débute dans une rencontreet vous pouvez voir une créature.
+**Déclencheur** Votre premier tour d'une rencontre débute et vous pouvez voir une créature.
 
 Vous estimez rapidement la menace de manière à relayer l'information à votre équipe. Faites un test pour Vous souvenir contre la créature déclencheuse.
